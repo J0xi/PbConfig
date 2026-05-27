@@ -1,0 +1,31 @@
+! Title: Ci0x's Chat
+! Info: Blocks Chat Sites
+! https://codeberg.org/Ci0x/PbConfig/src/branch/main/uBO/Ci0x%27s%20Chat.txt
+! https://codeberg.org/Ci0x/PbConfig/raw/branch/main/uBO/Chat.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+
+||chat*^$document
+||*chat-*^$document
+||*-chat*^$document
+
+||*anon*chat*^$document
+||*cam*chat*^$document
+||*cam*go*^$document
+||*chat*anon*^$document
+||*chat*cam*^$document
+||*chat*free*^$document
+||*chat*live*^$document
+||*chat*now*^$document
+||*chat*random*^$document
+||*chat*room*^$document
+||*chat*stranger*^$document
+||*chat*video*^$document
+||*chat*video*^$document
+||*emeraldchat*^$document
+||*free*chat*^$document
+||*live*chat*^$document
+||*now*chat*^$document
+||*random*chat*^$document
+||*room*chat*^$document
+||*stranger*chat*^$document
+||*video*chat*^$document
