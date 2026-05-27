@@ -1,1 +1,23 @@
+! SYNTAX
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! RULE
 
+! ||word*^ = matched word must start the hostname
+! ||*word*^ = matched word can be anywhere in the hostname before the boundary
+! ||*word* = matched word can be anywhere in the domain path
+! ^ = boundary match, not wildcard
+
+! ||ass*^$document
+! ||tit*^$document
+
+! Matches: ass.com, asses.com, asshole.net, ass123.xyz, ass-pics.site, tits.com, tit-pics.net, tit123.xyz
+! Avoids: assessmarket.net, assetmanagement.co.uk, title.com, entity.com
+! ass,cum,tit = Risky, form parts of neutral words, best to start at beginning of domain
+
+! ||*chat*^$document
+
+! Matches: luxchat.net, virtual-chat-1.com, chat-room3.org
+
+! ||*apricot*$document
+
+! Matches: apricot-style.com, clothing-old.uk/apricot-shirt, apricot.groceryonline.net
