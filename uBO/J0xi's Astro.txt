@@ -1,0 +1,32 @@
+! Title: Ci0x's Astro
+! Info: Blocks Astrology, Numerology & Tarot Related Sites
+! https://codeberg.org/Ci0x/PbConfig/src/branch/main/uBO/Ci0x%27s%20Astro.txt
+! https://codeberg.org/Ci0x/PbConfig/raw/branch/main/uBO/Astro.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! ....................................................................................
+
+||*astro*^$document
+||*horoscop*^$document
+||*horoskop*^$document
+||*name*meaning*^$document
+||*name*analyz*^$document
+||*numerolog*^$document
+||*zodiac*^$document
+||*zodiak*^$document
+||*psychic*^$document
+||*tarot*^$document
+||*star*sign*^$document
+||*yogi*^$document
+
+||*astro*$document
+||*horoscop*$document
+||*horoskop*$document
+||*name*meaning*$document
+||*name*analyz*$document
+||*numerolog*$document
+||*zodiac*$document
+||*zodiak*$document
+||*psychic*$document
+||*tarot*document
+||*star*sign*$document
+||*yogi*$document
