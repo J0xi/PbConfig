@@ -1,3 +1,5 @@
+! Title: J0xi's Drugs
+! Info: Blocks Drug & Tobacco Related Sites
 
 
 ||cbd*^$document
