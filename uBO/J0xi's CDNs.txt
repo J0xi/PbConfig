@@ -1,0 +1,30 @@
+! Title: Ci0x's CDNs
+! Info: Blocks CDNs Serving Explicit Content
+! https://codeberg.org/Ci0x/PbConfig/src/branch/main/uBO/Ci0x%27s%20CDNs.txt
+! https://codeberg.org/Ci0x/PbConfig/raw/branch/main/uBO/Ci0x%27s%20CDNs.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! ....................................................................................
+! Domains
+
+||ancdn.com^
+||b-cdn.net^
+||cdn77.org^
+||cdnclouder.com^
+||lmjcdn.com^
+||mrskincdn.com^
+||naughtycdn.com^
+||panheal-cdn.net^
+||phncdn.com^
+||pump-cdn.com^
+||rdtcdn.com^
+||reflected.net^
+||stfucdn.com^
+||t8cdn.com^
+||tnastatic.com^
+||xhcdn.com^
+||ypncdn.com^
+
+! ....................................................................................
+! Subdomains
+
+||explicit.bing.net^
