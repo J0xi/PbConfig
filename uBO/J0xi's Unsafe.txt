@@ -1,1 +1,18 @@
+! Title: Ci0x's Unsafe
+! Info: Blocks Unsafe Download Sites
+! https://codeberg.org/Ci0x/PbConfig/src/branch/main/uBL/Ci0x%27s%20Unsafe.txt
+! https://codeberg.org/Ci0x/PbConfig/raw/branch/main/uBL/Unsafe.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
+||apkpure.com^
+||uptodown.com^
+||download.cnet.com^
+||apkpure.net^
+||filehippo.com^
+||aptoide.com^
+||apkmirror.com^
+||appbrain.com^
+||softpedia.com^
+||apps.apple.com^
+||indusappstore.com^
+||filehorse.com^
