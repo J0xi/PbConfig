@@ -1,10 +1,9 @@
 ! Title: J0xi's YouTube
-! Info: Hides Distracting YouTube Elements
-! 
-! 
-! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-
-! ....................................................................................
+! Info: Blocks Distracting YouTube Elements
+! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi's%20YouTube.txt
+! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi's%20YouTube.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! .........................................................................................
 ! Buttons
 
 ! Join Button
@@ -17,7 +16,7 @@ www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-sco
 ! Voice Search 
 www.youtube.com###voice-search-button > .ytd-masthead.style-scope
 
-! ....................................................................................
+! .........................................................................................
 ! Headers
 
 ! Popular In Header
@@ -27,7 +26,7 @@ www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd
 ! YouTube Movies - Buy or Rent Header
 www.youtube.com##ytd-movie-renderer.ytd-item-section-renderer.style-scope
 
-! ....................................................................................
+! .........................................................................................
 ! Left Sidebar
 
 ! Explore
@@ -46,13 +45,13 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope
 ! Report History
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
 
-! ....................................................................................
+! .........................................................................................
 ! Right Sidebar
 
 ! Recommended Videos
 www.youtube.com###secondary
 
-! ....................................................................................
+! .........................................................................................
 ! etc
 
 ! Comments Section
@@ -71,8 +70,7 @@ www.youtube.com##.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-rende
 ! Channel Icon & Preview Headers in Video Results Page
 www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope
 
-
-! ....................................................................................
+! .........................................................................................
 ! 2. Remove Shorts everywhere
 
 ! > Shorts shelves
@@ -91,7 +89,7 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope
 ! www.youtube.com##ytd-guide-entry-renderer:has(a[href="/shorts"])
 ! www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/shorts"])
 
-! ....................................................................................
+! .........................................................................................
 ! 3. Remove homepage algorithm feed
 
 ! > Hide main homepage recommendation grid
@@ -104,7 +102,7 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope
 ! > Hide empty homepage leftovers
 ! www.youtube.com##ytd-browse[page-subtype="home"] #contents
 
-! ....................................................................................
+! .........................................................................................
 ! 4. Remove related/recommended sidebar on watch pages
 
 ! www.youtube.com###secondary
@@ -113,7 +111,7 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope
 ! www.youtube.com##ytd-compact-playlist-renderer
 ! www.youtube.com##ytd-compact-radio-renderer
 
-! ....................................................................................
+! .........................................................................................
 ! 6. Remove end-screen suggestions, cards, info teasers
 
 ! www.youtube.com##.ytp-ce-element
@@ -125,7 +123,7 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope
 ! www.youtube.com##.ytp-paid-content-overlay
 ! www.youtube.com##.ytp-featured-product
 
-! ....................................................................................
+! .........................................................................................
 ! 7. Remove topic chips / recommendation filters
 
 ! www.youtube.com##ytd-feed-filter-chip-bar-renderer
@@ -133,7 +131,7 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope
 ! www.youtube.com##iron-selector#chips
 ! www.youtube.com##.yt-chip-cloud-renderer
 
-! ....................................................................................
+! .........................................................................................
 ! 8. Remove annoying section headers/shelf headers
 
 ! > General shelf headers like "Recommended", "For you", "People also watched", etc.
@@ -163,7 +161,7 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope
 ! www.youtube.com##ytd-search ytd-reel-shelf-renderer
 ! www.youtube.com##ytd-search ytd-rich-section-renderer
 
-! ....................................................................................
+! .........................................................................................
 ! 9. Remove left sidebar clutter and headers
 
 ! > Sidebar section labels/headings
@@ -187,7 +185,7 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope
 ! www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/feed/trending"])
 ! www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/shorts"])
 
-! ....................................................................................
+! .........................................................................................
 ! 10. Declutter top header/masthead without breaking search
 
 ! > Hide YouTube logo link
@@ -213,7 +211,7 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope
 ! > Hide "Sign in" promo button if logged out
 ! www.youtube.com##ytd-masthead ytd-button-renderer:has(a[href^="https://accounts.google.com/ServiceLogin"])
 
-! ....................................................................................
+! .........................................................................................
 ! 11. Hide merch, shopping, chapters, chat, live clutter
 
 ! > Merch / shopping panels
@@ -230,7 +228,7 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope
 ! www.youtube.com##ytd-engagement-panel-section-list-renderer[target-id="engagement-panel-searchable-transcript"]
 ! www.youtube.com##ytd-engagement-panel-section-list-renderer[target-id="engagement-panel-macro-markers-description-chapters"]
 
-! ....................................................................................
+! .........................................................................................
 ! 12. Hide promotional nags and popups
 
 ! > Premium / surveys / promos
@@ -244,7 +242,7 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope
 ! www.youtube.com##ytd-rich-section-renderer:has-text(Premium)
 ! www.youtube.com##ytd-primetime-promo-renderer
 
-! ....................................................................................
+! .........................................................................................
 ! 13. Other
 
 
