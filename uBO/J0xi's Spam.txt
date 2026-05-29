@@ -4,14 +4,14 @@
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi's%20Spam.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! .........................................................................................
-! 10.1 Affiliate SEO spam
+! Affiliate SEO spam
 
 ||bestreviewsite.com^
 ||productrankings.co^
 ||top10best.com^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.2 AI Generated Content
+! AI Generated Content
 
 ||answerbun.com^
 ||answercatch.com^
@@ -55,7 +55,7 @@
 ||yourquickinfo.com^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.3 Bios
+! Bios
 
 ||arrivebio.org^
 ||articlebio.com^
@@ -95,7 +95,7 @@
 ||shortbiography.info^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.4 Celebs
+! Celebs
 
 ||celebsaga.com^
 ||celebsagewiki.com^
@@ -594,7 +594,7 @@
 ||yourcelebrity.net^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.5 Fame & Glamour
+! Fame & Glamour
 
 ||allfamous.org^
 ||allfamoustrend.com^
@@ -653,7 +653,7 @@
 ||waytofamous.com^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.6 Gossip & Rumors
+! Gossip & Rumors
 
 ||allstargossip.com^
 ||bbcgossip.com^
@@ -754,7 +754,7 @@
 ||ubergossip.com^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.7 Hollywood
+! Hollywood
 
 ||accesshollywoodtours.com^
 ||diaryofahollywoodstreetking.com^
@@ -782,7 +782,7 @@
 ||thehollywoodgossip.com^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.8 Jet-Set
+! Jet-Set
 
 ||designjetset.com^
 ||drinkjetset.com^
@@ -830,7 +830,7 @@
 ||ultimate-jetset.xooit.com^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.9 Networth
+! Networth
 
 ||anetworth.net^
 ||bossnetworth.com^
@@ -883,7 +883,7 @@
 ||wealthypeeps.com^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.10 Ppl & Pop Culture
+! Ppl & Pop Culture
 
 ||123people.com^
 ||actualitepeople.tootisy.com^
@@ -978,7 +978,7 @@
 ||waterforpeople.org^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.11 Stardom & Stars
+! Stardom & Stars
 
 ||actu-star.be^
 ||actualite-de-stars.com^
@@ -1088,7 +1088,7 @@
 ||zoomstars.co^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.12 Clickbait Listicles
+! Clickbait Listicles
 
 ||24online.news^
 ||24usainfo.com^
@@ -1155,7 +1155,7 @@
 ||wowmyanmar.com^
 
 ! –––––––––––––––––––––––––––––––––––––––– 
-! 10.13 Wikis
+! Wikis
 
 ||aidwiki.com^
 ||biographywiki.net^
