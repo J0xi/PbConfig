@@ -1,7 +1,30 @@
-# Title: J0xi's CDNs
-# Info: Hides Astrology, Numerology & Tarot Related Sites
-# Note: Import as 'Ruleset'
-# https://codeberg.org/Ci0x/PbConfig/src/branch/main/uBL/Ci0x%27s%20Astro.txt
-# https://codeberg.org/Ci0x/PbConfig/raw/branch/main/uBL/Astro.txt
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ....................................................................................
+! Title: J0xi's CDNs
+! Info: Blocks Content Delivery Networks Serving Explicit Content
+! https://github.com/J0xi/PbConfig/blob/main/aDNS/J0xi's%20CDNs.txt
+! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/aDNS/J0xi's%20CDNs.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! .........................................................................................
+! Domains
+
+||ancdn.com^
+||b-cdn.net^
+||cdn77.org^
+||cdnclouder.com^
+||lmjcdn.com^
+||mrskincdn.com^
+||naughtycdn.com^
+||panheal-cdn.net^
+||phncdn.com^
+||pump-cdn.com^
+||rdtcdn.com^
+||reflected.net^
+||stfucdn.com^
+||t8cdn.com^
+||tnastatic.com^
+||xhcdn.com^
+||ypncdn.com^
+
+! .........................................................................................
+! Subdomains
+
+||explicit.bing.net^
