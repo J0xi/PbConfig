@@ -1,5 +1,5 @@
 ! Title: J0xi's CDNs
-! Info: Blocks Content Delivery Networks Serving Explicit Content
+! Info: Allowed & Blocked Content Delivery Networks
 ! https://github.com/J0xi/PbConfig/blob/main/aDNS/J0xi's%20CDNs.txt
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/aDNS/J0xi's%20CDNs.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
@@ -21,6 +21,7 @@
 ||stfucdn.com^
 ||t8cdn.com^
 ||tnastatic.com^
+||tumblr.com^
 ||xhcdn.com^
 ||ypncdn.com^
 
