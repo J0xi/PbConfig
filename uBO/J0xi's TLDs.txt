@@ -1,6 +1,6 @@
-! Title: Ci0x's TLDs
+! Title: J0xi's TLDs
 ! Info: Blocks cc/gTLDs
-! https://codeberg.org/Ci0x/PbConfig/src/branch/main/uBO/Ci0x%27s%20TLDs.txt
+! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi's%20TLDs.txt
 ! https://codeberg.org/Ci0x/PbConfig/raw/branch/main/uBO/TLDs.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! ....................................................................................
