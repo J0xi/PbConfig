@@ -1,8 +1,8 @@
-# Title: Ci0x's Astro
+# Title: J0xi's Astro
 # Info: Hides Astrology, Numerology & Tarot Related Sites
 # Note: Import as 'Ruleset'
-# https://codeberg.org/Ci0x/PbConfig/src/branch/main/uBL/Ci0x%27s%20Astro.txt
-# https://codeberg.org/Ci0x/PbConfig/raw/branch/main/uBL/Astro.txt
+# 
+#
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # ....................................................................................
 
