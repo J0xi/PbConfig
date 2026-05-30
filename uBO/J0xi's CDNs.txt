@@ -4,9 +4,17 @@
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi's%20CDNs.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! .........................................................................................
-! Domains
+! Allowed
 
 @@||akcdn.net^
+
+@@||cdn.consentmanager.net^
+@@||delivery.consentmanager.net^
+@@||cdn.optimizely.com^
+@@||cdn.snigelweb.com^
+
+! .........................................................................................
+! Blocked
 
 ||ancdn.com^
 ||b-cdn.net^
@@ -23,10 +31,8 @@
 ||stfucdn.com^
 ||t8cdn.com^
 ||tnastatic.com^
+||tumblr.com^
 ||xhcdn.com^
 ||ypncdn.com^
-
-! .........................................................................................
-! Subdomains
 
 ||explicit.bing.net^
