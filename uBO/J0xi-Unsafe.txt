@@ -1,7 +1,7 @@
 ! Title: J0xi's Unsafe
 ! Info: Blocks Unsafe Download Sites
-! https://codeberg.org/Ci0x/PbConfig/src/branch/main/uBL/J0xi-Unsafe.txt
-! https://codeberg.org/Ci0x/PbConfig/raw/branch/main/uBL/Unsafe.txt
+! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Unsafe.txt
+
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
 ||apkpure.com^
