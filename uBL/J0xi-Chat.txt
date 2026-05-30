@@ -1,4 +1,4 @@
-# Title: Ci0x's Chat
+# Title: J0xi's Chat
 # Info: Hides Chat Sites
 # Note: Import as 'Ruleset'
 # https://codeberg.org/Ci0x/PbConfig/src/branch/main/uBL/Ci0x%27s%20Chat.txt
