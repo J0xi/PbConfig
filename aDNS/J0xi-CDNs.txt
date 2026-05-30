@@ -4,9 +4,17 @@
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/aDNS/J0xi-CDNs.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! .........................................................................................
-! Domains
+! Allowed
 
 @@||akcdn.net^
+
+@@||cdn.consentmanager.net^
+@@||delivery.consentmanager.net^
+@@||cdn.optimizely.com^
+@@||cdn.snigelweb.com^
+
+! .........................................................................................
+! Blocked
 
 ||ancdn.com^
 ||b-cdn.net^
@@ -26,8 +34,5 @@
 ||tumblr.com^
 ||xhcdn.com^
 ||ypncdn.com^
-
-! .........................................................................................
-! Subdomains
 
 ||explicit.bing.net^
