@@ -1,0 +1,33 @@
+name: AOL Search
+homepage: https://search.aol.com/
+lastModified: 2026-05-15T00:00:00Z
+# Works on Web, Images & Video
+# Offers SafeSearch options, but doesn't enforce them
+
+pages:
+  - name: Search
+    matches:
+      - https://search.aol.com/*
+    results:
+      # Web / All results
+      - root: '#web ol.searchCenterMiddle > li'
+        url: ':scope .compTitle h3.title a[href^="http"]'
+        props:
+          title: ':scope .compTitle h3.title a[href^="http"]'
+
+      # Image results
+      - root: '#results.results.res li'
+        url: ':scope a.redesign-img[href^="http"]'
+        props:
+          title: ':scope .img-desc, :scope a.redesign-img[href^="http"]'
+
+      # Video results
+      # AOL video hrefs are redirect URLs, so use the displayed source domain.
+      - root: '.results li.vr.vres'
+        url: [domainToURL, ':scope cite.url']
+        props:
+          title: ':scope h3, :scope a.ng'
+
+    commonProps:
+      $site: aol
+    delay: 100
