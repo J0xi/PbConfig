@@ -1,0 +1,33 @@
+name: Swisscows
+homepage: https://swisscows.com/
+lastModified: 2026-05-15T00:00:00Z
+# Works on Web, Images & Video
+
+pages:
+  - name: Search
+    matches:
+      - https://swisscows.com/*
+      - https://www.swisscows.com/*
+    results:
+      # Web results
+      - root: 'article.item.web-page'
+        url: ':scope header a.mainlink[href^="http"]'
+        props:
+          title: ':scope h1.title'
+
+      # Image results
+      # Swisscows reveals the real source-page URL only after an image is expanded.
+      - root: 'article.details'
+        url: ':scope footer a.button[href^="http"]'
+        props:
+          title: ':scope h2.title'
+
+      # Video results
+      - root: 'article.video-object'
+        url: ':scope figure.thumbnail a[href^="http"]'
+        props:
+          title: ':scope header .title, :scope h2.title, :scope h3.title, :scope a[href^="http"]'
+
+    commonProps:
+      $site: swisscows
+    delay: 100
