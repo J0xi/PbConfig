@@ -1,0 +1,32 @@
+name: Gibiru
+homepage: https://gibiru.com/
+lastModified: 2026-05-15T00:00:00Z
+# Works on Web, Images & News.
+# Click on an image to reveal the uBlacklist button
+# Videos does not load for me
+# Does not offer SafeSearch options
+
+pages:
+  - name: Search
+    matches:
+      - https://gibiru.com/*
+      - https://www.gibiru.com/*
+    results:
+      # Web / News results
+      # Gibiru uses Google CSE-style result markup for normal web/news results.
+      - root: '.gsc-webResult.gsc-result'
+        url: ':scope a.gs-title[href^="http"]'
+        props:
+          title: ':scope a.gs-title[href^="http"]'
+
+      # Image results
+      # The thumbnail image itself is proxied by Google, but the real source page
+      # is exposed through a.gs-previewLink.
+      - root: '.gsc-imageResult.gsc-result'
+        url: ':scope a.gs-previewLink[href^="http"]'
+        props:
+          title: ':scope img.gs-image[title], :scope a.gs-previewLink[href^="http"]'
+
+    commonProps:
+      $site: gibiru
+    delay: 100
