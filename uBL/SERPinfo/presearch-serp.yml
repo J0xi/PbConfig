@@ -1,0 +1,39 @@
+name: Presearch
+homepage: https://presearch.com/
+lastModified: 2026-05-15T00:00:00Z
+# Works on All, Images, Videos & News
+# Offers a SafeSearch option, but doesn't enforce it
+
+pages:
+  - name: Search
+    matches:
+      - https://presearch.com/*
+      - https://www.presearch.com/*
+    results:
+      # Web results
+      - root: 'div.relative.mx-2.mb-6.overflow-hidden:has(> div.p-0)'
+        url: ':scope a[href^="http"]'
+        props:
+          title: ':scope a.text-presearch-alternative[href^="http"], :scope a.text-primary-600[href^="http"], :scope a[href^="http"]'
+
+      # Image results
+      - root: '.image-thumbnail'
+        url: ':scope a[href^="http"]'
+        props:
+          title: ':scope a[href^="http"], :scope img[alt]'
+
+      # Video results
+      - root: 'div.flex.mb-3.mx-2:has(a.text-primary-600[href^="http"])'
+        url: ':scope a.text-primary-600[href^="http"]'
+        props:
+          title: ':scope a.text-primary-600[href^="http"], :scope span[x-text="result.title"]'
+
+      # News results
+      - root: 'div.flex.mb-3.mx-2:has(a[x-text="result.data.title"][href^="http"]), div.flex.mb-3.mx-2:has(a.text-presearch-alternative[href^="http"])'
+        url: ':scope a[x-text="result.data.title"][href^="http"], :scope a.text-presearch-alternative[href^="http"]'
+        props:
+          title: ':scope a[x-text="result.data.title"][href^="http"], :scope a.text-presearch-alternative[href^="http"]'
+
+    commonProps:
+      $site: presearch
+    delay: 100
