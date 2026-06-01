@@ -1,0 +1,38 @@
+name: Qwant / Qwant Junior
+homepage: https://www.qwant.com/
+lastModified: 2026-05-15T00:00:00Z
+# Works on All, Images, Video & News
+# Offers SafeSearch options, but doesn't enforce them
+
+pages:
+  - name: Search
+    matches:
+      - https://www.qwant.com/*
+      - https://qwant.com/*
+      - https://www.qwantjunior.com/*
+      - https://qwantjunior.com/*
+    results:
+      - root: 'div[data-testid="webResult"][domain]'
+        url: 'a[href^="http"]'
+        props:
+          title: 'a[href]'
+
+      - root: '*:has(> a[data-testid="imageResult"])'
+        url: [domainToURL, ':scope > a[data-testid="imageResult"] .Y0QFS > div']
+        props:
+          title: ':scope > a[data-testid="imageResult"]'
+
+      - root: '*:has(> a[data-testid="newsCardSerp"][href^="http"])'
+        url: ':scope > a[data-testid="newsCardSerp"][href^="http"]'
+        props:
+          title: ':scope > a[data-testid="newsCardSerp"][href^="http"]'
+
+      - root: 'div[data-testid="videosList"]'
+        url: 'a[href^="http"]'
+        props:
+          title: 'a[href^="http"]'
+
+    commonProps:
+      $site: qwant
+    delay: 100
+
