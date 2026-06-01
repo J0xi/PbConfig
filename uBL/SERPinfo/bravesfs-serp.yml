@@ -1,1 +1,108 @@
+name: Brave Safe Search
+homepage: https://github.com/Gi0x/Exts/blob/main/uBL/SERPi/brv-sfs.yaml
+lastModified: 2026-05-10T00:00:00Z
 
+pages:
+  - name: Goggles
+    matches:
+      - https://safe.search.brave.com/search?*goggles_id=*
+      - https://search.brave.com/search?*goggles_id=*
+      - https://safe.search.brave.com/goggles?*
+      - https://search.brave.com/goggles?*
+    results:
+      - root: .snippet[data-type="web"]
+        url: a
+        props:
+          title: .title
+      - root: .snippet
+        url: a
+        props:
+          title: .title
+    commonProps:
+      $site: brave
+      $category: goggles
+    delay: 100
+
+  - name: Web
+    matches:
+      - https://safe.search.brave.com/search?*
+      - https://search.brave.com/search?*
+    results:
+      - root: .snippet[data-type="web"]
+        url: a
+        props:
+          title: .title
+    commonProps:
+      $site: brave
+      $category: web
+    delay: 100
+
+  - name: Images
+    matches:
+      - https://safe.search.brave.com/images?*
+      - https://search.brave.com/images?*
+    results:
+      - root: .image-result
+        url: [domainToURL, ".image-metadata-source"]
+        props:
+          title: .image-metadata-title
+    commonProps:
+      $site: brave
+      $category: images
+    delay: 100
+
+  - name: News
+    matches:
+      - https://safe.search.brave.com/news?*
+      - https://search.brave.com/news?*
+    results:
+      - root: .snippet[data-type="news"]
+        url: a
+        props:
+          title: .snippet-title
+      - root: .snippet
+        url: a
+        props:
+          title: .snippet-title
+      - root: article
+        url: a
+        props:
+          title: h3
+      - root: '[data-testid="news-result"]'
+        url: a
+        props:
+          title: h3
+    commonProps:
+      $site: brave
+      $category: news
+    delay: 100
+
+  - name: Videos
+    matches:
+      - https://safe.search.brave.com/videos?*
+      - https://search.brave.com/videos?*
+    results:
+      - root: .snippet[data-type="videos"]
+        url: a
+        props:
+          title: .snippet-title
+      - root: .snippet[data-type="video"]
+        url: a
+        props:
+          title: .snippet-title
+      - root: .snippet
+        url: a
+        props:
+          title: .snippet-title
+      - root: article
+        url: a
+        props:
+          title: h3
+      - root: '[data-testid="video-result"]'
+        url: a
+        props:
+          title: h3
+    commonProps:
+      $site: brave
+      $category: videos
+    delay: 100
