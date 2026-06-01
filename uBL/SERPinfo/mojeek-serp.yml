@@ -1,0 +1,32 @@
+name: Mojeek
+homepage: https://www.mojeek.com/
+lastModified: 2026-05-15T00:00:00Z
+# Works on Web, Summmary, Images & News
+
+pages:
+  - name: Search
+    matches:
+      - https://www.mojeek.com/*
+      - https://mojeek.com/*
+    results:
+      # Web results
+      - root: 'ul.results-standard > li'
+        url: ':scope a.title[href^="http"]'
+        props:
+          title: ':scope a.title[href^="http"]'
+
+      # Image results
+      - root: '#results.results.images > div.image'
+        url: ':scope a.js-img-a[href^="http"]'
+        props:
+          title: ':scope a.js-img-a[href^="http"]'
+
+      # News results
+      - root: '.news-results article'
+        url: ':scope h2 a[href^="http"], :scope header a[href^="http"], :scope p.i a[href^="http"]'
+        props:
+          title: ':scope h2 a[href^="http"], :scope header a[href^="http"]'
+
+    commonProps:
+      $site: mojeek
+    delay: 100
