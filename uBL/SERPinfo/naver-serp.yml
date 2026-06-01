@@ -1,0 +1,52 @@
+name: Naver
+homepage: https://www.naver.com/
+lastModified: 2026-05-17T00:00:00Z
+# Works on Web, Blogs, Images, Videos
+
+pages:
+  - name: Search
+    matches:
+      - https://search.naver.com/*
+      - https://www.search.naver.com/*
+    results:
+      # Web / Standard organic results
+      - root: '.fds-web-doc-root.fds-web-normal-doc-root:has(a[data-heatmap-target=".link"][href^="http"])'
+        url: ':scope a[data-heatmap-target=".link"][href^="http"]:has(.sds-comps-text-type-headline1), :scope a[data-heatmap-target=".link"][href^="http"]'
+        props:
+          title: ':scope a[data-heatmap-target=".link"][href^="http"]:has(.sds-comps-text-type-headline1), :scope .sds-comps-text-type-headline1, :scope a[data-heatmap-target=".link"][href^="http"]'
+
+      # Web / Blogs / UGC cards
+      # Covers Blog cards on All/Web tab and the dedicated Blogs/View tab.
+      - root: '[data-template-id="ugcItem"][data-template-type="searchBasic"]'
+        url: ':scope a[data-heatmap-target=".nblg"][href^="http"], :scope a[data-heatmap-target=".link"][href^="http"]'
+        props:
+          title: ':scope a[data-heatmap-target=".nblg"][href^="http"], :scope a[data-heatmap-target=".link"][href^="http"], :scope .sds-comps-text-type-headline1'
+
+      # Web / PowerLink sponsored URL results
+      # Caveat: these usually expose Naver ad redirect URLs, not the final target domain.
+      - root: '#power_link_body li.lst'
+        url: ':scope a[href^="https://ader.naver.com/"], :scope a[href^="http"]'
+        props:
+          title: ':scope .title_ext, :scope .lnk_tit, :scope a[href^="https://ader.naver.com/"], :scope a[href^="http"]'
+
+      # Image results
+      - root: '.tile_item[data-type="image"]'
+        url: ':scope a.info[href^="http"]'
+        props:
+          title: ':scope a.info[title], :scope img[alt]'
+
+      # Video results
+      - root: '._svp_item[data-template-id="videoItem"]'
+        url: ':scope a._vdo_cav_trigger[href^="http"], :scope a[data-video-selector][href^="http"]'
+        props:
+          title: ':scope a._vdo_cav_trigger[href^="http"], :scope a._vdo_cav_trigger span, :scope span.sds-comps-text-type-headline3'
+
+      # News results
+      - root: '.fds-news-item-list-tab > div:has(a[data-heatmap-target=".tit"][href^="http"])'
+        url: ':scope a[data-heatmap-target=".tit"][href^="http"]'
+        props:
+          title: ':scope a[data-heatmap-target=".tit"][href^="http"], :scope a[data-heatmap-target=".tit"] span'
+
+    commonProps:
+      $site: naver
+    delay: 500
