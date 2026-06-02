@@ -14,45 +14,47 @@
 ! .........................................................................................
 ! [1] Homepage
 ...........................................................................................
-! [A] Top Header/Masthead Elements
+! A > Top Header/Masthead Elements
 
-! > Create/Upload Button
+! Create/Upload Button
 www.youtube.com##ytd-button-renderer:has(a[href="/upload"])
 
-! > Hamburger Menu Button
+! Hamburger Menu Button
 www.youtube.com##ytd-masthead #guide-button
 
-! > Notifications Bell
+! Notifications Bell
 www.youtube.com##ytd-notification-topbar-button-renderer
 
-! > Voice Search 
+! Voice Search 
 www.youtube.com##ytd-masthead #voice-search-button
 www.youtube.com##button[aria-label="Search with your voice"]
-........................................
-! [B] Left Sidebar
 
-! > Home, Shorts, You & History
+........................................
+! B > Left Sidebar
+
+! Home, Shorts, You & History
 www.youtube.com##ytd-guide-entry-renderer:has(a[href="/shorts"])
 www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/shorts"])
 
-! > Subscriptions
+! Subscriptions
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
 
-! > Sign In
+! Sign In
 www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
 
-! > Explore
+! Explore
 www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/feed/explore"])
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
 
-! > More from YouTube
+! More from YouTube
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-section-renderer .ytd-guide-section-renderer:has-text(More from YouTube)
 
-! > Report History & Footer (About, Press, Copyright, Contact Us)
+! Report History & Footer (About, Press, Copyright, Contact Us)
 www.youtube.com###guide-inner-content
+
 ........................................
-! [C] Recommendations Grid
+! C > Recommendations Grid
 
 ! Main Recommendations Grid
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-grid-renderer
@@ -62,43 +64,43 @@ www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-shelf-renderer
 
-! > Empty Homepage Leftovers
+! Empty Homepage Leftovers
 www.youtube.com##ytd-browse[page-subtype="home"] #contents
 
 ...........................................................................................
 ! [2] Video Results Page
 ...........................................................................................
 
-! > Channel Icon, Name & Description Header
+! Channel Icon, Name & Description Header
 ! www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope > .ytd-channel-renderer.style-scope
 
-! > Popular In
+! Popular In
 www.youtube.com##.ytd-shelf-renderer.style-scope.grid-subheader
 
-! > Shorts Carousels
+! Shorts Carousels
 www.youtube.com##grid-shelf-view-model.ytd-item-section-renderer.ytGridShelfViewModelHost
 
 ...........................................................................................
 ! [3] Video Watch Page
 ...........................................................................................
 
-! > Subscribe Button
+! Subscribe Button
 www.youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
 
-! > Join Button
+! Join Button
 www.youtube.com##.ytwTimedAnimationButtonRendererHost
 
-! > Like/Dislike, Share & Save Buttons Strip
+! Like/Dislike, Share & Save Buttons Strip
 www.youtube.com###menu > .ytd-watch-metadata.style-scope
 
-! > Comments Section
+! Comments Section
  www.youtube.com##ytd-comments
  
-! > Recommended & Related Videos Sidebar
+! Recommended & Related Videos Sidebar
 www.youtube.com###secondary
 www.youtube.com##ytd-watch-next-secondary-results-renderer
 
-! > Recommended Videos Endscreen Carousel
+! Recommended Videos Endscreen Carousel
 www.youtube.com##.ytp-fullscreen-grid-stills-container
 www.youtube.com##.ytp-ce-element
 www.youtube.com##.ytp-endscreen-content
