@@ -6,26 +6,24 @@
 ! > ToC
 
 ! [1] ASTROLOGY
-! [2] BROWSERS
-! [3] CHAT
+! [2] CHAT
+! [3] COMMERCE
 ! [4] DATING
 ! [5] FOOD DELIVERY
-! [6] DRUGS & TOBACCO
+! [6] DRUGS + TOBACCO
 ! [7] GAMBLING
 ! [8] GAMING
 ! [9] NEWS
 ! [10] NSFW
-! [11] SEARCH ENGINES
-! [12] SOCIAL
-! [13] SPAM
-! [14] SPORTS
-! [15] STREAMING A/V
-! [16] UNSAFE
-! [17] UTILITIES
-!    17a - Browsers
-!    17b - Search Engines
-!    17c - Web Tools
-! [18] VENDORS
+! [11] SOCIAL
+! [12] SPAM
+! [13] SPORTS
+! [14] STREAMING A/V
+! [15] UNSAFE
+! [16] UTILITIES
+!    16a - Browsers
+!    16b - Search Engines
+!    16c - Web Tools
 
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! [1] ASTROLOGY
