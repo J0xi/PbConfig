@@ -149,14 +149,6 @@ www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type
 # www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/shorts"])
 
 # .........................................................................................
-# Remove Topic Chips & Recommendation Filters
-
-# www.youtube.com##ytd-feed-filter-chip-bar-renderer
-# www.youtube.com##yt-chip-cloud-renderer
-# www.youtube.com##iron-selector#chips
-# www.youtube.com##.yt-chip-cloud-renderer
-
-# .........................................................................................
 # Remove annoying section headers/shelf headers
 
 # > Search result section headers/separators
