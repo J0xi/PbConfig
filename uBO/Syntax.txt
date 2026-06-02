@@ -2,9 +2,13 @@
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 ! RULE
 
-! ||word*^ = matched word must start the hostname
+! ||word*^ = matched word must start of the hostname
 ! ||*word*^ = matched word can be anywhere in the hostname before the boundary
-! ||*word* = matched word can be anywhere in the domain path
+! ||*word* = matched word can be anywhere in the hostname
+
+
+
+
 ! ^ = boundary match, not wildcard
 
 ! ||ass*^$document
@@ -15,9 +19,9 @@
 ! ass,cum,tit = Risky, form parts of neutral words, best to start at beginning of domain
 
 ! ||*chat*^$document
+! ||*apricot*$document
 
 ! Matches: luxchat.net, virtual-chat-1.com, chat-room3.org
 
-! ||*apricot*$document
 
 ! Matches: apricot-style.com, clothing-old.uk/apricot-shirt, apricot.groceryonline.net
