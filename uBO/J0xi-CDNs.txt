@@ -1,20 +1,20 @@
-! Title: J0xi's CDNs
-! Info: Allowed & Blocked Content Delivery Networks
-! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-CDNs.txt
-! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-CDNs.txt
-! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-! .........................................................................................
-! Allowed
+# Title: J0xi's CDNs
+# Info: Allowed & Blocked Content Delivery Networks
+# https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-CDNs.txt
+# https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-CDNs.txt
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# .........................................................................................
+# Allowed
 
 @@||akcdn.net^
-
+@@||assetsconfigcdn.org
 @@||cdn.consentmanager.net^
 @@||delivery.consentmanager.net^
 @@||cdn.optimizely.com^
 @@||cdn.snigelweb.com^
 
-! .........................................................................................
-! Blocked
+# .........................................................................................
+# Blocked
 
 ||ancdn.com^
 ||b-cdn.net^
