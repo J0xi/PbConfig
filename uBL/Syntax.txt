@@ -59,3 +59,23 @@ Example 2
 
 # Matches: 
 # Everything above, but with more characters in between
+
+
+
+Keyword Titles 
+
+Example 1 (line by line)
+
+/astrolog(y|er|ical)?/i
+/zodiac/i
+/horoscope/i
+
+Example 2 (single string)
+
+/(astro(loger|logical|logy|scope|theme)?|horoscope|tarot)/i
+
+
+Misc Domains
+
+/(askmyoracle|chani|chinesefortunecalendar|ganeshaspeaks|labyrinthos|linda-goodman|moonly|mylovecal|mysticapp|sanctuaryworld|seeroracle|thebirthchart|vedicfolks)\.(app|co|com|io)/i
+
