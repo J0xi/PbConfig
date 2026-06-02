@@ -20,3 +20,15 @@ Matches: apricot-style.com, clothing-old.uk/apricot-shirt, apricot.groceryonline
 
 
 ^ = boundary match
+
+
+||*tank*^$document =
+
+Matches
+Singular: tank
+Plural: tanks
+Hyphenated: tank-site, mega-tank-hub
+Prefixed: bestank, freetank
+Suffixed: tanking, tanker
+Compounds: tank-prank, bank--tank
+Subdomains: cdn.tankvideos.com
