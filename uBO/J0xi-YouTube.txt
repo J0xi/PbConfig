@@ -13,7 +13,7 @@
 
 ! .........................................................................................
 ! [1] Homepage
-
+........................................
 ! [A] Top Header/Masthead Elements
 
 ! > Create/Upload Button
@@ -28,7 +28,7 @@ www.youtube.com##ytd-notification-topbar-button-renderer
 ! > Voice Search 
 www.youtube.com##ytd-masthead #voice-search-button
 www.youtube.com##button[aria-label="Search with your voice"]
-
+........................................
 ! [B] Left Sidebar
 
 ! > Home, Shorts, You & History
@@ -51,7 +51,7 @@ www.youtube.com##ytd-guide-section-renderer .ytd-guide-section-renderer:has-text
 
 ! > Report History & Footer (About, Press, Copyright, Contact Us)
 www.youtube.com###guide-inner-content
-
+........................................
 ! [C] Recommendations Grid
 
 ! Main Recommendations Grid
@@ -65,7 +65,7 @@ www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-shelf-renderer
 ! > Empty Homepage Leftovers
 www.youtube.com##ytd-browse[page-subtype="home"] #contents
 
-!-------------------------------------------------------------
+........................................
 ! [2] Video Results Page
 
 ! > Channel Icon, Name & Description Header
@@ -77,7 +77,7 @@ www.youtube.com##.ytd-shelf-renderer.style-scope.grid-subheader
 ! > Shorts Carousels
 www.youtube.com##grid-shelf-view-model.ytd-item-section-renderer.ytGridShelfViewModelHost
 
-!-------------------------------------------------------------
+........................................
 ! [3] Video Watch Page
 
 ! > Subscribe Button
@@ -107,7 +107,7 @@ www.youtube.com##.ytp-cards-teaser
 www.youtube.com##.ytp-paid-content-overlay
 www.youtube.com##.ytp-featured-product
 
-!-------------------------------------------------------------
+........................................
 ! [4] Channel Page
 
 ! Shorts Carousel
