@@ -1,107 +1,107 @@
-! Title: J0xi's YouTube
-! Info: Blocks Distracting YouTube Page Elements & Features
-! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-YouTube.txt
-! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-YouTube.txt
-! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-! .........................................................................................
-! ToC
+# Title: J0xi's YouTube
+# Info: Blocks Distracting YouTube Page Elements & Features
+# https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-YouTube.txt
+# https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-YouTube.txt
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# .........................................................................................
+# ToC
 
-! [1] Homepage
-! [2] Video Results Page
-! [3] Video Watch Page
-! [4] Channel Page
-! [5] Misc
+# [1] Homepage
+# [2] Video Results Page
+# [3] Video Watch Page
+# [4] Channel Page
+# [5] Misc
 
-! .........................................................................................
-! [1] Homepage
+# .........................................................................................
+# [1] Homepage
 ...........................................................................................
-! A > Top Header/Masthead Elements
+# A > Top Header/Masthead Elements
 
-! Create/Upload Button
+# Create/Upload Button
 www.youtube.com##ytd-button-renderer:has(a[href="/upload"])
 
-! Hamburger Menu Button
+# Hamburger Menu Button
 www.youtube.com##ytd-masthead #guide-button
 
-! Notifications Bell
+# Notifications Bell
 www.youtube.com##ytd-notification-topbar-button-renderer
 
-! Voice Search 
+# Voice Search 
 www.youtube.com##ytd-masthead #voice-search-button
 www.youtube.com##button[aria-label="Search with your voice"]
 
 ........................................
-! B > Left Sidebar
+# B > Left Sidebar
 
-! Home, Shorts, You & History
+# Home, Shorts, You & History
 www.youtube.com##ytd-guide-entry-renderer:has(a[href="/shorts"])
 www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/shorts"])
 
-! Subscriptions
+# Subscriptions
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
 
-! Sign In
+# Sign In
 www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
 
-! Explore
+# Explore
 www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/feed/explore"])
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
 
-! More from YouTube
+# More from YouTube
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-section-renderer .ytd-guide-section-renderer:has-text(More from YouTube)
 
-! Report History & Footer (About, Press, Copyright, Contact Us)
+# Report History & Footer (About, Press, Copyright, Contact Us)
 www.youtube.com###guide-inner-content
 
 ........................................
-! C > Recommendations Grid
+# C > Recommendations Grid
 
-! Main Recommendations Grid
+# Main Recommendations Grid
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-grid-renderer
 www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
 
-! Rich Sections & Shelves
+# Rich Sections & Shelves
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-shelf-renderer
 
-! Empty Homepage Leftovers
+# Empty Homepage Leftovers
 www.youtube.com##ytd-browse[page-subtype="home"] #contents
 
 ...........................................................................................
-! [2] Video Results Page
+# [2] Video Results Page
 ...........................................................................................
 
-! Channel Icon, Name & Description Header
-! www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope > .ytd-channel-renderer.style-scope
+# Channel Icon, Name & Description Header
+# www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope > .ytd-channel-renderer.style-scope
 
-! Popular In
+# Popular In
 www.youtube.com##.ytd-shelf-renderer.style-scope.grid-subheader
 
-! Shorts Carousels
+# Shorts Carousels
 www.youtube.com##grid-shelf-view-model.ytd-item-section-renderer.ytGridShelfViewModelHost
 
 ...........................................................................................
-! [3] Video Watch Page
+# [3] Video Watch Page
 ...........................................................................................
 
-! Subscribe Button
+# Subscribe Button
 www.youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
 
-! Join Button
+# Join Button
 www.youtube.com##.ytwTimedAnimationButtonRendererHost
 
-! Like/Dislike, Share & Save Buttons Strip
+# Like/Dislike, Share & Save Buttons Strip
 www.youtube.com###menu > .ytd-watch-metadata.style-scope
 
-! Comments Section
+# Comments Section
  www.youtube.com##ytd-comments
  
-! Recommended & Related Videos Sidebar
+# Recommended & Related Videos Sidebar
 www.youtube.com###secondary
 www.youtube.com##ytd-watch-next-secondary-results-renderer
 
-! Recommended Videos Endscreen Carousel
+# Recommended Videos Endscreen Carousel
 www.youtube.com##.ytp-fullscreen-grid-stills-container
 www.youtube.com##.ytp-ce-element
 www.youtube.com##.ytp-endscreen-content
@@ -113,13 +113,13 @@ www.youtube.com##.ytp-paid-content-overlay
 www.youtube.com##.ytp-featured-product
 
 ...........................................................................................
-! [4] Channel Page
+# [4] Channel Page
 ...........................................................................................
 
-! Shorts Carousel
+# Shorts Carousel
 www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope:nth-of-type(3)
 
-! Shorts Tab
+# Shorts Tab
 www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(3)
 
 
@@ -130,93 +130,93 @@ www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type
 
 
 
-! .........................................................................................
+# .........................................................................................
 
-! Homepage
+# Homepage
 
-! [A] Top Header/Masthead Elements
+# [A] Top Header/Masthead Elements
 
-! > Create/Upload Button
+# > Create/Upload Button
 www.youtube.com##ytd-button-renderer:has(a[href="/upload"])
 
-! > Hamburger Menu Button
+# > Hamburger Menu Button
 www.youtube.com##ytd-masthead #guide-button
 
-! > Notifications Bell
+# > Notifications Bell
 www.youtube.com##ytd-notification-topbar-button-renderer
 
-! > Voice Search 
+# > Voice Search 
 www.youtube.com##ytd-masthead #voice-search-button
 www.youtube.com##button[aria-label="Search with your voice"]
 
-! [B] Left Sidebar
+# [B] Left Sidebar
 
-! > Home, Shorts, You & History
+# > Home, Shorts, You & History
 www.youtube.com##ytd-guide-entry-renderer:has(a[href="/shorts"])
 www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/shorts"])
 
-! > Subscriptions
+# > Subscriptions
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
 
-! > Sign In
+# > Sign In
 www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
 
-! > Explore
+# > Explore
 www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/feed/explore"])
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
 
-! > More from YouTube
+# > More from YouTube
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-section-renderer .ytd-guide-section-renderer:has-text(More from YouTube)
 
-! > Report History & Footer (About, Press, Copyright, Contact Us)
+# > Report History & Footer (About, Press, Copyright, Contact Us)
 www.youtube.com###guide-inner-content
 
-! [C] Recommendations Grid
+# [C] Recommendations Grid
 
-! Main Recommendations Grid
+# Main Recommendations Grid
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-grid-renderer
 www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
 
-! Rich Sections & Shelves
+# Rich Sections & Shelves
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer
 www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-shelf-renderer
 
-! > Empty Homepage Leftovers
+# > Empty Homepage Leftovers
 www.youtube.com##ytd-browse[page-subtype="home"] #contents
 
-!-------------------------------------------------------------
-! Video Results Page
+#-------------------------------------------------------------
+# Video Results Page
 
-! > Channel Icon, Name & Description Header
-! www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope > .ytd-channel-renderer.style-scope
+# > Channel Icon, Name & Description Header
+# www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope > .ytd-channel-renderer.style-scope
 
-! > Popular In
+# > Popular In
 www.youtube.com##.ytd-shelf-renderer.style-scope.grid-subheader
 
-! > Shorts Carousels
+# > Shorts Carousels
 www.youtube.com##grid-shelf-view-model.ytd-item-section-renderer.ytGridShelfViewModelHost
 
-!-------------------------------------------------------------
-! Video Watch Page
+#-------------------------------------------------------------
+# Video Watch Page
 
-! > Subscribe Button
+# > Subscribe Button
 www.youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
 
-! > Join Button
+# > Join Button
 www.youtube.com##.ytwTimedAnimationButtonRendererHost
 
-! > Like/Dislike, Share & Save Buttons Strip
+# > Like/Dislike, Share & Save Buttons Strip
 www.youtube.com###menu > .ytd-watch-metadata.style-scope
 
-! > Comments Section
+# > Comments Section
  www.youtube.com##ytd-comments
  
-! > Recommended & Related Videos Sidebar
+# > Recommended & Related Videos Sidebar
 www.youtube.com###secondary
 www.youtube.com##ytd-watch-next-secondary-results-renderer
 
-! > Recommended Videos Endscreen Carousel
+# > Recommended Videos Endscreen Carousel
 www.youtube.com##.ytp-fullscreen-grid-stills-container
 www.youtube.com##.ytp-ce-element
 www.youtube.com##.ytp-endscreen-content
@@ -227,13 +227,13 @@ www.youtube.com##.ytp-cards-teaser
 www.youtube.com##.ytp-paid-content-overlay
 www.youtube.com##.ytp-featured-product
 
-!-------------------------------------------------------------
-! Channel Page
+#-------------------------------------------------------------
+# Channel Page
 
-! Shorts Carousel
+# Shorts Carousel
 www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope:nth-of-type(3)
 
-! Shorts Tab
+# Shorts Tab
 www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(3)
 
 
@@ -327,100 +327,100 @@ www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type
 
 
 
-! [2] HEADERS
+# [2] HEADERS
 
-! > "For You", "People Also Watched", "Recommended" 
+# > "For You", "People Also Watched", "Recommended" 
 
-! www.youtube.com##ytd-shelf-renderer #title-container
-! www.youtube.com##ytd-rich-shelf-renderer #title-container
-! www.youtube.com##ytd-horizontal-card-list-renderer #title
-! www.youtube.com##ytd-item-section-renderer > #header
-! www.youtube.com##ytd-section-list-renderer ytd-item-section-renderer > #header
+# www.youtube.com##ytd-shelf-renderer #title-container
+# www.youtube.com##ytd-rich-shelf-renderer #title-container
+# www.youtube.com##ytd-horizontal-card-list-renderer #title
+# www.youtube.com##ytd-item-section-renderer > #header
+# www.youtube.com##ytd-section-list-renderer ytd-item-section-renderer > #header
 
-! > Rich Grid & Shelf Header Text
-! www.youtube.com##ytd-rich-section-renderer #title-container
-! www.youtube.com##ytd-rich-section-renderer #header
-! www.youtube.com##ytd-rich-shelf-renderer #header
-! www.youtube.com##ytd-rich-shelf-renderer h2
+# > Rich Grid & Shelf Header Text
+# www.youtube.com##ytd-rich-section-renderer #title-container
+# www.youtube.com##ytd-rich-section-renderer #header
+# www.youtube.com##ytd-rich-shelf-renderer #header
+# www.youtube.com##ytd-rich-shelf-renderer h2
 
-! > Recommended Videos in Video Results Feed
-! www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
+# > Recommended Videos in Video Results Feed
+# www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 
-! > YouTube Movies - Buy or Rent
-! www.youtube.com##ytd-movie-renderer.ytd-item-section-renderer.style-scope
+# > YouTube Movies - Buy or Rent
+# www.youtube.com##ytd-movie-renderer.ytd-item-section-renderer.style-scope
 
-! .........................................................................................
-! etc
+# .........................................................................................
+# etc
 
-! > Don't Miss New Videos Homepage Feed Notice
-! !www.youtube.com###contents > .ytd-item-section-renderer.style-scope
-! .........................................................................................
-! Remove Shorts
+# > Don't Miss New Videos Homepage Feed Notice
+# #www.youtube.com###contents > .ytd-item-section-renderer.style-scope
+# .........................................................................................
+# Remove Shorts
 
-! > Shorts Individual Results/Items
-! www.youtube.com##ytd-rich-item-renderer:has(a[href^="/shorts/"])
-! www.youtube.com##ytd-video-renderer:has(a[href^="/shorts/"])
-! www.youtube.com##ytd-grid-video-renderer:has(a[href^="/shorts/"])
-! www.youtube.com##ytd-compact-video-renderer:has(a[href^="/shorts/"])
-! www.youtube.com##ytd-reel-item-renderer
+# > Shorts Individual Results/Items
+# www.youtube.com##ytd-rich-item-renderer:has(a[href^="/shorts/"])
+# www.youtube.com##ytd-video-renderer:has(a[href^="/shorts/"])
+# www.youtube.com##ytd-grid-video-renderer:has(a[href^="/shorts/"])
+# www.youtube.com##ytd-compact-video-renderer:has(a[href^="/shorts/"])
+# www.youtube.com##ytd-reel-item-renderer
 
-! > Shorts Sidebar Buttons
-! www.youtube.com##ytd-guide-entry-renderer:has(a[href="/shorts"])
-! www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/shorts"])
+# > Shorts Sidebar Buttons
+# www.youtube.com##ytd-guide-entry-renderer:has(a[href="/shorts"])
+# www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/shorts"])
 
-! .........................................................................................
-! Remove Topic Chips & Recommendation Filters
+# .........................................................................................
+# Remove Topic Chips & Recommendation Filters
 
-! www.youtube.com##ytd-feed-filter-chip-bar-renderer
-! www.youtube.com##yt-chip-cloud-renderer
-! www.youtube.com##iron-selector#chips
-! www.youtube.com##.yt-chip-cloud-renderer
+# www.youtube.com##ytd-feed-filter-chip-bar-renderer
+# www.youtube.com##yt-chip-cloud-renderer
+# www.youtube.com##iron-selector#chips
+# www.youtube.com##.yt-chip-cloud-renderer
 
-! .........................................................................................
-! Remove annoying section headers/shelf headers
+# .........................................................................................
+# Remove annoying section headers/shelf headers
 
-! > Search result section headers/separators
-! www.youtube.com##ytd-search ytd-item-section-renderer > #header
-! www.youtube.com##ytd-search ytd-shelf-renderer
-! www.youtube.com##ytd-search ytd-horizontal-card-list-renderer
+# > Search result section headers/separators
+# www.youtube.com##ytd-search ytd-item-section-renderer > #header
+# www.youtube.com##ytd-search ytd-shelf-renderer
+# www.youtube.com##ytd-search ytd-horizontal-card-list-renderer
 
-! > "People also watched" / "For you" blocks inside search
-! www.youtube.com##ytd-search ytd-reel-shelf-renderer
-! www.youtube.com##ytd-search ytd-rich-section-renderer
+# > "People also watched" / "For you" blocks inside search
+# www.youtube.com##ytd-search ytd-reel-shelf-renderer
+# www.youtube.com##ytd-search ytd-rich-section-renderer
 
 
-! .........................................................................................
+# .........................................................................................
 OTHER
-! .........................................................................................
-! Merch, Shopping, Chapters, Chat, Live Clutter
+# .........................................................................................
+# Merch, Shopping, Chapters, Chat, Live Clutter
 
-! > Merch & Shopping Panels
-! www.youtube.com##ytd-merch-shelf-renderer
-! www.youtube.com##ytd-product-shelf-renderer
-! www.youtube.com##ytd-engagement-panel-section-list-renderer:has(ytd-structured-description-content-renderer)
+# > Merch & Shopping Panels
+# www.youtube.com##ytd-merch-shelf-renderer
+# www.youtube.com##ytd-product-shelf-renderer
+# www.youtube.com##ytd-engagement-panel-section-list-renderer:has(ytd-structured-description-content-renderer)
 
-! > Live Chat
-! www.youtube.com###chat
-! www.youtube.com##ytd-live-chat-frame
+# > Live Chat
+# www.youtube.com###chat
+# www.youtube.com##ytd-live-chat-frame
 
-! > Panels that open on the right/under video
-! www.youtube.com##ytd-engagement-panel-section-list-renderer[target-id="engagement-panel-ads"]
-! www.youtube.com##ytd-engagement-panel-section-list-renderer[target-id="engagement-panel-searchable-transcript"]
-! www.youtube.com##ytd-engagement-panel-section-list-renderer[target-id="engagement-panel-macro-markers-description-chapters"]
+# > Panels that open on the right/under video
+# www.youtube.com##ytd-engagement-panel-section-list-renderer[target-id="engagement-panel-ads"]
+# www.youtube.com##ytd-engagement-panel-section-list-renderer[target-id="engagement-panel-searchable-transcript"]
+# www.youtube.com##ytd-engagement-panel-section-list-renderer[target-id="engagement-panel-macro-markers-description-chapters"]
 
-! .........................................................................................
-! 12. Promos & Popups
+# .........................................................................................
+# 12. Promos & Popups
 
-! > Premium, Surveys & Popups
-! www.youtube.com##ytd-popup-container tp-yt-paper-dialog
-! www.youtube.com##ytd-mealbar-promo-renderer
-! www.youtube.com##ytd-statement-banner-renderer
-! www.youtube.com##ytd-banner-promo-renderer
-! www.youtube.com##ytd-popup-container ytd-mealbar-promo-renderer
+# > Premium, Surveys & Popups
+# www.youtube.com##ytd-popup-container tp-yt-paper-dialog
+# www.youtube.com##ytd-mealbar-promo-renderer
+# www.youtube.com##ytd-statement-banner-renderer
+# www.youtube.com##ytd-banner-promo-renderer
+# www.youtube.com##ytd-popup-container ytd-mealbar-promo-renderer
 
-! > "Try YouTube Premium" Style Masthead Promos
-! www.youtube.com##ytd-rich-section-renderer:has-text(Premium)
-! www.youtube.com##ytd-primetime-promo-renderer
+# > "Try YouTube Premium" Style Masthead Promos
+# www.youtube.com##ytd-rich-section-renderer:has-text(Premium)
+# www.youtube.com##ytd-primetime-promo-renderer
 
-! "Member Only" Videos
-! www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:has(div.ytd-badge-supported-renderer.style-scope.badge-style-type-members-only)
+# "Member Only" Videos
+# www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:has(div.ytd-badge-supported-renderer.style-scope.badge-style-type-members-only)
