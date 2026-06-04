@@ -10,6 +10,7 @@
 @@||assetsconfigcdn.org
 @@||cdn.consentmanager.net^
 @@||delivery.consentmanager.net^
+@@||cdn.filen.io^
 @@||cdn.optimizely.com^
 @@||cdn.snigelweb.com^
 
