@@ -12,7 +12,7 @@
 # [4] Channel Page
 # [5] Misc
 
-# .........................................................................................
+# ...........................................................................................
 # [1] Homepage
 # ...........................................................................................
 # A > Top Header/Masthead Elements
@@ -134,7 +134,7 @@ www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type
 
 
 
-# .........................................................................................
+# ...........................................................................................
 # Remove Shorts
 
 # > Shorts Individual Results/Items
@@ -148,7 +148,7 @@ www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type
 # www.youtube.com##ytd-guide-entry-renderer:has(a[href="/shorts"])
 # www.youtube.com##ytd-mini-guide-entry-renderer:has(a[href="/shorts"])
 
-# .........................................................................................
+# ...........................................................................................
 # Remove annoying section headers/shelf headers
 
 # > Search result section headers/separators
@@ -162,7 +162,7 @@ www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type
 
 
 # .........................................................................................
-OTHER
+# OTHER
 # .........................................................................................
 # Merch, Shopping, Chapters, Chat, Live Clutter
 
