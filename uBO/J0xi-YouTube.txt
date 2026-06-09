@@ -82,7 +82,7 @@ www.youtube.com##ytd-channel-renderer.ytd-item-section-renderer.style-scope > .y
 www.youtube.com##.ytd-shelf-renderer.style-scope.grid-subheader
 
 # Recommended Videos in Video Results Feed
-# www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 
 # Shorts Carousels
 www.youtube.com##grid-shelf-view-model.ytd-item-section-renderer.ytGridShelfViewModelHost
