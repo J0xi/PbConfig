@@ -26,6 +26,9 @@ www.youtube.com##ytd-masthead #guide-button
 # Notifications Bell
 www.youtube.com##ytd-notification-topbar-button-renderer
 
+! Restricted Mode On/Off Toggle
+! www.youtube.com##ytd-compact-link-renderer.yt-multi-page-menu-section-renderer.style-scope:nth-of-type(3)
+
 # Voice Search 
 www.youtube.com##ytd-masthead #voice-search-button
 www.youtube.com##button[aria-label="Search with your voice"]
