@@ -19,7 +19,6 @@
 
 # Create/Upload Button
 
-
 # Hamburger Menu Button
 www.youtube.com###guide-button
 
@@ -38,7 +37,6 @@ www.youtube.com###center > .ytd-masthead.style-scope
 www.youtube.com###guide-renderer > .ytd-guide-renderer.style-scope
 
 # Subscriptions
-
 
 # Sign In
 www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
@@ -78,6 +76,7 @@ www.youtube.com##.ytd-channel-renderer.style-scope
 www.youtube.com##.ytd-shelf-renderer.style-scope.grid-subheader
 
 # Recommended Videos in Video Results Feed
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
 
 # Shorts Carousels
 
