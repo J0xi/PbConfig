@@ -97,6 +97,9 @@ www.youtube.com###actions
 
 # Comments Section
 www.youtube.com##.ytd-comments.style-scope
+
+# Endscreen Video Grid
+www.youtube.com##.ytp-fullscreen-grid-stills-container
  
 # Recommended & Related Videos Sidebar
 www.youtube.com###secondary
