@@ -19,6 +19,7 @@
 
 # Create/Upload Button
 
+
 # Hamburger Menu Button
 www.youtube.com###guide-button
 
@@ -37,6 +38,7 @@ www.youtube.com###center > .ytd-masthead.style-scope
 www.youtube.com###guide-renderer > .ytd-guide-renderer.style-scope
 
 # Subscriptions
+
 
 # Sign In
 www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
@@ -105,5 +107,23 @@ www.youtube.com###secondary
 # [4] Channel Page
 # ...........................................................................................
 
-# Shorts Carousel
-# Shorts Tab
+# Banner
+www.youtube.com###page-header-banner
+
+# Community
+www.youtube.com##div.ytFlexibleActionsViewModelAction:nth-of-type(2)
+
+# Live
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(4)
+
+# Playlists
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(5)
+
+# Posts
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(6)
+
+# Shorts
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(3)
+
+# Subscribe
+www.youtube.com##.ytSpecButtonViewModelHost > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextFilled.ytSpecButtonShapeNextHost
