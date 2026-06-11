@@ -4,12 +4,6 @@
 # https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-adns.txt
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # .........................................................................................
-# Editor
-
-# Comment Bubble
-adguard-dns.io##.JWJiTjmNqJ5Rtw7pYLcF.vD1r5r2Uy1C16e5c8Goe.VKfbv_wgffLgPwHmDECK.YFOtJ7Q4XDdUBrxG9aES
-
-# .........................................................................................
 # Parental Controls
 
 # Dating
@@ -166,3 +160,9 @@ adguard-dns.io###parental_service_box
 adguard-dns.io###parental_service_dropbox
 adguard-dns.io###parental_service_flickr
 adguard-dns.io###parental_service_imgur
+
+# .........................................................................................
+# Rule Editor
+
+# Comment Bubble
+adguard-dns.io##.JWJiTjmNqJ5Rtw7pYLcF.vD1r5r2Uy1C16e5c8Goe.VKfbv_wgffLgPwHmDECK.YFOtJ7Q4XDdUBrxG9aES
