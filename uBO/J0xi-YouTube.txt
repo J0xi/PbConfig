@@ -99,8 +99,8 @@ www.youtube.com##.ytd-comments.style-scope
 
 # Endscreen Video Grid
 www.youtube.com##.ytp-fullscreen-grid-stills-container
- 
-# Recommended & Related Videos Sidebar
+
+ # Recommended & Related Videos Sidebar
 www.youtube.com###secondary
 
 # Recommended Videos Endscreen Carousel
