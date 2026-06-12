@@ -3,3 +3,11 @@
 # https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-18+.txt
 # https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Astro.txt
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+
+*://*.celebnic.com/*
+*://*.erotskeprice.info/*
+*://*.wallpics.net/*
+*://*.xwhos.com/*
+*://*.seksprice.com/*
+*://*.gayside1.com/*
+*://*.companyofmen.org/*
