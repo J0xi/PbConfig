@@ -1,0 +1,20 @@
+name: DuckDuckGo HTML
+homepage: https://html.duckduckgo.com/html/
+lastModified: 2026-06-12T00:00:00Z
+
+pages:
+  - name: HTML
+    matches:
+      - https://html.duckduckgo.com/html/
+      - https://html.duckduckgo.com/html/?*
+    commonProps:
+      $site: duckduckgo
+    results:
+      - name: Web
+        root: '.results .result:not(.result--ad):has(h2.result__title > a.result__a)'
+        url: 'h2.result__title > a.result__a'
+        props:
+          title: 'h2.result__title'
+          $category: [const, "web"]
+        button: [inset, { top: "6px", right: "8px" }, ".result__body"]
+
