@@ -31,9 +31,6 @@
 # .........................................................................................
 # Blocked
 
-||ancdn.com^
-||b-cdn.net^
-
 # C
 ||cdn77.org^
 ||cdnclouder.com^
@@ -56,7 +53,9 @@
 ||tnastatic.com^
 ||tumblr.com^
 
+# ... 
+||ancdn.com^
+||b-cdn.net^
+||explicit.bing.net^
 ||xhcdn.com^
 ||ypncdn.com^
-
-||explicit.bing.net^
