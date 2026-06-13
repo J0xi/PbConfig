@@ -102,7 +102,7 @@ www.youtube.com##.ytd-comments.style-scope
 www.youtube.com##.ytp-fullscreen-grid-stills-container
 
 # Recommended & Related Videos Sidebar
-# www.youtube.com###secondary
+www.youtube.com###secondary
 
 # ...........................................................................................
 # [4] Channel Page
