@@ -101,8 +101,8 @@ www.youtube.com##.ytd-comments.style-scope
 # Endscreen Recommended Videos Grid
 www.youtube.com##.ytp-fullscreen-grid-stills-container
 
- # Recommended & Related Videos Sidebar
-www.youtube.com###secondary
+# Recommended & Related Videos Sidebar
+# www.youtube.com###secondary
 
 # ...........................................................................................
 # [4] Channel Page
