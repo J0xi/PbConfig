@@ -2,38 +2,60 @@
 # Info: Allowed & Blocked Content Delivery Networks
 # https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-CDNs.txt
 # https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-CDNs.txt
-! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # .........................................................................................
 # Allowed
 
+# A 
 @@||akcdn.net^
 @@||assetsconfigcdn.org
+
+# C
 @@||cdn.consentmanager.net^
+@@||cdn.cookielaw.org^
 @@||delivery.consentmanager.net^
+
+# F
 @@||cdn.filen.io^
+
+# O
 @@||cdn.optimizely.com^
+
+# S
 @@||cdn.snigelweb.com^
+
+# ...
+@@||elfsightcdn.com^
+@@||cdn.riastatic.com^
 
 # .........................................................................................
 # Blocked
 
-||ancdn.com^
-||b-cdn.net^
+# C
 ||cdn77.org^
 ||cdnclouder.com^
 ||lmjcdn.com^
 ||mrskincdn.com^
 ||naughtycdn.com^
+
+# P
 ||panheal-cdn.net^
 ||phncdn.com^
 ||pump-cdn.com^
+
+# R
 ||rdtcdn.com^
 ||reflected.net^
 ||stfucdn.com^
+
+# T
 ||t8cdn.com^
 ||tnastatic.com^
 ||tumblr.com^
+
+# ... 
+||ancdn.com^
+||b-cdn.net^
+||explicit.bing.net^
 ||xhcdn.com^
 ||ypncdn.com^
-
-||explicit.bing.net^
