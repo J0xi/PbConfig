@@ -19,6 +19,8 @@
 
 # P
 @@||paypal.com^
+@@||proton.me^
+@@||protonvpn.com^
 
 # R
 @@||direktnet.raiffeisen.hu^
