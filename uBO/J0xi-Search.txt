@@ -3,3 +3,15 @@
 # https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Search.txt
 # https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Search.txt
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+
+
+
+# DuckDuckGo
+
+# Carousels (Images, News & Videos) in Web Results
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="images"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="videos"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="news"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-images"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-videos"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-news"]
