@@ -39,6 +39,9 @@
 @@||proton.me^
 @@||protonvpn.com^
 
+# S
+@@||superuser.com^
+
 # W
 @@||wise.com^
 
