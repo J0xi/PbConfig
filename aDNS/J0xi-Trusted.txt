@@ -1,1 +1,50 @@
+# Title: J0xi's Trusted
+# Info: Always Trusted Sites
+# https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Trusted.txt
+# https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Trusted.txt
+# Note: Long-term trusted sites for aDNS & uBO
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
+# C
+@@||codeberg.org^
+
+# D
+@@||dijnet.hu^
+
+# F
+@@||filen-1.net^
+@@||filen-2.net^
+@@||filen-3.net^
+@@||filen-4.net^
+@@||filen-5.net^
+@@||filen.io^
+@@||filen.net^
+
+# G
+@@||github.com^
+
+# I
+@@||investopedia.com^
+
+# M
+@@||manualslib.com^
+
+# N
+@@||njal.la^
+
+# P
+@@||paypal.com^
+@@||proton.me^
+@@||protonvpn.com^
+
+# R
+@@||direktnet.raiffeisen.hu^
+
+# U
+@@||ebanking-ch1.ubs.com^
+@@||ebanking-ch2.ubs.com^
+@@||ebanking-ch3.ubs.com^
+@@||ebanking-ch4.ubs.com^
+
+# W
+@@||wise.com^
