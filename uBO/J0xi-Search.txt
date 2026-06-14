@@ -15,3 +15,6 @@ duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[da
 duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-images"]
 duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-videos"]
 duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-news"]
+
+! Footer
+duckduckgo.com##.footer
