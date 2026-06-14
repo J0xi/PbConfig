@@ -1,11 +1,20 @@
 # Title: J0xi's Trusted
-# Info: Always rusted Sites
+# Info: Always Trusted Sites
 # https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Trusted.txt
 # https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Trusted.txt
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
 # D
 dijnet.hu
+
+# F
+@@||filen-5.net^
+@@||filen-4.net^
+@@||filen-3.net^
+@@||filen-2.net^
+@@||filen-1.net^
+@@||filen.net^
+@@||filen.io^
 
 # R
 direktnet.raiffeisen.hu
