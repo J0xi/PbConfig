@@ -5,21 +5,22 @@
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
 # D
-dijnet.hu
+@@||dijnet.hu^
 
 # F
-@@||filen-5.net^
-@@||filen-4.net^
-@@||filen-3.net^
-@@||filen-2.net^
 @@||filen-1.net^
-@@||filen.net^
+@@||filen-2.net^
+@@||filen-3.net^
+@@||filen-4.net^
+@@||filen-5.net^
 @@||filen.io^
+@@||filen.net^
 
 # R
-direktnet.raiffeisen.hu
+@@||direktnet.raiffeisen.hu^
 
 # U
-ebanking-ch1.ubs.com
-ebanking-ch2.ubs.com
-ebanking-ch4.ubs.com
+@@||ebanking-ch1.ubs.com^
+@@||ebanking-ch2.ubs.com^
+@@||ebanking-ch3.ubs.com^
+@@||ebanking-ch4.ubs.com^
