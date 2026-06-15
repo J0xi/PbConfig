@@ -17,12 +17,14 @@
 # ...........................................................................................
 # A > Top Header/Masthead Elements
 
-# Create/Upload Button
+# Create Button
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 
 # Hamburger Menu Button
 www.youtube.com###guide-button
 
 # Notifications Bell
+www.youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
 
 # Restricted Mode On/Off Toggle
 www.youtube.com##ytd-compact-link-renderer.yt-multi-page-menu-section-renderer.style-scope:nth-of-type(3)
