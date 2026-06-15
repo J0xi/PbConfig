@@ -1,5 +1,5 @@
 # Title: J0xi's Search
-# Info: AdGuard DNS Filters
+# Info: Blocks Unwanted Search Engines & Search Features
 # https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Search.txt
 # https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Search.txt
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
@@ -7,7 +7,8 @@
 # Brave Search
 
 # Carousels (Images, News & Videos) in Web Results
-
+safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(4)
+safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(6)
 
 # Search Elsewhere Wrapper
 safe.search.brave.com##.svelte-xvh2t2.search-elsewhere-wrapper
@@ -29,6 +30,9 @@ duckduckgo.com##.footer
 # Homepage Bottom Arrow
 duckduckgo.com##.pull-tab-scroll-button_pullTabScrollButtonContainer__erxXa
 
+# Homepage Bottom Wrapper
+duckduckgo.com##.minimal-homepage_belowTheFoldWrapper__T6mG9
+
 # Sidebar Button
 duckduckgo.com##.js-side-menu-open.header__button--menu
 duckduckgo.com##.header_menuButton__FRHct.header_headerButton__hj3Nb
@@ -39,3 +43,6 @@ duckduckgo.com##.sideMenu_positionRight__Z1_Vc.sideMenu_sideMenu__6CZ1k
 
 # Related Searches
 duckduckgo.com##.at-bottom.t-m.related-searches
+
+# .........................................................................................
+# Qwant
