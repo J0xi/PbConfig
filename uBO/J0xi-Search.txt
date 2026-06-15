@@ -11,6 +11,9 @@ safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
 safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(4)
 safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(6)
 
+# People Also Ask
+safe.search.brave.com###faq
+
 # Search Elsewhere Wrapper
 safe.search.brave.com##.svelte-xvh2t2.search-elsewhere-wrapper
 
