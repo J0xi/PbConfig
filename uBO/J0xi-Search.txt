@@ -45,4 +45,18 @@ duckduckgo.com##.sideMenu_positionRight__Z1_Vc.sideMenu_sideMenu__6CZ1k
 duckduckgo.com##.at-bottom.t-m.related-searches
 
 # .........................................................................................
+# Swisscows
+
+# News Carousel
+swisscows.com##.widget-news.widget
+
+# .........................................................................................
 # Qwant
+
+# Images Carousel
+www.qwant.com##.EBqum
+
+# .........................................................................................
+# ...
+
+
