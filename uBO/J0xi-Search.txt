@@ -18,8 +18,8 @@ brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-typ
 # People Also Ask
 brave.com,safe.search.brave.com###faq
 
-# SafeSearch Toggle
-brave.com,safe.search.brave.com##section.svelte-uguqax.card:nth-of-type(2) > .responsive.svelte-3ltauh
+# Related Queries
+safe.search.brave.com##.svelte-1ndh8p4.related-queries-wrapper
 
 # > Images
 # Find Elsewhere Wrapper
@@ -32,7 +32,6 @@ safe.search.brave.com##section.svelte-uguqax.card:nth-of-type(2) > .responsive.s
 
 # Share Feedback
 safe.search.brave.com##.feedback
-
 
 # .........................................................................................
 # DuckDuckGo
