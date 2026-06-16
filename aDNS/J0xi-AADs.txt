@@ -1,24 +1,23 @@
-# Title: J0xi's AADs
-# Info: Always Allowed Domains
-# https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-AADs.txt
-# https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-AADs.txt
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# .........................................................................................
+! Title: J0xi's AADs
+! Info: Always Allowed Domains
+! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-AADs.txt
+! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-AADs.txt
+! .........................................................................................
 ||adguard-import-test.example.com^
-# .........................................................................................
-# DOMAINS
+! .........................................................................................
+! DOMAINS
 
-# A
+! A
 @@||alternativeto.net^
 
-# C
+! C
 @@||chatplayground.ai^
 @@||codeberg.org^
 
-# D
+! D
 @@||dijnet.hu^
 
-# F
+! F
 @@||filen-1.net^
 @@||filen-2.net^
 @@||filen-3.net^
@@ -28,38 +27,38 @@
 @@||filen.net^
 @@||freedom.to^
 
-# G
+! G
 @@||github.com^
 @@||github.dev^
 
-# I
+! I
 @@||investopedia.com^
 
-# M
+! M
 @@||manualslib.com^
 
-# N
+! N
 @@||njal.la^
 
-# P
+! P
 @@||paypal.com^
 @@||proton.me^
 @@||protonvpn.com^
 
-# S
+! S
 @@||stackoverflow.com^
 @@||superuser.com^
 
-# W
+! W
 @@||wise.com^
 
-# .........................................................................................
-# SUBDOMAINS
+! .........................................................................................
+! SUBDOMAINS
 
-# R
+! R
 @@||direktnet.raiffeisen.hu^
 
-# U
+! U
 @@||ebanking-ch1.ubs.com^
 @@||ebanking-ch2.ubs.com^
 @@||ebanking-ch3.ubs.com^
