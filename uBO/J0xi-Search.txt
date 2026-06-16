@@ -7,6 +7,9 @@
 # Brave Search
 
 # > All
+# Ad Place Card
+safe.search.brave.com##.svelte-jgbvta.mt-3xl.side-grid
+
 # Carousels (Images, News & Videos) in Web Results
 brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
 brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(4)
@@ -16,6 +19,7 @@ brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-typ
 brave.com,safe.search.brave.com###faq
 
 # SafeSearch
+
 
 # > Images
 # Find Elsewhere Wrapper
