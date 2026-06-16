@@ -8,7 +8,7 @@
 
 # > All
 # Ad Place Card
-safe.search.brave.com##.svelte-jgbvta.mt-3xl.side-grid
+brave.com,safe.search.brave.com##.svelte-jgbvta.mt-3xl.side-grid
 
 # Carousels (Images, News & Videos) in Web Results
 brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
@@ -18,8 +18,8 @@ brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-typ
 # People Also Ask
 brave.com,safe.search.brave.com###faq
 
-# SafeSearch
-
+# SafeSearch Toggle
+brave.com,safe.search.brave.com##section.svelte-uguqax.card:nth-of-type(2) > .responsive.svelte-3ltauh
 
 # > Images
 # Find Elsewhere Wrapper
