@@ -27,11 +27,12 @@ brave.com,safe.search.brave.com##.svelte-xvh2t2.search-elsewhere-wrapper
 brave.com,safe.search.brave.com##.padded.svelte-1qhxjcj.image-result-search-elsewhere.image-result
 
 # > Quick Settings
-
-
-
 # Safe Search Toggle
 safe.search.brave.com##section.svelte-uguqax.card:nth-of-type(2) > .responsive.svelte-3ltauh
+
+# Share Feedback
+safe.search.brave.com##.feedback
+
 
 # .........................................................................................
 # DuckDuckGo
