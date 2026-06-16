@@ -8,20 +8,19 @@
 
 # > All
 # Carousels (Images, News & Videos) in Web Results
-safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
-safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(4)
-safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(6)
+brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
+brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(4)
+brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(6)
 
 # People Also Ask
-safe.search.brave.com###faq
+brave.com,safe.search.brave.com###faq
 
 # SafeSearch
 
 # > Images
-# Search Elsewhere Wrapper
-safe.search.brave.com##.svelte-xvh2t2.search-elsewhere-wrapper
-
-# 
+# Find Elsewhere Wrapper
+brave.com,safe.search.brave.com##.svelte-xvh2t2.search-elsewhere-wrapper
+brave.com,safe.search.brave.com##.padded.svelte-1qhxjcj.image-result-search-elsewhere.image-result
 
 # .........................................................................................
 # DuckDuckGo
