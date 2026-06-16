@@ -25,6 +25,7 @@
 
 # G
 @@||github.com^
+@@||github.dev^
 
 # I
 @@||investopedia.com^
