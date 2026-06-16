@@ -7,6 +7,7 @@
 # DOMAINS
 
 # C
+@@||chatplayground.ai^
 @@||codeberg.org^
 
 # D
@@ -20,6 +21,7 @@
 @@||filen-5.net^
 @@||filen.io^
 @@||filen.net^
+@@||freedom.to^
 
 # G
 @@||github.com^
