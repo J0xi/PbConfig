@@ -45,6 +45,9 @@
 ! N
 @@||njal.la^
 
+! O
+@@||one.hu^
+
 ! P
 @@||paypal.com^
 @@||proton.me^
@@ -56,7 +59,6 @@
 
 ! U
 @@||unsplash.com^
-# Needed for Super Productivity
 
 ! V
 @@||viber.com^
