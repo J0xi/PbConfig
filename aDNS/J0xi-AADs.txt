@@ -10,6 +10,7 @@
 ! A
 @@||alternativeto.net^
 @@||amazon.*^
+@@||archive.org^$important
 
 ! C
 @@||chatplayground.ai^
