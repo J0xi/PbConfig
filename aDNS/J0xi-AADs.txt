@@ -9,6 +9,7 @@
 
 ! A
 @@||alternativeto.net^
+@@||amazon.*^
 
 ! C
 @@||chatplayground.ai^
