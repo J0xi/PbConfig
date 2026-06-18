@@ -16,6 +16,7 @@
 @@||codeberg.org^
 
 ! D
+@@||deepl.com^
 @@||dijnet.hu^
 
 ! F
