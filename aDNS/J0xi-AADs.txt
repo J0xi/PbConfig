@@ -58,6 +58,9 @@
 @@||unsplash.com^
 # Needed for Super Productivity
 
+! V
+@@||viber.com^
+
 ! W
 @@||wise.com^
 @@||wondershare.*
