@@ -54,6 +54,10 @@
 @@||stackoverflow.com^
 @@||superuser.com^
 
+! U
+@@||unsplash.com^
+# Needed for Super Productivity
+
 ! W
 @@||wise.com^
 @@||wondershare.*
