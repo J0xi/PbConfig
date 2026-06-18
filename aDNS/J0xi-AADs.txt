@@ -19,6 +19,9 @@
 @@||deepl.com^
 @@||dijnet.hu^
 
+! E
+@@||ebay.*^
+
 ! F
 @@||filen-1.net^
 @@||filen-2.net^
