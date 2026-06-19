@@ -12,6 +12,7 @@
 @@||alternativeto.net^
 @@||amazon.*^
 @@||archive.org^$important
+@@||arukereso.hu^
 
 ! C
 @@||chatplayground.ai^
