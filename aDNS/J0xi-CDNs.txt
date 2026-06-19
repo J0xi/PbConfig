@@ -20,6 +20,9 @@
 ! O
 @@||cdn.optimizely.com^
 
+! R
+@@||cdn.rawgit.com^
+
 ! S
 @@||cdn.snigelweb.com^
 
