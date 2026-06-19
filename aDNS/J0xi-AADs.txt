@@ -70,6 +70,8 @@
 
 ! V
 @@||viber.com^
+@@||vinted.com^
+@@||vinted.hu^
 
 ! W
 @@||wise.com^
