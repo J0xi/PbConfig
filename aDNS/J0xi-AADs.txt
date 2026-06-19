@@ -8,6 +8,7 @@
 ! DOMAINS
 
 ! A
+@@||accuweather.com
 @@||alternativeto.net^
 @@||amazon.*^
 @@||archive.org^$important
