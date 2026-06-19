@@ -3,6 +3,4 @@
 ! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-ABDs.txt
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-ABDs.txt
 ! .........................................................................................
-||adguard-import-test.example.com^
-! .........................................................................................
 ! DOMAINS
