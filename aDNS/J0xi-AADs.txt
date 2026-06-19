@@ -92,6 +92,8 @@
 
 ! R
 @@||direktnet.raiffeisen.hu^
+@@||rmp.rakuten.com^
+
 
 ! U
 @@||ebanking-ch1.ubs.com^
