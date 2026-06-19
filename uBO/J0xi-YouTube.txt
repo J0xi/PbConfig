@@ -93,6 +93,7 @@ www.youtube.com##ytd-movie-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com##.ytSmartImationsEnableMasking.ytSmartImationsHost.ytd-subscribe-button-renderer.style-scope
 
 # Join Button
+www.youtube.com###sponsor-button
 
 # Like/Dislike, Share & Save Buttons Strip
 www.youtube.com###actions
