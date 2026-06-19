@@ -91,6 +91,9 @@
 ! .........................................................................................
 ! SUBDOMAINS
 
+! C
+@@||dictionary.cambridge.org^
+
 ! M
 @@||static-data2.manualslib.com^
 @@||static2.manualslib.com^
