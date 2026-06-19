@@ -39,6 +39,7 @@
 @@||garmin.com^
 @@||github.com^
 @@||github.dev^
+@@||gutenberg.org^
 
 ! I
 @@||inoreader.com^
