@@ -39,6 +39,10 @@
 ! A
 ||ancdn.com^
 
+! B
+||b-cdn.net^
+||explicit.bing.net^
+
 ! C
 ||cdn77.org^
 ||cdnclouder.com^
@@ -61,9 +65,8 @@
 ||tnastatic.com^
 ||tumblr.com^
 
-! ... 
-||ancdn.com^
-||b-cdn.net^
-||explicit.bing.net^
+! X
 ||xhcdn.com^
-||ypncdn.com^
+
+! Y
+||ypncdn.com^3
