@@ -14,6 +14,9 @@
 @@||cdn.cookielaw.org^
 @@||delivery.consentmanager.net^
 
+! E
+@@||elfsightcdn.com^
+
 ! F
 @@||cdn.filen.io^
 
@@ -22,6 +25,7 @@
 
 ! R
 @@||cdn.rawgit.com^
+@@||cdn.riastatic.com^
 
 ! S
 @@||cdn.snigelweb.com^
@@ -29,12 +33,11 @@
 ! V
 @@||vpncdn.protonweb.com^
 
-! ...
-@@||elfsightcdn.com^
-@@||cdn.riastatic.com^
-
 ! .........................................................................................
 ! BLOCKED
+
+! A
+||ancdn.com^
 
 ! C
 ||cdn77.org^
