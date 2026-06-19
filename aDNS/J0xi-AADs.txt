@@ -41,6 +41,7 @@
 @@||garmin.com^
 @@||github.com^
 @@||github.dev^
+@@||googletagmanager.com^
 @@||gravatar.com^
 @@||gutenberg.org^
 
