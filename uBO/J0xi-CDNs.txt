@@ -55,7 +55,6 @@
 
 # ... 
 ||ancdn.com^
-||b-cdn.net^
 ||explicit.bing.net^
 ||xhcdn.com^
 ||ypncdn.com^
