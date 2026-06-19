@@ -9,6 +9,7 @@
 
 ! A
 @@||accuweather.com^
+@@||adtidy.org^
 @@||alternativeto.net^
 @@||amazon.*^
 @@||archive.org^$important
