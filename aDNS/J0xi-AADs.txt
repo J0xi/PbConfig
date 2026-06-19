@@ -42,7 +42,7 @@
 @@||investopedia.com^
 
 ! M
-@@||manualslib.com^
+@@||manualslib.com^$important
 
 ! N
 @@||njal.la^
