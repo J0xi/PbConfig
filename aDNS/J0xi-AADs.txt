@@ -29,6 +29,7 @@
 @@||ebay.*^
 
 ! F
+@@||featureassets.org^
 @@||filen-1.net^
 @@||filen-2.net^
 @@||filen-3.net^
