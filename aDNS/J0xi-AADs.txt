@@ -56,7 +56,11 @@
 @@||proton.me^
 @@||protonvpn.com^
 
+! R
+@@||researchgate.net^
+
 ! S
+@@||scribd.com^
 @@||stackoverflow.com^
 @@||superuser.com^
 
