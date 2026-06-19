@@ -23,6 +23,9 @@
 ! S
 @@||cdn.snigelweb.com^
 
+! V
+@@||vpncdn.protonweb.com^
+
 ! ...
 @@||elfsightcdn.com^
 @@||cdn.riastatic.com^
