@@ -4,23 +4,34 @@
 # https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Browsers.txt
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
+# A
 ||arc.net^
 ||avantbrowser.com^
 ||avast.com/secure-browser^  
 ||avg.com/en-ww/secure-browser^
+
+# B
 ||beakerbrowser.com^
 ||boltbrowser.app^
 ||browser.qq.com^
 ||browser.yandex.com^
+
+# C
 ||chameleonbrowser.com^
 ||chromium.org^
 ||citrio.com^
 ||comet.perplexity.ai^
+
+# D
 ||diabrowser.com^
 ||dolphin-browser-app.com^
 ||dolphin.com
 ||dolphinbrowserfree.com^
+
+# E
 ||epicbrowser.com^
+
+# F
 ||falkon.org^
 ||flashpeak.com^
 ||floorp.app^
