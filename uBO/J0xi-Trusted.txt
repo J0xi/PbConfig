@@ -1,48 +1,18 @@
 # Title: J0xi's Trusted
 # Info: Always Trusted Sites
-# Note: Trusted = aDNS's AADs
 # https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Trusted.txt
 # https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Trusted.txt
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # .........................................................................................
 # DOMAINS
 
-# C
-@@||codeberg.org^
-
 # D
 @@||dijnet.hu^
-
-# F
-@@||filen-1.net^
-@@||filen-2.net^
-@@||filen-3.net^
-@@||filen-4.net^
-@@||filen-5.net^
-@@||filen.io^
-@@||filen.net^
-
-# G
-@@||github.com^
-@@||github.dev^
-
-# I
-@@||investopedia.com^
-
-# M
-@@||manualslib.com^
-
-# N
-@@||njal.la^
 
 # P
 @@||paypal.com^
 @@||proton.me^
 @@||protonvpn.com^
-
-# S
-@@||stackoverflow.com^
-@@||superuser.com^
 
 # W
 @@||wise.com^
