@@ -23,6 +23,9 @@ www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 # Hamburger Menu Button
 www.youtube.com###guide-button
 
+# Help & Send Feedback
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(3)
+
 # Notifications Bell
 www.youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
 
