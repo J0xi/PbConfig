@@ -89,14 +89,8 @@ www.youtube.com##ytd-movie-renderer.ytd-item-section-renderer.style-scope
 # [3] Video Watch Page
 # ...........................................................................................
 
-# Subscribe Button
-www.youtube.com##.ytSmartImationsEnableMasking.ytSmartImationsHost.ytd-subscribe-button-renderer.style-scope
-
-# Join Button
-www.youtube.com###sponsor-button
-
-# Like/Dislike, Share & Save Buttons Strip
-www.youtube.com###actions
+# AutoPlay Button
+www.youtube.com##.delhi-fast-follow-autonav-toggle.ytp-autonav-toggle.ytp-button
 
 # Comments Section
 www.youtube.com##.ytd-comments.style-scope
@@ -104,8 +98,17 @@ www.youtube.com##.ytd-comments.style-scope
 # Endscreen Recommended Videos Grid
 www.youtube.com##.ytp-fullscreen-grid-stills-container
 
+# Join Button
+www.youtube.com###sponsor-button
+
+# Like/Dislike, Share & Save Buttons Strip
+www.youtube.com###actions
+
 # Recommended & Related Videos Sidebar
 www.youtube.com###secondary
+
+# Subscribe Button
+www.youtube.com##.ytSmartImationsEnableMasking.ytSmartImationsHost.ytd-subscribe-button-renderer.style-scope
 
 # ...........................................................................................
 # [4] Channel Page
