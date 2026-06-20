@@ -8,15 +8,18 @@
 
 # > All
 # Ad Place Card
-brave.com,safe.search.brave.com##.svelte-jgbvta.mt-3xl.side-grid
+safe.search.brave.com##.svelte-jgbvta.mt-3xl.side-grid
 
 # Carousels (Images, News & Videos) in Web Results
-brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
-brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(4)
-brave.com,safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(6)
+safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
+safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(4)
+safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(6)
+
+# Find Elsewhere Wrapper
+safe.search.brave.com###search-elsewhere
 
 # People Also Ask
-brave.com,safe.search.brave.com###faq
+safe.search.brave.com###faq
 
 # Related Queries
 safe.search.brave.com##.svelte-1ndh8p4.related-queries-wrapper
@@ -24,8 +27,8 @@ safe.search.brave.com##.svelte-1ndh8p4.related-queries-wrapper
 # ....................
 # > Images
 # Find Elsewhere Wrapper
-brave.com,safe.search.brave.com##.svelte-xvh2t2.search-elsewhere-wrapper
-brave.com,safe.search.brave.com##.padded.svelte-1qhxjcj.image-result-search-elsewhere.image-result
+safe.search.brave.com##.svelte-xvh2t2.search-elsewhere-wrapper
+safe.search.brave.com##.padded.svelte-1qhxjcj.image-result-search-elsewhere.image-result
 
 # ....................
 # > Quick Settings
