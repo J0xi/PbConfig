@@ -21,6 +21,9 @@ brave.com,safe.search.brave.com###faq
 # Related Queries
 safe.search.brave.com##.svelte-1ndh8p4.related-queries-wrapper
 
+# Results Exclude Blocked Sites Notice, Show All Results & Manage Blocked Sites Options
+duckduckgo.com##.rrF8PC7c0I6y2utse7c7
+
 # ....................
 # > Images
 # Find Elsewhere Wrapper
