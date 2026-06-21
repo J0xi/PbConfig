@@ -9,6 +9,9 @@
 # D
 @@||dijnet.hu^
 
+# F
+@@||freedom.to^
+
 # P
 @@||paypal.com^
 @@||proton.me^
