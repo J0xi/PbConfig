@@ -94,6 +94,9 @@
 ! .........................................................................................
 ! SUBDOMAINS
 
+! D
+@@||improving.duckduckgo.com^
+
 ! C
 @@||dictionary.cambridge.org^
 
