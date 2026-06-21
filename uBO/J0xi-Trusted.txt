@@ -12,6 +12,9 @@
 # F
 @@||freedom.to^
 
+# N 
+@@||njal.la^
+
 # P
 @@||paypal.com^
 @@||proton.me^
