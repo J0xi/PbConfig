@@ -27,6 +27,7 @@
 
 ! E
 @@||ebay.*^
+@@||eff.org^
 
 ! F
 @@||featureassets.org^
