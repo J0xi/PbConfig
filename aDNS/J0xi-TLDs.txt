@@ -1,5 +1,5 @@
 ! Title: J0xi's TLDs
-! Info: Allowed & Blocked Content Delivery Networks
+! Info: Blocked Top Level Domains
 ! https://github.com/J0xi/PbConfig/blob/main/aDNS/J0xi-TLDs.txt
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/aDNS/J0xi-TLDs.txt
 ! .........................................................................................
