@@ -26,6 +26,9 @@
 @@||proton.me^
 @@||protonvpn.com^
 
+# R
+@@||raiffeisen.hu^
+
 # W
 @@||wise.com^
 
