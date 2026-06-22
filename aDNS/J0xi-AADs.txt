@@ -106,7 +106,6 @@
 @@||static2.manualslib.com^
 
 ! R
-@@||direktnet.raiffeisen.hu^
 @@||rmp.rakuten.com^
 
 ! U
