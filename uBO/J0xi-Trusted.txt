@@ -35,10 +35,6 @@
 # .........................................................................................
 # SUBDOMAINS
 
-# R
-@@||direktnet.raiffeisen.hu^
-@@||sso.raiffeisen.hu^
-
 # U
 @@||ebanking-ch1.ubs.com^
 @@||ebanking-ch2.ubs.com^
