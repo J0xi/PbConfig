@@ -67,7 +67,6 @@
 @@||protonvpn.com^
 
 ! R
-@@||raiffeisen.hu^
 @@||researchgate.net^
 
 ! S
@@ -106,6 +105,8 @@
 @@||static2.manualslib.com^
 
 ! R
+@@||direktnet.raiffeisen.hu^
+@@||sso.raiffeisen.hu^
 @@||rmp.rakuten.com^
 
 ! U
