@@ -67,6 +67,7 @@
 @@||protonvpn.com^
 
 ! R
+@@||raiffeisen.hu^
 @@||researchgate.net^
 
 ! S
