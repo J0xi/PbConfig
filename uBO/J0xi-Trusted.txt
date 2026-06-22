@@ -26,14 +26,15 @@
 @@||proton.me^
 @@||protonvpn.com^
 
-# R
-@@||raiffeisen.hu^
-
 # W
 @@||wise.com^
 
 # .........................................................................................
 # SUBDOMAINS
+
+# R
+@@||direktnet.raiffeisen.hu^
+@@||sso.raiffeisen.hu^
 
 # U
 @@||ebanking-ch1.ubs.com^
