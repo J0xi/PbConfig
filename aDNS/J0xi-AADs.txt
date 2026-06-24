@@ -52,6 +52,10 @@
 @@||inoreader.com^
 @@||investopedia.com^
 
+! L
+@@||lenovo.com^
+@@||lenovomm.com^
+
 ! M
 @@||manualslib.com^$important
 
