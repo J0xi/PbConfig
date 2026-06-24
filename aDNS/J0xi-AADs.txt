@@ -13,6 +13,8 @@
 @@||alternativeto.net^
 @@||amazon.*^
 @@||archive.org^$important
+
+! 🇭🇺
 @@||arukereso.hu^ 
 
 ! C
@@ -23,6 +25,8 @@
 
 ! D
 @@||deepl.com^
+
+! 🇭🇺
 @@||dijnet.hu^
 
 ! E
@@ -63,6 +67,7 @@
 @@||njal.la^
 
 ! O
+! 🇭🇺
 @@||one.hu^
 
 ! P
@@ -71,6 +76,7 @@
 @@||protonvpn.com^
 
 ! R
+! 🇭🇺
 @@||raiffeisen.hu^
 @@||researchgate.net^
 
