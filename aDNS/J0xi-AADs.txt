@@ -6,8 +6,9 @@
 ||adguard-import-test.example.com^
 ! .........................................................................................
 ! DOMAINS
-
+! ........................................ 
 ! A
+
 @@||accuweather.com^
 @@||adtidy.org^
 @@||alternativeto.net^
@@ -17,23 +18,31 @@
 ! 🇭🇺
 @@||arukereso.hu^ 
 
+! ........................................ 
 ! C
+
 @@||chatplayground.ai^
 @@||cloudflare-dns.com^
 @@||cloudflare.com^
 @@||codeberg.org^
 
+! ........................................ 
 ! D
+
 @@||deepl.com^
 
 ! 🇭🇺
 @@||dijnet.hu^
 
+! ........................................ 
 ! E
+
 @@||ebay.*^
 @@||eff.org^
 
+! ........................................ 
 ! F
+
 @@||featureassets.org^
 @@||filen-1.net^
 @@||filen-2.net^
@@ -44,7 +53,9 @@
 @@||filen.net^
 @@||freedom.to^
 
+! ........................................ 
 ! G
+
 @@||garmin.com^
 @@||github.com^
 @@||github.dev^
@@ -52,73 +63,107 @@
 @@||gravatar.com^
 @@||gutenberg.org^
 
+! ........................................ 
 ! I
+
 @@||inoreader.com^
 @@||investopedia.com^
 
+! ........................................ 
 ! L
+
 @@||lenovo.com^
 @@||lenovomm.com^
 
+! ........................................ 
 ! M
+
 @@||manualslib.com^$important
 
+! ........................................ 
 ! N
+
 @@||njal.la^
 
+! ........................................ 
 ! O
+
 ! 🇭🇺
 @@||one.hu^
 
+! ........................................ 
 ! P
+
 @@||paypal.com^
 @@||proton.me^
 @@||protonvpn.com^
 
+! ........................................ 
 ! R
+
 ! 🇭🇺
 @@||raiffeisen.hu^
+
 @@||researchgate.net^
 
+! ........................................ 
 ! S
+
 @@||scribd.com^
 @@||stackoverflow.com^
 @@||superuser.com^
 
+! ........................................ 
 ! U
+
 @@||unsplash.com^
 
+! ........................................ 
 ! V
+
 @@||viber.com^
 @@||vinted.com^
 @@||vinted.hu^
 @@||visualping.io^
 
+! ........................................ 
 ! W
+
 @@||wise.com^
 @@||wondershare.*
 
+! ........................................ 
 ! Y
+
 @@||youtube.com^
 @@||ytimg.com^
 
 ! .........................................................................................
 ! SUBDOMAINS
-
+! ........................................ 
 ! D
+
 @@||improving.duckduckgo.com^
 
+! ........................................ 
 ! C
+
 @@||dictionary.cambridge.org^
 
+! ........................................ 
 ! M
+
 @@||static-data2.manualslib.com^
 @@||static2.manualslib.com^
 
+! ........................................ 
 ! R
+
 @@||rmp.rakuten.com^
 
+! ........................................ 
 ! U
+
 @@||ebanking-ch1.ubs.com^
 @@||ebanking-ch2.ubs.com^
 @@||ebanking-ch3.ubs.com^
