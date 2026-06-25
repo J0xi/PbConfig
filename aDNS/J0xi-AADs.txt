@@ -24,6 +24,7 @@
 @@||chatplayground.ai^
 @@||cloudflare-dns.com^
 @@||cloudflare.com^
+@@||cloudfront.net^
 @@||codeberg.org^
 
 ! ........................................ 
