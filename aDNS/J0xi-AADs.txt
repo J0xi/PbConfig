@@ -184,3 +184,8 @@
 
 @@||images1.vinted.net^
 @@||services.visualstudio.com^
+
+! ........................................ 
+! Y
+
+@@||finance.yahoo.com^
