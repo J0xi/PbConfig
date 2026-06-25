@@ -80,6 +80,7 @@
 ! M
 
 @@||manualslib.com^$important
+@@||moneymanagerex.org^
 @@||muscache.com^
 
 ! ........................................ 
