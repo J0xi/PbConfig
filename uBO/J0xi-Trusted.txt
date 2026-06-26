@@ -35,7 +35,7 @@
 ! ........................................
 ! M
 
-@@||manualslib.com^
+@@||manualslib.com^$important
 @@||moneymanagerex.org^
 
 ! ........................................
