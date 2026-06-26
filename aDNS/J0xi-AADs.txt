@@ -111,8 +111,8 @@
 ! R
 
 @@||researchgate.net^
-! 🇭🇺
 
+! 🇭🇺
 @@||raiffeisen.hu^
 
 ! ........................................ 
@@ -191,7 +191,6 @@
 
 @@||images1.vinted.net^
 @@||services.visualstudio.com^
-
 ! ........................................ 
 ! Y
 
