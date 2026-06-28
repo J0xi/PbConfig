@@ -167,9 +167,15 @@
 @@||improving.duckduckgo.com^
 
 ! ........................................ 
+! G
+
+! 🇷🇸
+@@||img.goglasi.com^
+
+! ........................................ 
 ! M
 
-@@||static-data2.manualslib.com^
+@@||static-data2.manualslib.com^ 
 @@||static2.manualslib.com^
 
 ! ........................................ 
