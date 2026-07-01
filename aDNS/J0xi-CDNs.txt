@@ -4,20 +4,27 @@
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/aDNS/J0xi-CDNs.txt
 ! .........................................................................................
 ! ALLOWED
+! ........................................ 
+! A
 
-! A 
 @@||akcdn.net^
 @@||assetsconfigcdn.org
 
+! ........................................ 
 ! C
+
 @@||cdn.consentmanager.net^
 @@||cdn.cookielaw.org^
 @@||delivery.consentmanager.net^
 
+! ........................................ 
 ! E
+
 @@||elfsightcdn.com^
 
+! ........................................ 
 ! F
+
 @@||cdn.filen.io^
 
 ! O
