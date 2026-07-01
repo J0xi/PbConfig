@@ -19,11 +19,6 @@
 @@||archive.org^$important
 
 ! ........................................ 
-! B
-
-@@||bleepingcomputer.com^
-
-! ........................................ 
 ! C
 
 @@||chatplayground.ai^
