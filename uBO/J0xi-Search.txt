@@ -76,6 +76,9 @@ duckduckgo.com##.header_menuButton__FRHct.header_headerButton__hj3Nb
 duckduckgo.com##.is-open.js-menu--slideout.nav-menu--slideout
 duckduckgo.com##.sideMenu_positionRight__Z1_Vc.sideMenu_sideMenu__6CZ1k
 
+# Videos Tab
+duckduckgo.com##.DrcNDXeWs90rE8UOUh96.XvPRmQVeIoCP5lQhICTv > li:nth-of-type(3)
+
 # .........................................................................................
 # SWISSCOWS
 
