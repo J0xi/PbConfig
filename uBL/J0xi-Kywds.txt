@@ -1,9 +1,10 @@
-# Title: Ci0x's Kywds
+# Title: J0xi's Keywords
 # Info: Hides Sites by Matching Keywords in Titles
 # Note: Import as 'Ruleset'
 # https://github.com/J0xi/PbConfig/blob/main/uBL/J0xi-Kywds.txt
 # https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBL/J0xi-Kywds.txt
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# ....................................................................................
 
 # [1] A
 # [2] B
