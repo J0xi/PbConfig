@@ -1,7 +1,7 @@
 # Title: Ci0x's Kywds
 # Info: Hides Sites by Matching Keywords in Titles
 # Note: Import as 'Ruleset'
-# https://codeberg.org/Ci0x/PbConfig/src/branch/main/uBL/Ci0x%27s%20Kywds.txt
+# https://github.com/J0xi/PbConfig/blob/main/uBL/J0xi-Kywds.txt
 # https://codeberg.org/Ci0x/PbConfig/raw/branch/main/uBL/Kywds.txt
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
