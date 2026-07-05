@@ -122,6 +122,7 @@
 ! S
 
 @@||scribd.com^
+@@||sonetel.com^
 @@||stackoverflow.com^
 @@||superuser.com^
 
