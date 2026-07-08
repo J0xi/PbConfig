@@ -1,17 +1,17 @@
-# Title: J0xi's Spam
-# Info: AdGuard DNS Filters
-# https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Spam.txt
-# https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Spam.txt
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! Title: J0xi's Spam
+! Info: AdGuard DNS Filters
+! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Spam.txt
+! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Spam.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
-# Affiliate SEO spam
+! Affiliate SEO spam
 
 ||bestreviewsite.com^
 ||productrankings.co^
 ||top10best.com^
 
-# –––––––––––––––––––––––––––––––––––––––– 
-# AI Generated Content
+! –––––––––––––––––––––––––––––––––––––––– 
+! AI Generated Content
 
 ||answerbun.com^
 ||answercatch.com^
@@ -54,8 +54,8 @@
 ||vimbuzz.com^
 ||yourquickinfo.com^
 
-# –––––––––––––––––––––––––––––––––––––––– 
-# Bios
+! –––––––––––––––––––––––––––––––––––––––– 
+! Bios
 
 ||arrivebio.org^
 ||articlebio.com^
@@ -94,8 +94,8 @@
 ||purebiography.com^
 ||shortbiography.info^
 
-# –––––––––––––––––––––––––––––––––––––––– 
-# Celebs
+! –––––––––––––––––––––––––––––––––––––––– 
+! Celebs
 
 ||celebsaga.com^
 ||celebsagewiki.com^
@@ -593,8 +593,8 @@
 ||yolocelebs.com^
 ||yourcelebrity.net^
 
-# –––––––––––––––––––––––––––––––––––––––– 
-# Fame & Glamour
+! –––––––––––––––––––––––––––––––––––––––– 
+! Fame & Glamour
 
 ||allfamous.org^
 ||allfamoustrend.com^
@@ -652,8 +652,8 @@
 ||toptenfamous.co^
 ||waytofamous.com^
 
-# –––––––––––––––––––––––––––––––––––––––– 
-# Gossip & Rumors
+! –––––––––––––––––––––––––––––––––––––––– 
+! Gossip & Rumors
 
 ||allstargossip.com^
 ||bbcgossip.com^
@@ -753,8 +753,8 @@
 ||timessquaregossip.com^
 ||ubergossip.com^
 
-# –––––––––––––––––––––––––––––––––––––––– 
-# Hollywood
+! –––––––––––––––––––––––––––––––––––––––– 
+! Hollywood
 
 ||accesshollywoodtours.com^
 ||diaryofahollywoodstreetking.com^
@@ -781,8 +781,8 @@
 ||hollywoodzam.com^
 ||thehollywoodgossip.com^
 
-# –––––––––––––––––––––––––––––––––––––––– 
-# Jet-Set
+! –––––––––––––––––––––––––––––––––––––––– 
+! Jet-Set
 
 ||designjetset.com^
 ||drinkjetset.com^
@@ -829,8 +829,8 @@
 ||twojetsetdivas.com^
 ||ultimate-jetset.xooit.com^
 
-# –––––––––––––––––––––––––––––––––––––––– 
-# Networth
+! –––––––––––––––––––––––––––––––––––––––– 
+! Networth
 
 ||anetworth.net^
 ||bossnetworth.com^
@@ -882,8 +882,8 @@
 ||vipnetworth.com^
 ||wealthypeeps.com^
 
-# –––––––––––––––––––––––––––––––––––––––– 
-# Ppl & Pop Culture
+! –––––––––––––––––––––––––––––––––––––––– 
+! Ppl & Pop Culture
 
 ||123people.com^
 ||actualitepeople.tootisy.com^
@@ -977,8 +977,8 @@
 ||thepeoplehistory.com^
 ||waterforpeople.org^
 
-# –––––––––––––––––––––––––––––––––––––––– 
-# Stardom & Stars
+! –––––––––––––––––––––––––––––––––––––––– 
+! Stardom & Stars
 
 ||actu-star.be^
 ||actualite-de-stars.com^
@@ -1086,8 +1086,8 @@
 ||wonderfull-stars.skyrock.com^
 ||yoursuperstar.com^
 ||zoomstars.co^
-# –––––––––––––––––––––––––––––––––––––––– 
-# Wikis
+! –––––––––––––––––––––––––––––––––––––––– 
+! Wikis
 
 ||aidwiki.com^
 ||biographywiki.net^
