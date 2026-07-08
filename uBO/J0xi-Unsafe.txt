@@ -15,15 +15,14 @@
 ||filehippo.com^
 ||filehorse.com^
 
+! I
+||indusappstore.com^
+
 ! S
 ||softpedia.com^
 
 ! U
 ||uptodown.com^
+
+
 ||download.cnet.com^
-
-
-
-||apps.apple.com^
-||indusappstore.com^
-
