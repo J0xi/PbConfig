@@ -1,43 +1,43 @@
-# Title: J0xi's Browsers
-# Info: AdGuard DNS Filters
-# https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Browsers.txt
-# https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Browsers.txt
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! Title: J0xi's Browsers
+! Info: AdGuard DNS Filters
+! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Browsers.txt
+! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Browsers.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
-# A
+! A
 ||arc.net^
 ||avantbrowser.com^
 ||avast.com/secure-browser^  
 ||avg.com/en-ww/secure-browser^
 
-# B
+! B
 ||beakerbrowser.com^
 ||boltbrowser.app^
 ||browser.qq.com^
 ||browser.yandex.com^
 
-# C
+! C
 ||chameleonbrowser.com^
 ||chromium.org^
 ||citrio.com^
 ||comet.perplexity.ai^
 
-# D
+! D
 ||diabrowser.com^
 ||dolphin-browser-app.com^
 ||dolphin.com
 ||dolphinbrowserfree.com^
 
-# E
+! E
 ||epicbrowser.com^
 
-# F
+! F
 ||falkon.org^
 ||flashpeak.com^
 ||floorp.app^
 ||fluidbrowser.com^
 
-# G
+! G
 ||getdot.js.org^
 ||ghostery.com/private-browser^
 ||google.com/chrome/beta^
@@ -45,39 +45,39 @@
 ||google.com/chrome/dev^
 ||google.com/chrome^
 
-# I
+! I
 ||icab.de^
 ||ilvruan.com^
 ||iridiumbrowser.de^
 
-# K
+! K
 ||kingpinbrowser.com^
 ||kmeleonbrowser.org^
 
-# L
+! L
 ||librewolf.net^
 ||lunascape.org^
 ||lunascape.tv^
 
-# M
+! M
 ||maxthon.com^
 ||microsoft.com/edge^
 ||microsoft.com/en-us/edge^
 ||morequick.com^
 
-# O
+! O
 ||omnigroup.com/more^
 ||opera.com^
 
-# P
+! P
 ||palemoon.org^
 ||polaritybrowser.netlify.app
 ||puffin.com^
 
-# R
+! R
 ||runecats.com^
 
-# S
+! S
 ||salamweb.com^
 ||seamonkey-project.org^
 ||secure-browser.com^
@@ -87,22 +87,22 @@
 ||soliton.co.jp^
 ||srware.net^
 
-# T
+! T
 ||torchbrowser.com^
 ||torproject.org^
 
-# U
+! U
 ||ucweb.com^
 ||ungoogled-software.github.io/ungoogled-chromium^
 
-# V
+! V
 ||vivaldi.com^
 
-# W
+! W
 ||waterfox.net^
 ||webkit.org^
 ||whale.naver.com^
 ||wwwdotbrowser.webs.com^
 
-# Y
+! Y
 ||yandex.com/browser^
