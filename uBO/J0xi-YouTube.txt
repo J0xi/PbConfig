@@ -6,16 +6,16 @@
 ! .........................................................................................
 ! ToC
 
-! [1] Homepage
-! [2] Video Results Page
-! [3] Video Watch Page
-! [4] Channel Page
-! [5] Misc
+! [1] HOMEPAGE
+! [2] VIDEO RESULTS PAGE
+! [3] VIDEO WATCH PAGE
+! [4] CHANNEL PAGE
+! [5] MISC
 
 ! ...........................................................................................
-! [1] Homepage
+! [1] HOMEPAGE
 ! ...........................................................................................
-! > Top Header/Masthead Elements
+! Top Header/Masthead Elements
 
 ! Create Button
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
@@ -36,7 +36,7 @@ www.youtube.com##ytd-compact-link-renderer.yt-multi-page-menu-section-renderer.s
 www.youtube.com###center > .ytd-masthead.style-scope
 
 ! ........................................
-! > Left Sidebar
+! Left Sidebar
 
 ! Home, Shorts, You & History
 www.youtube.com###guide-renderer > .ytd-guide-renderer.style-scope
@@ -59,7 +59,7 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com###footer
 
 ! ........................................
-! > Recommendations Grid
+! Recommendations Grid
 
 ! Don't Miss New Videos Promo
 www.youtube.com##yt-icon.ytd-background-promo-renderer.style-scope.image > .ytSpecIconShapeHost.yt-icon.style-scope.yt-icon-shape > div
@@ -71,7 +71,7 @@ www.youtube.com##.ytd-background-promo-renderer.style-scope
 www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
 
 ! ...........................................................................................
-! [2] Video Results Page
+! [2] VIDEO RESULTS PAGE
 ! ...........................................................................................
 
 ! About These Results
@@ -92,7 +92,7 @@ www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of
 www.youtube.com##ytd-movie-renderer.ytd-item-section-renderer.style-scope
 
 ! ...........................................................................................
-! [3] Video Watch Page
+! [3] VIDEO WATCH PAGE
 ! ...........................................................................................
 
 ! AutoPlay Button
@@ -117,7 +117,7 @@ www.youtube.com###secondary
 www.youtube.com##.ytSmartImationsEnableMasking.ytSmartImationsHost.ytd-subscribe-button-renderer.style-scope
 
 ! ...........................................................................................
-! [4] Channel Page
+! [4] CHANNEL PAGE
 ! ...........................................................................................
 
 ! Banner
