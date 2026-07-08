@@ -1,27 +1,27 @@
-# Title: J0xi's Search
-# Info: Blocks Unwanted Search Engines & Search Features
-# https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Search.txt
-# https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Search.txt
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# .........................................................................................
-# BRAVE SEARCH
+! Title: J0xi's Search
+! Info: Blocks Unwanted Search Engines & Search Features
+! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Search.txt
+! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Search.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! .........................................................................................
+! BRAVE SEARCH
 
-# > All
-# Ad Place Card
+! > All
+! Ad Place Card
 safe.search.brave.com##.svelte-jgbvta.mt-3xl.side-grid
 
-# Carousels (Images, News & Videos) in Web Results
+! Carousels (Images, News & Videos) in Web Results
 safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
 safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(4)
 safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(6)
 
-# Find Elsewhere Wrapper
+! Find Elsewhere Wrapper
 safe.search.brave.com###search-elsewhere
 
-# People Also Ask
+! People Also Ask
 safe.search.brave.com###faq
 
-# Related Queries
+! Related Queries
 safe.search.brave.com##.svelte-1ndh8p4.related-queries-wrapper
 
 # ....................
