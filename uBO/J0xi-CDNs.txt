@@ -1,59 +1,59 @@
-# Title: J0xi's CDNs
-# Info: Allowed & Blocked Content Delivery Networks
-# https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-CDNs.txt
-# https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-CDNs.txt
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# .........................................................................................
-# Allowed
+! Title: J0xi's CDNs
+! Info: Allowed & Blocked Content Delivery Networks
+! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-CDNs.txt
+! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-CDNs.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! .........................................................................................
+! Allowed
 
-# A 
+! A 
 @@||akcdn.net^
 @@||assetsconfigcdn.org
 
-# C
+! C
 @@||cdn.consentmanager.net^
 @@||cdn.cookielaw.org^
 @@||delivery.consentmanager.net^
 
-# F
+! F
 @@||cdn.filen.io^
 
-# O
+! O
 @@||cdn.optimizely.com^
 
-# S
+! S
 @@||cdn.snigelweb.com^
 
-# ...
+! ...
 @@||elfsightcdn.com^
 @@||cdn.riastatic.com^
 
-# .........................................................................................
-# Blocked
+! .........................................................................................
+! Blocked
 
-# C
+! C
 ||cdn77.org^
 ||cdnclouder.com^
 ||lmjcdn.com^
 ||mrskincdn.com^
 ||naughtycdn.com^
 
-# P
+! P
 ||panheal-cdn.net^
 ||phncdn.com^
 ||pump-cdn.com^
 
-# R
+! R
 ||rdtcdn.com^
 ||reflected.net^
 ||stfucdn.com^
 
-# T
+! T
 ||t8cdn.com^
 ||tnastatic.com^
 ||tumblr.com^
 
-# ... 
+! ... 
 ||ancdn.com^
 ||explicit.bing.net^
 ||xhcdn.com^
