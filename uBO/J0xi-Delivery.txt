@@ -4,13 +4,23 @@
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Delivery.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
+! B
+||boltfood.com^
+
+! F
 ||foodora.at^
 ||foodora.com^
 ||foodora.hu^
+
+! D
 ||deliveryhero.com^
-||wolt.com^
 ||doordash.com^
+
+! U
 ||ubereats.com^
-||ubareats.com^
-||boltfood.com^
+
+! W
+||wolt.com^
+
+
 ||food.bolt.eu^
