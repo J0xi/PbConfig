@@ -15,7 +15,7 @@
 ! ...........................................................................................
 ! [1] Homepage
 ! ...........................................................................................
-! A > Top Header/Masthead Elements
+! > Top Header/Masthead Elements
 
 ! Create Button
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
@@ -36,7 +36,7 @@ www.youtube.com##ytd-compact-link-renderer.yt-multi-page-menu-section-renderer.s
 www.youtube.com###center > .ytd-masthead.style-scope
 
 ! ........................................
-! B > Left Sidebar
+! > Left Sidebar
 
 ! Home, Shorts, You & History
 www.youtube.com###guide-renderer > .ytd-guide-renderer.style-scope
@@ -59,7 +59,7 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com###footer
 
 ! ........................................
-! C > Recommendations Grid
+! > Recommendations Grid
 
 ! Don't Miss New Videos Promo
 www.youtube.com##yt-icon.ytd-background-promo-renderer.style-scope.image > .ytSpecIconShapeHost.yt-icon.style-scope.yt-icon-shape > div
