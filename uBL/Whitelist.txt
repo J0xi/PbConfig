@@ -1,3 +1,0 @@
-@1/.*\.(edu|gov)($|\/)/
-@1/(github|gitlab)\.com/
-
