@@ -5,8 +5,9 @@
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! .........................................................................................
 ! BRAVE SEARCH
-
+! ....................
 ! > All
+
 ! Ad Place Card
 safe.search.brave.com##.svelte-jgbvta.mt-3xl.side-grid
 
@@ -24,76 +25,77 @@ safe.search.brave.com###faq
 ! Related Queries
 safe.search.brave.com##.svelte-1ndh8p4.related-queries-wrapper
 
-# ....................
-# > Images
-# Find Elsewhere Wrapper
+! ....................
+! > Images
+
+! Find Elsewhere Wrapper
 safe.search.brave.com##.svelte-xvh2t2.search-elsewhere-wrapper
 safe.search.brave.com##.padded.svelte-1qhxjcj.image-result-search-elsewhere.image-result
 
-# ....................
-# > Quick Settings
+! ....................
+! > Quick Settings
 
-# Ad-Free Search Results
+! Ad-Free Search Results
 safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(5)
 
-# Safe Search Toggle
+! Safe Search Toggle
 safe.search.brave.com##section.svelte-uguqax.card:nth-of-type(2) > .responsive.svelte-3ltauh
 
-# Share Feedback
+! Share Feedback
 safe.search.brave.com##.feedback
 
-# .........................................................................................
-# DUCKDUCKGO
+! .........................................................................................
+! DUCKDUCKGO
 
-# Carousels (Images, News & Videos) in Web Results
-duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="images"]
-duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-images"]
-duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="news"]
-duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-news"]
-duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="videos"]
-duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-videos"]
+! Carousels (Images, News & Videos) in Web Results
+! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="images"]
+! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-images"]
+! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="news"]
+! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-news"]
+! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="videos"]
+! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-videos"]
 
-# Videos Tab
+! Videos Tab
 duckduckgo.com##li:has(a[href*="ia=videos"])
 duckduckgo.com##li:has(a[href*="iax=videos"])
 
-# ....................
-# Footer
+! ....................
+! Footer
 duckduckgo.com##.footer
 
-# Homepage Bottom Arrow
+! Homepage Bottom Arrow
 duckduckgo.com##.pull-tab-scroll-button_pullTabScrollButtonContainer__erxXa
 
-# Homepage Bottom Wrapper
+! Homepage Bottom Wrapper
 duckduckgo.com##.minimal-homepage_belowTheFoldWrapper__T6mG9
 
-# Related Searches
+! Related Searches
 duckduckgo.com##.at-bottom.t-m.related-searches
 
-# Results Exclude Blocked Sites Notice, Show All Results & Manage Blocked Sites Options
+! Results Exclude Blocked Sites Notice, Show All Results & Manage Blocked Sites Options
 duckduckgo.com##.rrF8PC7c0I6y2utse7c7
 
-# Sidebar Button
+! Sidebar Button
 duckduckgo.com##.js-side-menu-open.header__button--menu
 duckduckgo.com##.header_menuButton__FRHct.header_headerButton__hj3Nb
 
-# Sidebar Menu
+! Sidebar Menu
 duckduckgo.com##.is-open.js-menu--slideout.nav-menu--slideout
 duckduckgo.com##.sideMenu_positionRight__Z1_Vc.sideMenu_sideMenu__6CZ1k
 
-# .........................................................................................
-# SWISSCOWS
+! .........................................................................................
+! SWISSCOWS
 
-# News Carousel
+! News Carousel
 swisscows.com##.widget-news.widget
 
-# .........................................................................................
-# QWANT
+! .........................................................................................
+! QWANT
 
-# Images Carousel
+! Images Carousel
 www.qwant.com##.EBqum
 
-# .........................................................................................
-# ...
+! .........................................................................................
+! ...
 
 
