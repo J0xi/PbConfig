@@ -1,9 +1,35 @@
 ! Title: J0xi's Commerce
-! Info: AdGuard DNS Filters
+! Info: Blocks Shopping & Food Delivery Domains
 ! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Commerce.txt
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Commerce.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! .........................................................................................
+! DOMAINS
 
-! Amazon
+! A
 www.amazon.de##.rhf-frame
 www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
+
+! B
+||boltfood.com^
+
+! F
+||foodora.at^
+||foodora.com^
+||foodora.hu^
+
+! D
+||deliveryhero.com^
+||doordash.com^
+
+! U
+||ubereats.com^
+
+! W
+||wolt.com^
+
+! .........................................................................................
+! SUBDOMAINS
+
+! B
+||food.bolt.eu^
