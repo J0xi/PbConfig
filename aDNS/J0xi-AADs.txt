@@ -5,14 +5,12 @@
 ! .........................................................................................
 ||adguard-import-test.example.com^
 ! .........................................................................................
-! DOMAINS
-
-! ........................................ 
 ! A
 
 ! 🇭🇺
 @@||arukereso.hu^ 
 
+! ...
 @@||accuweather.com^
 @@||adtidy.org^
 @@||alternativeto.net^
@@ -20,8 +18,15 @@
 @@||archive.org^$important
 
 ! ........................................ 
+! B
+
+@@||safebrowsing.brave.com^
+
+! ........................................ 
 ! C
 
+! ...
+@@||dictionary.cambridge.org^
 @@||chatplayground.ai^
 @@||cloudflare-dns.com^
 @@||cloudflare.com^
@@ -34,7 +39,9 @@
 ! 🇭🇺
 @@||dijnet.hu^
 
+! ...
 @@||deepl.com^
+@@||improving.duckduckgo.com^
 
 ! ........................................ 
 ! E
@@ -61,12 +68,20 @@
 ! 🇺🇦
 @@||gov.ua^$important
 
+! ...
 @@||garmin.com^
 @@||github.com^
 @@||github.dev^
 @@||googletagmanager.com^
 @@||gravatar.com^
 @@||gutenberg.org^
+
+! 🇭🇺
+@@||enterhungary.gov.hu
+
+! 🇷🇸
+@@||img.goglasi.com^
+@@||lpa.gov.rs^
 
 ! ........................................ 
 ! I
@@ -76,9 +91,6 @@
 
 ! ........................................ 
 ! L
-
-! 🇷🇸
-@@||lpa.gov.rs^
 
 @@||lenovo.com^
 @@||lenovomm.com^
@@ -102,12 +114,19 @@
 @@||one.hu^
 
 ! ........................................ 
+! M
+
+@@||static-data2.manualslib.com^ 
+@@||static2.manualslib.com^
+
+! ........................................ 
 ! P
 
 ! 🇨🇭
 @@||proton.me^
 @@||protonvpn.com^
 
+! d/sd
 @@||paypal.com^
 @@||python.org^
 
@@ -117,7 +136,10 @@
 ! 🇭🇺
 @@||raiffeisen.hu^
 
+! d/sd
 @@||researchgate.net^
+
+@@||rmp.rakuten.com^
 
 ! ........................................ 
 ! S
@@ -132,69 +154,6 @@
 
 @@||unsplash.com^
 
-! ........................................ 
-! V
-
-! 🇭🇺
-@@||vinted.hu^
-
-@@||viber.com^
-@@||vinted.com^
-@@||visualping.io^ 
-
-! ........................................ 
-! W
-
-🇬🇧
-@@||wise.com^
-
-@@||whatsapp.com^
-@@||whatsapp.net^
-@@||wondershare.*
-
-! ........................................ 
-! Y
-
-@@||youtube.com^
-@@||ytimg.com^
-
-! .........................................................................................
-! SUBDOMAINS
-! .........................................................................................
-! B
-
-@@||safebrowsing.brave.com^
-
-! ........................................ 
-! C
-
-@@||dictionary.cambridge.org^
-
-! ........................................ 
-! D
-
-@@||improving.duckduckgo.com^
-
-! ........................................ 
-! G
-
-! 🇷🇸
-@@||img.goglasi.com^
-
-! ........................................ 
-! M
-
-@@||static-data2.manualslib.com^ 
-@@||static2.manualslib.com^
-
-! ........................................ 
-! R
-
-@@||rmp.rakuten.com^
-
-! ........................................ 
-! U
-
 ! 🇨🇭 
 @@||ebanking-ch1.ubs.com^
 @@||ebanking-ch2.ubs.com^
@@ -204,10 +163,30 @@
 ! ........................................ 
 ! V
 
+! 🇭🇺
+@@||vinted.hu^
+
+! ...
+@@||viber.com^
+@@||vinted.com^
 @@||images1.vinted.net^
+@@||visualping.io^ 
 @@||services.visualstudio.com^
+
+! ........................................ 
+! W
+
+! 🇬🇧
+@@||wise.com^
+
+! ...
+@@||whatsapp.com^
+@@||whatsapp.net^
+@@||wondershare.*
 
 ! ........................................ 
 ! Y
 
 @@||finance.yahoo.com^
+@@||youtube.com^
+@@||ytimg.com^
