@@ -127,8 +127,7 @@
 *://*.patternastrology.com/*
 *://*.sanctuaryastrologyapp.com/*
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# Horoscope
+ # Horoscope
 
 *://*.123horoscope.com/*
 *://*.3ho.org/*
