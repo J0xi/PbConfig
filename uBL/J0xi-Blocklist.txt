@@ -10,16 +10,19 @@
 # [2]        ASTROLOGY
 # [3]        BLOGS
 # [4]        CHAT
+
 # [5]        COMMERCE
-#    5.1         FOOD DELIVERY  
+  # 5.1        FOOD DELIVERY  
+
 # [6]        DATING
 # [7]        GAMBLING
 # [8]        GAMING
 # [9]        
-
 # [  ]       SOCIAL
+
 # [10]       SPAM
 #    10.1        
+
 # [11]       SPORTS
 # [12]       STREAMING AV
 
