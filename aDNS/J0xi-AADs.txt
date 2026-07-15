@@ -126,7 +126,7 @@
 @@||proton.me^
 @@||protonvpn.com^
 
-! d/sd
+! ...
 @@||paypal.com^
 @@||python.org^
 
@@ -136,7 +136,7 @@
 ! 🇭🇺
 @@||raiffeisen.hu^
 
-! d/sd
+! ...
 @@||researchgate.net^
 
 @@||rmp.rakuten.com^
