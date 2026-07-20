@@ -8,7 +8,6 @@
 ! 🇭🇺
 @@||arukereso.hu^ 
 
-! ...
 @@||accuweather.com^
 @@||adtidy.org^
 @@||alternativeto.net^
@@ -25,7 +24,6 @@
 ! ........................................ 
 ! C
 
-! ...
 @@||dictionary.cambridge.org^
 @@||chatplayground.ai^
 @@||cloudflare-dns.com^
@@ -39,7 +37,6 @@
 ! 🇭🇺
 @@||dijnet.hu^
 
-! ...
 @@||deepl.com^
 @@||improving.duckduckgo.com^
 
@@ -68,7 +65,6 @@
 ! 🇺🇦
 @@||gov.ua^$important
 
-! ...
 @@||garmin.com^
 @@||github.com^
 @@||github.dev^
@@ -126,7 +122,6 @@
 @@||proton.me^
 @@||protonvpn.com^
 
-! ...
 @@||paypal.com^
 @@||python.org^
 
@@ -136,7 +131,6 @@
 ! 🇭🇺
 @@||raiffeisen.hu^
 
-! ...
 @@||researchgate.net^
 
 @@||rmp.rakuten.com^
@@ -166,7 +160,6 @@
 ! 🇭🇺
 @@||vinted.hu^
 
-! ...
 @@||viber.com^
 @@||vinted.com^
 @@||images1.vinted.net^
@@ -179,7 +172,6 @@
 ! 🇬🇧
 @@||wise.com^
 
-! ...
 @@||whatsapp.com^
 @@||whatsapp.net^
 @@||wondershare.*
