@@ -49,12 +49,12 @@ safe.search.brave.com##.feedback
 ! .........................................................................................
 
 ! Carousels (Images, News & Videos) in Web Results
-! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="images"]
-! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-images"]
-! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="news"]
-! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-news"]
-! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="videos"]
-! duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-videos"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="images"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-images"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="news"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-news"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="videos"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-videos"]
 
 ! Videos Tab
 duckduckgo.com##li:has(a[href*="ia=videos"])
