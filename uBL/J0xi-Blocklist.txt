@@ -45,6 +45,8 @@
 *://*.seksprice.com/*
 *://*.gayside1.com/*
 *://*.companyofmen.org/*
+*://*.shagle.click/*
+*://*.shagle.com/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [2] ASTROLOGY
@@ -115,21 +117,27 @@
 
 ## Domain
 
+# C
 /^https?:\/\/[^\/?#]*chat[^\/?#]*(?:[\/?#]|$)/i
+# J
+/^https?:\/\/[^\/?#]*join[^\/?#]*(?:[\/?#]|$)/i
+# M
 /^https?:\/\/[^\/?#]*meet[^\/?#]*(?:[\/?#]|$)/i
+# O
 /^https?:\/\/[^\/?#]*omegl[^\/?#]*(?:[\/?#]|$)/i
+# R
+^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
+# S
+/^https?:\/\/[^\/?#]*stranger[^\/?#]*(?:[\/?#]|$)/i
+# T
+/^https?:\/\/[^\/?#]*stranger[^\/?#]*(?:[\/?#]|$)/i
 
 chatroulette
-chat roulette
-chat ruletka
-roulette
-rouletka
-stranger
-talk
-join
+
 
 ## Path
 
+# C
 /^https?:\/\/[^\/?#]+\/[^?#]*chat[^?#]*(?:[?#]|$)/i
 
 ---------------------------------------
@@ -172,13 +180,7 @@ freecam
 *://*.funyo.com/*
 *://*.funyo.tv/*
 
-*://*.hopematch.com/*
 
-
-
-*://*.joingy.app/*
-*://*.joingy.com/*
-*://*.jollyjerk.com/*
 *://*.kick.com/*
 *://*.kik.com/*
 *://*.livu.me/*
@@ -186,45 +188,24 @@ freecam
 *://*.mimacy.net/*
 *://*.mocospace.com/*
 *://*.monkey.app/*
-
 *://*.myyearbook.com/*
-*://*.nowchatting.com/*
 *://*.ohello.app/*
 
 *://*.ome-tv.com/*
 *://*.ome-tv.net/*
 *://*.ome.tv/*
-*://*.omegla.chat/*
-*://*.omegla.live/*
-*://*.omegle.cc/*
-*://*.omegle.com/*
-*://*.omegle.is/*
-*://*.omegle.onl/*
-*://*.omeglefun.com/*
 *://*.ometv.chat/*
 
 *://*.oncam.me/*
-*://*.only2.chat/*
 *://*.paltalk.com/*
 *://*.plexstorm.org/*
 *://*.poqe.app/*
-*://*.puggle.chat/*
 *://*.random-talk.com/*
-*://*.rouletka.ru/*
-*://*.rouletteride.com/*
-*://*.shagle.click/*
-*://*.shagle.com/*
 *://*.shomla.com/*
 *://*.snapstrip.com/*
-*://*.strangercam.chat/*
-*://*.strangercam.com/*
-*://*.strangermeetup.com/*
-*://*.talkwithstranger.com/*
 *://*.thundr.com/*
 *://*.tohla.com/*
 *://*.uhmegle.com/*
-*://*.ulive.chat/*
-*://*.video-roulette.online/*
 *://*.vidizzy.com/*
 *://*.younow.com/*
 *://*.zoosk.com/*
@@ -263,11 +244,6 @@ waifu
 *://*.1clickmatch.com/*
 *://*.2redbeans.com/*
 *://*.aaronmarino.com/*
-*://*.chat2date.live/*
-*://*.chatwithcuties.com/*
-*://*.chatwithstrangers.xyz/*
-*://*.chat-date.click/*
-*://*.chatdateonline.com/*
 *://*.chat-dating.org/*
 *://*.adating.site/*
 *://*.adatinghub.com/*
