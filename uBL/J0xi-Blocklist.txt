@@ -128,6 +128,9 @@ stranger
 talk
 join
 
+## Path
+
+/^https?:\/\/[^\/?#]+\/[^?#]*chat[^?#]*(?:[?#]|$)/i
 
 ---------------------------------------
 
@@ -136,7 +139,6 @@ join
 *://*.azarlive.com/*
 
 *://*.badoo.com/*
-*://*.balkan.chat/*
 *://*.bang.chat/*
 *://*.bazoocam.app/*
 *://*.bazoocam.io/*
@@ -144,7 +146,7 @@ join
 *://*.bazoocam.plus/*
 *://*.bazoocam.pro/*
 *://*.beachcam.co/*
-
+freecam
 *://*.blurtit.com/*
 *://*.bozocam.com/*
 *://*.camfrog.com/*
@@ -153,10 +155,8 @@ join
 *://*.cammatch.io/*
 *://*.camround.com/*
 *://*.camsurf.com/*
-*://*.camtostrangers.com/*
 *://*.camtwice.com/*
 *://*.camzl.com/*
-
 *://*.couchsurfing.com/*
 
 *://*.dodocam.com/*
@@ -166,7 +166,6 @@ join
 
 *://*.flingster.com/*
 *://*.flingster.io/*
-*://*.freecam.chat/*
 
 
 *://*.fruzo.com/*
@@ -184,12 +183,7 @@ join
 *://*.kik.com/*
 *://*.livu.me/*
 *://*.lovoo.com/*
-
-*://*.meetyou.me/*
 *://*.mimacy.net/*
-
-*://*.mnogo.chat/*
-
 *://*.mocospace.com/*
 *://*.monkey.app/*
 
