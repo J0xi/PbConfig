@@ -37,9 +37,10 @@
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [1] 18+
 
+# C
+
 *://*.celebnic.com/*
 *://*.erotskeprice.info/*
-*://*.wallpics.net/*
 *://*.xwhos.com/*
 *://*.seksprice.com/*
 *://*.gayside1.com/*
@@ -48,258 +49,66 @@
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [2] ASTROLOGY
 
-*://*.ancientastrologytalks.com/*
-*://*.artcharts.com/*
-*://*.astralreflections.com/*
-*://*.astro-charts.com/*
-*://*.astro-seek.com/*
-*://*.astro.com/*
-*://*.astro.explorit.net/*
-*://*.astrocentro.com.br/*
-*://*.astrocharts.online/*
-*://*.astrofame.com/*
-*://*.astrogaming.com/*
-*://*.astroglide.com/*
-*://*.astrogold.io/*
-*://*.astrograph.com/*
-*://*.astroindia.com/*
-*://*.astrojyoti.com/*
-*://*.astrolada.com/*
-*://*.astrolibrary.org/*
-*://*.astrolis.com/*
-*://*.astrologerankitsharma.com/*
-*://*.astrologerhitesh.com/*
-*://*.astrologerpsychologer.com/*
-*://*.astrologicalzodiac.com/*
-*://*.astrology-and-science.com/*
-*://*.astrology-zodiac-signs.com/*
-*://*.astrology.com/*
-*://*.astrologyanswers.com/*
-*://*.astrologybay.com/*
-*://*.astrologybylauren.com/*
-*://*.astrologycafe.com/*
-*://*.astrologyclub.org/*
-*://*.astrologyfutureeye.com/*
-*://*.astrologygains.com/*
-*://*.astrologyhub.com/*
-*://*.astrologyk.com/*
-*://*.astrologyking.com/*
-*://*.astrologyland.com/*
-*://*.astrologynova.com/*
-*://*.astrologyonline.eu/*
-*://*.astrologyrays.com/*
-*://*.astrologyreadings.online/*
-*://*.astrologyspark.com/*
-*://*.astrologyuniversity.com/*
-*://*.astrologyweekly.com/*
-*://*.astrologyzone.com/*
-*://*.astromatcha.com/*
-*://*.astromatrix.app/*
-*://*.astroparadise.com/*
-*://*.astroreveal.com/*
-*://*.astrosage.com/*
-*://*.astroseek.com/*
-*://*.astrosofa.com/*
-*://*.astrostyle.com/*
-*://*.astrotalk.com/*
-*://*.astrotheme.com/*
-*://*.astroved.coom/*
-*://*.astrovida.com/*
-*://*.astrowow.com/*
-*://*.astroyogi.com/*
-*://*.birthastro.com/*
-*://*.cafeastrology.com/*
-*://*.costarastrology.com/*
-*://*.eastrolog.com/*
-*://*.elitedaily.com/astrology/*
-*://*.famouspeople.astro-seek/*
-*://*.goastrologer.com/*
-*://*.indastro.com/*
-*://*.justastrologythings.com/*
-*://*.kylethomasastrology.com/*
-*://*.magiastrology.com/*
-*://*.myastrology.com/*
-*://*.myastrologycharts.com/*
-*://*.popsugar.com/astrology/*
-*://*.powerfulmind.co/category/astrology/*
-*://*.theastrologer.com/*
-*://*.theastrologypodcast.com/*
-*://*.patternastrology.com/*
-*://*.sanctuaryastrologyapp.com/*
+## Domain-only
 
- # Horoscope
+# A
+/^https?:\/\/[^\/?#]*astr(?:al|o)[^\/?#]*(?:[\/?#]|$)/i
+# B
+/^https?:\/\/[^\/?#]*birth[-.]*(?:chart|sign)[^\/?#]*(?:[\/?#]|$)/i
+# G
+/^https?:\/\/[^\/?#]*ganesha[^\/?#]*(?:[\/?#]|$)/i
+# H
+/^https?:\/\/[^\/?#]*horoscop[^\/?#]*(?:[\/?#]|$)/i
+# M
+/^https?:\/\/[^\/?#]*moon[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
+# N
+/^https?:\/\/[^\/?#]*(?:name[-.]*meaning|natal[-.]*chart|numerology)[^\/?#]*(?:[\/?#]|$)/i
+# P
+/^https?:\/\/[^\/?#]*psychic[^\/?#]*(?:[\/?#]|$)/i
+# R
+/^https?:\/\/[^\/?#]*rising[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
+# S
+/^https?:\/\/[^\/?#]*(?:star[-.]*sign|sun[-.]*sign)[^\/?#]*(?:[\/?#]|$)/i
+# T
+/^https?:\/\/[^\/?#]*tarot[^\/?#]*(?:[\/?#]|$)/i
+# Z
+/^https?:\/\/[^\/?#]*zodiac[^\/?#]*(?:[\/?#]|$)/i
 
-*://*.123horoscope.com/*
-*://*.3ho.org/*
-*://*.beautyhoroscope.com/*
-*://*.dailyhoroscope.com/*
-*://*.dailyhoroscopes.com/*
-*://*.elhoroscopohoy.com/*
-*://*.elle.com/horoscopes/*
-*://*.glamour.com/story/horoscopes/*
-*://*.gotohoroscope.com/*
-*://*.horoscope-divination.com/*
-*://*.horoscope.com/*
-*://*.horoscope.org/*
-*://*.horoscopedates.com/*
-*://*.horoscopeoftoday.com/*
-*://*.horoscopes.astro-seek/*
-*://*.horoscopes.lovetoknow.com/*
-*://*.horoscopesapp.com/*
-*://*.horoscopetalks.com/*
-*://*.horoscopetoday.live/*
-*://*.horoscopetree.com/*
-*://*.horoscopeurdu.com/*
-*://*.horoscopius.app/*
-*://*.horoscopomagico.com/*
-*://*.horoscopovirtual.com.br/*
-*://*.horoskopius.com/*
-*://*.horoskopskiznakovi.com/*
-*://*.liveabout.com/horoscopes/*
-*://*.nebulahoroscope.com/*
-*://*.newson6.com/category/horoscopes/*
-*://*.refinery29.com/en-us/horoscopes/*
-*://*.thehoroscope.co/*
-*://*.weeklyhoroscope.com/*
-*://*.yourtango.com/horoscope/*
+## Path
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# Numerology
+# A
+/^https?:\/\/[^\/?#]+\/[^?#]*astr(?:al|o)[^?#]*(?:[?#]|$)/i
+# B
+/^https?:\/\/[^\/?#]+\/[^?#]*birth(?:[-_+.\/]|%20)*(?:chart|sign)[^?#]*(?:[?#]|$)/i
+# G
+/^https?:\/\/[^\/?#]+\/[^?#]*ganesha[^?#]*(?:[?#]|$)/i
+# H
+/^https?:\/\/[^\/?#]+\/[^?#]*horoscop[^?#]*(?:[?#]|$)/i
+# M
+/^https?:\/\/[^\/?#]+\/[^?#]*moon(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
+# N
+/^https?:\/\/[^\/?#]+\/[^?#]*(?:name(?:[-_+.\/]|%20)*meaning|natal(?:[-_+.\/]|%20)*chart|numerology)[^?#]*(?:[?#]|$)/i
+# P
+/^https?:\/\/[^\/?#]+\/[^?#]*psychic[^?#]*(?:[?#]|$)/i
+# R
+/^https?:\/\/[^\/?#]+\/[^?#]*rising(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
+# S
+/^https?:\/\/[^\/?#]+\/[^?#]*(?:star(?:[-_+.\/]|%20)*sign|sun(?:[-_+.\/]|%20)*sign)[^?#]*(?:[?#]|$)/i
+# T
+/^https?:\/\/[^\/?#]+\/[^?#]*tarot[^?#]*(?:[?#]|$)/i
+# Z
+/^https?:\/\/[^\/?#]+\/[^?#]*zodiac[^?#]*(?:[?#]|$)/i
 
-*://*.365numerology.com/*
-*://*.astrology-numerology.com/*
-*://*.free-name-meaning.com/*
-*://*.name-meanings.org/*
-*://*.nameanalyzer.net/*
-*://*.numerology.com/*
-*://*.numerologycentral.com/*
-*://*.numerologydecoder.com/*
-*://*.numerologynamecalculator.com/*
-*://*.numerologysecrets.net/*
-*://*.numerologysign.com/*
-*://*.psychicnumerology.net/*
-*://*.seventhlifepath.com/*
-*://*.yournumerologychart.com/*
-
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# Psychic
-
-*://*.absolutelypsychic.com/*
-*://*.askonefreequestion.com/*
-*://*.askpsychic.net/*
-*://*.bestpsychics.club/*
-*://*.bitwine.com/*
-*://*.californiapsychics.com/*
-*://*.espsychics.com/*
-*://*.freepsychicreadingonline.net/*
-*://*.freespiritualreading.com/*
-*://*.myfreepsychicreading.net/*
-*://*.mypsychicconnection.com/*
-*://*.psychic-expert.com/*
-*://*.psychic-revelation.com/*
-*://*.psychicaccess.com/*
-*://*.psychicandmediumsource.com/*
-*://*.psychiccenter.com/*
-*://*.psychicguild.com/*
-*://*.psychicguild.org/*
-*://*.psychicinstantanswers.com/*
-*://*.psychiclivingtoday.com/*
-*://*.psychicloveadvisor.net/*
-*://*.psychicreadingexperts.com/*
-*://*.psychicscience.org/*
-*://*.psychicsuniverse.com/*
-*://*.psychicworld.com/*
-*://*.readingsbypsychics.com/*
-*://*.spiritualinsightpsychic.com/*
-*://*.thecircle.com/*
-*://*.thepsychicline.com/*
-*://*.truepsychics.ca/*
-
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# Star Signs
-
-*://*.kellystarsigns.com/*
-*://*.starsigns.co/*
-*://*.starsignstyle.com/*
-*://*.sunsigns.org/*
-
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# Tarot
-
-*://*.atlassace.com/tarot/*
-*://*.daily-tarot-girl.com/*
-*://*.dailytarotapp.com/*
-*://*.darktarot.com/*
-*://*.e-tarocchi.com/*
-*://*.etarocchi.com/*
-*://*.evatarot.net/*
-*://*.free-tarot-card-readings.net/*
-*://*.free-tarot-reading.net/*
-*://*.freetarotcardreading.net/*
-*://*.mysticboard.com/tarot/*
-*://*.mytarotreading.com/*
-*://*.pure-tarot.com/*
-*://*.readtarotcards.co/*
-*://*.serennite.fr/*
-*://*.tarocchigratis.eu/*
-*://*.tarot-amour-gratuit.net/*
-*://*.tarot-angel.com/*
-*://*.tarot-card.net/*
-*://*.tarot-explained.com/*
-*://*.tarot-live.com/*
-*://*.tarot-reading./*
-*://*.tarot-readings./*
-*://*.tarot.com/*
-*://*.tarotdehoy.com/*
-*://*.tarotdemars.fr/*
-*://*.tarotgoddess.com/*
-*://*.tarotgratis.com.br/*
-*://*.tarotgratis.net/*
-*://*.tarotguide.com/*
-*://*.tarotguru.com/*
-*://*.tarotonline.cc/*
-*://*.tarotopia.com.au/*
-*://*.tarotreadingdaily.com/*
-*://*.tarotreadingpsychic.com/*
-*://*.thetarotguide.com/*
-*://*.thetarotlady.com/*
-*://*.trustedtarot.com/*
-
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# Zodiac
-
-*://*.izodiacsigns.com/*
-*://*.yourzodiacsign.com/*
-*://*.zodiacfire.com/*
-*://*.zodiacfresh.com/*
-*://*.zodiacguides.com/*
-*://*.zodiachive.com/*
-*://*.zodiacreads.com/*
-*://*.zodiacsigncompatibilitycharts.com/*
-*://*.zodiacsigns-horoscope.com/*
-*://*.zodiacstyle.com/*
-*://*.zodiacmatch.app/*
-*://*.zodist.com/*
-
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# ...
+# Misc
 
 *://*.askmyoracle.com/*
-*://*.chani.app/*
 *://*.chinesefortunecalendar.com/*
-*://*.ganeshaspeaks.com/*
-*://*.keen.com/*
-*://*.labyrinthos.co/*
-*://*.linda-goodman.com/*
-*://*.moonly.app/*
 *://*.mylovecal.com/*
-*://*.mysticapp.io/*
-*://*.sanctuaryworld.co/*
+*://*.nameanalyzer.net/*
 *://*.seeroracle.com/*
-*://*.sunmoonrise.com/*
-*://*.thebirthchart.com/*
 *://*.vedicfolks.com/*
 *://*.wmagazine.com/*
+*://*.zodist.com/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [2] CHAT
@@ -313,7 +122,6 @@
 *://*.anonchat.app/*
 *://*.anonychat.com/*
 *://*.azarlive.com/*
-*://*.b-cdn.net/*
 *://*.babelchat.com/*
 *://*.babichat.com/*
 *://*.badoo.com/*
@@ -435,9 +243,6 @@
 *://*.kik.com/*
 *://*.livu.me/*
 *://*.lovoo.com/*
-*://*.lucky-crush.com/*
-*://*.luckycrush.live/*
-*://*.luckycrush.webcam/*
 *://*.meetme.com/*
 *://*.meetskip.com/*
 *://*.meetyou.me/*
@@ -11091,8 +10896,9 @@ waifu
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Wallpapers
 
+/^https?:\/\/[^\/?#]*wallpaper[^\/?#]*(?:[\/?#]|$)/i
+
 *://*.1freewallpapers.com/*
-*://*.1zoom.me/*
 *://*.4kwallpapers.com/*
 *://*.4kwallpapers.net/*
 *://*.abduzeedo.com/*
@@ -11101,8 +10907,8 @@ waifu
 *://*.amazingwallpapers.org/*
 *://*.androidwallpape.rs/*
 *://*.anime-wallpaper.com/*
-*://*.animemotivation.com/*
-*://*.artstation.com/*
+
+
 *://*.awesomewallpapers.info/*
 *://*.best-wallpaper.net/*
 *://*.bingwallpaper.net/*
@@ -11134,30 +10940,6 @@ waifu
 *://*.hivewallpaper.com/*
 *://*.idposter.com/*
 *://*.ilikewallpaper.net/*
-*://*.instagram.com/4kwallpapers/*
-*://*.instagram.com/abstract.wallpapers/*
-*://*.instagram.com/aesthetic.wallpapers/*
-*://*.instagram.com/amoled.backgrounds/*
-*://*.instagram.com/amoledpanel/*
-*://*.instagram.com/amoledpix/*
-*://*.instagram.com/cleanwallpapers/*
-*://*.instagram.com/hdwallpapersclub/*
-*://*.instagram.com/hdwallpapersofficial/*
-*://*.instagram.com/minimal.wallpapers/*
-*://*.instagram.com/minimalist.wallpapers/*
-*://*.instagram.com/minimalisticscreen/*
-*://*.instagram.com/retrowallpapers/*
-*://*.instagram.com/superbwallpapers/*
-*://*.instagram.com/wallpaper.central/*
-*://*.instagram.com/wallpaper.gallery/*
-*://*.instagram.com/wallpaper.mania/*
-*://*.instagram.com/wallpaper.mob/*
-*://*.instagram.com/wallpaperaccess/*
-*://*.instagram.com/wallpapergram/*
-*://*.instagram.com/wallpapers.4k/*
-*://*.instagram.com/wallpapers_club/*
-*://*.instagram.com/wallpapersarena/*
-*://*.instagram.com/wallpapersgram/*
 *://*.interfacelift.com/*
 *://*.ioshacker.com/*
 *://*.jootix.com/*
