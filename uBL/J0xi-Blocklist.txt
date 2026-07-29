@@ -898,19 +898,12 @@ waifu
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [4] FOOD DELIVERY
 
+/^https?:\/\/[^\/?#]*foodora[^\/?#]*(?:[\/?#]|$)/i
 
 *://*.boltfood.com/*
 *://*.deliveryhero.com/*
 *://*.doordash.com/*
 *://*.food.bolt.eu/*
-*://*.foodora.at/*
-*://*.foodora.com/*
-*://*.foodora.cz/*
-*://*.foodora.dk/*
-*://*.foodora.fi/*
-*://*.foodora.hu/*
-*://*.foodora.no/*
-*://*.foodora.se/*
 *://*.foodpanda.sg/*
 *://*.ubereats.com/*
 *://*.wolt.com/*
@@ -918,102 +911,25 @@ waifu
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [5] DRUGS & TOBACCO
 
-*://*.apothecarium.com/*
-*://*.barneysfarm.com/*
-*://*.bcseedking.com/*
-*://*.buyweedonlineusa.com/*
-*://*.cannabis.net/*
-*://*.dutch-passion.com/*
-*://*.greenrush.com/*
-*://*.greenthumbindustries.com/*
-*://*.growerschoiceseeds.com/*
-*://*.hempyresearch.com/*
-*://*.herb.co/*
-*://*.highthere.com/*
-*://*.homegrowncannabisco.com/*
-*://*.ilovegrowingmarijuana.com/*
-*://*.kingbong.com.br/*
-*://*.leafbuyer.com/*
-*://*.leafly.com/*
-*://*.marijuanabreak.com/*
-*://*.marijuanapackaging.com/*
-*://*.medicalmarijuanainc.com/*
-*://*.potguide.com/*
-*://*.royalqueenseeds.com/*
-*://*.thecannabist.co/*
-*://*.theweedblog.com/*
-*://*.weedmaps.com/*
-*://*.absolute-nature-cbd.com/*
-*://*.americanhempoil.net/*
-*://*.blosumcbd.com/*
-*://*.cbd.co/*
-*://*.cbd.market/*
-*://*.cbdchoice.com/*
-*://*.cbdfx.com/*
-*://*.cbdistillery.com/*
-*://*.cbdliving.com/*
-*://*.cbdmd.com/*
-*://*.charlottesweb.com/*
-*://*.fabcbd.com/*
-*://*.greenroads.com/*
-*://*.hempbombs.com/*
-*://*.joyorganics.com/*
-*://*.kyhicbd.com/*
-*://*.medterracbd.com/*
-*://*.purekana.com/*
-*://*.royalcbd.com/*
-*://*.savagecbd.com/*
-*://*.veritasfarms.com/*
-*://*.dark.fail/*
-*://*.darknetlive.com/*
-*://*.dnstats.net/*
-*://*.onion.live/*
-*://*.afinilexpress.com/*
-*://*.bluelight.org/*
-*://*.buyxanaxonline.org/*
-*://*.drugs-forum.com/*
-*://*.erowid.org/*
-*://*.liftmode.com/*
-*://*.modafinil.org/*
-
-*://*.nootropicsexpert.com/*
-*://*.nootropics.com/*
-*://*.nootropicsdepot.com/*
-
-*://*.buycigarettesonline.org/*
-*://*.cheapcigarettes.com/*
-*://*.cigaretteprices.net/*
-*://*.cigarettesamerica.com/*
-*://*.cigs4less.com/*
-*://*.dutyfreedepot.com/*
-*://*.smokersunit.com/*
-*://*.tobaccoonline.co.uk/*
-*://*.tobaccostock.com/*
-*://*.tobaccousa.com/*
-*://*.centralvapors.com/*
-*://*.ecig-city.com/*
-*://*.elementvape.com/*
-*://*.eightvape.com/*
-*://*.fugginvapor.com/*
-*://*.misthub.com/*
-*://*.myfreedomsmokes.com/*
-*://*.myvpro.com/*
-*://*.smokstore.com/*
-*://*.vape-box.com/*
-*://*.vape-deals.com/*
-*://*.vape.com/*
-*://*.vape4ever.com/*
-*://*.vapejuice.com/*
-*://*.vapes.com/*
-*://*.vapedeal.com/*
-*://*.vaped.com/*
-*://*.vapeshack.com/*
-*://*.vapesocietysupply.com/*
-*://*.vapordna.com/*
-*://*.vaporesso.com/*
-*://*.vaporfi.com/*
-*://*.vaporhub.com/*
-*://*.vapewild.com/*
+/^https?:\/\/[^\/?#]*dope[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bong[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*leaf[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*hemp[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*cannabis[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kanabiz[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*cbd[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*ganja[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kana[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*modafinil[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*nootropic[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*vape[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*vapor[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*cigarettes[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*cigs[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*smoke[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*tobacco[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*heroin[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*weed[^\/?#]*(?:[\/?#]|$)/i
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [6] GAMBLING
@@ -1029,15 +945,19 @@ admiralbet
 bet(s)
 betpartners
 betting
+balkanbet
 baccarat
 blackjack
 bid
+bet365
 bingo
 bookie
 # C
 /^https?:\/\/[^\/?#]*casino[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*cardroom[^\/?#]*(?:[\/?#]|$)/i
 # G
 gambling
+gamesweb
 # J
 jackpot
 # K
@@ -1093,7 +1013,7 @@ winbet
 *://*.allbet.gr/*
 *://*.allgames.gamesh.com/*
 *://*.allhorseracing.ag/*
-*://*.alljackpotscasino.com/*
+
 *://*.allmagic.ru/*
 *://*.allonlineslots.com/*
 
@@ -1115,7 +1035,6 @@ winbet
 *://*.amcleanbookmakers.com/*
 *://*.americanacasino.com/*
 *://*.americanfootballbetting.com/*
-*://*.americasbookie.com/*
 *://*.americascardroom.eu/*
 *://*.amigasolitaire.free.fr/*
 *://*.amsport.bet/*
@@ -1131,20 +1050,16 @@ winbet
 *://*.arcadeabyss.com/*
 *://*.arcadecasino.com/*
 *://*.arena-bet.com/*
-*://*.arenacasino.hr/*
 *://*.argentdunetinfos.org/*
 *://*.argentmania.com/*
 *://*.argentsurlenet.com/*
-*://*.arizonalottery.com/*
-*://*.arlequincasino.com/*
+
 *://*.aroundthesims.com/*
 *://*.artemisbet10.com/*
 *://*.artgamer.com/*
 *://*.arushgames.com/*
-*://*.asiacasino.com/*
 *://*.asianalternative.com/*
 *://*.asianbeta.com/*
-*://*.asianbookie.com/*
 *://*.askgamblers.com/*
 *://*.asperino.com/*
 *://*.astrolabio.net/casino//*
@@ -1172,9 +1087,6 @@ winbet
 *://*.bamboocasino.com/*
 *://*.bancoloto.com/*
 *://*.banzaislots.com/*
-*://*.barakacasino.com/*
-*://*.barbadoscasino.com/*
-*://*.barbarycoastcasino.com/*
 *://*.barre-de-surf.fr/*
 *://*.batball11.com/*
 *://*.bc.game/*
@@ -1216,12 +1128,6 @@ winbet
 *://*.bet365.com/*
 *://*.bet365.es/*
 *://*.bet365.gr/*
-*://*.bet365affiliates.com/*
-*://*.bet7.com/*
-*://*.bet7days.com/*
-*://*.bet88sg.com/*
-*://*.bet9.com/*
-*://*.bet90.com/*
 *://*.bet9ja.com/*
 *://*.betadonis55.com/*
 *://*.betadria.com/*
