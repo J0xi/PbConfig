@@ -1033,6 +1033,7 @@ baccarat
 blackjack
 bid
 bingo
+bookie
 # C
 /^https?:\/\/[^\/?#]*casino[^\/?#]*(?:[\/?#]|$)/i
 # G
@@ -1728,48 +1729,9 @@ winbet
 *://*.casinos-jackpots.net/*
 *://*.casinos-neteller.com/*
 *://*.casinos.9-online.com/*
-*://*.casinos.co/*
-*://*.casinos.com/*
-*://*.casinos.stills.com/*
-*://*.casinos18.com/*
-*://*.casinos2go.com/*
-*://*.casinosandco.com/*
-*://*.casinosbarriere.com/*
-*://*.casinoscout.com/*
-*://*.casinosenlaweb.com/*
-*://*.casinosflash.com/*
-*://*.casinosforfun.com/*
-*://*.casinoshare.eu/*
+
 *://*.casinoslotmachine.org/*
 *://*.casinoslotmachinegames.com/*
-*://*.casinosns.com/*
-*://*.casinosoft.com/*
-*://*.casinosonlinecasinos.org/*
-*://*.casinosonlinex.com/*
-*://*.casinospielen.de/*
-*://*.casinosplendido.com/*
-*://*.casinostugan.com/*
-*://*.casinosur.com/*
-*://*.casinotechnieken.nl/*
-*://*.casinotokyo.com/*
-*://*.casinotop10.net/*
-*://*.casinotopsonline.com/*
-*://*.casinotown.se/*
-*://*.casinotreasure.com/*
-*://*.casinotriomphe.com/*
-*://*.casinotropez.com/*
-*://*.casinotrust.com/*
-*://*.casinouhrvatskoj.com/*
-*://*.casinouniverse.com/*
-*://*.casinoutopia.com/*
-*://*.casinovations.com/*
-*://*.casinovegasusa.com/*
-*://*.casinovirtuel.net/*
-*://*.casinoweb.org/*
-*://*.casinowinner.com/*
-*://*.casinoxl.nl/*
-*://*.casinsi.com/*
-*://*.casion-casino.com/*
 *://*.cassava.net/*
 *://*.casualpoker.com/*
 *://*.casumo.com/*
@@ -1795,10 +1757,8 @@ winbet
 *://*.chatter.uol.com.br/*
 *://*.cheatland.com/*
 *://*.cheekywin.com/*
-*://*.chericasino.com/*
-*://*.cherrycasino.com/*
-*://*.cherryjackpot.com/*
-*://*.cherryredcasino.com/*
+
+
 *://*.chilipari.fr/*
 *://*.chilipoker.com/*
 *://*.chinesebookie.eu/*
@@ -8921,8 +8881,8 @@ winbet
 # ........................................
 # WhatsApp
 
-*://*.wa.me/*
-*://*.whatsapp.com/*
+# *://*.wa.me/*
+# *://*.whatsapp.com/*
 
 # ........................................
 # ...
