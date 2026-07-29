@@ -6114,66 +6114,6 @@ sweepstakes
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # News 🇺🇸 🇨🇦 🇬🇧
 
-*://*.11alive.com/*
-*://*.12news.com/*
-*://*.13wham.com/*
-*://*.14news.com/*
-*://*.6abc.com/*
-*://*.9news.com/*
-*://*.abc.com/*
-*://*.abc13.com/*
-*://*.abc45.com/*
-*://*.abc7.com/*
-*://*.abc7chicago.com/*
-*://*.abc7news.com/*
-*://*.abc7ny.com/*
-*://*.abcnews.com/*
-*://*.abs-cbn.com/*
-*://*.actionnews5.com/*
-*://*.afr.com/*
-*://*.ajc.com/*
-*://*.al.com/*
-*://*.alarabiya.net/*
-*://*.alaskasnewssource.com/*
-*://*.aljazeera.com/*
-*://*.aljazeera.net/*
-*://*.americamagazine.org/*
-*://*.aol.com/*
-*://*.ap.org/*
-*://*.apnews.com/*
-*://*.app.com/*
-*://*.arabtimesonline.com/*
-*://*.asiatimes.com/*
-*://*.atlantablackstar.com/*
-*://*.axios.com/*
-*://*.azcentral.com/*
-*://*.barchart.com/*
-*://*.bbc.co.uk/*
-*://*.bbc.com/*
-*://*.benzinga.com/*
-*://*.bloomberg.com/*
-*://*.bostonglobe.com/*
-*://*.bostonherald.com/*
-*://*.elpasotimes.com/**
-*://*.express.co.uk/*
-*://*.firstpost.com/*
-*://*.floridatoday.com/*
-*://*.forbes.com/*
-*://*.foreignaffairs.com/*
-*://*.foreignpolicy.com/*
-*://*.fortune.com/*
-*://*.fox.com/*
-*://*.fox13news.com/*
-*://*.fox4news.com/*
-*://*.fox5atlanta.com/*
-*://*.fox5dc.com/*
-*://*.fox9.com/*
-*://*.foxbaltimore.com/*
-*://*.foxbusiness.com/*
-*://*.foxla.com/*
-*://*.inews.co.uk/*
-*://*.irishstar.com/*
-
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Tabloids 🇺🇸 🇨🇦 🇬🇧
 
@@ -6195,8 +6135,6 @@ sweepstakes
 *://*.buzzvee.com/*
 *://*.celebrityaccess.com/*
 *://*.celebrityinsider.org/*
-*://*.celebritynetworth.com/*
-*://*.celebritynews.com/*
 *://*.celebsecrets.com/*
 *://*.celebtattler.com/*
 *://*.cheatsheet.com/*
