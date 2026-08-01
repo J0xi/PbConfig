@@ -1,0 +1,588 @@
+! Title: J0xi's Blocklist
+! Info: Main Blocklist
+! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Blocklist.txt
+! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Blocklist.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+
+! ToC
+
+! [1]        18+
+! [2]        ASTROLOGY
+! [3]        BLOGS
+! [4]        CHAT
+! [5]        COMMERCE
+  ! 5.1        Food Delivery 
+! [6]        DATING
+! [7]        GAMBLING
+! [8]        GAMING
+! [9]        SOCIAL
+! [10]       SPAM
+  ! 10.1        Unsafe 
+! [11]       SPORTS
+! [12]       STREAMING
+! [13]       UTILITIES
+!    13.1        Browsers
+!    13.2        Search Engines
+!    13.3        YouTube
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [1] 18+
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [2] ASTROLOGY
+
+||*astro*^$document
+||*horoscop*^$document
+||*horoskop*^$document
+||*name*meaning*^$document
+||*name*analyz*^$document
+||*numerolog*^$document
+||*zodiac*^$document
+||*zodiak*^$document
+||*psychic*^$document
+||*tarot*^$document
+||*star*sign*^$document
+||*yogi*^$document
+
+||*astro*$document
+||*horoscop*$document
+||*horoskop*$document
+||*name*meaning*$document
+||*name*analyz*$document
+||*numerolog*$document
+||*zodiac*$document
+||*zodiak*$document
+||*psychic*$document
+||*tarot*document
+||*star*sign*$document
+||*yogi*$document
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [3] BLOGS
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [4] CHAT
+
+||chat*^$document
+||*chat-*^$document
+||*-chat*^$document
+
+||*anon*chat*^$document
+||*cam*chat*^$document
+||*cam*go*^$document
+||*chat*anon*^$document
+||*chat*cam*^$document
+||*chat*free*^$document
+||*chat*live*^$document
+||*chat*now*^$document
+||*chat*random*^$document
+||*chat*room*^$document
+||*chat*stranger*^$document
+||*chat*video*^$document
+||*chat*video*^$document
+||*emeraldchat*^$document
+||*free*chat*^$document
+||*live*chat*^$document
+||*now*chat*^$document
+||*random*chat*^$document
+||*room*chat*^$document
+||*stranger*chat*^$document
+||*video*chat*^$document
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [5] COMMERCE
+
+! A
+www.amazon.de##.rhf-frame
+www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
+
+! ====================================================================================
+! 5.1 Food Delivery
+
+! B
+||boltfood.com^
+||food.bolt.eu^
+
+! F
+||foodora.at^
+||foodora.com^
+||foodora.hu^
+
+! D
+||deliveryhero.com^
+||doordash.com^
+
+! U
+||ubereats.com^
+
+! W
+||wolt.com^
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [6] DATING
+
+||cbd*^$document
+||cbd-*^$document
+||-cbd*^$document
+||*cbd*^$document
+
+||*bc*seed*^$document
+||*bong*^$document
+||*canabis*^$document
+||*canabiz*^$document
+||*cannabis*^$document
+||*cigaret*^$document
+||*cigarette*^$document
+||*cigi*^$document
+||*cigs*^$document
+||*cigz*^$document
+||*cohiba*^$document
+||*droga*^$document
+||*drugs*^$document
+||*drugz*^$document
+||*hemp*cbd*^$document
+||*herb*^$document
+||*hookah*^$document
+||*kanabis*^$document
+||*kannabis*^$document
+||*kohib*^$document
+||*leaf*^$document
+||*marijuana*^$document
+||*modafinil*^$document
+||*organic*^$document
+||*pure*kana*^$document
+||*queen*seed*^$document
+||*seed*^$document
+||*shisha*^$document
+||*smoke*^$document
+||*vape*^$document
+||*vaping*^$document
+||*vapor*^$document
+||*weed*^$document
+||*xanax*^$document
+||cbd*hemp*^$document
+||tobacco*^$document
+||tobaco*^$document
+||tobako*^$document
+
+||*bc*seed*$document
+||*bong*$document
+||*canabis*$document
+||*canabiz*$document
+||*cannabis*$document
+||*cigaret*$document
+||*cigarette*$document
+||*cigi*$document
+||*cigs*$document
+||*cigz*$document
+||*cocain*$document
+||*cohiba*$document
+||*droga*$document
+||*drugs*$document
+||*drugz*$document
+||*hemp*cbd*$document
+||*herb*$document
+||*hookah*$document
+||*kanabis*$document
+||*kannabis*$document
+||*kohib*$document
+||*leaf*$document
+||*marijuana*$document
+||*modafinil*$document
+||*organic*$document
+||*pure*kana*$document
+||*queen*seed*$document
+||*seed*$document
+||*shisha*$document
+||*smoke*$document
+||*vape*$document
+||*vaping*$document
+||*vapor*$document
+||*weed*$document
+||*xanax*$document
+||cbd*hemp*$document
+||tobacco*$document
+||tobaco*$document
+||tobako*$document
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [7] GAMBLING
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [8] GAMING
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [9] SOCIAL
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [10] SPAM
+
+! A
+||apkmirror.com^
+||apkpure.com^
+||apkpure.net^
+||appbrain.com^
+||aptoide.com^
+
+! C
+||download.cnet.com^
+
+! F
+||filehippo.com^
+||filehorse.com^
+
+! I
+||indusappstore.com^
+
+! S
+||softpedia.com^
+
+! U
+||uptodown.com^
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [11] SPORTS
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [12] STREAMING
+
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [13] UTILITIES
+
+! ====================================================================================
+! 13.1 BROWSERS
+
+! A
+||arc.net^
+||avantbrowser.com^
+||avast.com/secure-browser^  
+||avg.com/en-ww/secure-browser^
+
+! B
+||beakerbrowser.com^
+||boltbrowser.app^
+||browser.qq.com^
+||browser.yandex.com^
+
+! C
+||chameleonbrowser.com^
+||chromium.org^
+||citrio.com^
+||comet.perplexity.ai^
+
+! D
+||diabrowser.com^
+||dolphin-browser-app.com^
+||dolphin.com
+||dolphinbrowserfree.com^
+
+! E
+||epicbrowser.com^
+
+! F
+||falkon.org^
+||flashpeak.com^
+||floorp.app^
+||fluidbrowser.com^
+
+! G
+||getdot.js.org^
+||ghostery.com/private-browser^
+||google.com/chrome/beta^
+||google.com/chrome/canary^
+||google.com/chrome/dev^
+||google.com/chrome^
+
+! I
+||icab.de^
+||ilvruan.com^
+||iridiumbrowser.de^
+
+! K
+||kingpinbrowser.com^
+||kmeleonbrowser.org^
+
+! L
+||librewolf.net^
+||lunascape.org^
+||lunascape.tv^
+
+! M
+||maxthon.com^
+||microsoft.com/edge^
+||microsoft.com/en-us/edge^
+||morequick.com^
+
+! O
+||omnigroup.com/more^
+||opera.com^
+
+! P
+||palemoon.org^
+||polaritybrowser.netlify.app
+||puffin.com^
+
+! R
+||runecats.com^
+
+! S
+||salamweb.com^
+||seamonkey-project.org^
+||secure-browser.com^
+||seznam.cz^
+||slimbrowser.net^
+||slimjet.com^
+||soliton.co.jp^
+||srware.net^
+
+! T
+||torchbrowser.com^
+||torproject.org^
+
+! U
+||ucweb.com^
+||ungoogled-software.github.io/ungoogled-chromium^
+
+! V
+||vivaldi.com^
+
+! W
+||waterfox.net^
+||webkit.org^
+||whale.naver.com^
+||wwwdotbrowser.webs.com^
+
+! Y
+||yandex.com/browser^
+
+! ====================================================================================
+! 13.2 SEARCH ENGINES
+
+! ........................................ 
+! Brave Search
+! ........................................ 
+! > All
+
+! Ad Place Card
+safe.search.brave.com##.svelte-jgbvta.mt-3xl.side-grid
+
+! Carousels (Images, News & Videos) in Web Results
+safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(3)
+safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(4)
+safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(6)
+
+! Find Elsewhere Wrapper
+safe.search.brave.com###search-elsewhere
+
+! People Also Ask
+safe.search.brave.com###faq
+
+! Related Queries
+safe.search.brave.com##.svelte-1ndh8p4.related-queries-wrapper
+
+! --------------------
+! > Images
+
+! Find Elsewhere Wrapper
+safe.search.brave.com##.svelte-xvh2t2.search-elsewhere-wrapper
+safe.search.brave.com##.padded.svelte-1qhxjcj.image-result-search-elsewhere.image-result
+
+! --------------------
+! > Quick Settings
+
+! Ad-Free Search Results
+safe.search.brave.com##div.standalone.svelte-jmfu5f.snippet:nth-of-type(5)
+
+! Safe Search Toggle
+safe.search.brave.com##section.svelte-uguqax.card:nth-of-type(2) > .responsive.svelte-3ltauh
+
+! Share Feedback
+safe.search.brave.com##.feedback
+
+! ........................................ 
+! DuckDuckGo
+! ........................................ 
+
+! Carousels (Images, News & Videos) in Web Results
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="images"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-images"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="news"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-news"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-layout="videos"]
+duckduckgo.com,safe.duckduckgo.com,start.duckduckgo.com,noai.duckduckgo.com##[data-testid="web-vertical"] [data-testid="zci-videos"]
+
+! Videos Tab
+duckduckgo.com##li:has(a[href*="ia=videos"])
+duckduckgo.com##li:has(a[href*="iax=videos"])
+
+! --------------------
+! Footer
+duckduckgo.com##.footer
+
+! Homepage Bottom Arrow
+duckduckgo.com##.pull-tab-scroll-button_pullTabScrollButtonContainer__erxXa
+
+! Homepage Bottom Wrapper
+duckduckgo.com##.minimal-homepage_belowTheFoldWrapper__T6mG9
+
+! Related Searches
+duckduckgo.com##.at-bottom.t-m.related-searches
+
+! Results Exclude Blocked Sites Notice, Show All Results & Manage Blocked Sites Options
+duckduckgo.com##.rrF8PC7c0I6y2utse7c7
+
+! Sidebar Button
+duckduckgo.com##.js-side-menu-open.header__button--menu
+duckduckgo.com##.header_menuButton__FRHct.header_headerButton__hj3Nb
+
+! Sidebar Menu
+duckduckgo.com##.is-open.js-menu--slideout.nav-menu--slideout
+duckduckgo.com##.sideMenu_positionRight__Z1_Vc.sideMenu_sideMenu__6CZ1k
+
+! ........................................ 
+! Swisscows
+! ........................................ 
+
+! News Carousel
+swisscows.com##.widget-news.widget
+
+! ........................................ 
+! Qwant
+! ........................................ 
+
+! Images Carousel
+www.qwant.com##.EBqum
+
+! ====================================================================================
+! 13.3 YOUTUBE
+
+! ........................................ 
+! Homepage
+! ........................................ 
+
+! Top Header/Masthead Elements
+
+! Create Button
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+
+! Hamburger Menu Button
+www.youtube.com###guide-button
+
+! Help & Send Feedback
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(3)
+
+! Notifications Bell
+www.youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
+
+! Restricted Mode On/Off Toggle
+www.youtube.com##ytd-compact-link-renderer.yt-multi-page-menu-section-renderer.style-scope:nth-of-type(3)
+
+! Voice Search 
+www.youtube.com###center > .ytd-masthead.style-scope
+
+! --------------------
+! Left Sidebar
+
+! Home, Shorts, You & History
+www.youtube.com###guide-renderer > .ytd-guide-renderer.style-scope
+
+! Subscriptions
+
+! Sign In
+www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
+
+! Explore
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+
+! More from YouTube
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+
+! Report History 
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+
+! Footer (About, Press, Copyright, Contact Us)
+www.youtube.com###footer
+
+! --------------------
+! Recommendations Grid
+
+! Don't Miss New Videos Promo
+www.youtube.com##yt-icon.ytd-background-promo-renderer.style-scope.image > .ytSpecIconShapeHost.yt-icon.style-scope.yt-icon-shape > div
+www.youtube.com##.ytd-background-promo-renderer.style-scope.promo-title
+www.youtube.com##.ytd-background-promo-renderer.style-scope.promo-body-text
+www.youtube.com##.ytd-background-promo-renderer.style-scope
+
+! Main Recommendations Grid
+www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
+
+! ........................................ 
+! Video Results Page
+! ........................................ 
+
+! About These Results
+www.youtube.com###about-these-results
+
+! Channel Icon, Name & Description Header
+www.youtube.com##.ytd-channel-renderer.style-scope
+
+! Popular In
+www.youtube.com##.ytd-shelf-renderer.style-scope.grid-subheader
+
+! Recommended Videos in Video Results Feed
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
+
+! Shorts Carousels
+
+! YouTube Movies - Buy or Rent
+www.youtube.com##ytd-movie-renderer.ytd-item-section-renderer.style-scope
+
+! ........................................ 
+! Video Watch Page
+! ........................................ 
+
+! AutoPlay Button
+www.youtube.com##.delhi-fast-follow-autonav-toggle.ytp-autonav-toggle.ytp-button
+
+! Comments Section
+www.youtube.com##.ytd-comments.style-scope
+
+! Endscreen Recommended Videos Grid
+www.youtube.com##.ytp-fullscreen-grid-stills-container
+
+! Join Button
+www.youtube.com###sponsor-button
+
+! Like/Dislike, Share & Save Buttons Strip
+www.youtube.com###actions
+
+! Recommended & Related Videos Sidebar
+www.youtube.com###secondary
+
+! Subscribe Button
+www.youtube.com##.ytSmartImationsEnableMasking.ytSmartImationsHost.ytd-subscribe-button-renderer.style-scope
+
+! ........................................ 
+! Channel Page
+! ........................................ 
+
+! Banner
+www.youtube.com###page-header-banner
+
+! Community
+www.youtube.com##div.ytFlexibleActionsViewModelAction:nth-of-type(2)
+
+! Live
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(4)
+
+! Playlists
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(5)
+
+! Posts
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(6)
+
+! Shorts
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(3)
+
+! Subscribe
+www.youtube.com##.ytSpecButtonViewModelHost > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextFilled.ytSpecButtonShapeNextHost
+

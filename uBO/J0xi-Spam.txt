@@ -3,57 +3,6 @@
 ! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Spam.txt
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Spam.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-
-! Affiliate SEO spam
-
-||bestreviewsite.com^
-||productrankings.co^
-||top10best.com^
-
-! –––––––––––––––––––––––––––––––––––––––– 
-! AI Generated Content
-
-||answerbun.com^
-||answercatch.com^
-||answerdev.com^
-||answerown.com^
-||answers.com^
-||answersjet.com^
-||ask.com^
-||askyourquery.net^
-||autoblog.com^
-||brainlyads.com^
-||byebyebadgrades.com^
-||culturalmaya.com^
-||droidrant.com^
-||ecusocmin.org^
-||educationwaves.com^
-||faq-blog.com^
-||howtodiscuss.com^
-||howtodothings.com^
-||infocomm.ky^
-||instalker.org^
-||justanswer.com^
-||keablogs.com^
-||mecedorama.com^
-||mindrightdetroit.com^
-||mytechremedy.com^
-||neeness.com^
-||profound-answers.com^
-||qa.engineer.com^
-||quora.com^
-||questionsgems.com^
-||remodelormove.com^
-||retrotechno.com^
-||socratic.org^
-||textanswer.com^
-||thisinterestsme.com^
-||timesmojo.com^
-||topqa.info^
-||validsense.com^
-||vimbuzz.com^
-||yourquickinfo.com^
-
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Bios
 
