@@ -18,9 +18,7 @@ ass,cum,tit = Risky, form parts of neutral words, best to apply
 Matches: luxchat.net, virtual-chat-1.com, chat-room3.org
 Matches: apricot-style.com, clothing-old.uk/apricot-shirt, apricot.groceryonline.net
 
-
 ^ = boundary match
-
 
 ||*tank*^$document =
 
