@@ -23,4 +23,5 @@
 @*://*.en.wikipedia.org/*
 
 # Z
+@*://*.zoom.com/*
 @*://*.zoom.us/*
