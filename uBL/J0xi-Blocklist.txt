@@ -10,19 +10,15 @@
 # [2]        ASTROLOGY
 # [3]        BLOGS
 # [4]        CHAT
-
 # [5]        COMMERCE
   # 5.1        FOOD DELIVERY  
-
 # [6]        DATING
 # [7]        GAMBLING
 # [8]        GAMING
 # [9]        
 # [  ]       SOCIAL
-
 # [10]       SPAM
 #    10.1        
-
 # [11]       SPORTS
 # [12]       STREAMING AV
 
@@ -467,7 +463,6 @@ badgirl
 *://*.ofrankings.com/*
 *://*.ofstars.co/*
 *://*.oftracker.com/*
-*://*.okcupid.com/*
 *://*.onemansway.com/*
 *://*.onlinedatinggirls.org/*
 *://*.onlyhookup.com/*
@@ -1073,34 +1068,15 @@ rockstargames
 # –––––––––––––
 # Devs
 
-*://*.4399.com/*
-*://*.acidnerve.com/*
-*://*.acidwizardstudio.com/*
-*://*.activision.com/*
-*://*.agilevrstudio.com/*
-*://*.alchemistinteractive.com/*
-*://*.altvr.com/*
-*://*.amanotes.com/*
-*://*.amatasoft.com/*
-*://*.animocabrands.com/*
-*://*.aniplex.co.jp/*
-*://*.appquantum.com/*
-*://*.appsquadz.com/*
-*://*.arrowheadgamestudios.com/*
-*://*.arvore.io/*
-*://*.asia.sega.com/*
-*://*.asia.ubisoft.com/*
-*://*.asobimo.com/*
-*://*.axiomzen.co/*
-*://*.bandainamcoent.com/*
-*://*.bandainamcoent.eu/*
-*://*.beastcartel.com/*
-*://*.bethesda.net/*
-*://*.bigfishgames.com/*
-*://*.bigtime.gg/*
-*://*.bilibili.com/*
-*://*.bithellgames.com/*
-*://*.bitmango.com/*
+capcom
+activision
+sega
+konami
+bandai
+rockstar
+rockstargames
+
+
 *://*.blackbirdinteractive.com/*
 *://*.blackscreenalpha.com/*
 *://*.blizzard.com/*
@@ -1114,9 +1090,6 @@ rockstargames
 *://*.bungie.net/*
 *://*.bytedance.com/*
 *://*.byuu.org/*
-*://*.capcom-europe.com/*
-*://*.capcom.co.jp/*
-*://*.capcom.com/*
 *://*.cdprojekt.com/*
 *://*.cdprojektred.com/*
 *://*.chillyroom.com/*
@@ -1208,8 +1181,6 @@ rockstargames
 *://*.klei.com/*
 *://*.koeitecmo.co.jp/*
 *://*.kolibrigames.com/*
-*://*.konami.com/*
-*://*.konami.jp/*
 *://*.kunlun.com/*
 *://*.larian.com/*
 *://*.lilithgames.com/*
@@ -1378,16 +1349,6 @@ rockstargames
 *://*.volition-inc.com/*
 *://*.voodoo.io/*
 *://*.wargaming.net/*
-*://*.weplay.games/*
-*://*.whalekit.com/*
-*://*.wildspike.com/*
-*://*.winkingworks.com/*
-*://*.within.co/*
-*://*.wolfandwood.co/*
-*://*.wololostudio.com/*
-*://*.xd.com/*
-*://*.xemu.app/*
-*://*.xenia.jp/*
 *://*.xrgames.io/*
 *://*.yachtclubgames.com/*
 *://*.yodo1.com/*
@@ -1924,6 +1885,9 @@ fortnite
 ign
 geek
 arqade
+quiz
+cosplay
+chess
 
 *://*.achievementhunter.com/*
 *://*.adventurenerds.com/*
@@ -1933,7 +1897,6 @@ arqade
 *://*.arcadeyblog.com/*
 *://*.askmrrobot.com/*
 *://*.attackofthefanboy.com/*
-*://*.autoclicker.io/*
 *://*.backloggd.com/*
 *://*.backloggery.com/*
 *://*.beano.com/*
@@ -1945,7 +1908,6 @@ arqade
 *://*.charahub.com/*
 *://*.chess.com/*
 *://*.clickhole.com/*
-*://*.comicbook.com/gaming/*
 *://*.cosplay.com/*
 *://*.cosplayfu.com/*
 *://*.cracked.com/*
@@ -2012,9 +1974,6 @@ arqade
 *://*.nerdist.com/*
 *://*.nerdreactor.com/*
 *://*.nerdyshirts.com/*
-*://*.nintendolife.com/*
-*://*.nintendoworldreport.com/*
-*://*.noctrlz.gg/*
 *://*.oneangrygamer.net/*
 *://*.otakumode.com/*
 *://*.otakutale.com/*
@@ -2075,12 +2034,16 @@ arqade
 # Catalogs
 
 steam
+game
+gameinformer
+games
+gamer
+gamefaq
+rpg
 
 *://*.1morecastle.com/*
 *://*.1001games.com/*
 *://*.allkeyshop.com/*
-*://*.backloggd.com/*
-*://*.backloggery.com/*
 *://*.barter.vg/*
 *://*.co-optimus.com/*
 *://*.completionator.com/*
@@ -2143,10 +2106,6 @@ steam
 *://*.savetheevidence.com/*
 *://*.serenityforge.com/*
 *://*.shacknews.com/tag/game-lists/*
-*://*.slg.gg/*
-*://*.slither.io/*
-*://*.smwcentral.net/*
-*://*.speedrun.com/*
 *://*.storeparser.com/*
 *://*.thegamesdb.net/*
 *://*.thelogbook.com/games/*
@@ -2167,6 +2126,7 @@ steam
 # Cheats
 
 apkmod
+cheats
 
 
 *://*.247cheats.com/*
@@ -2186,12 +2146,8 @@ apkmod
 *://*.apkturbo.com/*
 *://*.apkvision.org/*
 *://*.appmodz.com/*
-*://*.archerscheats.com/*
-*://*.arena-cheats.com/*
 *://*.artmods.io/*
 *://*.artofcheat.com/*
-*://*.autohotkey.com/*
-*://*.axey.io/*
 *://*.banek192.com/*
 *://*.battlecheats.net/*
 *://*.battlelog.co/*
@@ -4637,7 +4593,6 @@ apkpure
 *://*.metager.org/*
 *://*.mojeek.co.uk/*
 *://*.mojeek.com/*
-*://*.msn.com/search/*
 *://*.naver.com/*
 *://*.neeva.com/*
 *://*.nigma.ru/*
@@ -5132,7 +5087,6 @@ factsbeyond
 *://*.addicted2success.com/*
 *://*.affiliatesuccessbuilder.com/*
 *://*.affiliatetips.com/*
-*://*.alexbeadon.com/*
 *://*.alexhormozi.com/*
 *://*.andrewhubbard.co/*
 *://*.andrewtate.com/*
@@ -5429,6 +5383,13 @@ sportz
 
 # ––––––––––––––––––
 # 11.3 Streaming (incl. Piracy Mirrors)
+
+eurosport
+sport
+sports
+fubosport
+
+
 
 *://*.7plus.com/*
 *://*.collegesportslive.com/*
