@@ -13,6 +13,9 @@
 # G
 @*://*.gettyimages/*
 
+# M
+@*://*.msn.com/*
+
 # P
 @*://*.proton.me/*
 
