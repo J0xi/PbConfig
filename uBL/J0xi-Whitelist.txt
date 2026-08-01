@@ -20,7 +20,7 @@
 @*://*.proton.me/*
 
 # W
-@*://*.en.wikipedia.org/*
+@*://*.wikipedia.org/*
 
 # Z
 @*://*.zoom.com/*
