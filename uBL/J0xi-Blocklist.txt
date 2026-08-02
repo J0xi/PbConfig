@@ -85,6 +85,9 @@ strip
 
 fortune calendar
 zodist
+birthstone
+birthsign
+gemselect
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [2] CHAT
@@ -115,14 +118,10 @@ badoo
 bazoocam
 cam
 freecam
-
-*://*.blurtit.com/*
 *://*.bozocam.com/*
 *://*.camfrog.com/*
 *://*.camki.com/*
 *://*.camloo.com/*
-*://*.kick.com/*
-*://*.oncam.me/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [3] DATING
@@ -175,7 +174,13 @@ kupid
 interracial
 sugardaddy
 lovegpt
+bride
+brides ... russian/ukrainian brides
 charm
+cheater
+cheating
+companion
+kiss
 parship
 lovelink
 datefinder
@@ -214,7 +219,6 @@ badgirl
 *://*.celibataire.fr/*
 *://*.charmdate.com/*
 *://*.chatdate.app/*
-*://*.cheatersdates.com/*
 *://*.cheatingwives.com/*
 *://*.christianconnection.com/*
 *://*.christianpeoplemeet.com/*
