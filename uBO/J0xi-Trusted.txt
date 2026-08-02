@@ -28,7 +28,7 @@
 ! D
 
 ! 🇭🇺
-@@||dijnet.hu^
+@@||dijnet.hu^$important
 
 ! ........................................
 ! E
@@ -40,7 +40,7 @@
 ! ........................................
 ! F
 
-@@||freedom.to^
+@@||freedom.to^$important
 
 @@||cdn.filen.io^
 
@@ -73,26 +73,26 @@
 ! P
 
 ! 🇨🇭
-@@||proton.me^
-@@||protonvpn.com^
+@@||proton.me^$important
+@@||protonvpn.com^$important
 
 ! 🇷🇸
 @@||payten.com.tr
 
-@@||paypal.com^
+@@||paypal.com^$important
 
 ! ........................................
 ! R
 
 ! 🇭🇺
-@@||raiffeisen.hu^
+@@||raiffeisen.hu^$important
 
 @@||cdn.riastatic.com^
 
 ! ........................................
 ! S 
 
-@@||simplelogin.com^
+@@||simplelogin.com^$important
 
 @@||cdn.snigelweb.com^
 
@@ -100,10 +100,10 @@
 ! U
 
 ! 🇨🇭
-@@||ebanking-ch1.ubs.com^
-@@||ebanking-ch2.ubs.com^
-@@||ebanking-ch3.ubs.com^
-@@||ebanking-ch4.ubs.com^
+@@||ebanking-ch1.ubs.com^$important
+@@||ebanking-ch2.ubs.com^$important
+@@||ebanking-ch3.ubs.com^$important
+@@||ebanking-ch4.ubs.com^$important
 
 @@||uniclipboard.app^
 
@@ -119,7 +119,6 @@
 @@||wise.com^
 
 @@||whatsapp.com^
-@@||web.whatsapp.com^
 
 ! ........................................
 ! Z
