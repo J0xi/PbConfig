@@ -378,7 +378,6 @@
 ! ........................................ 
 ! 1F
 
-||*f*u*c*k$document
 ||*f4nny*$document
 ||*fack*$document
 ||*faeces*$document
@@ -430,6 +429,7 @@
 ||*frottage*$document
 ||*frotting*$document
 ||*fucck*$document
+||*fuck*$document
 ||*fudge*packer*$document
 ||*fugly*$document
 ||*fuk*whit*$document
