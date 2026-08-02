@@ -1178,7 +1178,6 @@
 ||*paneskella*$document
 ||*panettaa*$document
 ||*panna*$document
-||*pano*$document
 ||*pantava*$document
 ||*paska*$document
 ||*paskiainen*$document
