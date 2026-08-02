@@ -116,7 +116,7 @@
 ! W
 
 ! 🇬🇧
-@@||wise.com^
+@@||wise.com^$important
 
 @@||whatsapp.com^
 
