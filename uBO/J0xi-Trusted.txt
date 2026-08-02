@@ -53,11 +53,11 @@
 ! ........................................
 ! M
 
+@@||moneymanagerex.org^
+
 @@||manualslib.com^$important
 @@||static-data2.manualslib.com^
 @@||static2.manualslib.com^
-
-@@||moneymanagerex.org^
 
 ! ........................................
 ! N 
@@ -91,6 +91,8 @@
 
 ! ........................................
 ! S 
+
+@@||simplelogin.com^
 
 @@||cdn.snigelweb.com^
 

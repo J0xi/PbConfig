@@ -13,6 +13,7 @@
 ! [5]        COMMERCE
   ! 5.1        Food Delivery 
 ! [6]        DATING
+! [7]        DRUGS & TOBACCO
 ! [7]        GAMBLING
 ! [8]        GAMING
 ! [9]        SOCIAL
@@ -20,7 +21,7 @@
   ! 10.1        Unsafe 
 ! [11]       SPORTS
 ! [12]       STREAMING
-! [13]       UTILITIES
+! [13]       OTHER
 !    13.1        Browsers
 !    13.2        Search Engines
 !    13.3        YouTube
@@ -28,21 +29,50 @@
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! [1] 18+
 
+! A
+||ancdn.com^
+
+! B
+||explicit.bing.net^
+
+! C
+||cdn77.org^
+||cdnclouder.com^
+
+! L
+||lmjcdn.com^
+
+! M
+||mrskincdn.com^
+
+! N
+||naughtycdn.com^
+
+! P
+||panheal-cdn.net^
+||phncdn.com^
+||pump-cdn.com^
+
+! R
+||rdtcdn.com^
+||reflected.net^
+
+! S
+||stfucdn.com^
+
+! T
+||t8cdn.com^
+||tnastatic.com^
+||tumblr.com^
+
+! X
+||xhcdn.com^
+
+! Y
+||ypncdn.com^
+
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! [2] ASTROLOGY
-
-||*astro*^$document
-||*horoscop*^$document
-||*horoskop*^$document
-||*name*meaning*^$document
-||*name*analyz*^$document
-||*numerolog*^$document
-||*zodiac*^$document
-||*zodiak*^$document
-||*psychic*^$document
-||*tarot*^$document
-||*star*sign*^$document
-||*yogi*^$document
 
 ||*astro*$document
 ||*horoscop*$document
@@ -63,31 +93,31 @@
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! [4] CHAT
 
-||chat*^$document
-||*chat-*^$document
-||*-chat*^$document
+||chat*$document
+||*chat-*$document
+||*-chat*$document
 
-||*anon*chat*^$document
-||*cam*chat*^$document
-||*cam*go*^$document
-||*chat*anon*^$document
-||*chat*cam*^$document
-||*chat*free*^$document
-||*chat*live*^$document
-||*chat*now*^$document
-||*chat*random*^$document
-||*chat*room*^$document
-||*chat*stranger*^$document
-||*chat*video*^$document
-||*chat*video*^$document
-||*emeraldchat*^$document
-||*free*chat*^$document
-||*live*chat*^$document
-||*now*chat*^$document
-||*random*chat*^$document
-||*room*chat*^$document
-||*stranger*chat*^$document
-||*video*chat*^$document
+||*anon*chat*$document
+||*cam*chat*$document
+||*cam*go*$document
+||*chat*anon*$document
+||*chat*cam*$document
+||*chat*free*$document
+||*chat*live*$document
+||*chat*now*$document
+||*chat*random*$document
+||*chat*room*$document
+||*chat*stranger*$document
+||*chat*video*$document
+||*chat*video*$document
+||*emeraldchat*$document
+||*free*chat*$document
+||*live*chat*$document
+||*now*chat*$document
+||*random*chat*$document
+||*room*chat*$document
+||*stranger*chat*$document
+||*video*chat*$document
 
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! [5] COMMERCE
@@ -121,55 +151,21 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! [6] DATING
 
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [7] DRUGS
+
 ||cbd*^$document
 ||cbd-*^$document
 ||-cbd*^$document
 ||*cbd*^$document
-
-||*bc*seed*^$document
-||*bong*^$document
-||*canabis*^$document
-||*canabiz*^$document
-||*cannabis*^$document
-||*cigaret*^$document
-||*cigarette*^$document
-||*cigi*^$document
-||*cigs*^$document
-||*cigz*^$document
-||*cohiba*^$document
-||*droga*^$document
-||*drugs*^$document
-||*drugz*^$document
-||*hemp*cbd*^$document
-||*herb*^$document
-||*hookah*^$document
-||*kanabis*^$document
-||*kannabis*^$document
-||*kohib*^$document
-||*leaf*^$document
-||*marijuana*^$document
-||*modafinil*^$document
-||*organic*^$document
-||*pure*kana*^$document
-||*queen*seed*^$document
-||*seed*^$document
-||*shisha*^$document
-||*smoke*^$document
-||*vape*^$document
-||*vaping*^$document
-||*vapor*^$document
-||*weed*^$document
-||*xanax*^$document
-||cbd*hemp*^$document
-||tobacco*^$document
-||tobaco*^$document
-||tobako*^$document
 
 ||*bc*seed*$document
 ||*bong*$document
 ||*canabis*$document
 ||*canabiz*$document
 ||*cannabis*$document
+||*cbd*hemp*$document
+||*cigar*$document
 ||*cigaret*$document
 ||*cigarette*$document
 ||*cigi*$document
@@ -178,8 +174,11 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||*cocain*$document
 ||*cohiba*$document
 ||*droga*$document
+||*droge*$document
+||*drogu*$document
 ||*drugs*$document
 ||*drugz*$document
+||*ganja*$document
 ||*hemp*cbd*$document
 ||*herb*$document
 ||*hookah*$document
@@ -195,31 +194,28 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||*seed*$document
 ||*shisha*$document
 ||*smoke*$document
+||*tobacco*$document
+||*tobaco*$document
+||*tobako*$document
 ||*vape*$document
 ||*vaping*$document
 ||*vapor*$document
 ||*weed*$document
 ||*xanax*$document
-||cbd*hemp*$document
-||tobacco*$document
-||tobaco*$document
-||tobako*$document
 
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-! [7] GAMBLING
+! [8] GAMBLING
 
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-! [8] GAMING
+! [9] GAMING
 
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-! [9] SOCIAL
-
+! [10] SOCIAL
 
 ! BeReal
 
 ||bere.al^
 ||bereal.com^
-
 
 ! DeviantArt
 
@@ -258,6 +254,50 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||instagram.com^
 ||instagr.am^
 
+||*anonimo*$document
+||*anonstor*$document
+||*anonym*view*$document
+||*anonymview*$document
+||*dumpor*$document
+||*fakelogin*$document
+||*gramhir*$document
+||*gramho*$document
+||*gramvio*$document
+||*greatfon*$document
+||*iganony*$document
+||*igram*$document
+||*igstoryview*$document
+||*igviewer*$document
+||*imginn*$document
+||*imglook*$document
+||*ingramstory*$document
+||*insnoop*$document
+||*insta*stori*$document
+||*instadp*$document
+||*instanav*$document
+||*instaprofile*$document
+||*instapv*$document
+||*instasave*$document
+||*instastalk*$document
+||*instastories*$document
+||*instastory*$document
+||*instauser*$document
+||*instaview*$document
+||*instazoom*$document
+||*mollygram*$document
+||*picnob*$document
+||*picuki*$document
+||*pixwox*$document
+||*save*free*$document
+||*smihub*$document
+||*stalk*$document
+||*stealthgram*$document
+||*storiesdown*$document
+||*storiesig*$document
+||*storistalk*$document
+||*story*view*$document
+||*storysaver*$document
+
 ||0insta.com^
 ||1stagram.com^
 ||ahasave.com^
@@ -266,24 +306,9 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||anon-viewer.com^
 ||anongram.com^
 ||anonigviewer.com^
-||anonimoig.com^
-||anonimostory.com^
-||anonstories.app^
-||anonstories.com^
-||anonstories.org^
-||anonstoriesview.com^
-||anonstoryview.com^
-||anony-ig.com^
-||anony-storyviewer.com^
-||anonyig.com^
-||anonyig.io^
-||anonyig.org^
-||anonymous-viewer.com^
-||anonymviewer.com^
 ||anonypro.com^
 ||anonyviewer.com^
 ||anotherfollower.com^
-||anticapitalist.party^
 ||anycontrol.app^
 ||apkun.com^
 ||aware-online.com^
@@ -306,15 +331,9 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||dmpro.app^
 ||dolphinradar.com^
 ||downev.com^
-||dumphor.net^
-||dumpor.co.uk^
-||dumpor.com^
-||dumpor.io^
 ||embedsocial.com^
 ||espressocoder.com^
 ||exploreig.com^
-||fakelogininstagram.com^
-||fakeloginpages.com^
 ||famety.com^
 ||fastlykke.com^
 ||fenced.ai^
@@ -330,18 +349,10 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||goread.io^
 ||gram-log-in.com^
 ||gramblr.me^
-||gramhir.com^
-||gramhir.pro^
-||gramhir.us^
-||gramho.com^
 ||gramsnap.com^
 ||gramspy.net^
-||gramvio.com^
-||gramvio.net^
 ||gramzoom.com^
 ||greatercollinwood.org^
-||greatfon.com^
-||greatfon.my^
 ||gwaa.net^
 ||hachyderm.io^
 ||heylocate.mobi^
@@ -351,12 +362,6 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||ig-analyzer.com^
 ||ig-crate.com^
 ||ig.me^
-||iganony.cc^
-||iganony.cloud^
-||iganony.com^
-||iganony.one^
-||iganony.org^
-||iganonyviewer.com^
 ||igblade.com^
 ||igcomment.com^
 ||ighighlightviewer.com^
@@ -364,40 +369,20 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||iglookup.com^
 ||igmods.com^
 ||igrab.online^
-||igram-login.com^
-||igram.app^
-||igram.mx^
-||igram.world^
 ||igreveal.com^
 ||igsonar.net^
 ||igspy.click^
 ||igstan.com^
-||igstoryviewer.pro^
-||igstoryviewers.com^
 ||igtvhub.com^
-||igviewer.io^
-||igviewer.one^
-||igviewer.pro^
-||igviewers.com^
 ||imagerocket.com^
 ||imganony.com^
-||imginn-instanavigation.com^
-||imginn.com^
-||imginn.io^
-||imginn.org^
-||imginnn.com^
 ||imginnta.com^
 ||imgko.com^
-||imglooker.net^
-||imglookup.co^
-||imglookup.com^
 ||imperiafollowers.com^
 ||indown.io^
 ||inflact.com^
 ||influence.co^
 ||infosec.exchange^
-||ingramstory.com^
-||ingramstoryviewer.com^
 ||inksem.com^
 ||inkstagram.com^
 ||insacret.app^
@@ -406,11 +391,6 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||inseen.app^
 ||inshotspot.com^
 ||insmask.com^
-||insnoop.app^
-||insnoop.co.uk^
-||insnoop.com^
-||insnoop.net^
-||insnoop.org^
 ||inspiretothrive.com^
 ||inst-account-verification.com^
 ||inst4gram.com^
@@ -425,9 +405,6 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||insta-security-check.com^
 ||insta-spy.net^
 ||insta-stalker.com^
-||insta-stories-viewer.com^
-||insta-stories.online^
-||insta-stories.ru^
 ||insta-story-viewer.pl^
 ||insta-tools.com^
 ||insta-viewer.com^
@@ -435,9 +412,6 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||instabiography.com^
 ||instabusters.com^
 ||instaccess.net^
-||instadp.fun^
-||instadp.io^
-||instadp.net^
 ||instafakeviewer.com^
 ||instafinsta.com^
 ||instafollowers.co^
@@ -455,11 +429,6 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||instalogon.net^
 ||instalooker.org^
 ||instametrics.net^
-||instanavi.me^
-||instanavigation.com^
-||instanavigation.net^
-||instanavigation.social^
-||instanavigationbr.com^
 ||instanonimo.com^
 ||instanonymous.com^
 ||instant-stories.com^
@@ -467,41 +436,16 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||instapeeker.com^
 ||instaphish.com^
 ||instapreview.net^
-||instaprofiler.com^
-||instaprofileviewer.com^
-||instapv.com^
-||instapv.org^
 ||instasafecheck.com^
-||instasave.website^
-||instasaved.net^
-||instasaverr.com^
 ||instascop.com^
 ||instasize.com^
 ||instaspoof.com^
 ||instaspy.net^
-||instastalker.com^
-||instastalker.info^
-||instastories.watch^
-||instastories2.com^
-||instastoriesru.com^
-||instastoriesviewer.com^
-||instastory.net^
-||instastory.org^
-||instastory.watch^
-||instastoryviewer.io^
-||instastoryviewers.com^
 ||instasupersave.com^
 ||instasv.com^
 ||instatracklog.com^
-||instausernames.com^
-||instausers.com^
-||instaview.me^
-||instaview.social^
-||instaviewer.app^
 ||instavisor.net^
 ||instawebviewer.com^
-||instazoom.co^
-||instazoom.mobi^
 ||instights.com^
 ||inststalk.com^
 ||instuky.com^
@@ -533,9 +477,6 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||meredithplays.com^
 ||methodmi.com^
 ||mewe.com^
-||mollygram.com.im^
-||mollygram.com^
-||mollygram.org^
 ||monhai.com^
 ||morogaming.com^
 ||mystalk.org^
@@ -547,16 +488,7 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||pawoo.net^
 ||paxtier.com^
 ||picgger.com^
-||picnob.co.uk^
-||picnob.info^
-||picnobi.com^
 ||pictame.com^
-||picuki.com^
-||picuki.io^
-||picuki.me^
-||picuki.my^
-||picuki.site^
-||picuki.tv^
 ||pieville.net^
 ||pikdo.net^
 ||piktag.com^
@@ -564,8 +496,6 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||pixelfed.social^
 ||pixelixe.com^
 ||pixnoy.com^
-||pixwox.net^
-||pixwox.uk^
 ||plixi.com^
 ||popygram.com^
 ||privateinsta.com^
@@ -577,8 +507,6 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||recently-followed.com^
 ||ruby.social^
 ||s.sneak.berlin^
-||save-free.app^
-||save-free.com^
 ||save-insta.com^
 ||scanick.com^
 ||searchengineinsight.com^
@@ -588,9 +516,6 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||simpliers.co^
 ||simpliers.com^
 ||skweezer.net^
-||smihub.com^
-||smihub.io^
-||smihub.net^
 ||snapinsta.app^
 ||snapsave.app^
 ||socialblade.com^
@@ -606,46 +531,24 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||sssgram.com^
 ||sssinstagram.com^
 ||ssstory.io^
-||stalkio.co^
-||stalkto.org^
 ||stalkyapp.com^
 ||starngage.com^
-||stealthgram.com^
-||stealthgram.net^
 ||storieanonimo.com^
 ||stories-agent.com^
 ||stories-view.com^
 ||stories.watch^
 ||storiesanonimo.co^
 ||storiesanonviewer.com^
-||storiesdown.com^
-||storiesdown.fun^
-||storiesdown.info^
-||storiesig.com^
-||storiesig.fun^
-||storiesig.me^
-||storiesig.net^
-||storiesig.ninja^
-||storiesig.website^
-||storiesigapp.com^
 ||storiesviewerbot.com^
 ||storieswatch.com^
-||storistalk.com^
-||storistalker.com^
 ||storiystalker.com^
 ||story-down.com^
-||story-viewer.co^
-||story-viewer.org^
 ||storybox.io^
 ||storyghost.online^
 ||storyinsta.com^
 ||storyinstanavigation.com^
 ||storynavigation.com^
 ||storyninja.app^
-||storysaver.fun^
-||storysaver.io^
-||storysaver.net^
-||storysaver.to^
 ||storystalk.com^
 ||storystalker.app^
 ||storyviewer.ai^
@@ -843,10 +746,8 @@ telegram
 threads
 tiktok
 tinder
-tinder
 truth social
 truthsocial
-tumblr
 tumblr
 vk
 wechat
@@ -887,51 +788,20 @@ xooloo
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Bios
 
-||arrivebio.org^
-||articlebio.com^
-||bioagewho.co^
-||biogossipy.com^
-||biografija.org^
-||biografijaonline.com^
-||biografijapoznatih.com^
-||biographicsworld.com^
-||biographies.net^
-||biographiesareus.com^
-||biographiesofactors.com^
-||biographs.org^
-||biography.com^
-||biographybro.com^
-||biographygist.com^
-||biographyhost.com^
-||biographyline.com^
-||biographymafia.com^
-||biographymask.com^
-||biographymask.org^
-||biographypedia.org^
-||biographyscoop.com^
-||biographystars.com^
-||biographytrendz.com^
-||biographytribune.com^
-||bioscops.com^
-||biowikis.com^
-||deepersonbiography.com^
-||ebiographypost.com^
-||marriedbiography.com^
-||metrobiography.com^
-||nextbiography.com^
-||popularbio.com^
-||popularbiographies.wordpress.com^
-||purebiography.com^
-||shortbiography.info^
+bio
+biografija
+biography
 
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Celebs
+
+seleb
+celeb
 
 ||celebsaga.com^
 ||celebsagewiki.com^
 ||celebsbiography.info^
 ||celebsuburb.com^
-||celebwiki.org^
 ||celebwikiage.com^
 ||celebzall.com^
 ||celebzwiki.com^
@@ -970,10 +840,6 @@ xooloo
 ||celebarticles.com^
 ||celebatheists.com^
 ||celebbabylaundry.com^
-||celebbistro.com^
-||celebcards.com^
-||celebcrunch.net^
-||celebcrust.com^
 ||celebdirtylaundry.com^
 ||celebdoko.com^
 ||celebdonut.com^
@@ -1426,162 +1292,36 @@ xooloo
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Fame & Glamour
 
-||allfamous.org^
-||allfamoustrend.com^
-||fame10.com^
-||fameandname.com^
-||fameshala.com^
-||famedpeople.com^
-||famedstar.com^
-||fameregistry.com^
-||fametastic.co.uk^
-||famewatcher.com^
-||famewiki.com^
-||familytron.com^
-||famosos.mundodescargas.com^
-||famososycorazon.com^
-||famous-people-search.com^
-||famousbio.net^
-||famousbiography.io^
-||famousbirthdays.com^
-||famousbirthdays.io^
-||famousbirthsdeaths.com^
-||famousboard.com^
-||famousbodysize.com^
-||famousdb.net^
-||famousdetails.com^
-||famousentrepreneurs.com^
-||famousfix.com^
-||famousgravehunter.com^
-||famoushookups.com^
-||famousintro.com^
-||famouspeople.com^
-||famouspeopletoday.com^
-||famoustimes.com^
-||famousvenue.com^
-||famousworldpeople.com^
-||famousworldstars.com^
-||famoza.net^
-||fandango.com^
-||fandom.com^
-||fanpop.com^
-||glamcheck.com^
-||glamgalz.com^
-||glamistan.com^
-||glamobserver.com^
-||glamourbiz.com^
-||glamourfame.com^
-||glamourmagazine.co^
-||glamourpath.com^
-||infofamouspeople.com^
-||poznatelicnosti.org^
-||poznati.info^
-||poznativisina.com^
-||thefamousbirthdays.com^
-||thefamouspeople.com^
-||toptenfamous.co^
-||waytofamous.com^
+fame
+famous
+famousbirthday
+famousbiography
+birthsdeaths
+birthdays
+bodysize
+famewiki
+glam
+glamour
+famoza
+famosa
+famoso
+famosos
+famousfix
+famousdb
+estrada
+estrade
+poznati
+poznate
+glamour
+worldstar
+worldstars
 
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Gossip & Rumors
 
-||allstargossip.com^
-||bbcgossip.com^
-||biogossip.com^
-||blindgossip.com^
-||craftgossip.com^
-||evilbeetgossip.film.com^
-||freegossip.gr^
-||gamegossip.com^
-||ghgossip.com^
-||globalgossip.com^
-||goss.ie^
-||gossip--people.skyrock.com^
-||gossip-addict.com^
-||gossip-girl.hypnoweb.net^
-||gossip-tv.gr^
-||gossip-vids.com^
-||gossip-vijesti.com^
-||gossip.about.com^
-||gossip.com^
-||gossip.fanpage^
-||gossip.fm^
-||gossip.imendio.org^
-||gossip.it^
-||gossip.iwon.com^
-||gossip.observer^
-||gossipandfashion.com^
-||gossipandgab.com^
-||gossipbiography.com^
-||gossipbucket.com^
-||gossipcenter.com^
-||gossipcentral.com^
-||gossipcop.com^
-||gossipcraze.com^
-||gossipdavid.com^
-||gossipflash.de^
-||gossipfm.com^
-||gossipgirl-blog.cwtv.com^
-||gossipgirl.net^
-||gossipgirlchat.com^
-||gossipgirlinsider.com^
-||gossipgirlonline.net^
-||gossipgirlonline.skyrock.com^
-||gossipgirlreport.com^
-||gossipgirls.com^
-||gossipgirlworld.org^
-||gossipgist.com^
-||gossipjournal.canalblog.com^
-||gossipnewspoint.com^
-||gossipnextdoor.com^
-||gossippimp.com^
-||gossiprabbit.com^
-||gossiprecords.com^
-||gossiprocks.com^
-||gossipsdiary.com^
-||gossipsmag.com^
-||gossipthug.com^
-||gossipvzla.com^
-||gossipyouth.co.uk^
-||h-n-v-gossip.skyrock.com^
-||hotmommagossip.com^
-||kinggossip.com^
-||ladygossip.yooblog.gr^
-||laineygossip.com^
-||latingossip.com^
-||numbergossip.com^
-||pandagossips.com^
-||recentgossip.com^
-||robotgossip.blogspot.com^
-||rumorficial.com^
-||rumormethis.com^
-||rumorpatrol.com^
-||rumorreporter.com^
-||rumors-online.com^
-||rumors-party.com^
-||rumors.com^
-||rumors.it^
-||rumors.jp^
-||rumorsaltoona.com^
-||rumorscomedyclub.com^
-||rumorsms.citymax.com^
-||rumorsnightclub.net^
-||rumorsquartet.com^
-||rumorsrestaurant.com^
-||rumorsrva.com^
-||skinnygossip.com^
-||slashgossip.com^
-||snarkygossip.com^
-||sportsgossip.com^
-||thegossipbee.com^
-||thegossipblog.com^
-||thegossipfactory.com^
-||thegossipfix.com^
-||thegossipmusic.com^
-||thesweetgossip.com^
-||thetwistgossip.com^
-||timessquaregossip.com^
-||ubergossip.com^
+gossip
+rumor
+rumour
 
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Hollywood
@@ -1809,46 +1549,11 @@ peeps
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Wikis
 
-||aidwiki.com^
-||biographywiki.net^
-||biowikis.com^
-||biowikistory.com^
-||birthdaywiki.com^
-||birthdaywikia.com^
-||everybodywiki.com^
-||marriedwiki.com^
-||rationalwiki.org^
-||spousewiki.com^
-||vergewiki.com^
-||wikiake.com^
-||wikiany.net^
-||wikibery.com^
-||wikibioage.com^
-||wikibiography.in^
-||wikibioinside.com^
-||wikibioz.com^
-||wikibirthdays.com^
-||wikiblog.org^
-||wikicelebs.com^
-||wikichowk.com^
-||wikifame.org^
-||wikifamous.com^
-||wikifeet.com^
-||wikifeetx.com^
-||wikigd.com^
-||wikiheights.com^
-||wikilivre.org^
-||wikinbio.com^
-||wikinetworth.com^
-||wikiobits.com^
-||wikiodin.com^
-||wikiofcelebs.com^
-||wikiqube.net^
-||wikispro.com^
-||wikistarbio.com^
-||wikiwand.com^
-||wikiwiki.in^
-||wikiyeah.com^
+wiki
+birthdaywiki
+wikibio
+biowiki
+wikistar
 
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! [11] SPORTS
@@ -1857,10 +1562,10 @@ peeps
 ! [12] STREAMING
 
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-! [13] UTILITIES
+! [13] OTHER
 
 ! ====================================================================================
-! 13.1 BROWSERS
+! 13.1 Browsers
 
 ! A
 ||arc.net^
@@ -1966,7 +1671,7 @@ peeps
 ||yandex.com/browser^
 
 ! ====================================================================================
-! 13.2 SEARCH ENGINES
+! 13.2 Search Engines
 
 ! ........................................ 
 ! Brave Search
@@ -2064,7 +1769,7 @@ swisscows.com##.widget-news.widget
 www.qwant.com##.EBqum
 
 ! ====================================================================================
-! 13.3 YOUTUBE
+! 13.3 YouTube
 
 ! ........................................ 
 ! Homepage
