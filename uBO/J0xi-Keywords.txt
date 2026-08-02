@@ -839,7 +839,6 @@
 ||*shiz*$document
 ||*shlong*$document
 ||*shlong*$document
-||*simp*$document
 ||*sinner*$document
 ||*sins*^all
 ||*sissy*$document
