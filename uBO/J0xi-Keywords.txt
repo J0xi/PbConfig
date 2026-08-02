@@ -1595,7 +1595,6 @@
 ||*potverdorie*$document
 ||*publiciteitsgeil*$document
 ||*raaskallen*$document
-||*reet*$document
 ||*remsporen*$document
 ||*reutelen*$document
 ||*rothoer*$document
