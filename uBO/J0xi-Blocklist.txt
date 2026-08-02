@@ -222,14 +222,14 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||deviantart.com^
 ||deviantart.net^
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! –––––––––––––––––––––––
 ! Discord
 
 ||discord.com^
 ||discord.gg^
 ||discordapp.com^
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! –––––––––––––––––––––––
 ! Facebook
 
 ||facebook.com^
@@ -242,13 +242,13 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||meta.com^
 ||thefacebook.com^
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! –––––––––––––––––––––––
 ! Giphy
 
 ||giphy.com^
 ||giphyusercontent.com^
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! –––––––––––––––––––––––
 ! Instagram
 
 ||instagram.com^
@@ -603,7 +603,7 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||zoominsta.de^
 ||zoomprofile.com^
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! ––––––––––––––––––––––– 
 ! Mastodon
 
 ||joinmastodon.org^
@@ -617,14 +617,14 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||mstdn.party^
 ||mstdn.social^
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! –––––––––––––––––––––––
 ! Messenger
 
 ||m.me^
 ||messenger.com^
 ||messengerkids.com^
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! –––––––––––––––––––––––
 ! Reddit
 
 ||redd.it^
@@ -636,14 +636,14 @@ www.amazon.de###pageContent > .aok-relative.a-spacing-none.a-section
 ||redditstatic.com^
 ||subredditstats.com^
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! –––––––––––––––––––––––
 ! Snapchat
 
 ||bitmoji.com^
 ||snap.com^
 ||snapchat.com^
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! –––––––––––––––––––––––
 ! Telegram
 
 @||t.me^
