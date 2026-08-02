@@ -785,7 +785,6 @@
 
 ||*s_h_i_t*$document
 ||*s.o.b.*$document
-||*s*h*i*t*$document
 ||*sadism*$document
 ||*sadist*$document
 ||*scank*$document
@@ -837,6 +836,7 @@
 ||*shaved*beaver*$document
 ||*she*he*$document
 ||*she*male*$document
+||*shit*$document
 ||*shiz*$document
 ||*shlong*$document
 ||*shlong*$document
