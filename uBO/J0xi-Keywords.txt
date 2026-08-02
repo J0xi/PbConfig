@@ -900,7 +900,6 @@
 ||*teet*$document
 ||*testicle*$document
 ||*testis*$document
-||*the*d*$document
 ||*three*some*$document
 ||*three*way*$document
 ||*throating*$document

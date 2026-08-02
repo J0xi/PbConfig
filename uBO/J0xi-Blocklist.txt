@@ -1586,135 +1586,25 @@ xooloo
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Hollywood
 
-||accesshollywoodtours.com^
-||diaryofahollywoodstreetking.com^
-||hiphollywood.com^
-||hollyscoop.com^
-||hollywood411news.com^
-||hollywood.com^
-||hollywoodactressname.com^
-||hollywoodbackwash.com^
-||hollywoodchaos.com^
-||hollywoodgossips.net^
-||hollywoodgrind.com^
-||hollywoodinsider.com^
-||hollywoodlife.com^
-||hollywoodoutbreak.com^
-||hollywoodpipeline.com^
-||hollywoodrag.com^
-||hollywoodreporter.com^
-||hollywoodsbio.com^
-||hollywoodsmagazine.com^
-||hollywoodsnowflakes.com^
-||hollywoodstreetking.com^
-||hollywoodunlocked.com^
-||hollywoodzam.com^
-||thehollywoodgossip.com^
+hollywood
+bollywood
 
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Jet-Set
 
-||designjetset.com^
-||drinkjetset.com^
-||experimentaljetset.nl^
-||jet-set-007.skyrock.com^
-||jet-set-international.com^
-||jet-set.216942.free-press-release.com^
-||jetset-agency.com^
-||jetset-bar.com^
-||jetset.ca^
-||jetset.ch^
-||jetset.com.au^
-||jetset.com.tw^
-||jetsetbabies.com^
-||jetsetbar.com^
-||jetsetblog.com^
-||jetsetcement.com^
-||jetsetclub.com^
-||jetsetcrew.com^
-||jetsetgraffiti.com^
-||jetsetholidays.co.uk^
-||jetsetinc.com^
-||jetsetjapan.com^
-||jetsetjoe.com^
-||jetsetmafia.com^
-||jetsetmagazine.net^
-||jetsetmodels.com^
-||jetsetmodern.com^
-||jetsetpaper.etsy.com^
-||jetsetpets.com^
-||jetsetpq.com^
-||jetsetreport.com^
-||jetsets.org^
-||jetsetsatellite.com^
-||jetsetsports.com^
-||jetsetstudios.com^
-||jetsettour.com^
-||jetsettuning.com^
-||jetsetusa.com^
-||jetsetweblog.com^
-||jetsetwilly.jodi.org^
-||littlejetset.com^
-||thejetsetgirls.blogspot.com^
-||twojetsetdivas.com^
-||ultimate-jetset.xooit.com^
+jetset
+jet-set
 
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Networth
 
-||anetworth.net^
-||bossnetworth.com^
-||correctnetworth.com^
-||heightweightnetworth.com^
-||highnetworth.com^
-||idolnetworth.com^
-||ketonetworth.com^
-||knownetworth.com^
-||netforworth.blogspot^
-||nettvplus.com^
-||networth202.com^
-||networth.live^
-||networthandsalary.com^
-||networthblaze.com^
-||networthbobserver.com^
-||networthbox.com^
-||networthbro.com^
-||networthcity.com^
-||networthculture.com^
-||networthdatabase.com^
-||networthenvy.com^
-||networther.com^
-||networthey.com^
-||networthfolk.com^
-||networthguide.com^
-||networthheightsalary.com^
-||networthier.com^
-||networthlist.org^
-||networthlists.com^
-||networthmag.com^
-||networthpedia.com^
-||networthplanet.com^
-||networthpost.org^
-||networthq.com^
-||networthreporter.com^
-||networthstatus.com^
-||networthupdates.com^
-||networthwikibio.org^
-||networthxi.com^
-||networthzone.com^
-||pinetworth.com^
-||popularnetworth.com^
-||purenetworth.com^
-||salaryandnetworth.com^
-||thenetworthnews.com^
-||thenetworthportal.com^
-||trustednetworth.com^
-||vipnetworth.com^
-||wealthypeeps.com^
+networth
+net-worth
 
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Ppl & Pop Culture
 
+peeps
 ||123people.com^
 ||actualitepeople.tootisy.com^
 ||actupeople.blogspot.com^
