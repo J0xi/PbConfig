@@ -783,7 +783,6 @@
 ! ........................................ 
 ! 1S
 
-||*s_h_i_t*$document
 ||*s.o.b.*$document
 ||*sadism*$document
 ||*sadist*$document
