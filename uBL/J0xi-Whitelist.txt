@@ -16,6 +16,9 @@
 # M
 @*://*.msn.com/*
 
+# N
+@*://*.nextdns.io/*
+
 # P
 @*://*.proton.me/*
 
