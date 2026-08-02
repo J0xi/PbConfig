@@ -7,6 +7,7 @@
 ! C
 
 @@||chatplayground.ai^
+@@||codeberg.org^
 
 ! ........................................
 ! D
@@ -70,6 +71,8 @@
 @@||ebanking-ch2.ubs.com^
 @@||ebanking-ch3.ubs.com^
 @@||ebanking-ch4.ubs.com^
+
+@@||uniclipboard.app^
 
 ! ........................................
 ! V
