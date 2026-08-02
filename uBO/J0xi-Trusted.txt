@@ -92,7 +92,7 @@
 ! ........................................
 ! S 
 
-@@||simplelogin.com^$important
+@@||simplelogin.io^$important
 
 @@||cdn.snigelweb.com^
 
