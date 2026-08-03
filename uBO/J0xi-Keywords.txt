@@ -1243,7 +1243,6 @@
 ||*chiottes*$document
 ||*connard*$document
 ||*connasse*$document
-||*conne*$document
 ||*couilles*$document
 ||*cramouille*$document
 ||*debil*$document
