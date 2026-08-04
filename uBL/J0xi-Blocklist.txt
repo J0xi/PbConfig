@@ -166,13 +166,16 @@ flirt
 forevercompanion
 foxgirl
 harem
+bride
 hookup
 mingle
 meetic
+pickup artist
 hookup
 mate
 intimate
 peoplemeet
+mailorder bride
 soulmate
 soul
 kupid
@@ -237,8 +240,6 @@ badgirl
 *://*.companiondeluxe.com/*
 *://*.contactosrapidos.com/*
 *://*.contactosrapidos.es/*
-*://*.coreconfidence.com/*
-*://*.coreconfidencecoaching.com/*
 *://*.courtlandwarren.com/*
 *://*.craigslistpersonals.com/*
 *://*.crosspathsapp.com/*
