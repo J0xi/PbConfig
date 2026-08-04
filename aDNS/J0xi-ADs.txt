@@ -38,6 +38,7 @@
 @@||dijnet.hu^
 
 @@||deepl.com^
+
 @@||improving.duckduckgo.com^
 
 ! ........................................ 
@@ -154,6 +155,8 @@
 @@||ebanking-ch3.ubs.com^
 @@||ebanking-ch4.ubs.com^
 
+@@||csp.uber.com^
+
 ! ........................................ 
 ! V
 
@@ -162,8 +165,9 @@
 
 @@||viber.com^
 @@||vinted.com^
-@@||images1.vinted.net^
 @@||visualping.io^ 
+
+@@||images1.vinted.net^
 @@||services.visualstudio.com^
 
 ! ........................................ 
@@ -179,6 +183,7 @@
 ! ........................................ 
 ! Y
 
-@@||finance.yahoo.com^
 @@||youtube.com^
 @@||ytimg.com^
+
+@@||finance.yahoo.com^

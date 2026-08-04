@@ -24,6 +24,12 @@
 # P
 @*://*.proton.me/*
 
+# S
+@*://*.snapcraft.io/*
+
+# U
+@*://*.uniclipboard.app/*
+
 # W
 @*://*.wikipedia.org/*
 
