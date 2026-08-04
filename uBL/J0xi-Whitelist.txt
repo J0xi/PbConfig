@@ -12,6 +12,8 @@
 
 # G
 @*://*.gettyimages.*/*
+@*://*.gettyimages.com.au/*
+@*://*.gettyimages.ie/*
 
 # M
 @*://*.msn.com/*
