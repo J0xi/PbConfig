@@ -3,7 +3,7 @@
 ! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-ADs.txt
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-ADs.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-! A
+! [A]
 
 ! 🇭🇺
 @@||arukereso.hu^ 
@@ -17,24 +17,29 @@
 ||adguard-import-test.example.com^
 
 ! ........................................ 
-! B
+! [B]
 
 @@||buymeacoffee.com^
 
 @@||safebrowsing.brave.com^
 
 ! ........................................ 
-! C
+! [C]
 
-@@||dictionary.cambridge.org^
+! > Domains
+
 @@||chatplayground.ai^
 @@||cloudflare-dns.com^
 @@||cloudflare.com^
 @@||cloudfront.net^
 @@||codeberg.org^
 
+! > Subdomains
+
+@@||dictionary.cambridge.org^
+
 ! ........................................ 
-! D
+! [D]
 
 ! 🇭🇺
 @@||dijnet.hu^
@@ -44,13 +49,13 @@
 @@||improving.duckduckgo.com^
 
 ! ........................................ 
-! E
+! [E]
 
 @@||ebay.*^
 @@||eff.org^
 
 ! ........................................ 
-! F
+! [F]
 
 @@||featureassets.org^
 @@||filen-1.net^
@@ -63,7 +68,9 @@
 @@||freedom.to^
 
 ! ........................................ 
-! G
+! [G]
+
+! > Domains
 
 ! 🇺🇦
 @@||gov.ua^$important
@@ -75,6 +82,8 @@
 @@||gravatar.com^
 @@||gutenberg.org^
 
+! > Subdomains
+
 ! 🇭🇺
 @@||enterhungary.gov.hu
 
@@ -83,44 +92,46 @@
 @@||lpa.gov.rs^
 
 ! ........................................ 
-! I
+! [I]
+
+! > Domains
 
 @@||inoreader.com^
 @@||investopedia.com^
 
 ! ........................................ 
-! L
+! [L]
 
 @@||lenovo.com^
 @@||lenovomm.com^
 
 ! ........................................ 
-! M
+! [M]
 
 @@||manualslib.com^$important
 @@||moneymanagerex.org^
 @@||muscache.com^
 
 ! ........................................ 
-! N
+! [N]
 
 @@||nextdns.io^
 @@||njal.la^
 
 ! ........................................ 
-! O
+! [O]
 
 ! 🇭🇺
 @@||one.hu^
 
 ! ........................................ 
-! M
+! [M]
 
 @@||static-data2.manualslib.com^ 
 @@||static2.manualslib.com^
 
 ! ........................................ 
-! P
+! [P]
 
 ! 🇨🇭
 @@||proton.me^
@@ -130,7 +141,7 @@
 @@||python.org^
 
 ! ........................................ 
-! R
+! [R]
 
 ! 🇭🇺
 @@||raiffeisen.hu^
@@ -140,7 +151,7 @@
 @@||rmp.rakuten.com^
 
 ! ........................................ 
-! S
+! [S]
 
 @@||scribd.com^
 @@||sonetel.com^
@@ -148,7 +159,7 @@
 @@||superuser.com^
 
 ! ........................................ 
-! U
+! [U]
 
 @@||unsplash.com^
 
@@ -161,7 +172,7 @@
 @@||csp.uber.com^
 
 ! ........................................ 
-! V
+! [V]
 
 ! 🇭🇺
 @@||vinted.hu^
@@ -174,7 +185,7 @@
 @@||services.visualstudio.com^
 
 ! ........................................ 
-! W
+! [W]
 
 ! 🇬🇧
 @@||wise.com^
@@ -184,7 +195,7 @@
 @@||wondershare.*
 
 ! ........................................ 
-! Y
+! [Y]
 
 @@||youtube.com^
 @@||ytimg.com^
