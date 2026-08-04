@@ -1,0 +1,283 @@
+! Title: J0xi's Allowlist
+! Info: Allowed Domains
+! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Allowlist.txt
+! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Allowlist.txt
+! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+! [A]
+
+! > Domains
+
+! 🇭🇺
+@@||arukereso.hu^ 
+
+@@||accuweather.com^
+@@||adtidy.org^
+@@||alternativeto.net^
+@@||amazon.*^
+@@||archive.org^$important
+
+! > Subdomains
+
+||adguard-import-test.example.com^
+
+! > CDNs
+
+@@||akcdn.net^
+@@||assetsconfigcdn.org
+
+! ................................................................................ 
+! [B]
+
+! > Domains
+
+@@||buymeacoffee.com^
+
+! > Subdomains
+
+@@||safebrowsing.brave.com^
+
+! ................................................................................ 
+! [C]
+
+! > Domains
+
+@@||chatplayground.ai^
+@@||cloudflare-dns.com^
+@@||cloudflare.com^
+@@||cloudfront.net^
+@@||codeberg.org^
+
+! > Subdomains
+
+@@||dictionary.cambridge.org^
+
+! > CDNs
+
+@@||cdn.consentmanager.net^
+@@||cdn.cookielaw.org^
+@@||delivery.consentmanager.net^
+
+! ................................................................................ 
+! [D]
+
+! > Domains
+
+! 🇭🇺
+@@||dijnet.hu^
+
+@@||deepl.com^
+
+! > Subdomains
+
+@@||improving.duckduckgo.com^
+
+! ................................................................................ 
+! [E]
+
+! > Domains
+
+@@||ebay.*^
+@@||eff.org^
+
+! > CDNs
+
+@@||elfsightcdn.com^
+
+! ................................................................................ 
+! [F]
+
+! > Domains
+
+@@||featureassets.org^
+@@||filen-1.net^
+@@||filen-2.net^
+@@||filen-3.net^
+@@||filen-4.net^
+@@||filen-5.net^
+@@||filen.io^
+@@||filen.net^
+@@||freedom.to^
+
+! > CDNs
+
+@@||cdn.filen.io^
+
+! ................................................................................ 
+! [G]
+
+! > Domains
+
+! 🇺🇦
+@@||gov.ua^$important
+
+@@||garmin.com^
+@@||github.com^
+@@||github.dev^
+@@||googletagmanager.com^
+@@||gravatar.com^
+@@||gutenberg.org^
+
+! > Subdomains
+
+! 🇭🇺
+@@||enterhungary.gov.hu
+
+! 🇷🇸
+@@||img.goglasi.com^
+@@||lpa.gov.rs^
+
+! > APIs
+
+@@||googleapis.com^
+
+! ................................................................................ 
+! [I]
+
+! > Domains
+
+@@||inoreader.com^
+@@||investopedia.com^
+
+! ................................................................................ 
+! [L]
+
+@@||lenovo.com^
+@@||lenovomm.com^
+
+! ................................................................................ 
+! [M]
+
+! > Domains
+
+@@||manualslib.com^$important
+@@||moneymanagerex.org^
+@@||muscache.com^
+
+! > Subdomains
+
+@@||static-data2.manualslib.com^ 
+@@||static2.manualslib.com^
+
+! ................................................................................ 
+! [N]
+
+@@||nextdns.io^
+@@||njal.la^
+
+! ................................................................................ 
+! [O]
+
+! > Domains
+
+! 🇭🇺
+@@||one.hu^
+
+! > CDNs
+
+@@||cdn.optimizely.com^
+
+! ................................................................................ 
+! [P]
+
+! > Domains
+
+! 🇨🇭
+@@||proton.me^
+@@||protonvpn.com^
+
+@@||paypal.com^
+@@||python.org^
+
+! > CDNs
+
+! 🇨🇭
+@@||vpncdn.protonweb.com^
+
+! ................................................................................ 
+! [R]
+
+! > Domains
+
+! 🇭🇺
+@@||raiffeisen.hu^
+
+@@||researchgate.net^
+
+! > Subdomains
+
+@@||rmp.rakuten.com^
+
+! > CDNs
+
+@@||cdn.rawgit.com^
+@@||cdn.riastatic.com^
+
+! ................................................................................ 
+! [S]
+
+! > Domains
+
+@@||scribd.com^
+@@||sonetel.com^
+@@||stackoverflow.com^
+@@||superuser.com^
+
+! > CDNs
+
+@@||cdn.snigelweb.com^
+
+! ................................................................................ 
+! [U]
+
+! > Domains
+
+@@||unsplash.com^
+
+! 🇨🇭 
+@@||ebanking-ch1.ubs.com^
+@@||ebanking-ch2.ubs.com^
+@@||ebanking-ch3.ubs.com^
+@@||ebanking-ch4.ubs.com^
+
+! > Subdomains
+
+@@||csp.uber.com^
+
+! ................................................................................ 
+! [V]
+
+! > Domains
+
+! 🇭🇺
+@@||vinted.hu^
+
+@@||viber.com^
+@@||vinted.com^
+@@||visualping.io^ 
+
+! > Subdomains
+
+@@||images1.vinted.net^
+@@||services.visualstudio.com^
+
+! ................................................................................ 
+! [W]
+
+! 🇬🇧
+@@||wise.com^
+
+@@||whatsapp.com^
+@@||whatsapp.net^
+@@||wondershare.*
+
+! ................................................................................ 
+! [Y]
+
+! > Domains
+
+@@||youtube.com^
+@@||ytimg.com^
+
+! > Subdomains
+
+@@||finance.yahoo.com^
