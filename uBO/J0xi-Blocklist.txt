@@ -4,8 +4,6 @@
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Blocklist.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
-! ToC
-
 ! [1]        18+
 ! [2]        ASTROLOGY
 ! [3]        BLOGS
@@ -1560,7 +1558,7 @@ wikistar
 ! [13] OTHER
 
 ! ====================================================================================
-! 13.1 Browsers
+! 13.1 BROWSERS
 
 ! A
 ||arc.net^
@@ -1666,7 +1664,7 @@ wikistar
 ||yandex.com/browser^
 
 ! ====================================================================================
-! 13.2 Search Engines
+! 13.2 SEARCH ENGINES
 
 ! ........................................ 
 ! Brave Search
@@ -1764,7 +1762,7 @@ swisscows.com##.widget-news.widget
 www.qwant.com##.EBqum
 
 ! ====================================================================================
-! 13.3 YouTube
+! 13.3 YOUTUBE
 
 ! ........................................ 
 ! Homepage
@@ -1845,6 +1843,9 @@ www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of
 
 ! YouTube Movies - Buy or Rent
 www.youtube.com##ytd-movie-renderer.ytd-item-section-renderer.style-scope
+
+! YTBlock Buttons
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
 
 ! ........................................ 
 ! Video Watch Page
