@@ -1,1 +1,135 @@
+! ====================================================================================
+! 13.3 YOUTUBE
 
+! ........................................ 
+! Homepage
+! ........................................ 
+
+! Top Header/Masthead Elements
+
+! Create Button
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+
+! Hamburger Menu Button
+www.youtube.com###guide-button
+
+! Help & Send Feedback
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(3)
+
+! Notifications Bell
+www.youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
+
+! Restricted Mode On/Off Toggle
+www.youtube.com##ytd-compact-link-renderer.yt-multi-page-menu-section-renderer.style-scope:nth-of-type(3)
+
+! Voice Search 
+www.youtube.com###center > .ytd-masthead.style-scope
+
+! --------------------
+! Left Sidebar
+
+! Home, Shorts, You & History
+www.youtube.com###guide-renderer > .ytd-guide-renderer.style-scope
+
+! Subscriptions
+
+! Sign In
+www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
+
+! Explore
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+
+! More from YouTube
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+
+! Report History 
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+
+! Footer (About, Press, Copyright, Contact Us)
+www.youtube.com###footer
+
+! --------------------
+! Recommendations Grid
+
+! Don't Miss New Videos Promo
+www.youtube.com##yt-icon.ytd-background-promo-renderer.style-scope.image > .ytSpecIconShapeHost.yt-icon.style-scope.yt-icon-shape > div
+www.youtube.com##.ytd-background-promo-renderer.style-scope.promo-title
+www.youtube.com##.ytd-background-promo-renderer.style-scope.promo-body-text
+www.youtube.com##.ytd-background-promo-renderer.style-scope
+
+! Main Recommendations Grid
+www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
+
+! ........................................ 
+! Video Results Page
+! ........................................ 
+
+! About These Results
+www.youtube.com###about-these-results
+
+! Channel Icon, Name & Description Header
+www.youtube.com##.ytd-channel-renderer.style-scope
+
+! Popular In
+www.youtube.com##.ytd-shelf-renderer.style-scope.grid-subheader
+
+! Recommended Videos in Video Results Feed
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
+
+! Shorts Carousels
+
+! YouTube Movies - Buy or Rent
+www.youtube.com##ytd-movie-renderer.ytd-item-section-renderer.style-scope
+
+! YTBlock Buttons
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
+
+! ........................................ 
+! Video Watch Page
+! ........................................ 
+
+! AutoPlay Button
+www.youtube.com##.delhi-fast-follow-autonav-toggle.ytp-autonav-toggle.ytp-button
+
+! Comments Section
+www.youtube.com##.ytd-comments.style-scope
+
+! Endscreen Recommended Videos Grid
+www.youtube.com##.ytp-fullscreen-grid-stills-container
+
+! Join Button
+www.youtube.com###sponsor-button
+
+! Like/Dislike, Share & Save Buttons Strip
+www.youtube.com###actions
+
+! Recommended & Related Videos Sidebar
+www.youtube.com###secondary
+
+! Subscribe Button
+www.youtube.com##.ytSmartImationsEnableMasking.ytSmartImationsHost.ytd-subscribe-button-renderer.style-scope
+
+! ........................................ 
+! Channel Page
+! ........................................ 
+
+! Banner
+www.youtube.com###page-header-banner
+
+! Community
+www.youtube.com##div.ytFlexibleActionsViewModelAction:nth-of-type(2)
+
+! Live
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(4)
+
+! Playlists
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(5)
+
+! Posts
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(6)
+
+! Shorts
+www.youtube.com##yt-tab-shape.ytTabShapeHostClickable.ytTabShapeHost:nth-of-type(3)
+
+! Subscribe
+www.youtube.com##.ytSpecButtonViewModelHost > .ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextFilled.ytSpecButtonShapeNextHost
