@@ -4,71 +4,87 @@
 ! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Trusted.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! .........................................................................................
-! A
+! [A]
+
+! > CDNs
 
 @@||akcdn.net^
 @@||assetsconfigcdn.org
 
 ! ........................................
-! B
+! [B]
 
 @@buymeacoffee.com^
 
 ! ........................................
-! C
+! [C]
+
+! > Domains
 
 @@||chatplayground.ai^
 @@||codeberg.org^
+
+! > CDNs
 
 @@||cdn.consentmanager.net^
 @@||delivery.consentmanager.net^
 @@||cdn.cookielaw.org^
 
 ! ........................................
-! D
+! [D]
 
 ! 🇭🇺
 @@||dijnet.hu^$important
 
 ! ........................................
-! E
+! [E]
 
 @@||espanso.org^
 
 ! ........................................
-! F
+! [F]
+
+! > Domains
 
 @@||freedom.to^$important
+
+! > CDNs
 
 @@||cdn.filen.io^
 
 ! ........................................
-! L
+! [L]
 
 ! 🇷🇸
 @@||lpa.gov.rs^
 
 ! ........................................
-! M
+! [M]
+
+! > Domains
 
 @@||moneymanagerex.org^
+
+! > Subdomains
 
 @@||manualslib.com^$important
 @@||static-data2.manualslib.com^
 @@||static2.manualslib.com^
 
 ! ........................................
-! N 
+! [N] 
 
 @@||njal.la^
 
 ! ........................................
-! O
+! [O]
 
 @@||cdn.optimizely.com^
 
 ! ........................................
-! P
+! [P]
+
+! > Domains
 
 ! 🇨🇭
 @@||proton.me^$important
@@ -80,23 +96,37 @@
 @@||paypal.com^$important
 
 ! ........................................
-! R
+! [R]
+
+! > Domains
 
 ! 🇭🇺
 @@||raiffeisen.hu^$important
 
+! > CDNs
+
 @@||cdn.riastatic.com^
 
 ! ........................................
-! S 
+! [S]
+
+! > Domains
 
 @@||simplelogin.com^$important
 @@||simplelogin.io^$important
 
+! > CDNs
+
 @@||cdn.snigelweb.com^
 
 ! ........................................
-! U
+! [U]
+
+! > Domains
+
+@@||uniclipboard.app^
+
+! > Subdomains
 
 ! 🇨🇭
 @@||ebanking-ch1.ubs.com^$important
@@ -104,15 +134,15 @@
 @@||ebanking-ch3.ubs.com^$important
 @@||ebanking-ch4.ubs.com^$important
 
-@@||uniclipboard.app^
-
 ! ........................................
-! V
+! [V]
 
 @@||vscode.dev^
 
 ! ........................................
-! W
+! [W]
+
+! > Domains
 
 ! 🇬🇧
 @@||wise.com^$important
@@ -120,101 +150,7 @@
 @@||whatsapp.com^
 
 ! ........................................
-! Z
+! [Z]
 
 @@||zoom.com^
 @@||zoom.us^
-
-
-
-
-
-24 minuta sa Zoranom Kesićem - Zvanični kanal
-ALO. RS
-AmiG Show
-ASKA.RS
-Bahati Beograđani
-BALKAN INFO - Zvanični kanal
-Balkan Trend News
-Balkan u trendu!
-Balkanija 24
-BalkanTrip TV
-Blic
-Blic TV
-Cirilica TV Happy
-Crni Cerak TV
-CROCODIL
-Desingerica
-Desingerica - Topic
-devito anonymo
-Dnevna Doza
-Dokumentarne Emisije Balkan
-E! News
-extratv
-FACE HD TV
-feljton. rs
-Generacija Zed
-Glossy.rs
-Goli Zivot TV Happy
-Grand Nostalgija
-Grand Online
-Grand Production
-Grand Specijal
-Happy TV
-Hiljson Mandela
-HYPE TV
-IDJVideos.TV
-Informer
-Insajder Video
-Istinomer
-JELENA KARLEUŠA
-K1 Televizija
-Komšijske priče
-Krooki 👀 Krooki
-Kurir
-Lepota i Zdravlje
-Ludilo mozga - Jer nikad nije najgore
-MADE IN BLKN
-Mario Vrećo
-Michael Franzese
-Milica Pavlovic - Topic
-Moja Happy Muzika
-MONDO PORTAL
-Nikad nije kasno
-Piers Morgan Uncensored
-Pink.rs
-Pinkove zvezde
-Prakticna zena
-Pravo LICE Estrade
-Priče sa Estrade
-Prime Video
-Produkcija Ćirilica
-PrvaZene
-Rada Manojlovic
-Razbudjivanje TV Happy
-Red TV (redtv.rs)
-Republika Zabava
-Rijaliti Fokus
-RTV Pink Official
-Senorita Music
-Silly Telly
-Sudbine Happy Tv
-SUPERSTAR TV
-Suzanin izbor
-SVAŠTARA
-Svedok vremena
-Svetski Radio
-Tanjug TV
-Telegraf.rs TV
-Tetke Podkast
-TOP MANIFEST
-TRENDING
-TV LEPOTICE
-TV voditeljice s Balkana
-Udarne Vesti Balkana
-Vaš Reporter
-Zadruga
-Zadrugarica
-Željko Mitrović
-Zorica Brunclik
-Zvezde Granda
