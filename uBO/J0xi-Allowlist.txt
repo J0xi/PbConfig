@@ -6,7 +6,7 @@
 ! .........................................................................................
 ! [A]
 
-! > CDNs
+! CDNs
 
 @@||akcdn.net^
 @@||assetsconfigcdn.org
@@ -14,17 +14,17 @@
 ! ........................................
 ! [B]
 
-@@buymeacoffee.com^
+@@||buymeacoffee.com^
 
 ! ........................................
 ! [C]
 
-! > Domains
+! D
 
 @@||chatplayground.ai^
 @@||codeberg.org^
 
-! > CDNs
+! CDNs
 
 @@||cdn.consentmanager.net^
 @@||delivery.consentmanager.net^
@@ -44,11 +44,11 @@
 ! ........................................
 ! [F]
 
-! > Domains
+! D
 
 @@||freedom.to^$important
 
-! > CDNs
+! CDNs
 
 @@||cdn.filen.io^
 
@@ -61,11 +61,11 @@
 ! ........................................
 ! [M]
 
-! > Domains
+! D
 
 @@||moneymanagerex.org^
 
-! > Subdomains
+! Sd
 
 @@||manualslib.com^$important
 @@||static-data2.manualslib.com^
@@ -84,7 +84,7 @@
 ! ........................................
 ! [P]
 
-! > Domains
+! D
 
 ! 🇨🇭
 @@||proton.me^$important
@@ -98,35 +98,35 @@
 ! ........................................
 ! [R]
 
-! > Domains
+! D
 
 ! 🇭🇺
 @@||raiffeisen.hu^$important
 
-! > CDNs
+! CDNs
 
 @@||cdn.riastatic.com^
 
 ! ........................................
 ! [S]
 
-! > Domains
+! D
 
 @@||simplelogin.com^$important
 @@||simplelogin.io^$important
 
-! > CDNs
+! CDNs
 
 @@||cdn.snigelweb.com^
 
 ! ........................................
 ! [U]
 
-! > Domains
+! D
 
 @@||uniclipboard.app^
 
-! > Subdomains
+! Sd
 
 ! 🇨🇭
 @@||ebanking-ch1.ubs.com^$important
@@ -142,7 +142,7 @@
 ! ........................................
 ! [W]
 
-! > Domains
+! D
 
 ! 🇬🇧
 @@||wise.com^$important
