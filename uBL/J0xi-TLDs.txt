@@ -43,6 +43,7 @@
 *://*.mw/*
 *://*.mz/*
 *://*.na/*
+# *://*.ne/*
 *://*.ng/*
 *://*.rw/*
 *://*.sc/*
@@ -62,8 +63,6 @@
 *://*.za/*
 *://*.zm/*
 *://*.zw/*
-
-# Excluded: .ne
 
 # .ao = Angola, .bf = Burkina Faso, .bi = Burundi, .bj = Benin, .bw = Botswana, .cd = Democratic Republic of the Congo, .cf = Central African Republic, 
 # .cg = Republic of the Congo, .ci = Côte d'Ivoire, .cm = Cameroon, .cv = Cabo Verde, .dj = Djibouti, .dz = Algeria, .eg = Egypt, .eh = Western Sahara, 
@@ -88,7 +87,9 @@
 *://*.br/*
 *://*.bs/*
 *://*.bz/*
+# *://*.ca/*
 *://*.cl/*
+# *://*.co/*
 *://*.cr/*
 *://*.cu/*
 *://*.dm/*
@@ -122,8 +123,6 @@
 *://*.vc/*
 *://*.vg/*
 *://*.vi/*
-
-# Excluded: .ca, .co
 
 # .ag = Antigua & Barbuda, .ai = Anguilla, .ar = Argentina, .as = American Samoa, .aw = Aruba, .bb = Barbados, .bl = Saint Barthélemy, .bm = Bermuda, 
 # .bo = Bolivia, .br = Brazil, .bs = Bahamas, .bz = Belize, .ca = Canada, .cl = Chile, .co = Colombia, .cr = Costa Rica, .cu = Cuba, .dm = Dominica, 
