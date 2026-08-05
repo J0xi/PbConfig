@@ -11,28 +11,26 @@
 # DOMAINS
 
 # G
-@*://*.gettyimages.*/*
-@*://*.gettyimages.com.au/*
-@*://*.gettyimages.ie/*
+# *://*.gettyimages.*/*
 
 # M
-@*://*.msn.com/*
+# *://*.msn.com/*
 
 # N
-@*://*.nextdns.io/*
+# *://*.nextdns.io/*
 
 # P
-@*://*.proton.me/*
+# *://*.proton.me/*
 
 # S
-@*://*.snapcraft.io/*
+# *://*.snapcraft.io/*
 
 # U
-@*://*.uniclipboard.app/*
+# *://*.uniclipboard.app/*
 
 # W
-@*://*.wikipedia.org/*
+# *://*.wikipedia.org/*
 
 # Z
-@*://*.zoom.com/*
-@*://*.zoom.us/*
+# *://*.zoom.com/*
+# *://*.zoom.us/*

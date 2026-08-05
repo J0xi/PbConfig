@@ -6,7 +6,7 @@
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # CCTLDs
 # ....................................................................................
-# 1. AFRICA
+# 1. AFRICA 
 
 *://*.ao/*
 *://*.bf/*
@@ -153,8 +153,6 @@
 *://*.tf/*
 *://*.um/*
 
-# Excluded:
-
 # .an = Dutch Antilles, .aq = Antarctica, .ax = Åland Islands, .bq = Bonaire, Sint Eustatius & Saba, .bv = Bouvet Island, 
 # .cc = Cocos (Keeling) Islands, .cx = Christmans Island, .fk = Falkland Islands, .fo = Faroe Islands, .gg = Guernsey, 
 # .gs = South Georgia & the South Sandwich Islands, .hm = Heard Island & McDonald Islands, .io = British Indian Ocean Territory, 
@@ -230,6 +228,7 @@
 
 *://*.ad/*
 *://*.al/*
+# *://*.at/*
 *://*.ba/*
 *://*.be/*
 *://*.bg/*
@@ -241,6 +240,8 @@
 *://*.de/*
 *://*.dk/*
 *://*.ee/*
+# *://*.es/*
+# *://*.eu/*
 *://*.fi/*
 *://*.fo/*
 *://*.fr/*
@@ -249,10 +250,11 @@
 *://*.gl/*
 *://*.gr/*
 *://*.hr/*
+# *://*.hu/*
 *://*.ie/*
 *://*.im/*
 *://*.is/*
-*://*.it/*
+# *://*.it/*
 *://*.je/*
 *://*.li/*
 *://*.lt/*
@@ -260,7 +262,7 @@
 *://*.lv/*
 *://*.mc/*
 *://*.md/*
-*://*.me/*
+# *://*.me/*
 *://*.mk/*
 *://*.mt/*
 *://*.nl/*
@@ -268,17 +270,18 @@
 *://*.pl/*
 *://*.pt/*
 *://*.ro/*
+# *://*.rs/*
 *://*.ru/*
 *://*.se/*
 *://*.si/*
 *://*.sk/*
 *://*.sm/*
 *://*.su/*
+# *://*.ua/*
+# *://*.uk/*
 *://*.va/*
 *://*.xk/*
 *://*.yu/*
-
-# Excluded = .at, .es, .eu, .hu, .it, .rs, .ua, .uk
 
 # .ad = Andorra, .al = Albania, .at = Austria, .ba = Bosnia & Herzegovina, .be = Belgium, .bg = Bulgaria, .by = Belarus, .ch = Switzerland, 
 # .cy = Cyprus, .cz = Czech Republic, .dd = East Germany (GDR), .de = Germany, .dk = Denmark, .ee = Estonia, .es = Spain, 
