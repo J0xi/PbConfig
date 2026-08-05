@@ -172,8 +172,13 @@ mingle
 meetic
 pickup artist
 hookup
+alpha male
+alphamale
 mate
 intimate
+playbook
+pickup
+dating
 peoplemeet
 mailorder bride
 soulmate
@@ -202,9 +207,6 @@ badboy
 badgirl
 
 
-*://*.alphamentorship.com/*
-*://*.alphawolfacademy.com/*
-*://*.altplayground.net/*
 *://*.amolatina.com/*
 *://*.apollonius.io/*
 *://*.asappartner.com/*
@@ -601,8 +603,6 @@ badgirl
 *://*.thedatingplaybook.com/*
 *://*.thedatingplaybookformen.com/*
 *://*.thedatingtruth.com/*
-*://*.thedistilledman.com/*
-*://*.thefearlessman.com/*
 *://*.thefemaledatingstrategy.com/*
 *://*.thefiltersrevisited.com/*
 *://*.thegamebyneilstrauss.com/*
@@ -980,6 +980,8 @@ candy-crush
 miniclip
 mini-clip
 playground
+play
+playgame
 spiel
 solitaire
 rockstargame
@@ -988,27 +990,6 @@ rockstargames
 *://*.frivclassic.com/*
 *://*.funny-city.com/*
 *://*.futhead.com/play/*
-*://*.gahe.com/*
-*://*.gamiva.com/*
-*://*.gamystar.com/*
-*://*.id.net/*
-*://*.ilovebunniez.com/*
-*://*.iplay.com/*
-*://*.itch.io/html5/*
-*://*.juegos123.com/*
-*://*.juegos.com/*
-*://*.kidztype.com/*
-*://*.kizi.com/*
-*://*.kizi.mx/*
-*://*.kongregate.com/*
-*://*.lagged.com/*
-*://*.lilg.com/*
-*://*.littlebigplay.com/*
-*://*.mathplayground.com/*
-*://*.mcleodgaming.com/*
-*://*.minijuegos.com/*
-*://*.miniplay.com/*
-*://*.mirrorunblocked.com/*
 *://*.mmobomb.com/*
 *://*.motox3m.co/*
 *://*.mousebreaker.com/*
@@ -1081,24 +1062,6 @@ bandai
 rockstar
 rockstargames
 
-
-*://*.blackbirdinteractive.com/*
-*://*.blackscreenalpha.com/*
-*://*.blizzard.com/*
-*://*.blocklords.com/*
-*://*.blooberteam.com/*
-*://*.bluepointgames.com/*
-*://*.bngames.net/*
-*://*.bohemia.net/*
-*://*.boombit.com/*
-*://*.bsnes.dev/*
-*://*.bungie.net/*
-*://*.bytedance.com/*
-*://*.byuu.org/*
-*://*.cdprojekt.com/*
-*://*.cdprojektred.com/*
-*://*.chillyroom.com/*
-*://*.chucklefish.org/*
 *://*.ciagames.com/*
 *://*.citra-emu.org/*
 *://*.cloudheadgames.com/*
@@ -6440,7 +6403,6 @@ slimjet.com
 soliton.co.jp
 srware.net
 torchbrowser.com
-torproject.org/download
 torproject.org
 ucweb.com
 ungoogled-software.github.io/ungoogled-chromium
@@ -6451,23 +6413,3 @@ webkit.org
 whale.naver.com
 wwwdotbrowser.webs.com
 yandex.com/browser
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
