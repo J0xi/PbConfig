@@ -92,7 +92,6 @@ virgo
 scorpio
 
 
-
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! [3] BLOGS
 
@@ -604,18 +603,6 @@ scorpio
 ||m.me^
 ||messenger.com^
 ||messengerkids.com^
-
-! –––––––––––––––––––––––
-! Reddit
-
-||redd.it^
-||reddit.com^
-||reddithelp.com^
-||redditinc.com^
-||redditmedia.com^
-||redditreads.com^
-||redditstatic.com^
-||subredditstats.com^
 
 ! –––––––––––––––––––––––
 ! Snapchat
