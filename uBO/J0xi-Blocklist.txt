@@ -217,18 +217,6 @@ scorpio
 ||bere.al^
 ||bereal.com^
 
-! DeviantArt
-
-||deviantart.com^
-||deviantart.net^
-
-! –––––––––––––––––––––––
-! Discord
-
-||discord.com^
-||discord.gg^
-||discordapp.com^
-
 ! –––––––––––––––––––––––
 ! Facebook
 
@@ -630,13 +618,6 @@ scorpio
 
 ||tumblr.com^
 
-! –––––––––––––––––––––––
-! Twitter (X)
-
-||t.co^
-||twitter.com^
-||x.com^
-
 ! ––––––––––––––––––––––– 
 ! VK
 
@@ -652,7 +633,6 @@ scorpio
 ||clubhouse.com^
 ||collabstr.com^
 ||disqus.com^
-||goodreads.com^
 ||heepsy.com^
 ||linkedin.com^
 ||myspace.com^
