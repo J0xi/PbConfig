@@ -84,6 +84,15 @@
 ||*star*sign*$document
 ||*yogi*$document
 
+taurus
+libra
+capricorn
+aquarius
+virgo
+scorpio
+
+
+
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! [3] BLOGS
 
@@ -233,12 +242,6 @@
 ||fb.me^
 ||meta.com^
 ||thefacebook.com^
-
-! –––––––––––––––––––––––
-! Giphy
-
-||giphy.com^
-||giphyusercontent.com^
 
 ! –––––––––––––––––––––––
 ! Instagram
@@ -595,20 +598,6 @@
 ||zoominsta.de^
 ||zoomprofile.com^
 
-! ––––––––––––––––––––––– 
-! Mastodon
-
-||joinmastodon.org^
-||mas.to^
-||mastodon.cloud^
-||mastodon.online^
-||mastodon.social^
-||mastodon.uno^
-||mastodon.world^
-||mstdn.jp^
-||mstdn.party^
-||mstdn.social^
-
 ! –––––––––––––––––––––––
 ! Messenger
 
@@ -634,15 +623,6 @@
 ||bitmoji.com^
 ||snap.com^
 ||snapchat.com^
-
-! –––––––––––––––––––––––
-! Telegram
-
-@||t.me^
-@||telegram.im^
-@||telegram.me^
-@||telegram.org^
-@||telegramchannels.me^
 
 ! –––––––––––––––––––––––
 ! Threads
@@ -678,13 +658,6 @@
 ||vk.me^
 ||vkontakte.ru^
 
-! –––––––––––––––––––––––
-# WhatsApp
-
-||wa.me^
-||whatsapp.com^
-
-! –––––––––––––––––––––––
 
 ||ask.fm^
 ||connectwithinfluencers.com^
