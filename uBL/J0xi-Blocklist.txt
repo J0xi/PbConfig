@@ -4700,8 +4700,6 @@ Samples
 *://*.searx.bar/*
 *://*.searx.be/*
 *://*.searx.cz/*
-*://*.searx.dresden.network/*
-*://*.searx.fmac.xyz/*
 *://*.searx.hu/*
 *://*.searx.joshcenters.com/*
 *://*.searx.lunar.icu/*
@@ -4715,12 +4713,6 @@ Samples
 
 *://*.bere.al/*
 *://*.bereal.com/*
-
-# ........................................
-# DeviantArt
-
-*://*.deviantart.com/*
-*://*.deviantart.net/*
 
 # ........................................
 # Discord
@@ -4741,12 +4733,6 @@ Samples
 *://*.fb.me/*
 *://*.meta.com/*
 *://*.thefacebook.com/*
-
-# ........................................
-# Giphy
-
-*://*.giphy.com/*
-*://*.giphyusercontent.com/*
 
 # ........................................
 # Instagram
@@ -4776,32 +4762,11 @@ Samples
 *://*.messengerkids.com/*
 
 # ........................................
-# Reddit
-
-*://*.redd.it/*
-*://*.reddit.com/*
-*://*.reddithelp.com/*
-*://*.redditinc.com/*
-*://*.redditmedia.com/*
-*://*.redditreads.com/*
-*://*.redditstatic.com/*
-*://*.subredditstats.com/*
-
-# ........................................
 # Snapchat
 
 *://*.bitmoji.com/*
 *://*.snap.com/*
 *://*.snapchat.com/*
-
-# ........................................
-# Telegram
-
-*://*.t.me/*
-*://*.telegram.im/*
-*://*.telegram.me/*
-*://*.telegram.org/*
-*://*.telegramchannels.me/*
 
 # ........................................
 # Threads
@@ -4825,27 +4790,6 @@ tiktok
 *://*.trumpstruth.org/*
 *://*.truthsocial.com/*
 *://*.truthsocialapp.com/*
-
-# ........................................
-# Twitter & X
-
-*://*.t.co/*
-*://*.twitter.com/*
-*://*.x.com/*
-
-# ........................................
-# VK
-
-*://*.vk.cc/*
-*://*.vk.com/*
-*://*.vk.me/*
-*://*.vkontakte.ru/*
-
-# ........................................
-# WhatsApp
-
-# *://*.wa.me/*
-# *://*.whatsapp.com/*
 
 # ........................................
 # ...
@@ -4907,6 +4851,7 @@ factsnippet
 facts
 factsbeyond
 
+
 *://*.aitechtonic.com/*
 *://*.arealnews.com/*
 *://*.articleset.com/*
@@ -4937,7 +4882,6 @@ factsbeyond
 *://*.fashionsizzle.com/*
 *://*.fasttrackfba.com/*
 *://*.feelingnews.com/*
-*://*.firstknowwhatyouwant.com/*
 *://*.focustimes.org/*
 *://*.fresherpost.com/*
 *://*.gazettereview.com/*
@@ -5311,12 +5255,11 @@ starz
 sport
 sports
 sportz
-
-*://*.bleacherreport.com/*
-*://*.espn.com/*
-*://*.golfchannel.com/*
-*://*.olympics.com/*
-
+espn
+olympics
+golf
+soccer
+bleacherreport
 eurosport
 sport
 sports
@@ -5337,15 +5280,12 @@ sportsstreaming
 
 # Internet Radio Platforms
 
+radio
+
 *://*.bbc.co.uk/sounds/*
 *://*.cbc.ca/listen/*
 *://*.iheart.com/*
-*://*.mytuner-radio.com/*
 *://*.npr.org/*
-*://*.radio.com/*
-*://*.radio.garden/*
-*://*.radio.net/*
-*://*.radiogarden.fm/*
 *://*.rad.io/*
 *://*.siriusxm.com/*
 *://*.streema.com/*
@@ -5394,20 +5334,19 @@ sportsstreaming
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Podcast Platforms
 
+podcast
+
 *://*.anchor.fm/*
 *://*.blubrry.com/*
 *://*.buzzsprout.com/*
 *://*.castbox.fm/*
-*://*.google.com/podcasts/*
 *://*.open.spotify.com/show//*
 *://*.overcast.fm/*
 *://*.pocketcasts.com/*
 *://*.podbean.com/*
-*://*.podcasts.apple.com/*
 *://*.rss.com/*
 *://*.simplecast.com/*
 *://*.stitcher.com/*
-*://*.tunein.com/podcasts/*
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Legit Streaming Sites
