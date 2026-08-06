@@ -860,35 +860,12 @@ peeps
 people 
 popularheight
 popsugar
-
-
-||perfectpeople.net^
-||pipole.net^
-||popbabble.org^
-||popbitch.com^
-||popbuzz.com^
-||popbytes.com^
-||popcornsushi.com^
-||popcrunch.com^
-||popcrush.com^
-||popculture.com^
-||popdust.com^
-||popeater.com^
-||popexpresso.com^
-||popflock.com^
-||popkult.org^
-||poplifeart.com^
-||popminute.com^
-||popnable.com^
-||popsci.com^
-||popscribe.com
-||popslider.com^
-||popsugar.co^
-||popsugar.com^
-||popularbio.com^
-||popularheight.com^
-||popvine.com
-||popwrapped.com^
+popcrunch
+popcrush
+popnable
+popularbio
+popbyte
+popdust
 
 ! –––––––––––––––––––––––––––––––––––––––– 
 ! Stardom & Stars
