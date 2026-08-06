@@ -4,23 +4,27 @@
 # https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBL/J0xi-Blocklist.txt
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
+# ToC
+
 # [1]        18+
 # [2]        ASTROLOGY
 # [3]        BLOGS
 # [4]        CHAT
 # [5]        COMMERCE
-  # 5.1      Food Delviery
+  # 5.1        FOOD DELIVERY  
 # [6]        DATING
 # [7]        GAMBLING
 # [8]        GAMING
 # [9]        
 # [  ]       SOCIAL
 # [10]       SPAM
-#    10.1    Unsafe    
+#    10.1        
 # [11]       SPORTS
 # [12]       STREAMING AV
-# [13]       UTILITIES
-#    17.1        BROWSERS
+# [16]       UNSAFE
+# [17]       UTILITIES
+#    17.1        AI
+#    17.2        BROWSERS
 #    17.3        SEARCH ENGINES
   
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
@@ -5313,87 +5317,24 @@ sportz
 *://*.golfchannel.com/*
 *://*.olympics.com/*
 
-# ––––––––––––––––––
-# 11.3 Streaming (incl. Piracy Mirrors)
-
 eurosport
 sport
 sports
 fubosport
+sportnow
+sportsstream
+streamsport
+streamable
+sportsonline
+livesport
+eurosportplayer
+livesoccer
+sportsstreaming
 
-
-
-*://*.7plus.com/*
-*://*.collegesportslive.com/*
-*://*.dreamsports.tv/*
-*://*.elevensports.com/*
-*://*.eurosportplayer.com/*
-*://*.eurovisionsports.tv/*
-*://*.flosports.tv/*
-*://*.flowsports.co/*
-*://*.freesports.tv/*
-*://*.fubosportsnetwork.com/*
-*://*.globalsportsstreaming.com/*
-*://*.kayosports.com/*
-*://*.livesoccertv.com/*
-*://*.livesport24.net/*
-*://*.livesport365.ws/*
-*://*.livesportstreams.tv/*
-*://*.my.dish.com/*
-*://*.nogomania.rs/*
-*://*.now.sportsnet.ca/*
-*://*.olympicstreams.me/*
-*://*.skysportnow.co/*
-*://*.snnow.ca/*
-*://*.solidsport.com/*
-*://*.sparksport.co/*
-*://*.sport-live-tv.com/*
-*://*.sport.optus.com/*
-*://*.sportlemon.net/*
-*://*.sportlemon.pro/*
-*://*.sportlemons.net/*
-*://*.sportlivestreams.net/*
-*://*.sportrar.tv/*
-*://*.sports-to.live/*
-*://*.sportsbay.es/*
-*://*.sportshub.stream/*
-*://*.sportsrp.com/*
-*://*.sportstreaming24.com/*
-*://*.sportstreamtv.live/*
-*://*.sportv.ws/*
-*://*.stream.golfchannel.com/*
-*://*.streamingsport.eu/*
-*://*.streamsports.to/*
-*://*.thestreamable.com/*
-*://*.watch-sports.live/*
-*://*.watchsportonline.co/*
-*://*.watchsportsonline.net/*
-*://*.volimpartizan.rs/*
-*://*.partizan.rs/*
-*://*.tvarenasport.com/*
-*://*.sportnetwork.rs/*
-*://*.soccersportal.rs/*
-*://*.sportskacentrala.com/*
-*://*.partizan.rs/*
-*://*.sportske.net/*
-*://*.in4s.net/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [15] STREAMING A/V
 
-# Audiobook Platforms
-
-*://*.audible.com/*
-*://*.audiobooks.com/*
-*://*.chirpbooks.com/*
-*://*.downpour.com/*
-*://*.highbridgeaudio.com/*
-*://*.kobo.com/audiobooks/*
-*://*.libriVox.org/*
-*://*.libro.fm/*
-*://*.storytel.com/*
-
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Internet Radio Platforms
 
 *://*.bbc.co.uk/sounds/*
