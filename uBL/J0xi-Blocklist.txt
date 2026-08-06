@@ -131,96 +131,96 @@ freecam
 Extracts
 
 adating
+alpha male
 alpham
+alphamale
 alphamale
 ashleymadison
 askmen
 attraction
 backpage
-be2
+badboy
+badgirl
+badgirl
 bbw
 bdsm
+be2
+bestmatch
+bride
+bride
+brides ... russian/ukrainian brides
+charisma
+charisma
+charm
+charm
 chatdate
-clickmatch
-cougar
-cupid
+chatdate
+cheater
+cheating
 christiandating
 christiansingles
-friendfind
+clickmatch
+cobratate
+companion
+cougar
+crush
+cupid
+cupid
 cutie
 date 
-cobratate
+datefinder
 dating
-manosphere
+dating
 dreamgf
 edarling
 eharmony
 elitesingle
-charisma
 fling
-bestmatch
 flirt
 forevercompanion
 foxgirl
-harem
-bride
-hookup
-mingle
-meetic
-pickup artist
-hookup
-alpha male
-alphamale
-mate
-intimate
-playbook
-pickup
-dating
-peoplemeet
-mailorder bride
-soulmate
-soul
-singles
-kupid
-interracial
-sugardaddy
-lovegpt
-bride
-brides ... russian/ukrainian brides
-charm
-cheater
-cheating
-companion
-kiss
-parship
-crush
-wife
-cupid
-maxim
-matchmaker
-match
-wives
+friend
+friendfind
 girlfriend
+harem
+hookup
+hookup
+interracial
+intimate
+kiss
+kupid
+lovegpt
+marriage
 lovelink
-datefinder
+mailorder bride
+manosphere
+match
+matchmaker
+mate
+maxim
+meetic
+mingle
+parship
+peoplemeet
+pickup
+pickup artist
+playbook
 realdoll
-badgirl
-charisma
 romance
+singles
+soul
 soulmate
-charm
-chatdate
+soulmate
+sugardaddy
 waifu
-badboy
-badgirl
+wife
+wives
 
 
 *://*.amolatina.com/*
 *://*.apollonius.io/*
 *://*.asappartner.com/*
 *://*.ashleymadison.com/*
-*://*.bedpage.com/*
-*://*.behnidate.com/*
 *://*.bikerkiss.com/*
 *://*.bikerornot.com/*
 *://*.blackchristianpeoplemeet.com/*
@@ -449,8 +449,6 @@ badgirl
 *://*.morningcoach.com/*
 *://*.mufasasefu.com/*
 *://*.munchbase.com/*
-*://*.muslima.com/*
-*://*.muslimmarriage.com/*
 *://*.my.bio/*
 *://*.my420mate.com/*
 *://*.mydatingzone.com/*
@@ -4413,7 +4411,6 @@ gamenews
 *://*.sx.catgirl.cloud/*
 *://*.gruble.de/*
 
-
 metasearx
 searx
 searxng
@@ -4428,48 +4425,8 @@ Samples
 *://*.searx.joshcenters.com/*
 *://*.searx.lunar.icu/*
 
-
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [12] SOCIAL
-
-# ........................................
-# BeReal
-
-*://*.bere.al/*
-*://*.bereal.com/*
-
-# ........................................
-# Discord
-
-*://*.discord.com/*
-*://*.discord.gg/*
-*://*.discordapp.com/*
-
-# ........................................
-# Facebook
-
-*://*.facebook.com/*
-*://*.facebook.de/*
-*://*.facebook.net/*
-*://*.facebook.org/*
-*://*.fb.com/*
-*://*.fb.gg/*
-*://*.fb.me/*
-*://*.meta.com/*
-*://*.thefacebook.com/*
-
-# ........................................
-# Instagram
-
-*://*.instagram.com/*
-*://*.instagr.am/*
-
-# ........................................
-# Snapchat
-
-*://*.bitmoji.com/*
-*://*.snap.com/*
-*://*.snapchat.com/*
 
 # ........................................
 # TikTok
@@ -4479,25 +4436,17 @@ tiktok
 *://*.lifeattiktok.com/*
 *://*.musical.ly/*
 *://*.snaptik.kim/*
-*://*.tiktok.com/*
 
-# ........................................
-# ...
 
-*://*.ask.fm/*
-*://*.bsky.app/*
-*://*.classmates.com/*
 *://*.clubhouse.com/*
 *://*.collabstr.com/*
 *://*.connectwithinfluencers.com/*
 *://*.disqus.com/*
 *://*.heepsy.com/*
 *://*.myspace.com/*
-*://*.quora.com/*
 *://*.tumblr.com/*
 *://*.wattpad.com/*
-*://*.weheartit.com/*
-*://*.wopita.com/*
+
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [13] SPAM
@@ -4630,8 +4579,6 @@ meme
 *://*.wisetoast.com/*
 *://*.wowmyanmar.com/*
 *://*.zoomboola.com/*
-
-
 
 wealthy
 wealth
