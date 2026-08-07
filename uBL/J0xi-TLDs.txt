@@ -297,7 +297,7 @@
 # .lu = Luxembourg, .lv = Latvia, .mc = Monaco, .md = Moldova, .me = Montenegro, .mk = North Macedonia, .mt = Malta, 
 # .nl = Netherlands, .no = Norway, .pl = Poland, .pt = Portugal, .ro = Romania, .rs = Serbia, .ru = Russia, .se = Sweden, 
 # .si = Slovenia, .sk = Slovakia, .sm = San Marino, .su = Soviet Union, .ua = Ukraine, .uk = United Kingdom, .va = Vatican City,
-# .yu = Yugoslavia, .xk = Kosovo
+# .xk = Kosovo, .yu = Yugoslavia
 
 # ....................................................................................
 # 6. OCEANIA
