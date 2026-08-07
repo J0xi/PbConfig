@@ -136,15 +136,24 @@
 ! 3. ANTARCTICA & OVERSEAS SPECIAL TERRITORIES 
 
 ||.ai^
+||.an^
 ||.aq^
+||.ax^
 ||.bq^
 ||.bv^
 ||.cc^
 ||.cx^
+||.fk^
+||.fo^
+||.gg^
 ||.gs^
 ||.hm^
-@@||.io^
+||.io^
+||.ky^
 ||.mf^
+||.nh^
+||.pf^
+||.pm^
 ||.pn^
 ||.re^
 ||.sh^
@@ -289,7 +298,7 @@
 ! .is = Iceland, .it = Italy, .je = Jersey, .li = Liechtenstein, .lt = Lithuania, .lu = Luxembourg, .lv = Latvia, .mc = Monaco, .md = Moldova, 
 ! .me = Montenegro, .mk = North Macedonia, .mt = Malta, .nl = Netherlands, .no = Norway, .pl = Poland, .pt = Portugal, .ro = Romania, .rs = Serbia, 
 ! .ru = Russia, .se = Sweden, .si = Slovenia, .sk = Slovakia, .sm = San Marino, .su = Soviet Union, .ua = Ukraine, .uk = United Kingdom
-! .va = Vatican City, .yu = Yugoslavia, .xk = Kosovo
+! .va = Vatican City, .xk = Kosovo, .yu = Yugoslavia
 
 ! .........................................................................................
 ! 6. OCEANIA 
