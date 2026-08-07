@@ -1165,6 +1165,7 @@ dungeon
 finalfantasy
 fanpop
 fandomwire
+nexusmods
 ffx
 simulator
 farming-simulator
@@ -1491,13 +1492,6 @@ diablo
 *://*.mrantifun.net/*
 *://*.mrantifun.net/*
 *://*.msiafterburnerdownload.com/*
-*://*.mtgassist.com/*
-*://*.mtgdeckbuilder.net/*
-*://*.mtggoldfish.com/*
-*://*.mtmods.com/*
-*://*.mugenarchive.com/*
-*://*.multimc.org/*
-*://*.multimc.org/*
 *://*.mumuplayer.com/*
 *://*.mundogamers.com/*
 *://*.myabandonware.com/*
@@ -3552,7 +3546,6 @@ sportsstreaming
 
 # Piracy Streaming Sites
 
-Too many TLDs for the ones below
 
 123movie
 1234movie
@@ -3569,6 +3562,8 @@ primewire
 putlocker
 yify
 yts
+
+Rotating TLDs for Above Domains
 
 *://*.1movies.tv/*
 *://*.afdah.info/*

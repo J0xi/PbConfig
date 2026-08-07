@@ -18,7 +18,7 @@
 
 # D
 
-@1/(github)\.com/
+@1/(github)\.(com|io)/
 @1/(gitlab)\.com/
 
 # gTLDs
