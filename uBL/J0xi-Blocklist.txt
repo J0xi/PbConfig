@@ -85,6 +85,7 @@ name analysis
 name analyzer
 fortune calendar
 zodist
+karma
 birthstone
 birthsign
 gemselect
@@ -193,6 +194,8 @@ dirtymatch
 hotmatch
 marriage
 personals
+fling
+milfy
 singles
 matchmaker
 mate
@@ -236,6 +239,7 @@ eliteescort
 elitepartner
 christianpeople
 companion
+ofans
 hook
 ofans
 freedating
@@ -299,15 +303,6 @@ crush
 *://*.ezmatchchat.com/*
 *://*.facechatapp.com/*
 *://*.fakedatinghub.com/*
-*://*.fakeflirtdate.com/*
-*://*.fansdiscover.com/*
-*://*.fanshub.app/*
-*://*.fansleak.com/*
-*://*.fanslogin.com/*
-*://*.fansmetricslink.com/*
-*://*.fansofonly.com/*
-*://*.fansync.io/*
-*://*.fanvue.com/*
 *://*.farmersonly.com/*
 *://*.fast-dater.com/*
 *://*.fastdatingsite.net/*
@@ -375,7 +370,6 @@ crush
 *://*.livechatmatch.com/*
 *://*.localbabes.club/*
 *://*.localflirtmatch.com/*
-*://*.localgirlmatcher.com/*
 *://*.localhookup.com/*
 *://*.localhookupsnow.net/*
 *://*.localmatches247.com/*
@@ -415,9 +409,6 @@ crush
 *://*.meetmilfy.com/*
 *://*.meetmindful.com/*
 *://*.meetyourfling.com/*
-*://*.megafans.org/*
-*://*.megapersonals.com/*
-*://*.megapersonals.eu/*
 *://*.menprovement.com/*
 *://*.mensjournal.com/*
 *://*.mensxp.com/*
@@ -1938,19 +1929,7 @@ diablo
 *://*.wowace.com/*
 *://*.wowhead.com/*
 *://*.wowhead.com/forums/*
-*://*.wowinterface.com/*
-*://*.wowinterface.com/forums/*
 *://*.wowmatrix.com/*
-*://*.wowui.io/*
-*://*.wtfast.com/*
-*://*.x360ce.com/*
-*://*.xanaxmods.com/*
-*://*.xbox.com/*
-*://*.xboxachievements.com/*
-*://*.xboxforums.com/*
-*://*.xboxmodz.com/*
-*://*.xcheats.cc/*
-*://*.xcloud.gg/*
 *://*.xdefiant.ubisoft.com/*
 *://*.xenforo.com/community/*
 *://*.xforcekeygen.com/*
@@ -2300,8 +2279,6 @@ diablo
 *://*.9ifly.cn/*
 *://*.acxiomsearch.com/*
 *://*.andisearch.com/*
-*://*.aol.com/*
-*://*.aol.search.yahoo.com/*
 *://*.ask.co.uk/*
 *://*.ask.com/*
 *://*.askjeeves.com/*
@@ -2921,16 +2898,10 @@ eurosportplayer
 livesoccer
 sportsstreaming
 
-
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [15] STREAMING A/V
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Legit Streaming Sites
-
-britbox
-comedycentral
-gledalica
 
 *://*.10.com.au/*
 *://*.10play.com/*
@@ -2989,11 +2960,14 @@ gledalica
 *://*.bnt.bg/*
 *://*.bravotv.co.nz/*
 *://*.bravotv.com/*
+*://*.britbox.com/*
 *://*.canalplus.com/*
 *://*.canlitv.com/*
 *://*.canlitv.me/*
 *://*.canlitv.vin/*
 *://*.canlitvizle.com/*
+*://*.cartoonnetwork-id.com/*
+*://*.cartoonnetwork.ca/*
 *://*.cc.com/*
 *://*.channel4.com/*
 *://*.channel5.com/*
@@ -3017,6 +2991,8 @@ gledalica
 *://*.crackle.com.in/*
 *://*.crackle.com/*
 *://*.crackle.mobi/*
+*://*.crackstream-tv.com/*
+*://*.crackstreamsus.com/*
 *://*.crave.ca/*
 *://*.criterion.com/*
 *://*.criterionchannel.com/*
@@ -3113,10 +3089,14 @@ gledalica
 *://*.funimation.com/*
 *://*.funimation.rest/*
 *://*.gledaj.online/*
+*://*.gledajcrtace.rs/*
 *://*.gledajonline.net/*
 *://*.gledajsaprevodom.online/*
+*://*.gledajseriju.com/*
 *://*.gledalica.co/*
 *://*.gledalica.com/*
+*://*.gledalica.me/*
+*://*.gledalica.me/*
 *://*.gledalica.me/*
 *://*.gledalica.net/*
 *://*.gledalica.online/*
@@ -3178,10 +3158,6 @@ gledalica
 *://*.l-tv.de/*
 *://*.lasestrellas.tv/*
 *://*.lionsgate.com/*
-*://*.cartoonnetwork.ca/*
-*://*.cartoonnetwork-id.com/*
-*://*.crackstream-tv.com/*
-*://*.crackstreamsus.com/*
 *://*.livenettv.mn/*
 *://*.livenowfox.com/*
 *://*.livestream.com/*
@@ -3367,6 +3343,7 @@ gledalica
 *://*.sbs.com.au/*
 *://*.scener.com/*
 *://*.seriestowatch.com/*
+*://*.serijebalkan.com/*
 *://*.serijeonline.net/*
 *://*.servustv.com/*
 *://*.shemaroome.com/*
@@ -3379,6 +3356,7 @@ gledalica
 *://*.sic.pt/*
 *://*.sidereel.com/*
 *://*.singtel.com/*
+*://*.siteindices.com/*
 *://*.sky.at/*
 *://*.sky.com/*
 *://*.sky.de/*
@@ -3572,7 +3550,6 @@ gledalica
 *://*.ziggogo.tv/*
 *://*.zillionfilm.com/*
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Piracy Streaming Sites
 
 Too many TLDs for the ones below
@@ -3667,7 +3644,6 @@ yts
 *://*.ytstv.me/*
 *://*.zmovies.cc/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Video Hosting Sites
 
 *://*.anonfiles.com/*
@@ -3779,9 +3755,6 @@ yts
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [16] UNSAFE
 
-*://*.apkmirror.com/*
-*://*.apkpure.com/*
-*://*.apkpure.net/*
 *://*.appbrain.com/*
 *://*.apps.apple.com/*
 *://*.aptoide.com/*
