@@ -117,7 +117,8 @@ freecam
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [3] DATING
 
-Extracts
+hustle
+hustling
 
 adating
 alpha male
@@ -158,6 +159,7 @@ cutie
 date 
 datefinder
 kiss
+companion
 dating
 dreamgf
 edarling
@@ -183,9 +185,15 @@ marriage
 lovelink
 mailorder bride
 manosphere
+wingman
+singles
+winggirl
 match
 dirtymatch
 hotmatch
+marriage
+personals
+singles
 matchmaker
 mate
 maxim
@@ -194,6 +202,8 @@ mingle
 parship
 peoplemeet
 tawk
+wingman
+winggirl
 pickup
 pickup artist
 playbook
@@ -203,19 +213,39 @@ contactos
 romance
 singles
 latina
+friendfinder
 casual
 love
+romance
+loverboy
 escort
 soul
 soulmate
 sugardaddy
+localgirl
+localflirt
 waifu
 hot
+love
+meetup
 datehere
 contactos
+soulmate
 christianmatch
+eliteescort
+elitepartner
 christianpeople
+companion
 hook
+ofans
+freedating
+ofleak
+ofprofile
+fans
+wives
+charm
+pua
+guy
 partner
 wife
 wives
@@ -231,8 +261,6 @@ crush
 *://*.bolde.com/*
 *://*.brilic.com/*
 *://*.brobible.com/*
-*://*.celibataire.fr/*
-*://*.charmdate.com/*
 *://*.chatdate.app/*
 *://*.cheatingwives.com/*
 *://*.christianconnection.com/*
@@ -245,8 +273,6 @@ crush
 *://*.cobratate.com/*
 *://*.coffeemeetsbagel.com/*
 *://*.companiondeluxe.com/*
-*://*.contactosrapidos.com/*
-*://*.contactosrapidos.es/*
 *://*.courtlandwarren.com/*
 *://*.craigslistpersonals.com/*
 *://*.crosspathsapp.com/*
@@ -263,8 +289,6 @@ crush
 *://*.drcasual.com/*
 *://*.easychatgirls.com/*
 *://*.elitepartner.de/*
-*://*.elliotthulse.com/*
-*://*.equallyyoked.com/*
 *://*.eurodate.com/*
 *://*.europeanfriendfinder.com/*
 *://*.everydayknow.com/*
@@ -297,8 +321,7 @@ crush
 *://*.followerboostup.com/*
 *://*.freechatdateapp.com/*
 *://*.freechristiandating.org/*
-*://*.freedating.co.uk/*
-*://*.friendfin.com/*
+*://*.freedating.co.uk/**
 *://*.friendfinder-x.com/*
 *://*.friendfinder.com/*
 *://*.fynd.bio/*
@@ -322,33 +345,22 @@ crush
 *://*.hey.link/*
 *://*.hikiapp.com/*
 *://*.hily.com/*
-*://*.hinge.co/*
-*://*.hinge.com/*
 *://*.hisandher.com/*
 *://*.howtobeast.com/*
 *://*.howtogettheguy.com/*
-*://*.hustlebio.link/*
-*://*.hustlersuniversity.com/*
 *://*.hypelink.com/*
 *://*.ilike2hookup.com/*
 *://*.ilovedatingapps.com/*
 *://*.innerconfidence.com/*
 *://*.instantdatingfinder.com/*
 *://*.introvertdear.com/*
-*://*.iranianpersonals.com/*
-*://*.iranianpersonals.com/*
-*://*.islamicmarriage.com/*
-*://*.italianosingles.com/*
 *://*.itsjustlunch.com/*
 *://*.iwantu.com/*
 *://*.jackedgorilla.com/*
 *://*.jaumo.com/*
 *://*.jdate.com/*
-*://*.jecontacte.com/*
 *://*.jewcier.com/*
 *://*.jodistapler.com/*
-*://*.jordancarver.com/*
-*://*.jordansyatt.com/*
 *://*.jswipeapp.com/*
 *://*.justmatchapp.com/*
 *://*.jwed.com/*
@@ -359,18 +371,6 @@ crush
 *://*.kstrongman.com/*
 *://*.lacelystar.com/*
 *://*.latinamericancupid.com/*
-*://*.latinlove.org/*
-*://*.latinomeetup.com/*
-*://*.lavaplace.com/*
-*://*.ldsplanet.com/*
-*://*.ldssingles.com/*
-*://*.link-list.org/*
-*://*.linkme.bio/*
-*://*.linkofans.com/*
-*://*.linkr.bio/*
-*://*.linkr.in/*
-*://*.linktr.ee/*
-*://*.linktree.com/*
 *://*.littlepeoplemeet.com/*
 *://*.livechatmatch.com/*
 *://*.localbabes.club/*
@@ -519,11 +519,6 @@ crush
 *://*.singlechristiansearch.com/*
 *://*.singlemuslim.com/*
 *://*.singleparentmeet.com/*
-*://*.singlesnet.de/*
-*://*.singlesnet.es/*
-*://*.singlesnet.fr/*
-*://*.singlesnet.it/*
-*://*.singlesnet.nl/*
 *://*.skandinaviskkontakt.se/*
 *://*.skout.com/*
 *://*.slink.bio/*
@@ -1136,6 +1131,8 @@ stream
 streaming
 streamz
 sudoku
+mmo
+mmorpg
 trophies
 modx
 trophy
@@ -1170,6 +1167,7 @@ dragonball
 moddb
 realm
 zeldadungeon
+modstore
 elderscroll
 epicnpc
 dungeon
@@ -1177,6 +1175,9 @@ finalfantasy
 fanpop
 fandomwire
 ffx
+simulator
+farming-simulator
+jeux
 deathmatch
 diablo
 
@@ -1187,23 +1188,14 @@ diablo
 *://*.facepunch.com/*
 *://*.faforever.com/*
 *://*.fanbyte.com/*
-*://*.fandom.com/*
-*://*.fandomwire.com/*
 *://*.fanpop.com/*
-*://*.farming-simulator.com/*
 *://*.fastcharacter.com/*
 *://*.ff14guild.com/forums/*
 *://*.ffxivrealm.com/*
 *://*.finalfantasyxiv.com/*
 *://*.finalfantasyxiv.com/forums/*
-*://*.fivem.net/*
-*://*.fivem.net/forums/*
-*://*.fivemods.net/*
-*://*.fiverr.com/categories/gaming/*
 *://*.flingtrainer.com/*
 *://*.forhonorgame.com/forums/*
-*://*.fortnite.com/*
-*://*.forumjeuxvideo.com/*
 *://*.freemmogamer.com/*
 *://*.freepcgamemods.com/*
 *://*.freestategamers.net/forums/*
@@ -1440,10 +1432,6 @@ diablo
 *://*.mmorpg.com/*
 *://*.mmorpg.com/*
 *://*.mmosite.com/*
-*://*.mob.org/*
-*://*.mob.org/*
-*://*.mobafire.com/*
-*://*.mobafire.com/*
 *://*.mobafire.com/*
 *://*.mobalytics.gg/*
 *://*.mobalytics.gg/*
