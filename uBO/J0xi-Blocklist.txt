@@ -567,16 +567,9 @@ scorpio
 ||zoomprofile.com^
 
 ! ––––––––––––––––––––––– 
-! TikTok
 
-||lifeattiktok.com^
-||musical.ly^
-||snaptik.kim^
+
 ||tiktok.com^
-
-! ––––––––––––––––––––––– 
-! Tumblr
-
 ||tumblr.com^
 
 * 
