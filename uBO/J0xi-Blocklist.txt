@@ -212,25 +212,6 @@ scorpio
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! [10] SOCIAL
 
-! BeReal
-
-||bere.al^
-||bereal.com^
-
-! –––––––––––––––––––––––
-! Facebook
-
-||facebook.com^
-||facebook.de^
-||facebook.net^
-||facebook.org^
-||fb.com^
-||fb.gg^
-||fb.me^
-||meta.com^
-||thefacebook.com^
-
-! –––––––––––––––––––––––
 ! Instagram
 
 ||instagram.com^
@@ -585,26 +566,6 @@ scorpio
 ||zoominsta.de^
 ||zoomprofile.com^
 
-! –––––––––––––––––––––––
-! Messenger
-
-||m.me^
-||messenger.com^
-||messengerkids.com^
-
-! –––––––––––––––––––––––
-! Snapchat
-
-||bitmoji.com^
-||snap.com^
-||snapchat.com^
-
-! –––––––––––––––––––––––
-! Threads
-
-||threads.com^
-||threads.net^
-
 ! ––––––––––––––––––––––– 
 ! TikTok
 
@@ -617,29 +578,6 @@ scorpio
 ! Tumblr
 
 ||tumblr.com^
-
-! ––––––––––––––––––––––– 
-! VK
-
-||vk.cc^
-||vk.com^
-||vk.me^
-||vkontakte.ru^
-
-
-||ask.fm^
-||connectwithinfluencers.com^
-||classmates.com^
-||clubhouse.com^
-||collabstr.com^
-||disqus.com^
-||heepsy.com^
-||linkedin.com^
-||myspace.com^
-||quora.com^
-||wattpad.com^
-||weheartit.com^
-||wopita.com^
 
 * 
 Uncategorized
