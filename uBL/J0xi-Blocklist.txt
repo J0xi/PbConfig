@@ -685,8 +685,8 @@ wives
 /^https?:\/\/[^\/?#]*ace(?:poker|shigh|spalace)?[^\/?#]*(?:[\/?#]|$)/i
 # B
 /^https?:\/\/[^\/?#]*(?:baccarat|backgammon)[^\/?#]*(?:[\/?#]|$)/i 
-/^https?:\/\/[^\/?#]*bet(?:1|2|2earn|2play|2win|365)?[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(?:andwin|ano|cash|central|clic|coin|edesjeux|fair|first|king|land|live|mgm|on|online|oto|)?[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:bet1|bet2|bet2earn|bet2play|bet2win|bet365)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet(?:betandwin|betano|betcash|betcentral|clic|coin|edesjeux|fair|first|king|land|live|mgm|on|online|oto|)?[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:poker|shigh|spalace)?[^\/?#]*(?:[\/?#]|$)/i 
 # C
 /^https?:\/\/[^\/?#]*casino[^\/?#]*(?:[\/?#]|$)/i
@@ -715,6 +715,7 @@ betfair
 betfirst
 betking
 betland
+jester
 betlive
 betmgm
 beton
@@ -735,6 +736,7 @@ betting
 bettors
 betusa
 betway
+
 bid
 bigbet
 bingo
@@ -2597,8 +2599,6 @@ diablo
 *://*.wp.pl/*
 *://*.xayn.com/*
 *://*.ya.ru/*
-*://*.yahoo.co.jp/*
-*://*.yahoo.com/*
 *://*.yandex.am/*
 *://*.yandex.az/*
 *://*.yandex.by/*
