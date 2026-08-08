@@ -13,6 +13,7 @@
 
 # Sd
 
+@*://*.chromewebstore.google.com/*
 @*://*.play.google.com/*
 @*://*.scholar.google.com/*
 
