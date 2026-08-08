@@ -17,7 +17,7 @@
 @@||amazon.*^
 @@||archive.org^$important
 
-! SD
+! Sd
 
 ||adguard-import-test.example.com^
 
@@ -33,7 +33,7 @@
 
 @@||buymeacoffee.com^
 
-! SD
+! Sd
 
 @@||safebrowsing.brave.com^
 
@@ -48,7 +48,7 @@
 @@||cloudfront.net^
 @@||codeberg.org^
 
-! SD
+! Sd
 
 @@||dictionary.cambridge.org^
 
@@ -68,7 +68,7 @@
 
 @@||deepl.com^
 
-! SD
+! Sd
 
 @@||improving.duckduckgo.com^
 
@@ -118,7 +118,7 @@
 @@||gravatar.com^
 @@||gutenberg.org^
 
-! SD
+! Sd
 
 ! 🇭🇺
 @@||enterhungary.gov.hu
@@ -156,7 +156,7 @@
 @@||moneymanagerex.org^
 @@||muscache.com^
 
-! SD
+! Sd
 
 @@||static-data2.manualslib.com^ 
 @@||static2.manualslib.com^
@@ -208,7 +208,7 @@
 
 @@||researchgate.net^
 
-! SD
+! Sd
 
 @@||rmp.rakuten.com^
 
@@ -244,7 +244,7 @@
 @@||ebanking-ch3.ubs.com^
 @@||ebanking-ch4.ubs.com^
 
-! SD
+! Sd
 
 @@||csp.uber.com^
 
@@ -260,7 +260,7 @@
 @@||vinted.com^
 @@||visualping.io^ 
 
-! > SD
+! Sd
 
 @@||images1.vinted.net^
 @@||services.visualstudio.com^
@@ -285,6 +285,6 @@
 @@||youtube.com^
 @@||ytimg.com^
 
-! SD
+! Sd
 
 @@||finance.yahoo.com^
