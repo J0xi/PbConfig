@@ -33,7 +33,6 @@
 
 /^https?:\/\/[^\/?#]*model[^\/?#]*(?:[\/?#]|$)/i
 
-
 ## Path
 
 /^https?:\/\/[^\/?#]+\/[^?#]*model[^?#]*(?:[?#]|$)/i
@@ -57,7 +56,6 @@ strip
 # Porn
 # Matches: pornhub,porno,pornos,pornographer,pornography,pornographic,pornografia,pornici,pornicu,pornstar,pornstars
 # /(^|[-_/])(porn(hub|o|os|ographer|ography|ographic|ografia|ici|icu|star|stars)?)([-_/]|$)/i
-
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [2] ASTROLOGY
@@ -107,7 +105,7 @@ gemselect
 
 hustle
 hustling
-
+*://*.cobratate.com/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [4] CHAT
@@ -142,18 +140,8 @@ freecam
 
 adating, alpha male, alpham, alphamale, ashleymadison, askmen, attraction
 backpage, badboy, badgirl, badgirl, bbw, bdsm, be2, bestmatch
-bride
-brides ... russian/ukrainian brides
-casual
-charisma
-charisma
-charm
-charm
-chatdate
-chatdate
-cheater
-cheating
-christiandating
+bride, brides, casual, charisma, charm, chatdate, cheater, cheating, christiandating, christiandate, christianmatch
+brides, cheater, cheating,
 christianmatch
 christianpeople
 christiansingles
@@ -161,13 +149,9 @@ clickmatch
 cobratate
 companion
 companion
-companion
-contactos
 contactos
 cougar
 crush
-crush
-cupid
 cupid
 cutie
 date 
@@ -237,6 +221,7 @@ peoplemeet
 personals
 pickup
 pickup artist
+localgirl
 playbook
 pua
 realdoll
@@ -319,8 +304,6 @@ wives
 *://*.freechatdateapp.com/*
 *://*.freechristiandating.org/*
 *://*.freedating.co.uk/**
-*://*.friendfinder-x.com/*
-*://*.friendfinder.com/*
 *://*.fynd.bio/*
 *://*.germanfriendfinder.com/*
 *://*.gethookupapp.com/*
