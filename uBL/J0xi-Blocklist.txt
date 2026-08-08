@@ -33,9 +33,11 @@
 /^https?:\/\/[^\/?#]*model[^\/?#]*(?:[\/?#]|$)/i
 
 
-# Path
+## Path
 
 /^https?:\/\/[^\/?#]+\/[^?#]*model[^?#]*(?:[?#]|$)/i
+
+## Keywords
 
 *://*.celebnic.com/*
 *://*.erotskeprice.info/*
@@ -48,6 +50,10 @@ onlyfan
 adult
 allfan
 strip
+
+# Fuck
+# /(^|[-_/])(fuck(s|ed|z|ing|in|er(s|z)?|[-_/]?(face|hole|head|mouth))?)([-_/]|$)/i
+
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [2] ASTROLOGY
@@ -680,72 +686,43 @@ wives
 # 123
 /^https?:\/\/[^\/?#]*1xbet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*88sport[^\/?#]*(?:[\/?#]|$)/i
-
 # A
-/^https?:\/\/[^\/?#]*ace(?:poker|shigh|spalace)?[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*ace(?:poker|s|shigh|spalace)?[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*admiral(?:bet|spot)?[^\/?#]*(?:[\/?#]|$)/i
 # B
-/^https?:\/\/[^\/?#]*(?:baccarat|backgammon)[^\/?#]*(?:[\/?#]|$)/i 
-/^https?:\/\/[^\/?#]*(?:bet1|bet2|bet2earn|bet2play|bet2win|bet365)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(?:betandwin|betano|betcash|betcentral|clic|coin|edesjeux|fair|first|king|land|live|mgm|on|online|oto|)?[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(?:poker|shigh|spalace)?[^\/?#]*(?:[\/?#]|$)/i 
+/^https?:\/\/[^\/?#]*(?:baccarat|backgammon|balkanbet)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bestbet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:bet(?:1|2|365))[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:bet(andwin|ano))[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:bet(cash|central|clic|coin))[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*betedesjeux[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:bet(fair|first))[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*betking[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:bet(land|live))[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*betmgm[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:bet(on(?:line)?|oto))[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:bet(partner|play|poker|prime))[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*betquick[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bets[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:bet(ting|tor))[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*betusa[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*betway[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:bid|bigbet|bingo)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*black-?jack[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:book(ie|maker))[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bovada[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bwin[^\/?#]*(?:[\/?#]|$)/i
+
+
 # C
 /^https?:\/\/[^\/?#]*casino[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*cardroom[^\/?#]*(?:[\/?#]|$)/i
+
+# R
 ^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
 
-admiral
-admiralbet
-admiralbet
-admiralspot
-dice
-
-balkanbet
-bestbet
-bestbetting
 
 
-betandwin
-betano
-betcash
-betcentral
-betclic
-betcoin
-betedesjeux
-betfair
-betfirst
-betking
-betland
-jester
-betlive
-betmgm
-beton
-betonline
-betoto
-betpartners
-betplay
-betprime
-betquick
-bets
-betsafe
-betshop
-betsking
-betsocial
-betsson
-betstar
-betting
-bettors
-betusa
-betway
-
-bid
-bigbet
-bingo
-black-jack
-blackjack
-bookie
-bookmaker
-bovada
-bwin
 
 caesars
 cardbet
@@ -757,19 +734,24 @@ cashsweep
 chance
 cheat
 csgo
+
+
 dealers
 dice
 draftking
+
 elitebet
 emeraldbet
 eurobet
 eurojackpot
 eurolotto
 euroslot
+
 fortuna
 fortune
 freebie
 freeslot
+
 gamble
 gambling
 gamebook
@@ -780,11 +762,13 @@ goalwin
 goldbet
 goldrun
 goldstrike
+
 highlife
 highroller
 hold-em
 holdem
 horsebetting
+
 jackpot
 jeaux
 jester
@@ -792,10 +776,9 @@ jeude
 jeux
 joker
 jouer
-jouer
 juega
-juegas
 justbet
+
 kash
 kasino
 kazino
@@ -806,6 +789,7 @@ kladjenja
 kladjenje
 kocka
 kockanje
+
 ladbroke
 lasvegas
 livebet
