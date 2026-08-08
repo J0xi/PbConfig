@@ -96,11 +96,11 @@ name analyzer
 fortune calendar
 zodist
 karma
+mysign
+compatibility
 birthstone
 birthsign
 gemselect
-*://*.whatismysign.net/*
-*://*.ask-oracle.com/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [3] BLOGS
@@ -1397,14 +1397,14 @@ diablo
 *://*.mobile9.com/*
 *://*.mobmod.net/*
 *://*.mod.io/*
-*://*.modapk.io/*
-*://*.modapk.io/*
-*://*.modapkdl.io/*
-*://*.modapkdown.com/*
-*://*.modapkdown.com/*
-*://*.modapkmax.com/*
-*://*.modapkstore.com/*
-*://*.modapkstore.com/*
+
+modapk
+mod
+modd
+moddb
+
+
+
 *://*.modarchive.org/*
 *://*.modd.io/*
 *://*.moddb.com/*
@@ -1422,8 +1422,6 @@ diablo
 *://*.modland.net/*
 *://*.modlinkz.com/*
 *://*.modmania.org/*
-*://*.modmaster.app/*
-*://*.modmaster.co/*
 *://*.modmenuapk.com/*
 *://*.modmenuhub.com/*
 *://*.modmenuz.com/*
@@ -2217,7 +2215,6 @@ diablo
 *://*.today.com/*
 *://*.toofab.com/*
 *://*.urbanbellemag.com/*
-*://*.usatoday.com/*
 *://*.uscelebstimes.com/*
 *://*.usmagazine.com/*
 *://*.vanityfair.com/*
@@ -2685,7 +2682,6 @@ Samples
 
 influencer
 
-
 *://*.myspace.com/*
 *://*.tumblr.com/*
 
@@ -2699,7 +2695,6 @@ biography
 biografia
 biografija
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Celebs
 
 celeb
@@ -2720,24 +2715,6 @@ dirtylaundry
 heightwiki
 xelebrity
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# Listicles
-
-factmandu
-factrider
-factsnippet
-facts
-factsbeyond
-meme
-knowsize
-
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# Fake Psychology & Therapy Advice Blogs 
-
-shrink
-psych
-
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Fame
 
 fame
@@ -2754,31 +2731,42 @@ fandango
 glam
 glamour
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+# Listicles
+
+factmandu
+factrider
+factsnippet
+facts
+factsbeyond
+meme
+knowsize
+
+# Psychology 
+
+shrink
+psych
+
 # Gossip & Rumors
 
 gossip
 g0ssip
 rumors
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Hollywood
 
 bollywood
 hollywood
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Jet-Set
 
 jetset
 jet-set
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+
 # Lyrics
 
 lyrics
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Networth
 
 networth
@@ -2787,7 +2775,6 @@ wealth
 wealthy
 worth
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Ppl & Pop Culture
 
 people
@@ -2803,18 +2790,11 @@ popnable
 popdust
 popculture
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# Blogs
-
-*://*.artofmanliness.com/*
-
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Quotes
 
 quote
 quotes 
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Software Mirror & Download Sites
 
 *://*.filehippo.com/*
@@ -2822,18 +2802,13 @@ quotes
 *://*.softpedia-download.com/*
 *://*.softonic.com/*
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Stars
 
 star
 stars
 starz
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # Wikis
-
-# Domain
-
 /^https?:\/\/[^\/?#]*wiki[^\/?#]*(?:[\/?#]|$)/i
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
@@ -3320,9 +3295,6 @@ sportsstreaming
 *://*.sidereel.com/*
 *://*.singtel.com/*
 *://*.siteindices.com/*
-*://*.sky.at/*
-*://*.sky.com/*
-*://*.sky.de/*
 *://*.skymais.com.br/*
 *://*.skyperfectv.co.jp/*
 *://*.skyshowtime.com/*
@@ -3733,9 +3705,7 @@ Rotating TLDs for Above Domains
 # [17] UTILITIES
 
 *://*.photopea.com/*
-
--------------------------------
-Browsers
+*://*.pixlr.com/*
 
 *://*.arc.net
 *://*.avantbrowser.com
