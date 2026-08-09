@@ -336,8 +336,7 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*cbd[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*cigar[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*cigarettes[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*cigs[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*cigz[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*cig(?:s|z)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*dope[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*ganja[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*hemp[^\/?#]*(?:[\/?#]|$)/i
@@ -367,13 +366,14 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*(?:baccarat|backgammon|balkanbet)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bestbet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:1|2|365)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(?:andwin|ano)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet(?:and-?win|ano)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:cash|central|clic|coin)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?expert[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*betedesjeux[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:fair|first)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*betking[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?king[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:land|live)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*betmgm[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?mgm[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(on(?:line)?|oto)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:partner|play|poker|prime)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*betquick[^\/?#]*(?:[\/?#]|$)/i
@@ -387,100 +387,71 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*bovada[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bwin[^\/?#]*(?:[\/?#]|$)/i
 # C
-/^https?:\/\/[^\/?#]*card(?:bet|game|play|room|s|z)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*card(?:bet|deal|game|play|room|s|z)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*(?:casino|cash(?:sweep)?)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*(?:chance|cheat)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*csgo[^\/?#]*(?:[\/?#]|$)/i
 # D
-/^https?:\/\/[^\/?#]*dealer[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*dice[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*draftking[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*draft-?king[^\/?#]*(?:[\/?#]|$)/i
 # E
-/^https?:\/\/[^\/?#]*elitebet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*emeraldbet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*elite-?bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*emerald-?bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*euro(?:jack-?pot|lotto|slot)[^\/?#]*(?:[\/?#]|$)/i
 # F
 /^https?:\/\/[^\/?#]*free(?:bie|slot)[^\/?#]*(?:[\/?#]|$)/i
-fortuna
-fortune
+/^https?:\/\/[^\/?#]*fortun(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
 # G
-gamble
-gambling
-gamebook
-gamesweb
-gametime
-getlucky
-goalwin
-goldbet
-goldrun
-goldstrike
-
+/^https?:\/\/[^\/?#]*gambl(?:e|ed|er(?:s)?|es|ing)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*game(?:book|sweb|time)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*get-?lucky[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*goal-?win[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*gold(?:bet|run|strike)[^\/?#]*(?:[\/?#]|$)/i
 # H
-high-?life
-high-?roller
-hold-?em
-horse-?betting
-
+/^https?:\/\/[^\/?#]*high-?life[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*high-?roll(er(?:s)?)?:[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*hold-?em[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*horse-?bet[^\/?#]*(?:[\/?#]|$)/i
 # J
-jackpot
-jeaux
-jester
-jeude
-jeux
-joker
-jouer
-juega
-justbet
-
+/^https?:\/\/[^\/?#]*jack-pot[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*jeaux[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*jeu(?:de|x)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*joker[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*jouer[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*juega[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*just-?bet[^\/?#]*(?:[\/?#]|$)/i
 # K
+/^https?:\/\/[^\/?#]*kasino[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kladjenj(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kladionic(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kazino[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kladjenj(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kock(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
+# L
+/^https?:\/\/[^\/?#]*lad-?broke[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*las-?vegas[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*live(?:bet|score)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*loteri(?:a|e|j)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*lot(?:o|to)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*lotter(?:ie|y)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*luck[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*lutrij(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
+# M
+/^https?:\/\/[^\/?#]*max-?bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*meridian-?bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*mozzart[^\/?#]*(?:[\/?#]|$)/i
+# N 
+/^https?:\/\/[^\/?#]*net-?bet[^\/?#]*(?:[\/?#]|$)/i
+# O
+/^https?:\/\/[^\/?#]*odds[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*oklade[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*opklade[^\/?#]*(?:[\/?#]|$)/i
 
-kash
-kasino
-kazino
-kladionica
-kladionice
-kladionice
-kladjenja
-kladjenje
-kocka
-kockanje
-
-
-
-
-# R
-^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
-
-
-ladbroke
-lasvegas
-livebet
-livescore
-livescorebet
-loteria
-loterie
-loterij
-loterija
-loto
-loto
-lotterie
-lottery
-lotto
-luck
-lucky
-luckywheel
-lutrija
-macau
-maxbet
-meridianbet
-mozzart
-mozzartbet
-netbet
-nodeposit
-odds
 oddscheck
 oklade
 onlineslots
+
+# P
 parimatch
 partybet
 play2win
@@ -495,14 +466,17 @@ primebet
 primedice
 primeslot
 prize
-prizes
+
+# R
+^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
 racebet
 raffle
 rizik
 roulette
+
+# S
 shuffle
-slot-machine
-slotmachine
+slot-?machine
 slotova
 slotovi
 slots
@@ -529,11 +503,14 @@ superbet
 superslot
 sweepstake
 sweepstakes
+
+
 texasholdem
 tip
 tipovanje
 tipp
 triplewin
+
 unibet
 vegas
 wager
@@ -633,14 +610,11 @@ droids
 dualshock
 dungeon
 eagame
-eagames
 eaorigin
 eldenring
 elderscroll
-elderscrolls
 epicnpc
 esport
-esports
 fallout
 fanboy
 fandom
@@ -666,9 +640,6 @@ gamedb
 gamedeals
 gamedev
 gamefaq
-gamefaq
-gamefaqs
-gamefaqs
 gamegear
 gamehack
 gameinformer
@@ -676,7 +647,6 @@ gameloft
 gamemap
 gamemaps
 gamemod
-gamemods
 gamenews
 gamepass
 gamepedia
