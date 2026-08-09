@@ -343,8 +343,7 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*hemp[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*heroin[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*hookah[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kana[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kanabiz[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kana(?:bis|biz)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kush[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*leaf[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*modafinil[^\/?#]*(?:[\/?#]|$)/i
@@ -352,11 +351,8 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*shisha[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*smoke[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*tobacco[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*(?:vape|vapor)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*vap(?:e|or)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*weed[^\/?#]*(?:[\/?#]|$)/i
-
-# Path
-
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [8] GAMBLING
@@ -385,55 +381,29 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*bet(?:ting|tor)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*betusa[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*betway[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*(?:bid|bigbet|bingo)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bi(?:d|gbet|ngo)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*black-?jack[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*book(?:ie|maker)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bovada[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bwin[^\/?#]*(?:[\/?#]|$)/i
 # C
 /^https?:\/\/[^\/?#]*card(?:bet|game|play|room|s|z)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*casino[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*(?:casino|cash(sweep))[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*(?:cash(sweep))[^\/?#]*(?:[\/?#]|$)/i
-chance
-cheat
-csgo
-
+/^https?:\/\/[^\/?#]*(?:casino|cash(?:sweep)?)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:chance|cheat)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*csgo[^\/?#]*(?:[\/?#]|$)/i
 # D
 /^https?:\/\/[^\/?#]*dealer[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*dice[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*draftking[^\/?#]*(?:[\/?#]|$)/i
 # E
-elitebet
-emeraldbet
-eurobet
-eurojackpot
-eurolotto
-euroslot
-
+/^https?:\/\/[^\/?#]*elitebet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*emeraldbet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*euro(?:jack-?pot|lotto|slot)[^\/?#]*(?:[\/?#]|$)/i
 # F
+/^https?:\/\/[^\/?#]*free(?:bie|slot)[^\/?#]*(?:[\/?#]|$)/i
 fortuna
 fortune
-freebie
-freeslot
-
-
-
-
-
-
-
-
-
-
-
-# R
-^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
-
-
-
-
-
+# G
 gamble
 gambling
 gamebook
@@ -445,12 +415,13 @@ goldbet
 goldrun
 goldstrike
 
-highlife
-highroller
-hold-em
-holdem
-horsebetting
+# H
+high-?life
+high-?roller
+hold-?em
+horse-?betting
 
+# J
 jackpot
 jeaux
 jester
@@ -460,6 +431,8 @@ joker
 jouer
 juega
 justbet
+
+# K
 
 kash
 kasino
@@ -471,6 +444,13 @@ kladjenja
 kladjenje
 kocka
 kockanje
+
+
+
+
+# R
+^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
+
 
 ladbroke
 lasvegas
