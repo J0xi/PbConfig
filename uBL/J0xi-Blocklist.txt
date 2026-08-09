@@ -133,10 +133,9 @@ cancer*
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [3] BLOGS
 
-hustle
-hustling
 *://*.cobratate.com/*
 /^https?:\/\/[^\/?#]*high-?life[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*hustl(?:e|ing)[^\/?#]*(?:[\/?#]|$)/i
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [4] CHAT
@@ -183,128 +182,9 @@ cutedate, chatgirl, eurodate, girlfind, girllove, gofish, elitepartner, fling, p
 sugardaddie, lovin, luv, mingle, savage, grindr, tinder, gofish, innerconfidence, lovepanky, loverz, match, matchmake, uglyschmuck, innerconfidence, jdate, meetlocal, 
 realhotdate, singleparent, lovinga, lovoo, meether, menprovement, yourfling, mensjournal, masculinedevelopment, simplepickup
 peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjournal, lovepanky, lonelygirl, girlsnearby, hotdate, lovebird, swipe, sugardate
+luvfree, masculinedevelopment, meether, meethim, meetme, meetyour, mensjournal, mensxp, singles, withlove, match, passion, privatecompanion, popularfan
+pof, polyamory, secretbenefits, friendswithbenefits, seniordate, seniordating, attraction, artofcharm, datingplaybook, attractiongame, winggirl, winggman
 
-*://*.maxim.com/*
-
-*://*.lovinga.com/*
-*://*.lovoo.com/*
-*://*.luvfree.com/*
-*://*.masculinedevelopment.com/*
-*://*.meetappzone.com/*
-*://*.meetblackpeople.com/*
-*://*.meetherquick.com/*
-*://*.meetmeappfinder.com/*
-*://*.meetmilfy.com/*
-*://*.meetmindful.com/*
-*://*.meetyourfling.com/*
-*://*.menprovement.com/*
-*://*.mensjournal.com/*
-*://*.mensxp.com/*
-*://*.naijasingles.com/*
-*://*.natedating.com/*
-*://*.natewithlove.com/*
-*://*.newmatchapp.com/*
-*://*.nexthookupapp.com/*
-*://*.nicknotas.com/*
-*://*.oftracker.com/*
-*://*.onemansway.com/*
-*://*.onlinedatinggirls.org/*
-*://*.onlyhookup.com/*
-*://*.onlytrending.com/*
-*://*.openhookupapp.com/*
-*://*.passionsnetwork.com/*
-*://*.plentyoffish.com/*
-*://*.plentyofgeeks.net/*
-*://*.pof.com/*
-*://*.polyamorydate.com/*
-*://*.popularfans.com/*
-*://*.popxo.com/*
-*://*.positiveSingles.com/*
-*://*.pridedating.com/*
-*://*.private-companion.com/*
-*://*.protestantdating.com/*
-*://*.psychalive.org/*
-*://*.pualingo.com/*
-*://*.pualit.com/*
-*://*.realhookupsites.org/*
-*://*.realhotdates.com/*
-*://*.realmeetupapp.com/*
-*://*.realmenrealstyle.com/*
-*://*.realsocialdynamics.com/*
-*://*.rebelcircus.com/*
-*://*.redpillroom.com/*
-*://*.relationshiphero.com/*
-*://*.returnofkings.com/*
-*://*.returnsavers.com/*
-*://*.romancoholic.com/*
-*://*.rooshv.com/*
-*://*.rsdnation.com/*
-*://*.rudavismethod.com/*
-*://*.rulezero.com/*
-*://*.rvlifestyle.com/*
-*://*.sashapua.com/*
-*://*.savageinteractions.com/*
-*://*.scarletblue.com.au/*
-*://*.schoolofattraction.com.au/*
-*://*.secretbenefits.com/*
-*://*.seeking.com/*
-*://*.selfmade.com/*
-*://*.seniordating.com/*
-*://*.seniornext.com/*
-*://*.seniorpeoplemeet.com/*
-*://*.shackdating.com/*
-*://*.shakn.com/*
-*://*.shamdating.com/*
-*://*.shesaid.com/*
-*://*.sikhnet.com/*
-*://*.simplepickup.com/*
-*://*.talktodater.com/*
-*://*.taogroup.com/*
-*://*.taplink.cc/*
-*://*.tapmy.bio/*
-*://*.taylorthefiend.com/*
-*://*.tdates.com/*
-*://*.thaicupid.com/*
-*://*.thaidatingservice.com/*
-*://*.thairomances.com/*
-*://*.thatfreak.to/*
-*://*.theartofcharm.com/*
-*://*.theattractiongame.com/*
-*://*.theattractionlab.com/*
-*://*.thedatingplaybook.com/*
-*://*.thedatingplaybookformen.com/*
-*://*.thedatingtruth.com/*
-*://*.thefemaledatingstrategy.com/*
-*://*.thefiltersrevisited.com/*
-*://*.thegamebyneilstrauss.com/*
-*://*.thegentlemensgame.com/*
-*://*.thegoodmenproject.com/*
-*://*.thelifestyletv.com/*
-*://*.thetalko.com/*
-*://*.thisisgame.com/*
-*://*.thotsbay.net/*
-*://*.tiedfeetguy.com/*
-*://*.tinder.com/*
-*://*.topofans.com/*
-*://*.toponlyfansgirls.com/*
-*://*.toponlygirls.com/*
-*://*.toxictexts.com/*
-*://*.trekpassions.com/*
-*://*.trendfans.co/*
-*://*.trippadvice.com/*
-*://*.truelds.com/*
-*://*.trueselves.com/*
-*://*.trydatingapps.com/*
-*://*.tryflingfinder.com/*
-*://*.winggirlmethod.com/*
-*://*.wingmanapp.com/*
-*://*.withkoji.com/*
-*://*.womenapproachyou.com/*
-*://*.womenshealthmag.com/relationships/*
-*://*.woowoomeet.com/*
-*://*.yesbackpage.com/*
-*://*.youflirt.com/*
-*://*.yourtango.com/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [4] FOOD DELIVERY
@@ -351,14 +231,9 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 # [8] GAMBLING
 
 # 123
-# /^https?:\/\/[^\/?#]*1xbet[^\/?#]*(?:[\/?#]|$)/i
-# /^https?:\/\/[^\/?#]*1xbit[^\/?#]*(?:[\/?#]|$)/i
-
+# /^https?:\/\/[^\/?#]*1x(?:bet|bit)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*[0-9]+bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*[0-9]+sport[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*sport[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
-
 # A
 /^https?:\/\/[^\/?#]*ace(?:poker|s(?:high|palace)?)?[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*admiral(?:bet|spot)[^\/?#]*(?:[\/?#]|$)/i
@@ -449,11 +324,9 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*online-?slot[^\/?#]*(?:[\/?#]|$)/i
 # P
 /^https?:\/\/[^\/?#]*pari-?match[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*party-?bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*play[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
 
-partybet
-play2win
-play4prize
-pocket
 pointsbet
 poker
 predict
@@ -1012,7 +885,6 @@ zeldadungeon
 *://*.courthousenews.com/*
 *://*.cracked.com/
 *://*.crazyrumors.com/*
-*://*.cyprustimes.com/*
 *://*.dailymail.co.uk/*
 *://*.dailystar.co.uk/*
 *://*.deadline.com/*
@@ -1748,6 +1620,9 @@ starz
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [14] SPORTS
+
+/^https?:\/\/[^\/?#]*[0-9]+sport[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*sport[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
 
 sport
 sports
