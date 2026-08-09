@@ -136,6 +136,7 @@ cancer*
 hustle
 hustling
 *://*.cobratate.com/*
+/^https?:\/\/[^\/?#]*high-?life[^\/?#]*(?:[\/?#]|$)/i
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [4] CHAT
@@ -209,7 +210,6 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 *://*.onemansway.com/*
 *://*.onlinedatinggirls.org/*
 *://*.onlyhookup.com/*
-*://*.onlymodels.vip/*
 *://*.onlytrending.com/*
 *://*.openhookupapp.com/*
 *://*.passionsnetwork.com/*
@@ -258,12 +258,6 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 *://*.shesaid.com/*
 *://*.sikhnet.com/*
 *://*.simplepickup.com/*
-*://*.singleapphub.com/*
-*://*.singlechristiansearch.com/*
-*://*.singlemuslim.com/*
-*://*.singleparentmeet.com/*
-*://*.skandinaviskkontakt.se/*
-*://*.taiwanesecharming.com/*
 *://*.talktodater.com/*
 *://*.taogroup.com/*
 *://*.taplink.cc/*
@@ -357,7 +351,8 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 # [8] GAMBLING
 
 # 123
-/^https?:\/\/[^\/?#]*1xbet[^\/?#]*(?:[\/?#]|$)/i
+# /^https?:\/\/[^\/?#]*1xbet[^\/?#]*(?:[\/?#]|$)/i
+
 /^https?:\/\/[^\/?#]*88sport[^\/?#]*(?:[\/?#]|$)/i
 # A
 /^https?:\/\/[^\/?#]*ace(?:poker|s(?:high|palace)?)?[^\/?#]*(?:[\/?#]|$)/i
@@ -408,7 +403,6 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*goal-?win[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*gold(?:bet|run|strike)[^\/?#]*(?:[\/?#]|$)/i
 # H
-/^https?:\/\/[^\/?#]*high-?life[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*high-?roll(er(?:s)?)?:[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*hold-?em[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*horse-?bet[^\/?#]*(?:[\/?#]|$)/i
@@ -427,6 +421,7 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*kazino[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kladjenj(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kock(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kvot(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
 # L
 /^https?:\/\/[^\/?#]*lad-?broke[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*las-?vegas[^\/?#]*(?:[\/?#]|$)/i
@@ -444,11 +439,8 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*net-?bet[^\/?#]*(?:[\/?#]|$)/i
 # O
 /^https?:\/\/[^\/?#]*odds[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*oklade[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*opklade[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*opklad(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
 
-oddscheck
-oklade
 onlineslots
 
 # P
@@ -472,6 +464,7 @@ prize
 racebet
 raffle
 rizik
+rulet
 roulette
 
 # S
