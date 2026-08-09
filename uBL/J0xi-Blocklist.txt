@@ -352,14 +352,19 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 
 # 123
 # /^https?:\/\/[^\/?#]*1xbet[^\/?#]*(?:[\/?#]|$)/i
+# /^https?:\/\/[^\/?#]*1xbit[^\/?#]*(?:[\/?#]|$)/i
 
-/^https?:\/\/[^\/?#]*88sport[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*[0-9]+bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*[0-9]+sport[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*sport[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
+
 # A
 /^https?:\/\/[^\/?#]*ace(?:poker|s(?:high|palace)?)?[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*admiral(?:bet|spot)[^\/?#]*(?:[\/?#]|$)/i
 # B
 /^https?:\/\/[^\/?#]*(?:baccarat|backgammon|balkanbet)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bestbet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*best-?bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:1|2|365)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:and-?win|ano)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:cash|central|clic|coin)[^\/?#]*(?:[\/?#]|$)/i
@@ -371,11 +376,11 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*bet-?mgm[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(on(?:line)?|oto)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:partner|play|poker|prime)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*betquick[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?quick[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bets[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:ting|tor)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*betusa[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*betway[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?usa[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?way[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bi(?:d|gbet|ngo)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*black-?jack[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*book(?:ie|maker)[^\/?#]*(?:[\/?#]|$)/i
@@ -383,7 +388,7 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*bwin[^\/?#]*(?:[\/?#]|$)/i
 # C
 /^https?:\/\/[^\/?#]*card(?:bet|deal|game|play|room|s|z)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*(?:casino|cash(?:sweep)?)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:casino|cashsweep)?[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*(?:chance|cheat)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*csgo[^\/?#]*(?:[\/?#]|$)/i
 # D
@@ -443,7 +448,8 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*opklad(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*online-?slot[^\/?#]*(?:[\/?#]|$)/i
 # P
-parimatch
+/^https?:\/\/[^\/?#]*pari-?match[^\/?#]*(?:[\/?#]|$)/i
+
 partybet
 play2win
 play4prize
@@ -484,7 +490,6 @@ slot aparati
 sportsbetting
 sportsbook
 sportscast
-sportscasting
 sportskekladionice
 sportsmonitor
 sportsspread
@@ -496,11 +501,11 @@ superslot
 sweepstake
 sweepstakes
 
-
 texasholdem
 tip
 tipovanje
 tipp
+transfermarkt
 triplewin
 
 unibet
@@ -2704,78 +2709,3 @@ webkit.org
 whale.naver.com
 wwwdotbrowser.webs.com
 yandex.com/browser
-
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# [-] SYNTAX
-
-Template: //*https?:\/\/([/*\/]+\.)?(DOMAIN)\.(com|net|org)\/
-
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-Example 1
-
-*://*.365numerology.com/*
-*://*.astrology-numerology.com/*
-*://*.name-meanings.org/*
-*://*.nameanalyzer.net/*
-
-//*https?:\/\/([/*\/]+\.)?(365numerology|astrology-numerology|name-meanings|nameanalyzer)\.(com|net|org)\//
-
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-Example 2 
-
-*://*.numerology.com/*
-*://*.numerologycentral.com/*
-*://*.numerologydecoder.com/*
-*://*.numerologysecrets.net/*
-*://*.numerologysign.com/*
-*://*.psychicnumerology.net/*
-*://*.seventhlifepath.com/*
-*://*.yournumerologychart.com/*
-
-//*https?:\/\/([/*\/]+\.)?(numerology(central|decoder|secrets|sign)?|psychicnumerology|seventhlifepath|yournumerologychart)\.(com|net)\//
-
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# 1 Keyword + Variations
-
-# /(^|[-_/])(cunt(bag|s|whore|y)?)([-_/]|$)/i
-
-# Matches: cunt, cuntbag, cunts, cuntwhore, cunty
-# Use this syntax ONLY if the root word is 'unambiguous'
-
-# /(^|[-_/])(ass(es|face|grab|hole))([-_/]|$)/i
-
-# Matches: 
-# asses, assface, assgrab, asshole but does NOT match ass
-# Omits ? because the root word is ambiguous and may form part of other words, ex. assign
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
-# 1 Keyword w/t Multiple Characters & Variations
-
-# Basic
-# [-_/] = - _ / 
-
-# /(^|[-_/])(poop(s|ing|ed|er(s|z)?|[-_/]?(face|hole|head))?)([-_/]|$)/i
-
-# Matches: 
-# poop, poops, pooping, pooped, pooper, poopers, pooperz, poopface, poophole, poophead
-# poop-face, poop-head, poop-hole, poop_face, poop_head, poop_hole, poop/face, poop/head, poop/hole
-
-# Advanced
-# [-_/.+&=:~,;] = - _ / . + & = : ~ , ;
-
-/(^|[-_/.+&=:~,;])(poop(s|ing|ed|er(s|z)?|[-_/.+&=:~,;]?(face|hole|head))?)([-_/.+&=:~,;]|$)/i
-
-# Matches: 
-# Everything above, but with more characters in between
-
-Keyword Titles 
-
-Example 1 (line by line)
-
-/astrolog(y|er|ical)?/i
-/zodiac/i
-/horoscope/i
-
-Example 2 (single string)
-
-/(astro(loger|logical|logy|scope|theme)?|horoscope|tarot)/i
