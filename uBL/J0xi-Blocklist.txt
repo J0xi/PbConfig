@@ -37,8 +37,6 @@
 
 /^https?:\/\/[^\/?#]+\/[^?#]*model[^?#]*(?:[?#]|$)/i
 
-## Keywords
-
 onlyfan
 adult
 milfy
@@ -50,7 +48,8 @@ gay
 literotica
 shag
 
-# Fuck
+# F
+
 title(fuck(s|ed|z|ing|in|er))
 # /(^|[-_/])(fuck(s|ed|z|ing|in|er(s|z)?|[-_/]?(face|hole|head|mouth))?)([-_/]|$)/i
 # Porn
@@ -89,47 +88,24 @@ title(fuck(s|ed|z|ing|in|er))
 /^https?:\/\/[^\/?#]+\/[^?#]*vedic[^?#]*(?:[?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*zodiac[^?#]*(?:[?#]|$)/i
 
-name analysis
-name analyzer
-fortune calendar
-zodist
-karma
-mysign
-compatibility
+aquarius, aries, askmyoracle, birthsign
 birthstone
-birthsign
-gemselect
-askmyoracle
-chani
-chinesefortunecalendar
-ganeshaspeaks
-labyrinthos
-linda-goodman
-moonly
-mylovecal
-mysticapp
-sanctuaryworld
-seeroracle
-thebirthchart
-vedicfolks
-compatibility
-lovecompatibility
+cancer*, capricorn, chani
+chinesefortunecalendar, compatibility
+fortune calendar
+ganeshaspeaks, gemini, gemselect
+karma
+labyrinthos, leo, libra, linda-goodman, lovecompatibility
+moonly, mylovecal, mysign, mysticapp
+name analysis, name analyzer
 onthisday
-whatismysign
-
-aries
-virgo
-taurus
-gemini
-leo
-virgo
-libra
-scorpio
-sagittarius
-capricorn
-aquarius
 pisces
-cancer*
+sagittarius, sanctuaryworld, scorpio, seeroracle
+taurus, thebirthchart
+vedicfolks
+virgo
+whatismysign
+zodist
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [3] BLOGS
@@ -166,6 +142,17 @@ freecam
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [5] COMMERCE
 
+# 5.1 Food Delivery
+
+/^https?:\/\/[^\/?#]*bolt-?food[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*delivery-?hero[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*door-?dash[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*food(?:ora|panda)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*wolt[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*uber-?eats[^\/?#]*(?:[\/?#]|$)/i
+
+*://*.food.bolt.eu/*
+
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [6] DATING
 
@@ -186,52 +173,102 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 luvfree, masculinedevelopment, meether, meethim, meetme, meetyour, mensjournal, mensxp, singles, withlove, match, passion, privatecompanion, popularfan
 pof, polyamory, secretbenefits, friendswithbenefits, seniordate, seniordating, attraction, artofcharm, datingplaybook, attractiongame, winggirl, winggman
 
-
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# [4] FOOD DELIVERY
-
-/^https?:\/\/[^\/?#]*foodora[^\/?#]*(?:[\/?#]|$)/i
-
-*://*.boltfood.com/*
-*://*.deliveryhero.com/*
-*://*.doordash.com/*
-*://*.food.bolt.eu/*
-*://*.foodpanda.sg/*
-*://*.ubereats.com/*
-*://*.wolt.com/*
-
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [7] DRUGS & TOBACCO
 
-# Domain
+# A
+title/afri[cč]ka[- ]?[sš]ljiva/i
+/afri[cč]ka[- ]?[sš]ljiva/i
 
-title/(cannabis)i
-title/(modafinil)
+# B
+title/bong[sz]?/i
+/bong[sz]?/i
 
+# C
+title/cann?abi[sz]/i
+title/cig[sz]/i
+title/cocaine/i
+title/cohiba/i
+title/crack[- ]?addict[sz]?/i
+/cann?abi[sz]/i
+/cig[sz]/i
+/cocaine/i
+/cohiba/i
+/crack[- ]?addict[sz]?/i
 
+# D
+title/dope[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
+title/drog(?:iranj)?[aeu]/i
+title/drug[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
+/dope[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
+/drog(?:iranj)?[aeu]/i
+/drug[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
 
-/^https?:\/\/[^\/?#]*bong[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*canabis[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*cannabis[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*cbd[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*cigar[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*cigarettes[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*cig(?:s|z)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*dope[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*ganja[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*hemp[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*heroin[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*hookah[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kana(?:bis|biz)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kush[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*leaf[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*modafinil[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*nootropic[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*shisha[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*smoke[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*tobacco[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*vap(?:e|or)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*weed[^\/?#]*(?:[\/?#]|$)/i
+# E
+title/ecstasy/i
+/ecstasy/i
+
+# G
+title/ganja/i
+title/green-?leaf/i
+/ganja/i
+/green-?leaf/i
+
+# H
+title/he(?:mp|roin)/i
+title/hookah/i
+/he(?:mp|roin)/i
+/hookah/i
+
+# J
+title/junkie[sz]?/i
+/junkie[sz]?/i
+
+# K
+title/kana/i
+title/kush/i
+/kana/i
+/kush/i
+
+# M
+title/marijuana/i
+title/modafinil/i
+/marijuana/i
+/modafinil/i
+
+# N
+title/narkoman(?:[aeiu]|ij[aeu])?/i
+title/noo-?tropic/i
+/noo-?tropic/i
+/narkoman(?:[aeiu]|ij[aeu])?/i
+
+# P
+title/pill[- ]?popper[sz]?/
+/pill[- ]?popper[sz]?/
+
+# S
+title/shisha/i
+title/smok(?:e(?:r[sz]?)?|ing)/i
+/shisha/i
+/smoke/i
+
+# T
+title/tobacco/i
+/tobacco/i
+
+# V
+title/vap(?:e(?:r[sz]?|[sz]?)|ing|or)/i
+title/viagra/i
+/viagra/i
+/vap(?:e(?:r[sz]?|[sz]?)|ing|or)/i
+
+# W
+title/weed/i
+/weed/i
+
+# X
+title/xanax/i
+/xanax/i
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [8] GAMBLING
@@ -333,57 +370,23 @@ title/(modafinil)
 /^https?:\/\/[^\/?#]*pari-?match[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*party-?bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*play[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*points-?bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*poker[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*predict[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*premier(?:bet|casino)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*prime(?:bet|dice|slot)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*prize[^\/?#]*(?:[\/?#]|$)/i
-
-pointsbet
-
 # R
 ^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
-racebet
-raffle
-rizik
-rulet
-roulette
+racebet, raffle, rizik, rulet, roulette
 
 # S
-shuffle
-slot-?machine
-slotova
-slotovi
-slots
-soccerbet
-solitaire
-spins
-sport365
-sportingbet
-sportingindex
-sportsbet
-slotaparati
-slot aparati
-sportsbetting
-sportsbook
-sportscast
-sportskekladionice
-sportsmonitor
-sportsspread
-sportzbookz
-stake
-stakes
-superbet
-superslot
-sweepstake
-sweepstakes
+shuffle, slot aparati, slot-?machine, slotaparati, slotova, slotovi, slots, soccerbet, solitaire, spins
+sport365, sportingbet, sportingindex, sportsbet, sportsbetting, sportsbook
+sportscast, sportskekladionice, sportsmonitor, sportsspread, sportzbookz, stake, stakes, superbet, superslot
+sweepstake, sweepstakes
 
-texasholdem
-tip
-tipovanje
-tipp
-transfermarkt
-triplewin
+texasholdem, tip, tipovanje, tipp, transfermarkt, triplewin
 
 unibet
 vegas
@@ -406,10 +409,7 @@ abandonware, achievement, activision, addon, adventure, ageofempire, animeskin, 
 apkdownload, apkfile, apkmirror , apkmod, apkmonk, apkpure, apks, apksmod, apkstore
 appapk, appapks, appsapk, appsapks, aptoide, arcade, arknights, arqade, atari
 
-bandai
-battle
-battlefield
-battlestar
+bandai, battle, battlefield, battlestar
 bethesda
 blizzard
 boardgame
