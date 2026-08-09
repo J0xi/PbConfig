@@ -14,9 +14,8 @@
 # [7]        DRUGS & TOBACCO
 # [8]        GAMBLING
 # [9]        GAMING
-# [  ]       SOCIAL
-# [10]       SPAM
-#    10.1        
+# [10]       NEWS
+# [11]       SOCIAL
 # [11]       SPORTS
 # [12]       STREAMING AV
 # [16]       UNSAFE
@@ -120,8 +119,7 @@ title(fuck(s|ed|z|ing|in|er))
 
 aquarius, aries, askmyoracle, birthsign
 birthstone
-cancer*, capricorn, chani
-chinesefortunecalendar, compatibility
+cancer*, capricorn, chani, chinesefortunecalendar, compatibility
 fortune calendar
 ganeshaspeaks, gemini, gemselect
 karma
@@ -410,294 +408,89 @@ title/xanax/i
 # R
 ^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
 racebet, raffle, rizik, rulet, roulette
-
 # S
 shuffle, slot aparati, slot-?machine, slotaparati, slotova, slotovi, slots, soccerbet, solitaire, spins
 sport365, sportingbet, sportingindex, sportsbet, sportsbetting, sportsbook
 sportscast, sportskekladionice, sportsmonitor, sportsspread, sportzbookz, stake, stakes, superbet, superslot
 sweepstake, sweepstakes
-
+# T
 texasholdem, tip, tipovanje, tipp, transfermarkt, triplewin
 unibet
 vegas
+# W
 wager, wagering, williamhill, winbets, winner, winners, winning, winorama, won, wwin, zynga
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [9] GAMING
 
+# A
 abandonware, achievement, activision, addon, adventure, ageofempire, animeskin, apk, apkcombo
 apkdownload, apkfile, apkmirror , apkmod, apkmonk, apkpure, apks, apksmod, apkstore
 appapk, appapks, appsapk, appsapks, aptoide, arcade, arknights, arqade, atari
-
+# B
 bandai, battle, battlefield, battlestar, bethesda, blizzard, boardgame, borderlands, bossfight, bounty, builds
-
+# C
 callofduty, candy-crush, candycrush, capcom, challenge, challenger, champ, champion, characterdesign
 cheat, cheatdb, cheater, cheatmenu, cheats, checkmate, chess, clashofclans, codhack, codhacks
 console, cosplay, counterstrike, crack, csgo
-
+# D
 deathmatch, destructoid, devmod, devmodapk, devs, diablo, dlc, dragonball, dragonquest, droid
-droidapk
-
-droidgame
-droidgames
-droidmod
-droids
-dualshock
-dungeon
-eagame
-eaorigin
-eldenring
-elderscroll
-epicnpc
-esport
-fallout
-fanboy
-fandom
-fandomwire
-fanpop
-fantasy
-fantasyesport
-farming-simulator
-ffx
-ffx
-finalfantasy
-finalfantasy
-fortbuilds
-fortnite
-fps
-fps
-game
-gameapk
-gamebattle
-gamebiz
-gameboost
-gamedb
-gamedeals
-gamedev
-gamefaq
-gamegear
-gamehack
-gameinformer
-gameloft
-gamemap
-gamemaps
-gamemod
-gamenews
-gamepass
-gamepedia
-gamepress
-gamer
-gamer
-gamer-mods
-gamereactor
-gamerpedia
-gamerz
-games
-gamesnexus
-gamesnexus
-gamespace
-gamespot
-gamespot
-gamesradar
-gamestrategy
-gamewatch
-gamewatch
-gameworkshop
-gamex
-gaming
-gamingear
-gamingforum
-gamingleague
-gamingnews
-gearsofwar
-geek
-geek
-genshin
-gmodstore
-godmode
-godmode
-grandtheftauto
-gta
-gta
-gta4
-gta5
-gta6
-gtaforum
-gtaforum
-gtaforum
-gtav
-gtavicecity
-guildwar
-guildwar
-hacker
-hackers
-hackerz
-hacks
-hackthegame
-halo
-heroesofnewerth
-hitman
-howlongtobeat
-ign
-ignguides
-indie
-indiegame
-jeux
-jeux
-joystick
-juego
-juegos
-konami
-kotaku
-launch
-launcher
-leagueoflegends
-left4dead
-levelup
-livegame
-livegaming
-livestream
-mahjong
-mastermod
-metacritic
-minecraft
-minecraft
-mini-clip
-miniclip
-minijuego
-mmo
-mmo
-mmorpg
-mmorpg
-mmorpg
-mobilegame
-mod
-mod
-modapk
-modapk
-modapk
-modapkdl
-modd
-moddb
-moddb
-moddb
-modder
-modders
-modding
-modding
-modding
-moddroid
-modgame
-mods
-mods
-modsapk
-modsapk
-modsgame
-modshost
-modslab
-modstore
-modworkshop
-modx
-modz
-modz
-modzapk
-monsterhunter
-n4g
-nerd
-nerd
-nerdreactor
-nexusmods
-nexusmods
-nintendo
-openapk
-overwatch
-paidmods
-patches
-patchmypc
-pcgamemod
-pcgamer
-pcgaming
-pcmod
-pcmods
-pcmodz
-play
-playerauction
-playgame
-playground
-playstation
-playthrough
-pokemon
-pokemon
-polygon
-ps1
-ps2
-ps3
-ps4
-ps5
+droidapk, droidgame, droidgames, droidmod, droids, dualshock, dungeon
+# E
+eagame, eaorigin, eldenring, elderscroll, epicnpc, esport
+# F
+fallout, fanboy, fandom, fandomwire, fanpop, fantasy, fantasyesport, farming-simulator, ffx
+finalfantasy, fortbuilds, fortnite, fps
+# G
+game, gameapk, gamebattle, gamebiz, gameboost, gamedb, gamedeals, gamedev, gamefaq, gamegear
+gamehack, gameinformer, gameloft, gamemap, gamemaps, gamemod, gamenews, gamepass, gamepedia
+gamepress, gamer, gamer-mods, gamereactor, gamerpedia, gamerz, games, gamesnexus, gamesnexus
+gamespace, gamespot, gamesradar, gamestrategy, gamewatch, gameworkshop
+gamex, gaming, gamingear, gamingforum, gamingleague, gamingnews, gearsofwar, geek
+genshin, gmodstore, godmode, grandtheftauto, gta, gta4, gta5, gta6, gtaforum, gtav, gtavicecity, guildwar
+# H
+hacker, hackers, hackerz, hacks, hackthegame, halo, heroesofnewerth, hitman, howlongtobeat
+# I
+ign,ignguides, indie, indiegame
+# J
+jeux, joystick, juego, juegos
+# K
+konami, kotaku
+# L
+launch, launcher, leagueoflegends, left4dead, levelup, livegame, livegaming, livestream
+# M
+mahjong, mastermod, metacritic, minecraft, mini-clip, miniclip, minijuego, mmo, mmorpg
+mobilegame, mod, modapk, modapkdl, modd, moddb, modder, modders, modding, moddroid
+modgame, mods, modsapk, modsgame, modshost, modslab, modstore, modworkshop
+modx, modz, modzapk, monsterhunter
+# N
+n4g, nerd, nerdreactor, nexusmods, nintendo
+# O
+openapk, overwatch
+# P
+paidmods, patches, patchmypc, pcgamemod, pcgamer, pcgaming, pcmod, pcmods, pcmodz, play
+playerauction, playgame, playground, playstation, playthrough, pokemon, polygon, ps1
+ps2, ps3, ps4, ps5
+# Q
 quiz
-realm
-replay
-residentevil
-riotgames
-rockpapershotgun
-rockstar
-rockstargame
-rockstargames
-rockstarintel
-rockstarnexus
-rpg
-rpg
-rune
-runescape
-runescape
-sega
-sims
-simulator
-simulator
-solitaire
-spele
-spiel
-spiele
-spoof
-spoof
-spoofer
-stadia
-steam
-steamcommunity
-steamdb
-steampowered
-steamunlock
-stream
-streaming
-streamz
-sudoku
-titanfall
-titanfall
-trophies
-trophy
-twitch
-twitchcon
-ubisoft
-ubisoft
-unlock
-valve
-valvecommunity
-vg247
-videogame
-vmodcheat
-walkthrough
-warcraft
-warframe
-warframe
-warhammer
-warhammer
-wii
-winmods
-x360
-xbox
-xmod
-zelda
-zeldadungeon
+# R
+realm,replay, residentevil, riotgames, rockpapershotgun, rockstar, rockstargame, rockstargames
+rockstarintel, rockstarnexus, rpg, rpg, rune, runescape
+# S
+sega, sims, simulator, solitaire, spele, spiel, spiele, spoof, spoofer, stadia, steam
+steamcommunity, steamdb, steampowered, steamunlock, stream, streaming, streamz, sudoku
+# T
+titanfall, trophies, trophy, twitch, twitchcon
+# U
+ubisoft, unlock
+# V
+valve, valvecommunity, vg247, videogame, vmodcheat
+# W
+walkthrough, warcraft, warframe, warframe, warhammer, warhammer, wii, winmods
+# X
+x360, xbox, xmod
+# Z
+zelda, zeldadungeon
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [10] NEWS
@@ -1016,6 +809,7 @@ zeldadungeon
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [11] SEARCH ENGINES
+# Source(s): https://github.com/searxng/searx-instances
 
 *://*.$alltheinternet.com/*
 *://*.100searchengines.com/*
@@ -1358,38 +1152,14 @@ zeldadungeon
 *://*.wp.pl/*
 *://*.xayn.com/*
 *://*.ya.ru/*
-*://*.yandex.am/*
-*://*.yandex.az/*
-*://*.yandex.by/*
-*://*.yandex.co.il/*
-*://*.yandex.co.il/*x
-*://*.yandex.com.am/*
-*://*.yandex.com.ge/*
-*://*.yandex.com.tr/*
-*://*.yandex.com/*
-*://*.yandex.ee/*
-*://*.yandex.eu/*
-*://*.yandex.fi/*
-*://*.yandex.fr/*
-*://*.yandex.ge/*
-*://*.yandex.kz/*
-*://*.yandex.lt/*
-*://*.yandex.lv/*
-*://*.yandex.md/*
-*://*.yandex.net/*
-*://*.yandex.pl/*
-*://*.yandex.ru/*
-*://*.yandex.tj/*
-*://*.yandex.tm/*
-*://*.yandex.ua/*
-*://*.yandex.uz/*
 *://*.yep.com/*
 *://*.yioop.com/*
 *://*.you.com/*
 *://*.zapmeta.com/*
 
-# Searx
-# Source: https://github.com/searxng/searx-instances
+*://*.ya.ru/*
+*://*.yandex.uz/*
+yandex
 
 metasearx
 searxng
@@ -1412,18 +1182,15 @@ influencer
 /^https?:\/\/[^\/?#]*celeb(?:rit)?[^\/?#]*(?:[\/?#]|$)/i
 
 # Celebs
-
 celebcelebs, celebz, celebrity, celebrities, celebritiez, celebrite, celibrity
 celebrites, celebritez, celebsurgery, richcelebs, celebriot
 dirtylaundry, heightwiki, xelebrity
 
 # Fame
-
 fame, famous, famoso, famouspeople, famousbirthday, famousbio, birthsdeaths, fanpop, poznat, poznat
 fandango, glam, glamour
 
 # Fact
-
 factmandu, factrider, factsnippet, facts, factsbeyond, meme, knowsize
 
 /^https?:\/\/[^\/?#]*gossip[^\/?#]*(?:[\/?#]|$)/i
@@ -1441,7 +1208,6 @@ factmandu, factrider, factsnippet, facts, factsbeyond, meme, knowsize
 /^https?:\/\/[^\/?#]*wiki[^\/?#]*(?:[\/?#]|$)/i
 
 # Ppl & Pop Culture
-
 people, ppl, peep, peeps, popbytes, popsci, popsugar, popularheight
 popularbio, popnable, popdust, popculture
 
@@ -1458,13 +1224,20 @@ popularbio, popnable, popdust, popculture
 /^https?:\/\/[^\/?#]*[0-9]+sport[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*sport[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
 
-premierleague, bleacherreport
-espn, eurosport, eurosportplayer
+premierleague
+bleacherreport
+espn
+eurosport
+eurosportplayer
 fubosport
 golf
-livesoccer, livesport
+livesoccer
+livesport
 olympics
-soccer, sport, sportnow, sports, sportsonline, sportsstream, sportsstreaming
+soccer
+sport
+sportnow
+sports, sportsonline, sportsstream, sportsstreaming
 sportz, streamable, streamsport
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
