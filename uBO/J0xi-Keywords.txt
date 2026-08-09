@@ -692,7 +692,6 @@
 ||*oral*sex*$document
 ||*orgasa*$document
 ||*orgasm*$document
-||*orgasm*$document
 ||*orgies*$document
 ||*orgy*$document
 ||*orifice*$document
@@ -907,7 +906,6 @@
 ||*titi*$document
 ||*tits*$document
 ||*titties*$document
-||*titty*$document
 ||*titty*$document
 ||*topless*$document
 ||*tosser*$document
