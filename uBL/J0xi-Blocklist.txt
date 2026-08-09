@@ -11,9 +11,9 @@
 # [5]        COMMERCE
   # 5.1        FOOD DELIVERY  
 # [6]        DATING
-# [7]        GAMBLING
-# [8]        GAMING
-# [9]        
+# [7]        DRUGS & TOBACCO
+# [8]        GAMBLING
+# [9]        GAMING
 # [  ]       SOCIAL
 # [10]       SPAM
 #    10.1        
@@ -21,38 +21,68 @@
 # [12]       STREAMING AV
 # [16]       UNSAFE
 # [17]       UTILITIES
-#    17.1        AI
-#    17.2        BROWSERS
+#    17.1        BROWSERS
 #    17.3        SEARCH ENGINES
-# [-]       SYNTAX
   
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [1] 18+
 
 ## Domain
 
+/^https?:\/\/[^\/?#]*adult[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*model[^\/?#]*(?:[\/?#]|$)/i
 
 ## Path
 
+/^https?:\/\/[^\/?#]+\/[^?#]*adult[^?#]*(?:[?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*model[^?#]*(?:[?#]|$)/i
 
-onlyfan
-adult
-milfy
+## Keywords
+
+# A
+
+assface
+asshole, assholes, assholez
+asswipe
 allfan
+
+# B
+bitch
+batshit
+
+# C
+cunts
+cunnilingus
+
+# E
 erotske
-strip
-seksprice
-gay
+
+# G
+gay, gaylord, gayness
+gilf
+
+# L
 literotica
+
+# M
+
+motherfuckers,z,ing,
+milfs,z,y
+
+# O
+onlyfan
+
+# S
+seksprice
 shag
+strip
 
 # F
 
 title(fuck(s|ed|z|ing|in|er))
 # /(^|[-_/])(fuck(s|ed|z|ing|in|er(s|z)?|[-_/]?(face|hole|head|mouth))?)([-_/]|$)/i
-# Porn
+
+# P
 # Matches: pornhub,porno,pornos,pornographer,pornography,pornographic,pornografia,pornici,pornicu,pornstar,pornstars
 # /(^|[-_/])(porn(hub|o|os|ographer|ography|ographic|ografia|ici|icu|star|stars)?)([-_/]|$)/i
 
@@ -123,6 +153,7 @@ zodist
 /^https?:\/\/[^\/?#]*join[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*meet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*omegle[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*ome-?tv[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*stranger[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*talk[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*webcam[^\/?#]*(?:[\/?#]|$)/i
@@ -130,11 +161,10 @@ zodist
 ## Path
 
 /^https?:\/\/[^\/?#]+\/[^?#]*omegle[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*ome-?tv[^?#]*(?:[?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*stranger[^?#]*(?:[?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*webcam[^?#]*(?:[?#]|$)/i
 
-ome-tv
-ometv
 badoo
 bazoocam
 freecam
@@ -157,6 +187,7 @@ freecam
 # [6] DATING
 
 adating, alpha male, alpham, alphamale, ashleymadison, askmen, attraction
+
 backpage, badboy, badgirl, badgirl, bbw, bdsm, be2, bestmatch
 bride, brides, casual, charisma, charm, chatdate, cheater, cheating, christiandating, christiandate, christianmatch
 brides, cheater, cheating, clickmatch, companion, contactos, cougar, crush
@@ -387,20 +418,9 @@ sportscast, sportskekladionice, sportsmonitor, sportsspread, sportzbookz, stake,
 sweepstake, sweepstakes
 
 texasholdem, tip, tipovanje, tipp, transfermarkt, triplewin
-
 unibet
 vegas
-wager
-wagering
-williamhill
-winbets
-winner
-winners
-winning
-winorama
-won
-wwin
-zynga
+wager, wagering, williamhill, winbets, winner, winners, winning, winorama, won, wwin, zynga
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [9] GAMING
@@ -409,51 +429,15 @@ abandonware, achievement, activision, addon, adventure, ageofempire, animeskin, 
 apkdownload, apkfile, apkmirror , apkmod, apkmonk, apkpure, apks, apksmod, apkstore
 appapk, appapks, appsapk, appsapks, aptoide, arcade, arknights, arqade, atari
 
-bandai, battle, battlefield, battlestar
-bethesda
-blizzard
-boardgame
-borderlands
-bossfight
-bounty
-builds
-callofduty
-candy-crush
-candycrush
-capcom
-challenge
-challenger
-champ
-champion
-characterdesign
-cheat
-cheatdb
-cheater
-cheatmenu
-cheats
-cheats
-checkmate
-chess
-clashofclans
-codhack
-codhacks
-console
-cosplay
-counterstrike
-crack
-csgo
-deathmatch
-destructoid
-devmod
-devmodapk
-devs
-diablo
-dlc
-dragonball
-dragonquest
-droid
+bandai, battle, battlefield, battlestar, bethesda, blizzard, boardgame, borderlands, bossfight, bounty, builds
+
+callofduty, candy-crush, candycrush, capcom, challenge, challenger, champ, champion, characterdesign
+cheat, cheatdb, cheater, cheatmenu, cheats, checkmate, chess, clashofclans, codhack, codhacks
+console, cosplay, counterstrike, crack, csgo
+
+deathmatch, destructoid, devmod, devmodapk, devs, diablo, dlc, dragonball, dragonquest, droid
 droidapk
-droidapk
+
 droidgame
 droidgames
 droidmod
@@ -1407,57 +1391,6 @@ zeldadungeon
 # Searx
 # Source: https://github.com/searxng/searx-instances
 
-*://*.baresearch.org/*
-*://*.copp.gg/*
-*://*.etsi.me/*
-*://*.ooglester.com/*
-*://*.opnxng.com/*
-*://*.paulgo.io/*
-*://*.priv.au/*
-*://*.s.mble.dk/*
-*://*.search.2b9t.xyz/*
-*://*.search.abohiccups.com/*
-*://*.search.anoni.net/*
-*://*.search.atl.tools/*
-*://*.search.bladerunn.in/*
-*://*.search.buddyverse.net/*
-*://*.search.bus-hit.me/*
-*://*.search.catboy.house/*
-*://*.search.charliewhiskey.net/*
-*://*.search.darkness.services/*
-*://*.search.disroot.org/*
-*://*.search.einfachzocken.eu/*
-*://*.search.ethibox.fr/*
-*://*.search.femboy.ad/*
-*://*.search.freestater.org/*
-*://*.search.hbubli.cc/*
-*://*.search.im-in.space/*
-*://*.search.indst.eu/*
-*://*.search.inetol.net/*
-*://*.search.internetsucks.net/*
-*://*.search.ipsys.bf/*
-*://*.search.ipv6s.net/*
-*://*.search.leptons.xyz/*
-*://*.search.mdosch.de/*
-*://*.search.minus27315.dev/*
-*://*.search.oh64.moe/*
-*://*.search.ononoki.org/*
-*://*.search.privacyredirect.com/*
-*://*.search.privacytools.io/*
-*://*.search.rhscz.eu/*
-*://*.search.rowie.at/*
-*://*.search.sapti.me/*
-*://*.search.snopyta.org/*
-*://*.search.undertale.uk/*
-*://*.search.unlocked.link/*
-*://*.search.unredacted.org/*
-*://*.search.url4irl.com/*
-*://*.search.wdpserver.com/*
-*://*.search.zina.dev/*
-*://*.seek.fyi/*
-*://*.sx.catgirl.cloud/*
-*://*.gruble.de/*
-
 metasearx
 searxng
 
@@ -1480,55 +1413,18 @@ influencer
 
 # Celebs
 
-celeb
-celebs
-celebz
-celebrity
-celebrities
-celebritiez
-celebrite
-celibrity
-celebrites
-celebritez
-celebsurgery
-
-
-richcelebs
-celebriot
-dirtylaundry
-heightwiki
-xelebrity
+celebcelebs, celebz, celebrity, celebrities, celebritiez, celebrite, celibrity
+celebrites, celebritez, celebsurgery, richcelebs, celebriot
+dirtylaundry, heightwiki, xelebrity
 
 # Fame
 
-fame
-famous
-famoso
-famouspeople
-famousbirthday
-famousbio
-birthsdeaths
-fanpop
-poznat
-poznat
-fandango
-glam
-glamour
+fame, famous, famoso, famouspeople, famousbirthday, famousbio, birthsdeaths, fanpop, poznat, poznat
+fandango, glam, glamour
 
-# Listicles
+# Fact
 
-factmandu
-factrider
-factsnippet
-facts
-factsbeyond
-meme
-knowsize
-
-# Psychology 
-
-shrink
-psych
+factmandu, factrider, factsnippet, facts, factsbeyond, meme, knowsize
 
 /^https?:\/\/[^\/?#]*gossip[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*g0ssip[^\/?#]*(?:[\/?#]|$)/i
@@ -1546,18 +1442,8 @@ psych
 
 # Ppl & Pop Culture
 
-people
-ppl
-peep
-peeps
-popbytes
-popsci
-popsugar
-popularheight
-popularbio
-popnable
-popdust
-popculture
+people, ppl, peep, peeps, popbytes, popsci, popsugar, popularheight
+popularbio, popnable, popdust, popculture
 
 # Software Mirror & Download Sites
 
@@ -1566,35 +1452,20 @@ popculture
 *://*.softpedia-download.com/*
 *://*.softonic.com/*
 
-
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [14] SPORTS
 
 /^https?:\/\/[^\/?#]*[0-9]+sport[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*sport[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
 
-sport
-sports
-sportz
-espn
-olympics
-golf
-soccer
-bleacherreport
-eurosport
-sport
-sports
+premierleague, bleacherreport
+espn, eurosport, eurosportplayer
 fubosport
-sportnow
-sportsstream
-streamsport
-streamable
-sportsonline
-livesport
-eurosportplayer
-livesoccer
-sportsstreaming
-*://*.premierleague.com/*
+golf
+livesoccer, livesport
+olympics
+soccer, sport, sportnow, sports, sportsonline, sportsstream, sportsstreaming
+sportz, streamable, streamsport
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [15] STREAMING A/V
