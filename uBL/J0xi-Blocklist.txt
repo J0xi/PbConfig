@@ -416,7 +416,8 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 /^https?:\/\/[^\/?#]*just-?bet[^\/?#]*(?:[\/?#]|$)/i
 # K
 /^https?:\/\/[^\/?#]*kasino[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kladjenj(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kladit(?:e|i)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kladjenj(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kladionic(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kazino[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kladjenj(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
@@ -440,9 +441,7 @@ peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjour
 # O
 /^https?:\/\/[^\/?#]*odds[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*opklad(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
-
-onlineslots
-
+/^https?:\/\/[^\/?#]*online-?slot[^\/?#]*(?:[\/?#]|$)/i
 # P
 parimatch
 partybet
