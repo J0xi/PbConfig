@@ -51,6 +51,7 @@ literotica
 shag
 
 # Fuck
+title(fuck(s|ed|z|ing|in|er))
 # /(^|[-_/])(fuck(s|ed|z|ing|in|er(s|z)?|[-_/]?(face|hole|head|mouth))?)([-_/]|$)/i
 # Porn
 # Matches: pornhub,porno,pornos,pornographer,pornography,pornographic,pornografia,pornici,pornicu,pornstar,pornstars
@@ -204,6 +205,11 @@ pof, polyamory, secretbenefits, friendswithbenefits, seniordate, seniordating, a
 
 # Domain
 
+title/(cannabis)i
+title/(modafinil)
+
+
+
 /^https?:\/\/[^\/?#]*bong[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*canabis[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*cannabis[^\/?#]*(?:[\/?#]|$)/i
@@ -234,6 +240,7 @@ pof, polyamory, secretbenefits, friendswithbenefits, seniordate, seniordating, a
 # /^https?:\/\/[^\/?#]*1x(?:bet|bit)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*[0-9]+bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*1-?win[^\/?#]*(?:[\/?#]|$)/i
 # A
 /^https?:\/\/[^\/?#]*ace(?:poker|s(?:high|palace)?)?[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*admiral(?:bet|spot)[^\/?#]*(?:[\/?#]|$)/i
@@ -263,7 +270,7 @@ pof, polyamory, secretbenefits, friendswithbenefits, seniordate, seniordating, a
 /^https?:\/\/[^\/?#]*bwin[^\/?#]*(?:[\/?#]|$)/i
 # C
 /^https?:\/\/[^\/?#]*card(?:bet|deal|game|play|room|s|z)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*(?:casino|cashsweep)?[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:casino|cashsweep)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*(?:chance|cheat)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*csgo[^\/?#]*(?:[\/?#]|$)/i
 # D
@@ -326,16 +333,13 @@ pof, polyamory, secretbenefits, friendswithbenefits, seniordate, seniordating, a
 /^https?:\/\/[^\/?#]*pari-?match[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*party-?bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*play[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*poker[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*predict[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*premier(?:bet|casino)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*prime(?:bet|dice|slot)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*prize[^\/?#]*(?:[\/?#]|$)/i
 
 pointsbet
-poker
-predict
-premierbet
-premiercasino
-primebet
-primedice
-primeslot
-prize
 
 # R
 ^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
@@ -398,33 +402,10 @@ zynga
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [9] GAMING
 
-abandonware
-achievement
-activision
-addon
-adventure
-ageofempire
-animeskin
-apk
-apkcombo
-apkdownload
-apkfile
-apkmirror
-apkmod
-apkmonk
-apkpure
-apks
-apksmod
-apkstore
-appapk
-appapks
-appsapk
-appsapks
-aptoide
-arcade
-arknights
-arqade
-atari
+abandonware, achievement, activision, addon, adventure, ageofempire, animeskin, apk, apkcombo
+apkdownload, apkfile, apkmirror , apkmod, apkmonk, apkpure, apks, apksmod, apkstore
+appapk, appapks, appsapk, appsapks, aptoide, arcade, arknights, arqade, atari
+
 bandai
 battle
 battlefield
@@ -1478,16 +1459,9 @@ zeldadungeon
 *://*.gruble.de/*
 
 metasearx
-searx
 searxng
 
-Samples
-*://*.searx.ankha.ac/*
-*://*.searx.baczek.me/*
-*://*.searx.bar/*
-*://*.searx.cz/*
-*://*.searx.hu/*
-*://*.searx.joshcenters.com/*
+/^https?:\/\/[^\/?#]*searx[^\/?#]*(?:[\/?#]|$)/i
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [12] SOCIAL
@@ -1500,12 +1474,9 @@ influencer
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [13] SPAM
 
-# Bios
+/^https?:\/\/[^\/?#]*bio(?:graphy|graf(?:ia|ija)?)?[^\/?#]*(?:[\/?#]|$)/i
 
-bio
-biography
-biografia
-biografija
+/^https?:\/\/[^\/?#]*celeb(?:rit)?[^\/?#]*(?:[\/?#]|$)/i
 
 # Celebs
 
@@ -1520,7 +1491,8 @@ celibrity
 celebrites
 celebritez
 celebsurgery
-celebritystars
+
+
 richcelebs
 celebriot
 dirtylaundry
@@ -1537,8 +1509,8 @@ famousbirthday
 famousbio
 birthsdeaths
 fanpop
-poznate
-poznati
+poznat
+poznat
 fandango
 glam
 glamour
@@ -1558,30 +1530,19 @@ knowsize
 shrink
 psych
 
-# Gossip & Rumors
-
 /^https?:\/\/[^\/?#]*gossip[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*g0ssip[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*rumor[^\/?#]*(?:[\/?#]|$)/i
-
-# Hollywood
-
 /^https?:\/\/[^\/?#]*holly-?wood[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bolly-?wood[^\/?#]*(?:[\/?#]|$)/i
-
-# Jet-Set
-
+/^https?:\/\/[^\/?#]*rumor[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*jet-?set[^\/?#]*(?:[\/?#]|$)/i
-
-# Lyrics
-
 /^https?:\/\/[^\/?#]*lyrics[^\/?#]*(?:[\/?#]|$)/i
-
-# Networth
-
 /^https?:\/\/[^\/?#]*net-?worth[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*wealth[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*worth[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*quote[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*star(?:s|z)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*wiki[^\/?#]*(?:[\/?#]|$)/i
 
 # Ppl & Pop Culture
 
@@ -1598,10 +1559,6 @@ popnable
 popdust
 popculture
 
-# Quotes
-
-/^https?:\/\/[^\/?#]*quote[^\/?#]*(?:[\/?#]|$)/i
-
 # Software Mirror & Download Sites
 
 *://*.filehippo.com/*
@@ -1609,14 +1566,6 @@ popculture
 *://*.softpedia-download.com/*
 *://*.softonic.com/*
 
-# Stars
-
-/^https?:\/\/[^\/?#]*star[^\/?#]*(?:[\/?#]|$)/i
-stars
-starz
-
-# Wikis
-/^https?:\/\/[^\/?#]*wiki[^\/?#]*(?:[\/?#]|$)/i
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [14] SPORTS
