@@ -30,6 +30,7 @@
 
 /^https?:\/\/[^\/?#]*adult[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*model[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*urban[- ]?dictionary[^\/?#]*(?:[\/?#]|$)/i
 
 ## Path
 
@@ -45,75 +46,75 @@ title/2[- ]?girls[- ]?1cup/i
 
 # A
 title/adult[- ]?(?:chat|hookup|meet|sex)/i
+title/a[- ]?hole[sz]?/i
 title/alpha[- ]?male[sz]?/i
+title/anal[- ]?bead[sz]?/i
+title/analingus/i
+title/anal[- ]?probe[sz]?/i
 title/anal[- ]?(?:sex)/i
+title/arabush/i
 title/asexual(?:s|ity)/i
-title/ass[- ]?(?:face|grab|hole|master|r(?:ape|ide)|wipe)[sz]?/i
+title/ass[- ]?[ck]lown[sz]?/i
+title/ass[- ]?(?:face[sz]?|fu(?:ck(?:er)?|kka|q))[sz]?/i
+title/ass[- ]?grab(?:bed|ber[sz]?|bing[sz]?)?/i
+title/ass[- ]?h[0o]le[sz]?/i
+title/ava[- ]?add?am[sz]?/i
+
+master|r(?:ape|ide)|wipe)[sz]?/i
 
 # B
 title/babe[sz]?/i
-title/bad[- ]?fuck/i
+title/bad[- ]?fu(?:ck|q)/i
 title/ballsa(?:ck|q)[sz]?/i
+title/bang[- ]?bro[sz]/i
+title/bang[- ]?bus/i
 title/bast(:?[ae]rd[osz])/i
 title/bat[- ]?shit/i
 title/bdsm/i
+title/bearded[- ]?[ck]lam[sz]?/i
 title/beef[- ]?cake[sz]?/i
 title/bellend[sz]?/i
+title/b[ea]stial(?:it(?:ies|y))?/i
 title/big[- ]?black[- ]?cock[sz]?/i
+title/big[- ]?butt[sz]?
 title/bilmez[aeiu]?/i
 title/bimbo[sz]?/i
 title/bitang[aeiu]/i
 title/bitch(?:e[dsz]|er[sz]?|in[g]?|[- ]?(?:slap|tit)[sz]?|y)?/i
 title/blow[- ]?job[sz]?/i
+title/boink(?:ed|[sz])?/i
+title/bollo(?ck|q)[sz]?/i
 title/bondage/i
 title/boner[sz]?/i
+title/bonn?ie[- ]?blue/i
 title/boob(?:ie)?[sz]?/i
+title/brandi[- ]?l(?:ove|uv)[sz]?/i
 title/breast[sz]?/i 
 title/budal[aeiou]/i
 title/bull[- ]?shit(?:ter|ing)?[sz]?/i
 title/bukkake/i
 title/bunga[- ]?bunga/i
 title/burazer[aeiu]?/i
+title/butt[- ]?crack[sz]?(?)
 title/butt[- ]?fuck(?:er[sz]?|ed|ing[sz]?)?
 title/butth(?:ead|ole)[sz]?
-bestial/ity
-beastiality
-
-bollocks
-blu
 
 
 
-badfuck, bagging, ballbag, balllicker, balls
-bampot, bangbro, bangbros, bangbus, banger, banging, bareback, barelylegal, barenaked, barf, barface
-barfface, bassterd, bassterds, bastard, bastardo, bastards, bastardz, basterds, basterdz
-bastinado, bawdy, bazongas, bazooms, bbw, bch, bdsm
+
+
+bagging, ballbag, balllicker, balls
+bampot, banger, banging, bareback, barelylegal, barenaked, barf, barface
+barfface, bassterd, bassterds
+bastinado, bawdy, bazongas, bazooms, bbw, bc
 beaner, beaners, beaney, beaneys, beardedclam, beastality, beastial, beastiality
 beastility, beatch, beatoff, beatyourmeat, beeyotch
 beotch, bestial,bestiality, biatch, bich, bicurious
-bigass, bigbreasts, bigbutt, bigtits, bint, birdlock
+bigass, bigbreasts, bigtits, bint, birdlock
 biteme, bitties, blackcock, blackman, blackout, blacks, bloodclaat
-bloody, blumpkin, boang, boche, boches
-bodily
-boffing
-bogan
-bohunk
-boink
-boiolas
-bollick
-bollock
-bollocks
-bollok
-bollox
-bombers
-bombing
-bomd
-bondage
-boned
-boob
-boobie
-boong
-boonga
+bloody, blumpkin, boang, boche, boches, bodily, boffing, bogan
+bohunk, boiolas, bollick, bomd, bondage, boned
+boob, boobie, boong, boonga
 boongas
 boongs
 boonie
@@ -142,8 +143,6 @@ buffies
 bugger
 buggered
 buggery
-bukake
-bukkake
 bullcrap
 bulldike
 bulldyke
@@ -154,9 +153,6 @@ bullturds
 bum
 bumblefuck
 bumfuck
-bung
-bunga
-bungas
 bunghole
 burrhead
 burrheads
@@ -187,20 +183,9 @@ byatch
 # C
 title/casual[- ]?sex/i
 title/clitoris/i
-<<<<<<< HEAD
-
-=======
-
-title/casual[- ]?sex/i
->>>>>>> f9691a41a00aa1526f4d4902acd09b4a9be482bb
 crap/py/piest/per
-<<<<<<< HEAD
 title/cum[- ]?shot/i
 cumguzzler
-=======
-cumshot
-cumguzzler
->>>>>>> f9691a41a00aa1526f4d4902acd09b4a9be482bb
 cunn?ilingus
 cunt, cunts, cunty, cuntiest, cuntbag, cuntwhore
 cunnilingus
@@ -209,6 +194,9 @@ coital/coitus
 title/cock[- ]?tease/i
 copulate/copulation
 child porn/child pornography
+title:/cuckold
+creampie
+title/castrat(?:e)
 
 # D
 title/degenerate[sz]?/i
@@ -223,13 +211,12 @@ double ds
 drkanje/u-drkati
 dumbasses
 
-
 # E
 erotica
 erotska/e/u
-eunuch
+title/eunuch[sz]/i
 ejaculate/d/s
-escort agency
+title/es[ck]ort[- ]?agency/i
 
 # F
 faggot[sz]?/faggotry
@@ -238,6 +225,8 @@ fappen/fappening
 fellate/fellatio
 fleshlight[sz]
 fuck[sz]/ed/er[sz]/ing[sz]/fuck-face/fucktard[sz]/fuckable
+fucktoy
+fuckmate
 fetish
 fisted/ing
 
@@ -307,8 +296,11 @@ mrcina
 # N
 title/nutsa(?:ck|q)[sz]?/i
 title/nasty/i
-title/nigga[sz]?/i
+
+title/nigg[ae][sz]?/i
 title/nigger[sz]
+
+
 netflix-and-chill
 nudist
 naked
@@ -325,11 +317,13 @@ title/orgij[aeiu]/i
 orgy
 
 # P
+title/porn(?:o[sz]?|ograph(?:))
 pornhub, porno, pornos, porno, pornographer, pornography, pornographic, pornografia, pronici, pornicu, pornstar, ponstars
-pussy
+title/puss(?:i(?:es|fy)|y)/i
+title/penis(?:pump)?/i
+title/
+
 panties
-penis
-penis pump
 penetration
 pimp[sz]/in/ing/ed
 poop
@@ -386,6 +380,7 @@ topless
 turd
 tank top
 twat
+threesome[sz]
 
 # U
 undies
