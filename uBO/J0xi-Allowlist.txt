@@ -35,7 +35,7 @@
 ! [D]
 
 ! 🇭🇺
-@@||dijnet.hu^$important
+@@||dijnet.hu^$all
 
 ! ........................................................................................
 ! [E]
@@ -45,9 +45,9 @@
 ! ........................................................................................
 ! [F]
 
-! D
+! d
 
-@@||freedom.to^$important
+@@||freedom.to^$all
 
 ! CDNs
 
@@ -62,13 +62,13 @@
 ! ........................................................................................
 ! [M]
 
-! D
+! d
 
 @@||moneymanagerex.org^
 
 ! Sd
 
-@@||manualslib.com^$important
+@@||manualslib.com^$all
 @@||static-data2.manualslib.com^
 @@||static2.manualslib.com^
 
@@ -80,7 +80,7 @@
 ! ........................................................................................
 ! [O]
 
-! D 
+! d
 
 @@||oisd.nl^
 @@||openclaw.ai^
@@ -92,24 +92,24 @@
 ! ........................................................................................
 ! [P]
 
-! D
+! d
 
 ! 🇨🇭
-@@||proton.me^$important
-@@||protonvpn.com^$important
+@@||proton.me^$all
+@@||protonvpn.com^$all
 
 ! 🇷🇸
 @@||payten.com.tr
 
-@@||paypal.com^$important
+@@||paypal.com^$all
 
 ! ........................................................................................
 ! [R]
 
-! D
+! d
 
 ! 🇭🇺
-@@||raiffeisen.hu^$important
+@@||raiffeisen.hu^$all
 
 ! CDNs
 
@@ -118,10 +118,10 @@
 ! ........................................................................................
 ! [S]
 
-! D
+! d
 
-@@||simplelogin.com^$important
-@@||simplelogin.io^$important
+@@||simplelogin.com^$all
+@@||simplelogin.io^$all
 
 ! CDNs
 
@@ -137,10 +137,10 @@
 ! Sd
 
 ! 🇨🇭
-@@||ebanking-ch1.ubs.com^$important
-@@||ebanking-ch2.ubs.com^$important
-@@||ebanking-ch3.ubs.com^$important
-@@||ebanking-ch4.ubs.com^$important
+@@||ebanking-ch1.ubs.com^$all
+@@||ebanking-ch2.ubs.com^$all
+@@||ebanking-ch3.ubs.com^$all
+@@||ebanking-ch4.ubs.com^$all
 
 ! ........................................................................................
 ! [V]
@@ -150,10 +150,10 @@
 ! ........................................................................................
 ! [W]
 
-! D
+! d
 
 ! 🇬🇧
-@@||wise.com^$important
+@@||wise.com^$all
 
 @@||whatsapp.com^
 
