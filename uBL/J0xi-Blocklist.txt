@@ -45,19 +45,25 @@ title/1[- ]?night[- ]?stand/i
 title/2[- ]?girls[- ]?1cup/i
 
 # A
-title/adult[- ]?(?:chat|hookup|meet|sex)/i
+title/adult[- ]?(?:chat|hook[- ]?up[sz]?|meet|sex)/i
+title/afri[ck]oon[sz]?/i
 title/a[- ]?hole[sz]?/i
 title/alpha[- ]?male[sz]?/i
+title/anal[- ]?annie/i
 title/anal[- ]?bead[sz]?/i
 title/anal[- ]?probe[sz]?/i
 title/anal[- ]?(?:sex)/i
 title/anilingus/i
+title/anus/i
+title/ape[- ]?shit/i
 title/arabush/i
+title/arr?se[- ]?h[0o]le[sz]?/i
 title/asexual(?:s|ity)/i
 title/ass[- ]?[ck]lown[sz]?/i
 title/ass[- ]?(?:face[sz]?|fu(?:ck(?:er)?|kka|q))[sz]?/i
 title/ass[- ]?grab(?:bed|ber[sz]?|bing[sz]?)?/i
 title/ass[- ]?h[0o]le[sz]?/i
+title/auto[- ]?eroti[ck]/i
 title/ava[- ]?add?am[sz]?/i
 
 master|r(?:ape|ide)|wipe)[sz]?/i
@@ -95,18 +101,15 @@ title/bull[- ]?shit(?:ter|ing)?[sz]?/i
 title/bukkake/i
 title/bunga[- ]?bunga/i
 title/burazer[aeiu]?/i
-title/butt[- ]?crack[sz]?(?)
-title/butt[- ]?fuck(?:er[sz]?|ed|ing[sz]?)?
-title/butth(?:ead|ole)[sz]?
-
-
-
+title/butt[- ]?crack[sz]?(?)/i
+title/butt[- ]?fuck(?:er[sz]?|ed|ing[sz]?)?/i
+title/butt[- ]?h(?:ead|ole)[sz]?/i
+title/butt[- ]?plug[sz]?/i
 
 
 bagging, ballbag, balllicker, balls
 bampot, banger, banging, bareback, barelylegal, barenaked, barf, barface
-barfface, bassterd, bassterds
-bastinado, bawdy, bazongas, bazooms, bbw, bc
+barfface, bassterd, bassterds, bastinado, bawdy, bazongas, bazooms, bbw, bc
 beaner, beaners, beaney, beaneys, beardedclam, beastality, beastial, beastiality
 beastility, beatch, beatoff, beatyourmeat, beeyotch
 beotch, bestial,bestiality, biatch, bich, bicurious
@@ -114,11 +117,7 @@ bigass, bigbreasts, bigtits, bint, birdlock
 biteme, bitties, blackcock, blackman, blackout, blacks, bloodclaat
 bloody, blumpkin, boang, boche, boches, bodily, boffing, bogan
 bohunk, boiolas, bollick, bomd, bondage, boned
-boob, boobie, boong, boonga
-boongas
-boongs
-boonie
-boonies
+boob, boobie, boong, boonga, boongas, boongs, boonie, boonies
 bootee
 bootlip
 bootlips
@@ -146,9 +145,6 @@ buggery
 bullcrap
 bulldike
 bulldyke
-bullshit
-bullshits
-bullshitted
 bullturds
 bum
 bumblefuck
@@ -182,7 +178,7 @@ byatch
 
 # C
 title/casual[- ]?sex/i
-title/clitori[sz]/i
+title/clitor(?:al|i[sz])/i
 title/cougar[sz]?/i
 title/cum[- ]?shot[sz]?/i
 
@@ -200,6 +196,8 @@ creampie
 title/castrat(?:e)/i
 
 # D
+title/darla[- ][ck]rane/i
+title/deauxma/i
 title/degenerate[sz]?/i
 title/dick/dicks/dick-bag/dick-suck/i
 title/dildo[sz]?/i
@@ -218,6 +216,41 @@ erotska/e/u
 title/eunuch[sz]/i
 ejaculate/d/s
 title/es[ck]ort[- ]?agency/i
+
+
+earotics, easyslut, eatadick, eatballs
+eathairpie
+eatme
+eatmyass
+eatpussy
+ecchi
+ejackulate
+ejaculate
+ejaculated
+ejaculates
+ejaculating
+ejaculatings
+ejaculation
+ejakulate
+ekrem
+ekto
+enculer
+enema
+enlargement
+erect
+erection
+ero
+erotic
+erotism
+escort
+esqua
+essohbee
+eunuch
+evl
+excrement
+exkwew
+extacy
+extasy
 
 # F
 faggot[sz]?/faggotry
