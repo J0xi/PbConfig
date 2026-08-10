@@ -45,50 +45,162 @@ title/2[- ]?girls[- ]?1cup/i
 
 # A
 title/adult[- ]?(?:chat|hookup|meet|sex)/i
-title/alpha[- ]?male[sz]/i
-title/anal/i
+title/alpha[- ]?male[sz]?/i
+title/anal[- ]?(?:sex)/i
+title/asexual(?:s|ity)/i
 title/ass[- ]?(?:face|grab|hole|master|r(?:ape|ide)|wipe)[sz]?/i
 
-i/adult[- ]?(?:chat|hookup|meet|sex)/i
-i/anal/i
-i/ass[- ]?(?:face|grab|hole|master|r(?:ape|ide)|wipe)[sz]?/i
-
-asexual[sz]/ity
-
 # B
-title/ballsa(?:ck|q)/i
-
+title/babe[sz]?/i
+title/bad[- ]?fuck/i
+title/ballsa(?:ck|q)[sz]?/i
 title/bast(:?[ae]rd[osz])/i
+title/bat[- ]?shit/i
 title/bdsm/i
 title/beef[- ]?cake[sz]?/i
 title/bellend[sz]?/i
 title/big[- ]?black[- ]?cock[sz]?/i
+title/bilmez[aeiu]?/i
 title/bimbo[sz]?/i
 title/bitang[aeiu]/i
-title/bitch(?:e[dsz]|in[g]?|y)?/i
+title/bitch(?:e[dsz]|er[sz]?|in[g]?|[- ]?(?:slap|tit)[sz]?|y)?/i
 title/blow[- ]?job[sz]?/i
 title/bondage/i
+title/boner[sz]?/i
 title/boob(?:ie)?[sz]?/i
 title/breast[sz]?/i 
 title/budal[aeiou]/i
+title/bull[- ]?shit(?:ter|ing)?[sz]?/i
 title/bukkake/i
 title/bunga[- ]?bunga/i
-title/burazer[aui]?/i
+title/burazer[aeiu]?/i
+title/butt[- ]?fuck(?:er[sz]?|ed|ing[sz]?)?
+title/butth(?:ead|ole)[sz]?
+bestial/ity
+beastiality
+
+bollocks
+blu
 
 
-butthead/hole[sz]?
 
-
-batshit
+badfuck, bagging, ballbag, balllicker, balls
+bampot, bangbro, bangbros, bangbus, banger, banging, bareback, barelylegal, barenaked, barf, barface
+barfface, bassterd, bassterds, bastard, bastardo, bastards, bastardz, basterds, basterdz
+bastinado, bawdy, bazongas, bazooms, bbw, bch, bdsm
+beaner, beaners, beaney, beaneys, beardedclam, beastality, beastial, beastiality
+beastility, beatch, beatoff, beatyourmeat, beeyotch
+beotch, bestial,bestiality, biatch, bich, bicurious
+bigass, bigbreasts, bigbutt, bigtits, bint, birdlock
+biteme, bitties, blackcock, blackman, blackout, blacks, bloodclaat
+bloody, blumpkin, boang, boche, boches
+bodily
+boffing
+bogan
+bohunk
+boink
+boiolas
+bollick
+bollock
+bollocks
+bollok
+bollox
+bombers
+bombing
+bomd
+bondage
+boned
+boob
+boobie
+boong
+boonga
+boongas
+boongs
+boonie
+boonies
+bootee
+bootlip
+bootlips
+boozer
+boozy
+bosch
+bosche
+bosches
+boschs
+bosomy
+bountybar
+breastjob
+breastlover
+breastman
+breasts
+brotherfucker
+btch
+buceta
+buddhahead
+buddhaheads
+buffies
+bugger
+buggered
+buggery
+bukake
+bukkake
+bullcrap
+bulldike
+bulldyke
 bullshit
+bullshits
+bullshitted
+bullturds
+bum
+bumblefuck
+bumfuck
+bung
+bunga
+bungas
+bunghole
+burrhead
+burrheads
+busty
+butchbabes
+butchdike
+butchdyke
+butt
+buttbang
+buttcheeks
+buttface
+buttfuck
+buttfucka
+buttfucker
+buttfuckers
+butthead
+butthole
+buttman
+buttmuch
+buttmunch
+buttmuncher
+buttpirate
+buttplug
+buttstain
+buttwipe
+byatch
 
 # C
+title/casual[- ]?sex/i
 title/clitoris/i
+<<<<<<< HEAD
+
+=======
 
 title/casual[- ]?sex/i
+>>>>>>> f9691a41a00aa1526f4d4902acd09b4a9be482bb
 crap/py/piest/per
+<<<<<<< HEAD
+title/cum[- ]?shot/i
+cumguzzler
+=======
 cumshot
 cumguzzler
+>>>>>>> f9691a41a00aa1526f4d4902acd09b4a9be482bb
 cunn?ilingus
 cunt, cunts, cunty, cuntiest, cuntbag, cuntwhore
 cunnilingus
@@ -103,14 +215,9 @@ title/degenerate[sz]?/i
 title/dick/dicks/dick-bag/dick-suck/i
 title/dildo[sz]?/i
 title/dirt[- ]?bag[sz]?/i
-title/dumbo[sz]?/i
-
-
 title/dominatri(?:x|ks)/i
+title/dumbo[sz]?/i
 title/dyke[sz]?/i
-
-
-
 
 double ds
 drkanje/u-drkati
@@ -161,6 +268,7 @@ inbred
 
 # J
 jebanje
+jebada
 jebac[aeiu]?
 jerk-off
 jerked
@@ -171,27 +279,28 @@ kopila/e/u
 kink[sy]
 kunt[syz]
 kurac
-title/kurcina/e/u
+title/kurcin[aeu]/i
 kenja/kenjac/kenjati
 kid porn/kiddie porn
 
 # L
 lezbejka/e/i/u
-lgbqt
-literotica
+title/lgbqt/i
+title/literotica/i
 lube
 lust/ful
 lecher
 lesbian[sz]
 
 # M
+title/mudonj[aei]/i
 mudafuka[sz], mudafuqa[sz]
 mother fucks/er/ers/z/ing/ed/e
 milf[szy]
 masturbate/s/ed
 masturbation
 masturbatory
-majmun
+title/majmun[aeiu]/i
 masturbator
 mrcina
 
@@ -227,6 +336,7 @@ poop
 paedophilia
 title/play[- ]?boy[sz]?/i
 title/play[- ]?mate[sz]?/i
+pizd[aeiou]
 
 # Q
 queer[sz]
@@ -235,7 +345,7 @@ quickie[sz]
 # R
 rape
 rapist
-redtube
+title/red[- ]?tube/i
 retrard[sz]
 rimjob[sz]?
 
@@ -251,6 +361,7 @@ sex kitten
 sex offender
 sex predator
 sex/sexy/sexiest/sexist/sexts/sexaholic
+sex appeal
 sexgame
 sexting
 shag
@@ -261,7 +372,7 @@ slut/slutshame
 sluttiest
 slutty
 smegma
-starlet/a/e/i/u
+starlet/a/e/i/s/u
 strip
 strip bar
 striptease
@@ -270,7 +381,7 @@ swinger[sz]? party/club
 # T
 tits
 tranny
-transgender
+title/transgender/i
 topless
 turd
 tank top
@@ -281,7 +392,7 @@ undies
 undress
 
 # V
-vagina[sz]
+title/vagina[sz]?/i
 vulva
 
 # W
@@ -467,9 +578,7 @@ title/junkie[sz]?/i
 /junkie[sz]?/i
 
 # K
-title/kana/i
 title/kush/i
-/kana/i
 /kush/i
 
 # M
