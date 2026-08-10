@@ -39,20 +39,21 @@
 ## Keywords
 
 # 123
-title/1on1/i
-title/1nightstand/i
-title/2girls[- ]?1cup/i
+title/1[- ]?on[- ]?1/i
+title/1[- ]?night[- ]?stand/i
+title/2[- ]?girls[- ]?1cup/i
 
 # A
 title/adult[- ]?(?:chat|hookup|meet|sex)/i
+title/alpha[- ]?male[sz]/i
 title/anal/i
 title/ass[- ]?(?:face|grab|hole|master|r(?:ape|ide)|wipe)[sz]?/i
+
 i/adult[- ]?(?:chat|hookup|meet|sex)/i
 i/anal/i
 i/ass[- ]?(?:face|grab|hole|master|r(?:ape|ide)|wipe)[sz]?/i
 
-asexual
-alpha[- ]?male[sz]
+asexual[sz]/ity
 
 # B
 title/ballsa(?:ck|q)/i
@@ -63,34 +64,31 @@ title/beef[- ]?cake[sz]?/i
 title/bellend[sz]?/i
 title/big[- ]?black[- ]?cock[sz]?/i
 title/bimbo[sz]?/i
+title/bitang[aeiu]/i
 title/bitch(?:e[dsz]|in[g]?|y)?/i
 title/blow[- ]?job[sz]?/i
 title/bondage/i
-title/boob[sz]?/i
+title/boob(?:ie)?[sz]?/i
 title/breast[sz]?/i 
 title/budal[aeiou]/i
 title/bukkake/i
 title/bunga[- ]?bunga/i
-title/bust(|y/i
-
-
-title/bitang[aeiu]/i
 title/burazer[aui]?/i
 
-bra-less
-boobie[sz]
+
 butthead/hole[sz]?
 
-i/bast(:?[ae]rd[osz])/i 
-i/bimbo[sz]/i
 
 batshit
 bullshit
 
 # C
 title/clitoris/i
+
+title/casual[- ]?sex/i
 crap/py/piest/per
 cumshot
+cumguzzler
 cunn?ilingus
 cunt, cunts, cunty, cuntiest, cuntbag, cuntwhore
 cunnilingus
@@ -137,11 +135,15 @@ fetish
 fisted/ing
 
 # G
+title/gangsta[sz]?/i
+title/gay
+
+title/glory[- ]?hole[sz]?/i
+
 gay, gaylord, gayness, gay-bar, 
 title/gilf[szy]?/i
 gang-bang[sz], gang-banger[sz], gang-banging[sz]
 gang-rape[sz]
-glory hole
 
 # H
 title/herpe[sz]/i
