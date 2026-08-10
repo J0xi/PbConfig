@@ -80,6 +80,7 @@ title/bearded[- ]?[ck]lam[sz]?/i
 title/beef[- ]?cake[sz]?/i
 title/bellend[sz]?/i
 title/b[ea]stial(?:it(?:ies|y))?/i
+title/bi[- ]?curious/i
 title/big[- ]?black[- ]?cock[sz]?/i
 title/big[- ]?butt[sz]?
 title/bilmez[aeiu]?/i
@@ -104,6 +105,7 @@ title/bukkake/i
 title/bunga[- ]?bunga/i
 title/burazer[aeiu]?/i
 title/butt[- ]?(?:cheek|crack)[sz]?(?)/i
+title/butt[- ]?face[sz]?/i
 title/butt[- ]?fuck(?:er[sz]?|ed|ing[sz]?)?/i
 title/butt[- ]?h(?:ead|[0o]le)[sz]?/i
 title/butt[- ]?plug[sz]?/i
@@ -150,8 +152,7 @@ butchdike
 butchdyke
 butt
 buttbang
-buttcheeks
-buttface
+
 buttfuck
 buttfucka
 buttfucker
@@ -177,16 +178,17 @@ title/[ck]u[ck][0o]ld(?:[sz]|ry)?/i
 title/child[- ]?porn/i
 title/[ck][0o]pulat(?:)
 title/[ck]unn?ilingu[sz]/i
-title/
+title/cum[- ]?guzzle(?:r[sz]?)?/i
+title/[ck]unt(?:[sz]?|)
+title/cream[- ]?pie[sz]?/i
 
 crap/py/piest/per
-cumguzzler
+
 cunt, cunts, cunty, cuntiest, cuntbag, cuntwhore
 
 coital/coitus
 title/cock[- ]?tease/i
 copulate/copulation
-creampie
 title/castrat(?:e)/i
 
 # D
@@ -204,11 +206,15 @@ title/dumb[- ]?ass(?:e[sz])?/i
 title/dumbo[sz]?/i
 
 # E
-title/erotica
-title/erotska/e/u
+title/eroti[ck]
+title/erotsk[aeiou]/i
 title/eunuch[sz]/i
-title/eja[ck]ulat(?:)
+title/eja[ck]ulat(?:e[dsz]?|i(?:ng|on))/i
 title/es[ck]ort[- ]?agency/i
+engorge(d)
+excrement
+erection
+
 
 
 earotics, easyslut, eatadick, eatballs
@@ -216,18 +222,7 @@ eathairpie
 eatme
 eatmyass
 eatpussy
-ecchi
-ejackulate
-ejaculate
-ejaculated
-ejaculates
-ejaculating
-ejaculatings
-ejaculation
-ejakulate
-ekrem
-ekto
-enculer
+
 enema
 enlargement
 erect
@@ -235,15 +230,7 @@ erection
 ero
 erotic
 erotism
-escort
-esqua
-essohbee
-eunuch
-evl
-excrement
-exkwew
-extacy
-extasy
+
 
 # F
 faggot[sz]?/faggotry
