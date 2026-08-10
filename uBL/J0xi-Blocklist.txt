@@ -63,18 +63,17 @@ title/ass[- ]?[ck]lown[sz]?/i
 title/ass[- ]?(?:face[sz]?|fu(?:ck(?:er)?|kka|q))[sz]?/i
 title/ass[- ]?grab(?:bed|ber[sz]?|bing[sz]?)?/i
 title/ass[- ]?h[0o]le[sz]?/i
+title/ass[- ]?wipe[sz]?/i
 title/auto[- ]?eroti[ck]/i
 title/ava[- ]?add?am[sz]?/i
-
-master|r(?:ape|ide)|wipe)[sz]?/i
 
 # B
 title/babe[sz]?/i
 title/bad[- ]?fu(?:ck|q)/i
-title/ballsa(?:ck|q)[sz]?/i
+title/ball[- ]?sa(?:ck|q)[sz]?/i
 title/bang[- ]?bro[sz]/i
 title/bang[- ]?bus/i
-title/bast(:?[ae]rd[osz])/i
+title/bass?t(:?[ae]rd[osz])/i
 title/bat[- ]?shit/i
 title/bdsm/i
 title/bearded[- ]?[ck]lam[sz]?/i
@@ -94,6 +93,9 @@ title/bondage/i
 title/boner[sz]?/i
 title/bonn?ie[- ]?blue/i
 title/boob(?:ie)?[sz]?/i
+title/boob[- ]?job[sz]?/i
+title/boozy/i
+title/bosom/i
 title/brandi[- ]?l(?:ove|uv)[sz]?/i
 title/breast[sz]?/i 
 title/budal[aeiou]/i
@@ -101,9 +103,9 @@ title/bull[- ]?shit(?:ter|ing)?[sz]?/i
 title/bukkake/i
 title/bunga[- ]?bunga/i
 title/burazer[aeiu]?/i
-title/butt[- ]?crack[sz]?(?)/i
+title/butt[- ]?(?:cheek|crack)[sz]?(?)/i
 title/butt[- ]?fuck(?:er[sz]?|ed|ing[sz]?)?/i
-title/butt[- ]?h(?:ead|ole)[sz]?/i
+title/butt[- ]?h(?:ead|[0o]le)[sz]?/i
 title/butt[- ]?plug[sz]?/i
 
 
@@ -118,17 +120,7 @@ biteme, bitties, blackcock, blackman, blackout, blacks, bloodclaat
 bloody, blumpkin, boang, boche, boches, bodily, boffing, bogan
 bohunk, boiolas, bollick, bomd, bondage, boned
 boob, boobie, boong, boonga, boongas, boongs, boonie, boonies
-bootee
-bootlip
-bootlips
-boozer
-boozy
-bosch
-bosche
-bosches
-boschs
-bosomy
-bountybar
+bootee, bootlip, boozer, boozy, bosche, boschs, bosomy, bountybar
 breastjob
 breastlover
 breastman
@@ -180,18 +172,20 @@ byatch
 title/casual[- ]?sex/i
 title/clitor(?:al|i[sz])/i
 title/cougar[sz]?/i
-title/cum[- ]?shot[sz]?/i
+title/[ck]um[- ]?shot[sz]?/i
+title/[ck]u[ck][0o]ld(?:[sz]|ry)?/i
+title/child[- ]?porn/i
+title/[ck][0o]pulat(?:)
+title/[ck]unn?ilingu[sz]/i
+title/
 
 crap/py/piest/per
 cumguzzler
-cunn?ilingus
 cunt, cunts, cunty, cuntiest, cuntbag, cuntwhore
-cunnilingus
+
 coital/coitus
 title/cock[- ]?tease/i
 copulate/copulation
-child porn/child pornography
-title:/cuckold
 creampie
 title/castrat(?:e)/i
 
@@ -200,21 +194,20 @@ title/darla[- ][ck]rane/i
 title/deauxma/i
 title/degenerate[sz]?/i
 title/dick/dicks/dick-bag/dick-suck/i
-title/dildo[sz]?/i
+title/d[iy]ke[sz]?/i
+title/dild[0o][sz]?/i
 title/dirt[- ]?bag[sz]?/i
 title/dominatri(?:x|ks)/i
+title/double[- ]?d[sz]?/i
+title/drka(?:ju|m(?:o)?|nj[aeu]|t[ei])/i
+title/dumb[- ]?ass(?:e[sz])?/i
 title/dumbo[sz]?/i
-title/dyke[sz]?/i
-
-double ds
-drkanje/u-drkati
-dumbasses
 
 # E
-erotica
-erotska/e/u
+title/erotica
+title/erotska/e/u
 title/eunuch[sz]/i
-ejaculate/d/s
+title/eja[ck]ulat(?:)
 title/es[ck]ort[- ]?agency/i
 
 
@@ -280,9 +273,6 @@ title/herpe[sz]/i
 title/hooter[sz]?/i
 title/horny/ier,iest
 title/horse[- ]?shit/i
-
-i/herpes/i
-i/hooter[sz]?/i
 
 # I
 idiot[sz]?
