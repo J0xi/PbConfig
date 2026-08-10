@@ -49,9 +49,9 @@ title/adult[- ]?(?:chat|hookup|meet|sex)/i
 title/a[- ]?hole[sz]?/i
 title/alpha[- ]?male[sz]?/i
 title/anal[- ]?bead[sz]?/i
-title/analingus/i
 title/anal[- ]?probe[sz]?/i
 title/anal[- ]?(?:sex)/i
+title/anilingus/i
 title/arabush/i
 title/asexual(?:s|ity)/i
 title/ass[- ]?[ck]lown[sz]?/i
@@ -182,21 +182,22 @@ byatch
 
 # C
 title/casual[- ]?sex/i
-title/clitoris/i
+title/clitori[sz]/i
+title/cougar[sz]?/i
+title/cum[- ]?shot[sz]?/i
+
 crap/py/piest/per
-title/cum[- ]?shot/i
 cumguzzler
 cunn?ilingus
 cunt, cunts, cunty, cuntiest, cuntbag, cuntwhore
 cunnilingus
-title/cougar[sz]?/i
 coital/coitus
 title/cock[- ]?tease/i
 copulate/copulation
 child porn/child pornography
 title:/cuckold
 creampie
-title/castrat(?:e)
+title/castrat(?:e)/i
 
 # D
 title/degenerate[sz]?/i
