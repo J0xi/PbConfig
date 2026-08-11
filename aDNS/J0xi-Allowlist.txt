@@ -6,7 +6,7 @@
 ! ......................................................................................... 
 ! [A]
 
-! D
+! d
 
 ! 🇭🇺
 @@||arukereso.hu^ 
@@ -17,7 +17,7 @@
 @@||amazon.*^
 @@||archive.org^$important
 
-! Sd
+! sd
 
 ||adguard-import-test.example.com^
 
@@ -29,18 +29,18 @@
 ! ......................................................................................... 
 ! [B]
 
-! D
+! d
 
 @@||buymeacoffee.com^
 
-! Sd
+! sd
 
 @@||safebrowsing.brave.com^
 
 ! ......................................................................................... 
 ! [C]
 
-! D
+! d
 
 @@||chatplayground.ai^
 @@||cloudflare-dns.com^
@@ -48,11 +48,11 @@
 @@||cloudfront.net^
 @@||codeberg.org^
 
-! Sd
+! sd
 
 @@||dictionary.cambridge.org^
 
-! CDNs
+! cdns
 
 @@||cdn.consentmanager.net^
 @@||cdn.cookielaw.org^
@@ -61,33 +61,33 @@
 ! ......................................................................................... 
 ! [D]
 
-! D
+! d
 
 ! 🇭🇺
 @@||dijnet.hu^
 
 @@||deepl.com^
 
-! Sd
+! sd
 
 @@||improving.duckduckgo.com^
 
 ! ......................................................................................... 
 ! [E]
 
-! D
+! d
 
 @@||ebay.*^
 @@||eff.org^
 
-! CDNs
+! cdns
 
 @@||elfsightcdn.com^
 
 ! ......................................................................................... 
 ! [F]
 
-! D
+! d
 
 @@||featureassets.org^
 @@||filen-1.net^
@@ -99,14 +99,14 @@
 @@||filen.net^
 @@||freedom.to^
 
-! CDNs
+! cdns
 
 @@||cdn.filen.io^
 
 ! .........................................................................................  
 ! [G]
 
-! D
+! d
 
 ! 🇺🇦
 @@||gov.ua^$important
@@ -118,7 +118,7 @@
 @@||gravatar.com^
 @@||gutenberg.org^
 
-! Sd
+! sd
 
 ! 🇭🇺
 @@||enterhungary.gov.hu
@@ -127,7 +127,7 @@
 @@||img.goglasi.com^
 @@||lpa.gov.rs^
 
-! APIs
+! apis
 
 @@||googleapis.com^
 
