@@ -156,9 +156,7 @@ title/brazzer[sz]/i
 title/baller[sz]?/i 
 title/bordel(?:lo)?[sz]?/i
 title/bradavic[aeu]/i
-...
-blackie[sz]
-
+title/blackie[sz]?/i
 
 # C
 title/[ck][0o]pulat(?:)*
@@ -249,7 +247,8 @@ title/govn(?a|ar[aeiu]?|o)/i*
 title/gnjid[aeiou]/i
 title/gang-rape[sz]?/i
 title/goved[ao]/i
-golden shower[sz]
+...
+gigolo
 
 # H
 title/harem/i
@@ -260,9 +259,11 @@ title/horn(?:ie(?:r|st)|[- ]?dog[sz]?|y)/i
 title/horse[- ]?shit/i
 title/hooker[sz]?/i
 title/hymen/i
-happy ending
-hill-billy. hill billies
-hunk
+title/home[- ]?b[0o]y[sz]?/i 
+title/hard[- ]?on[sz]?/i
+title/happy[- ]?ending[sz]?/i
+title/hunk[sz]/i
+title/hill[- ]bill(?:)
 
 # I
 title/idiot[sz]?/i
@@ -278,7 +279,8 @@ title/jerk[- ]?mate[sz]?/i
 title/jack[- ]?ass(?:e[sz])
 title/jack[- ]?off(?:ed|s)
 title/jack[- ]?shit/i
-title/jag[- ]off[sz]?/i
+title/jag[- ]?off[sz]?/i
+title/jizz(?:e[ds]|ing)?/i
 
 title/jebe(?:m|)
 jebac[ae], jebanja/e/u, jebada, jebac[aeiu]?
@@ -290,7 +292,7 @@ title/kendra[- ]?lust[sz]?/i
 title/kama[- ]?sutra/i
 title/kurac/i
 title/kur[cč]in[aeou]/i
-title/kur[cč]iti/i
+title/kur[cč]i(?:t[ei]|o)/i
 title/kur[cć]enj[aeu]/i
 title/kopil(?:a[dn]?|e|u)/i*
 title/kink(?:s|y)
@@ -298,9 +300,15 @@ title/kid(?:die)[sz]?[- ]?porn/i
 title/kurvetin[aeiou]/i
 title/karanj[aeu]/i
 title/kresanj[aeu]/i
-
+title/keiran[- ]?lee/i
+title/kuronj[aeou]/i
+...
 kresnuti, kunt, kaki(?:m|č), kenja/kenjac/kenjati
-keiran lee
+kobila, etina, etine, etini, etinu
+kenjator
+kurcozderka
+krava, kravetina, kravetinu
+
 
 # L
 title/lgbqt/i
@@ -312,6 +320,8 @@ title/lezbej(?:k[aeou]|ci)/i
 title/lust(?:ful|ing|y)?/i
 title/labia/i
 title/li[sz]a[- ]?ann/i
+title/libido/i
+title/libtard[sz]?/i
 
 # M
 title/mudonj[aei]/i
@@ -323,7 +333,6 @@ title/masturbat(?:e(sz)?|ed|i(?:on|ng)|or(?:y))/i
 title/maggot[sz]?/i
 ..
 mudafuka[sz], mudafuqa[sz]
-
 m[0ou]ther[- ]?fu(?ck|q)
 
 mother fucks/er/ers/z/ing/ed/e
@@ -345,6 +354,7 @@ title/orgasm[sz]?/ic
 title/orgij[aeiu]/i
 ...
 orgazam, orgazmi, orgies, orgasmic, onanism, orgy
+orgie-porgie
 
 # P
 title/pearl[- ]?necklace[sz]?/i 
@@ -394,6 +404,7 @@ title/se(?:ks|x)[- ]?video[sz]?/i
 title/se(?:ks|x)/i
 title/se(?:ks|x)aholi[ck][sz]?/i 
 title/semen/i
+title/sperm[au]?/i
 title/short[- ]?skirt[sz]?/i
 title/sleaz(?:e|ie(?:r|st)|bag[sz]?|y)/i
 title/slut(?:ie(?:r|st)|[sz]?|y)
@@ -404,42 +415,50 @@ title/strip[- ]?[ck]lub[sz]?/9
 title/strip[- ]?bar[sz]?/i
 title/strip[- ]?tea[sz]e/i
 title/swinger[sz]?[- ](?:[ck]lub|party)/i
+title/sinner[sz]?/i
+title/sweet[- ]?sinner[sz]?/i
+title/sugar[- ]?dad(?:d(?:))
+title/sugar[- ]?mom
+title/smrad(?:[eu]|ovi)?/i
 ...
 shits, shithead, shitted, shitty, shithole, shit-eater/ing
 
 # T
-title/transgender/i
+title/trans[- ]?gender[sz]?/i
 title/twat[sz]?/i
 title/three[- ]?some[sz]?/i
 title/turd[sz]?/i
 title/tank[- ]top[sz]?/i
-title/topless/i
-title/tanga/i
-...
-tits/titties/titz/titty
-trannies/y
+title/top[- ]?less[- ]?(?:bar[sz])?/i
+title/tanga[sz]?/i
+title/titt(?:ie[sz]|y)/i
+title/trann(?:ie[sz]?|y)/i
+title/testic(?:le[sz]|ular)/i
+title/teste[sz]?/i
+title/transvestite[sz]?/i
 
 # U
 title/undie[sz]?/i
-title/undress
+...
+undress
 
 # V
 title/vagina[sz]?/i
 title/vulva[sz]?/i
+title/vibr[ae]tor[sz]?/i
 title/veroni[ck]a[- ]?avluv/i
 
 # W
 title/wimp[szy]?/i
-title/whore[sz]?[- ](?:dom)?/i*
+title/whore[sz]?[- ](?:bag|dom|ing)?/i
 title/white[- ]?trash/i
 title/wet[- ]?dream[sz]?i
-title/wank()
+title/weenie[sz]?/i
+title/wang/i
 ...
-weenie
+titl
 
-wab
-wad
-wang
+
 wank
 wanker
 wanking
