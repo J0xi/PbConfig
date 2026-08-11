@@ -175,16 +175,18 @@ title/clitor(?:al|i[sz])/i
 title/cougar[sz]?/i
 title/[ck]um[- ]?shot[sz]?/i
 title/[ck]u[ck][0o]ld(?:[sz]|ry)?/i
+title/cherr?y[- ]kiss/i
 title/child[- ]?porn/i
 title/[ck][0o]pulat(?:)
 title/[ck]unn?ilingu[sz]/i
 title/cum[- ]?guzzle(?:r[sz]?)?/i
-title/[ck]unt(?:[sz]?|)
+title/[ck]unt(?:[sz]?|i(?:er|st)?|y)?/i
 title/cream[- ]?pie[sz]?/i
+title/[ck]rapp?(?:)
+title/coit(?:al|us)/i
 
 crap/py/piest/per
 
-cunt, cunts, cunty, cuntiest, cuntbag, cuntwhore
 
 coital/coitus
 title/cock[- ]?tease/i
@@ -200,36 +202,27 @@ title/d[iy]ke[sz]?/i
 title/dild[0o][sz]?/i
 title/dirt[- ]?bag[sz]?/i
 title/dominatri(?:x|ks)/i
+title/donga/i
 title/double[- ]?d[sz]?/i
 title/drka(?:ju|m(?:o)?|nj[aeu]|t[ei])/i
 title/dumb[- ]?ass(?:e[sz])?/i
 title/dumbo[sz]?/i
+title/dung/i
 
 # E
-title/eroti[ck]
+title/eroti[ck][aeiou]?/i
 title/erotsk[aeiou]/i
-title/eunuch[sz]/i
+title/eunuch[sz]?/i
 title/eja[ck]ulat(?:e[dsz]?|i(?:ng|on))/i
 title/es[ck]ort[- ]?agency/i
-engorge(d)
-excrement
-erection
+title/engorge(?:d)?/i
+title/ex[ck]rement/i
+title/ere[ck]t(?:i[0o]n[sz]?)?/i
+title/eat[- ]?(?:a|m[ey]?)[- ]?(?:ball[sz]?|dick|pussy)?/i
 
 
 
-earotics, easyslut, eatadick, eatballs
-eathairpie
-eatme
-eatmyass
-eatpussy
-
-enema
-enlargement
-erect
-erection
-ero
-erotic
-erotism
+earotics, easyslut, enlargement, erotic, erotism
 
 
 # F
@@ -246,12 +239,14 @@ fisted/ing
 
 # G
 title/gangsta[sz]?/i
+title/glory[- ]?h[0o]le[sz]?/i
 title/gay
+title/gilipter[aeiu]/i
+title/gilf[szy]?/i
+title/
 
-title/glory[- ]?hole[sz]?/i
 
 gay, gaylord, gayness, gay-bar, 
-title/gilf[szy]?/i
 gang-bang[sz], gang-banger[sz], gang-banging[sz]
 gang-rape[sz]
 
@@ -265,9 +260,10 @@ title/horse[- ]?shit/i
 idiot[sz]?
 incest/ual
 inbred
+interracial sex
 
 # J
-jebanje
+jebanja/e/u
 jebada
 jebac[aeiu]?
 jerk-off
@@ -275,7 +271,7 @@ jerked
 jerkmate
 
 # K
-kopila/e/u
+kopila/e/u/ad
 kink[sy]
 kunt[syz]
 kurac
@@ -295,6 +291,7 @@ lesbian[sz]
 # M
 title/mudonj[aei]/i
 mudafuka[sz], mudafuqa[sz]
+title/m[0o]ther[- ]?fu
 mother fucks/er/ers/z/ing/ed/e
 milf[szy]
 masturbate/s/ed
@@ -307,12 +304,8 @@ mrcina
 # N
 title/nutsa(?:ck|q)[sz]?/i
 title/nasty/i
-
-title/nigg[ae][sz]?/i
-title/nigger[sz]
-
-
-netflix-and-chill
+title/nigga(?:er)[sz]?/i
+title/netflix[- ](?:&|and)[- ]chill/i
 nudist
 naked
 nympho(maniac)
@@ -369,7 +362,7 @@ sex/sexy/sexiest/sexist/sexts/sexaholic
 sex appeal
 sexgame
 sexting
-shag
+shag/shags/shagging/shaggard
 shit
 skirt
 sleaze/sleazebag/sleazy
@@ -410,6 +403,22 @@ wet dream[sz]?
 # X
 
 # Y
+yank
+yaoi
+yarpie
+yarpies
+yeasty
+yed
+yellowman
+yellowshowers
+yid
+yids
+yiffy
+yobbo
+yourboobs
+yourpenis
+yourtits
+yury
 
 # Z
 
