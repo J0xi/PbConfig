@@ -7,22 +7,19 @@
 ! [A]
 
 ! d
-
-! 🇭🇺
-@@||arukereso.hu^ 
-
 @@||accuweather.com^
 @@||adtidy.org^
 @@||alternativeto.net^
 @@||amazon.*^
 @@||archive.org^$important
 
-! sd
+! 🇭🇺
+@@||arukereso.hu^ 
 
+! sd
 ||adguard-import-test.example.com^
 
 ! cdns
-
 @@||akcdn.net^
 @@||assetsconfigcdn.org
 
@@ -30,18 +27,15 @@
 ! [B]
 
 ! d
-
 @@||buymeacoffee.com^
 
 ! sd
-
 @@||safebrowsing.brave.com^
 
 ! ......................................................................................... 
 ! [C]
 
 ! d
-
 @@||chatplayground.ai^
 @@||cloudflare-dns.com^
 @@||cloudflare.com^
@@ -49,11 +43,9 @@
 @@||codeberg.org^
 
 ! sd
-
 @@||dictionary.cambridge.org^
 
 ! cdns
-
 @@||cdn.consentmanager.net^
 @@||cdn.cookielaw.org^
 @@||delivery.consentmanager.net^
@@ -62,33 +54,28 @@
 ! [D]
 
 ! d
+@@||deepl.com^
 
 ! 🇭🇺
 @@||dijnet.hu^
 
-@@||deepl.com^
-
 ! sd
-
 @@||improving.duckduckgo.com^
 
 ! ......................................................................................... 
 ! [E]
 
 ! d
-
 @@||ebay.*^
 @@||eff.org^
 
 ! cdns
-
 @@||elfsightcdn.com^
 
 ! ......................................................................................... 
 ! [F]
 
 ! d
-
 @@||featureassets.org^
 @@||filen-1.net^
 @@||filen-2.net^
@@ -100,23 +87,21 @@
 @@||freedom.to^
 
 ! cdns
-
 @@||cdn.filen.io^
 
 ! .........................................................................................  
 ! [G]
 
 ! d
-
-! 🇺🇦
-@@||gov.ua^$important
-
 @@||garmin.com^
 @@||github.com^
 @@||github.dev^
 @@||googletagmanager.com^
 @@||gravatar.com^
 @@||gutenberg.org^
+
+! 🇺🇦
+@@||gov.ua^$important
 
 ! sd
 
@@ -128,14 +113,12 @@
 @@||lpa.gov.rs^
 
 ! apis
-
 @@||googleapis.com^
 
 ! ......................................................................................... 
 ! [I]
 
 ! d
-
 @@||inoreader.com^
 @@||investopedia.com^
 
@@ -143,7 +126,6 @@
 ! [L]
 
 ! d
-
 @@||lenovo.com^
 @@||lenovomm.com^
 
@@ -151,13 +133,11 @@
 ! [M]
 
 ! d
-
 @@||manualslib.com^$important
 @@||moneymanagerex.org^
 @@||muscache.com^
 
 ! sd
-
 @@||static-data2.manualslib.com^ 
 @@||static2.manualslib.com^
 
@@ -165,7 +145,6 @@
 ! [N]
 
 ! d
-
 @@||nextdns.io^
 @@||njal.la^
 
@@ -178,20 +157,18 @@
 @@||one.hu^
 
 ! cdns
-
 @@||cdn.optimizely.com^
 
 ! ......................................................................................... 
 ! [P]
 
 ! d
+@@||paypal.com^
+@@||python.org^
 
 ! 🇨🇭
 @@||proton.me^
 @@||protonvpn.com^
-
-@@||paypal.com^
-@@||python.org^
 
 ! cdns
 
@@ -202,18 +179,15 @@
 ! [R]
 
 ! d
+@@||researchgate.net^
 
 ! 🇭🇺
 @@||raiffeisen.hu^
 
-@@||researchgate.net^
-
 ! sd
-
 @@||rmp.rakuten.com^
 
 ! cdns
-
 @@||cdn.rawgit.com^
 @@||cdn.riastatic.com^
 
@@ -221,23 +195,23 @@
 ! [S]
 
 ! d
-
 @@||scribd.com^
 @@||sonetel.com^
 @@||stackoverflow.com^
 @@||superuser.com^
 
 ! cdns
-
 @@||cdn.snigelweb.com^
 
 ! ......................................................................................... 
 ! [U]
 
 ! d
-
 @@||ubuntu.com^
 @@||unsplash.com^
+
+! sd
+@@||csp.uber.com^
 
 ! 🇨🇭 
 @@||ebanking-ch1.ubs.com^
@@ -245,24 +219,18 @@
 @@||ebanking-ch3.ubs.com^
 @@||ebanking-ch4.ubs.com^
 
-! sd
-
-@@||csp.uber.com^
-
 ! .........................................................................................
 ! [V]
 
 ! d
+@@||viber.com^
+@@||vinted.com^
+@@||visualping.io^
 
 ! 🇭🇺
 @@||vinted.hu^
-
-@@||viber.com^
-@@||vinted.com^
-@@||visualping.io^ 
-
+ 
 ! sd
-
 @@||images1.vinted.net^
 @@||services.visualstudio.com^
 
@@ -270,22 +238,19 @@
 ! [W]
 
 ! d
-
-! 🇬🇧
-@@||wise.com^
-
 @@||whatsapp.com^
 @@||whatsapp.net^
 @@||wondershare.*
+
+! 🇬🇧
+@@||wise.com^
 
 ! .........................................................................................
 ! [Y]
 
 ! d
-
 @@||youtube.com^
 @@||ytimg.com^
 
 ! sd
-
 @@||finance.yahoo.com^
