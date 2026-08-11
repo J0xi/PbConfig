@@ -61,7 +61,7 @@ title/anal[- ]?annie/i
 title/anal[- ]?bead[sz]?/i
 title/anal[- ]?plug[sz]?/i
 title/anal[- ]?probe[sz]?/i
-title/anilingus/i
+title/an[ai]lingus/i
 title/anus/i
 title/ape[- ]?shit/i
 title/arabush/i
@@ -77,30 +77,43 @@ title/auto[- ]?eroti[ck]/i
 title/ava[- ]?add?am[sz]?/i
 
 # B
+tiitle/bung[- ]?h[0o]le[sz]?/i
+title/b[ea]stial(?:it(?:ies|y))?/i
+title/b[ei]atch(?:e[sz])?/i
 title/babe[sz]?/i
 title/bad[- ]?fu(?:ck|q)/i
 title/ball[- ]?bag[sz]?/i
 title/ball[- ]?sa(?:ck|q)[sz]?/i
 title/bang[- ]?bro[sz]/i
 title/bang[- ]?bus/i
+title/barely[- ]?legal/i
 title/bass?t(:?[ae]rd[osz])/i
 title/bat[- ]?shit/i
 title/bawdy/i
 title/bdsm/i
+title/bean[- ]?fli(?:ck|q)(?:er|ing|[sz])?*
 title/bearded[- ]?[ck]lam[sz]?/i
-title/beef[- ]?cake[sz]?/i
-title/bellend[sz]?/i
-title/b[ea]stial(?:it(?:ies|y))?/i
+title/beat[- ]?off/i
 title/beat[- ]?your[- ]?meat/i
+title/beef[- ]?cake[sz]?/i
+title/beeyotch/i
+title/bellend[sz]?/i
+title/beotch/i
 title/bi[- ]?curious/i
+title/big[- ]?ass/i
 title/big[- ]?black[- ]?c[0o]ck[sz]?/i
 title/big[- ]?butt[sz]?/i
+title/big[- ]?tit[sz]/i
 title/bilmez[aeiu]?/i
 title/bimbo[sz]?/i
 title/bitang[aeiu]/i
 title/bitch(?:e[dsz]|er[sz]?|in[g]?|[- ]?(?:slap|tit)[sz]?|y)?/i
+title/bite[- ]?m(?:e|y)/i
+title/black[- ]?[ck]ock[sz]?/i
 title/black[- ]?c[0o]ck[sz]?/i
+title/blood[- ]?claat/i
 title/blow[- ]?job[sz]?/i
+title/blumpkin[sz]?/i
 title/boink(?:ed|[sz])?/i
 title/bollo(?ck|q)[sz]?/i
 title/bondage/i
@@ -108,42 +121,34 @@ title/boner[sz]?/i
 title/bonn?ie[- ]?blue/i
 title/boob(?:ie)?[sz]?/i
 title/boob[- ]?job[sz]?/i
+title/booger[sz]?/i
+title/boonie[sz]?/i
 title/boot(?:ie[sz]|lip[sz]?|y)/i
 title/booz(?:er|y)/i
 title/bosom/i
 title/brandi[- ]?l(?:ove|uv)[sz]?/i
 title/breast[sz]?/i 
 title/brothel[sz]?/i
+title/buceta/i
 title/budal[aeiou]/i
-title/bull[- ]?shit(?:ter|ing)?[sz]?/i
-title/bull[- ]?crap/i
+title/bugger(?:ed|[sz]|y)?/i
 title/bukkake/i
+title/bull[- ]?crap/i
+title/bull[- ]?shit(?:ter|ing)?[sz]?/i
+title/bull[- ]?turd[sz]/i 
+title/bum[- ]?fu(?:ck|q)[sz]?/i
 title/bunga[- ]?bunga/i
-tiitle/bung[- ]?h[0o]le[sz]?/i
 title/burazer[aeiu]?/i
 title/bust(?:ie(?:r|st)?|y)/i
 title/butt[- ]?(?:cheek|crack)[sz]?(?)/i
+title/butt[- ]?bang(?:ed|er[sz]?|ing)?/i
 title/butt[- ]?face[sz]?/i
 title/butt[- ]?fuck(?:a[sz]?|er[sz]?|ed|ing[sz]?)?/i*
 title/butt[- ]?h(?:ead|[0o]le)[sz]?/i
+title/butt[- ]?munch/i
 title/butt[- ]?plug[sz]?/i
 title/butt[- ]?stain[sz]?/i
 title/butt[- ]?wipe[sz]?/i
-title/bugger(?:ed|[sz]|y)?/i
-title/blumpkin[sz]?/i
-title/bite[- ]?m(?:e|y)/i
-title/beat[- ]?off/i
-title/boonie[sz]?/i
-title/bean[- ]?fli(?:ck|q)(?:er|ing|[sz])?*
-title/bum[- ]fu(?:ck|q)[sz]?/i
-title/butt[- ]?bang(?:ed|er[sz]?|ing)?/i
-title/barely[- ]?legal/i
-
-balllicker, bampot, barenaked, barf, barface
-barfface, bastinado, bazongas, bazooms, beatch, beeyotch, beotch, biatch, bigass, bigbreasts, bigtits, bitties, bloodclaat, boffing, bogan
-bohunk,bootee, bountybar, breastjob, breastlover, breastman, breasts, brotherfucker,, buceta, buddhahead
-buddhaheads, buffies,bullcrap, bulldike, bulldyke, bullturds, bumblefuck, bumfuck,  burrhead, burrheadsbutchbabes, butchdike, 
-butchdyke,buttmuch, buttmunch, buttmuncher, buttpirate, byatch
 
 # C
 title/[ck][0o]pulat(?:)
@@ -162,7 +167,9 @@ title/coit(?:al|us)/i
 title/copulat(?:e[sz]?|i(?:ng|on))?
 title/cougar[sz]?/i
 title/cream[- ]?pie[sz]?/i
+title/chaturbate/i
 title/cum[- ]?guzzle(?:r[sz]?)?/i
+title/cow[- ]?fart[sz]?/i
 
 # D
 title/d[iy]ke[sz]?/i
@@ -338,6 +345,7 @@ title/pizd[aeiou]/i
 title/pimp(?:ed|[sz]?|in(?:g)?)/i
 title/poop(?:e[dr]|[sz]?|in(?:g))/i
 title/pendej[oa](?:s)?/i
+title/piss[- ]?off/i
 ...
 panties
 paedophilia
