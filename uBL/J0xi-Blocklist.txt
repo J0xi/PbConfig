@@ -157,7 +157,7 @@ title/baller[sz]?/i
 title/bordel(?:lo)?[sz]?/i
 title/bradavic[aeu]/i
 ...
-blackie
+blackie[sz]
 
 
 # C
@@ -213,6 +213,9 @@ title/erotsk[aeiou]/i
 title/es[ck]ort[- ]?agency/i
 title/eunuch[sz]?/i
 title/ex[ck]rement/i
+...
+eat shit
+
 
 # F
 title/fagg?ot(?:[sz]?|ry)?/i
@@ -379,13 +382,14 @@ title/scrot(?:ie|um)/i
 title/se(?:ks|x)
 title/se(?:ks|x)(?:ie(?:r|st)|y)
 title/se(?:ks|x)[- ]?(addiction[sz]?|appeal)/i
+title/se(?:ks|x)[- ]?(tape[sz]?|ting)?/i
 title/se(?:ks|x)[- ]?[ck]ult[sz]?/i
 title/se(?:ks|x)[- ]?game[sz]?/i
 title/se(?:ks|x)[- ]?kitten[sz]?/i
 title/se(?:ks|x)[- ]?mania[ck][sz]?/i
 title/se(?:ks|x)[- ]?offender[sz]?/i
 title/se(?:ks|x)[- ]?predator[sz]?/i
-title/se(?:ks|x)[- ]?(tape[sz]|ting)?/i
+title/se(?:ks|x)[- ]?toy[sz]?/i
 title/se(?:ks|x)[- ]?video[sz]?/i
 title/se(?:ks|x)/i
 title/se(?:ks|x)aholi[ck][sz]?/i 
@@ -401,7 +405,7 @@ title/strip[- ]?bar[sz]?/i
 title/strip[- ]?tea[sz]e/i
 title/swinger[sz]?[- ](?:[ck]lub|party)/i
 ...
-shits, shithead, shitted, shitty, 
+shits, shithead, shitted, shitty, shithole, shit-eater/ing
 
 # T
 title/transgender/i
@@ -430,6 +434,74 @@ title/whore[sz]?[- ](?:dom)?/i*
 title/white[- ]?trash/i
 title/wet[- ]?dream[sz]?i
 title/wank()
+...
+weenie
+
+wab
+wad
+wang
+wank
+wanker
+wanking
+wankjob
+wanky
+waysted
+wazoo
+weenie
+weewee
+weiner
+welcher
+wench
+wetb
+wetback
+wetbacks
+wetdream
+wetspot
+whacker
+whash
+whigger
+whiggers
+whiskeydick
+whiskydick
+whit
+whitenigger
+whitepower
+whites
+whitetrash
+whitey
+whiteys
+whities
+whoar
+whop
+whoralicious
+whore
+whorealicious
+whorebag
+whored
+whoreface
+whorefucker
+whorehopper
+whorehouse
+whores
+whoring
+wichser
+wigga
+wiggas
+wigger
+wiggers
+willie
+willies
+williewanker
+willy
+wog
+wogs
+woose
+wop
+words
+worldsex
+wtf
+wuss
+wuzzie
 ...
 wank
 wankers/ing/z
