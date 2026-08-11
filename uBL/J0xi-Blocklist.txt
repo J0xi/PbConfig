@@ -247,8 +247,7 @@ title/govn(?a|ar[aeiu]?|o)/i*
 title/gnjid[aeiou]/i
 title/gang-rape[sz]?/i
 title/goved[ao]/i
-...
-gigolo
+title/gigolo[sz]?/i
 
 # H
 title/harem/i
@@ -262,7 +261,9 @@ title/hymen/i
 title/home[- ]?b[0o]y[sz]?/i 
 title/hard[- ]?on[sz]?/i
 title/happy[- ]?ending[sz]?/i
-title/hunk[sz]/i
+title/hunk[syz]?/i
+title/hobo[sz]?/i
+...
 title/hill[- ]bill(?:)
 
 # I
@@ -308,7 +309,6 @@ kobila, etina, etine, etini, etinu
 kenjator
 kurcozderka
 krava, kravetina, kravetinu
-
 
 # L
 title/lgbqt/i
@@ -439,8 +439,7 @@ title/transvestite[sz]?/i
 
 # U
 title/undie[sz]?/i
-...
-undress
+title/undress(?:e[ds]|ing)?/i
 
 # V
 title/vagina[sz]?/i
@@ -450,13 +449,12 @@ title/veroni[ck]a[- ]?avluv/i
 
 # W
 title/wimp[szy]?/i
-title/whore[sz]?[- ](?:bag|dom|ing)?/i
+title/whore[dsz]?[- ](?:bag|dom|ing)?/i
 title/white[- ]?trash/i
 title/wet[- ]?dream[sz]?i
 title/weenie[sz]?/i
 title/wang/i
-...
-titl
+
 
 
 wank
@@ -492,7 +490,8 @@ whiteys
 whities
 whoar
 whop
-whoralicious
+
+
 whore
 whorealicious
 whorebag
