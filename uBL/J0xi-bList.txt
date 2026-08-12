@@ -1,579 +1,1327 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+# Title: J0xi's Blocklist
+# Info: Hides Select Domains & Subdomains
+# https://github.com/J0xi/PbConfig/blob/main/uBL/J0xi-bList.txt
+# https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBL/J0xi-bList.txt
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+
+# [1]        18+
+# [2]        ASTROLOGY
+# [3]        BLOGS
+# [4]        CHAT
+# [5]        COMMERCE
   # 5.1        FOOD DELIVERY  
+# [6]        DATING
+# [7]        DRUGS & TOBACCO
+# [8]        GAMBLING
+# [9]        GAMING
+# [10]       NEWS
+# [11]       SOCIAL
+# [11]       SPORTS
+# [12]       STREAMING AV
+# [16]       UNSAFE
+# [17]       UTILITIES
+#    17.1        BROWSERS
+#    17.3        SEARCH ENGINES
+  
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [1] 18+
+
+## Domain
+
+/^https?:\/\/[^\/?#]*adult[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*model[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*urban[- ]?dictionary[^\/?#]*(?:[\/?#]|$)/i
+
+## Path
+
+/^https?:\/\/[^\/?#]+\/[^?#]*adult[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*model[^?#]*(?:[?#]|$)/i
+
+## Keywords
+
+# 123
+title/1[- ]?on[- ]?1/i
+title/1[- ]?night[- ]?stand[sz]?/i
+title/2[- ]?girls[- ]?1cup/i
+title/3[- ]?some[sz]?/i
+
+# A
+title/a[- ]?hole[sz]?/i
+title/adult[- ]?act(?:or|resse)[sz]?/i
+title/adult[- ]?chat[sz]?/i 
+title/adult[- ]?hook[- ]?up[sz]?/i
+title/adult[- ]?meet[sz]?/i
+title/adult[- ]?se(?:ks|x)/i
+title/adult[- ]?star[sz]?/i
+title/adult[- ]?video[sz]?/i
+title/adult[- ]?industry/i
+title/afri[ck]oon[sz]?/i
+title/alpha[- ]?male[sz]?/i
+title/anal[- ]?(?:sex)/i
+title/anal[- ]?annie/i
+title/anal[- ]?bead[sz]?/i
+title/anal[- ]?plug[sz]?/i
+title/anal[- ]?probe[sz]?/i
+title/an[ai]lingus/i
+title/anus/i
+title/ape[- ]?shit/i
+title/arabush/i
+title/arr?se[- ]?h[0o]le[sz]?/i
+title/ase(?:ks|s)ual(?:s|ity)/i
+title/ass[- ]?[ck]lown[sz]?/i
+title/ass[- ]?face[sz]?/i
+title/ass[- ]?fu(?:ck(?:er)?|kka?|q?)[sz]?/i
+title/ass[- ]?grab(?:bed|ber[sz]?|bing[sz]?)?/i
+title/ass[- ]?h[0o]le[sz]?/i
+title/ass[- ]?wipe[sz]?/i
+title/auto[- ]?eroti[ck]/i
+title/ava[- ]?add?am[sz]?/i
+title/avn[- ]?award[sz]?/i
+
+# B
+tiitle/bung[- ]?h[0o]le[sz]?/i
+title/b[ea]stial(?:it(?:ies|y))?/i
+title/b[ei]atch(?:e[sz])?/i
+title/babe[sz]?/i
+title/bad[- ]?fu(?:ck|q)/i
+title/ball[- ]?bag[sz]?/i
+title/ball[- ]?sa(?:ck|q)[sz]?/i
+title/bang[- ]?bro[sz]/i
+title/bang[- ]?bus/i
+title/barely[- ]?legal/i
+title/bass?t(:?[ae]rd[osz])/i
+title/bat[- ]?shit/i
+title/bawdy/i
+title/bdsm/i
+title/bean[- ]?fli(?:ck|q)(?:er|ing|[sz])?*
+title/bearded[- ]?[ck]lam[sz]?/i
+title/beat[- ]?off/i
+title/beat[- ]?your[- ]?meat/i
+title/beef[- ]?cake[sz]?/i
+title/beeyotch/i
+title/bellend[sz]?/i
+title/beotch/i
+title/bi[- ]?curious/i
+title/big[- ]?ass/i
+title/big[- ]?black[- ]?c[0o]ck[sz]?/i
+title/big[- ]?butt[sz]?/i
+title/big[- ]?tit[sz]/i
+title/bilmez[aeiu]?/i
+title/bimbo[sz]?/i
+title/bitang[aeiu]/i
+title/bitch(?:e[dsz]|er[sz]?|in[g]?|[- ]?(?:slap|tit)[sz]?|y)?/i
+title/bite[- ]?m(?:e|y)/i
+title/black[- ]?[ck]ock[sz]?/i
+title/black[- ]?c[0o]ck[sz]?/i
+title/blood[- ]?claat/i
+title/blow[- ]?job[sz]?/i
+title/blumpkin[sz]?/i
+title/boink(?:ed|[sz])?/i
+title/bollo(?ck|q)[sz]?/i
+title/bondage/i
+title/boner[sz]?/i
+title/bonn?ie[- ]?blue/i
+title/boob(?:ie)?[sz]?/i
+title/boob[- ]?job[sz]?/i
+title/booger[sz]?/i
+title/boonie[sz]?/i
+title/boot(?:ie[sz]|lip[sz]?|y)/i
+title/booz(?:er|y)/i
+title/bosom/i
+title/brandi[- ]?l(?:ove|uv)[sz]?/i
+title/breast[sz]?/i 
+title/brothel[sz]?/i
+title/buceta/i
+title/budal[aeiou]/i
+title/bugger(?:ed|[sz]|y)?/i
+title/bukkake/i
+title/bull[- ]?crap/i
+title/bull[- ]?shit(?:ter|ing)?[sz]?/i
+title/bull[- ]?turd[sz]/i 
+title/bum[- ]?fu(?:ck|q)[sz]?/i
+title/bunga[- ]?bunga/i
+title/burazer[aeiu]?/i
+title/bust(?:ie(?:r|st)?|y)/i
+title/butt[- ]?(?:cheek|crack)[sz]?(?)/i
+title/butt[- ]?bang(?:ed|er[sz]?|ing)?/i
+title/butt[- ]?face[sz]?/i
+title/butt[- ]?fuck(?:a[sz]?|er[sz]?|ed|ing[sz]?)?/i*
+title/butt[- ]?h(?:ead|[0o]le)[sz]?/i
+title/butt[- ]?munch/i
+title/butt[- ]?plug[sz]?/i
+title/butt[- ]?stain[sz]?/i
+title/butt[- ]?wipe[sz]?/i
+title/beta[- ]?male[sz]?/i
+title/brazzer[sz]/i
+title/baller[sz]?/i 
+title/bordel(?:lo)?[sz]?/i
+title/bradavic[aeu]/i
+title/blackie[sz]?/i
+
+# C
+title/[ck][0o]pulat(?:)*
+title/[ck]luster[- ]?fu(?:ck|q)[sz]?/i
+title/[ck]ondom[sz]?/i
+title/[ck]rapp?(?:er[sz]?|iest|ing|y)?/i
+title/[ck]u[ck][0o]ld(?:[sz]|ry)?/i
+title/[ck]um[- ]?shot[sz]?/i
+title/[ck]unn?ilingu[sz]/i
+title/[ck]unt(?:[sz]?|i(?:er|st)?|y)?/i
+title/c[0o]ck[- ]?tea[sz](?:e(?:r[sz]?|[sz])?|ing)/i
+title/castrat(?:e)/i
+title/casual[- ]?se(?:ks|x)/i
+title/chaturbate/i
+title/cherr?y[- ]?kiss/i
+title/child[- ]?porn/i
+title/clitor(?:al|i[sz])/i
+title/coit(?:al|us)/i
+title/copulat(?:e[sz]?|i(?:ng|on))?
+title/cougar[sz]?/i
+title/cow[- ]?fart[sz]?/i
+title/cream[- ]?pie[sz]?/i
+title/cum[- ]?guzzle(?:r[sz]?)?/i
+
+# D
+title/d[iy]ke[sz]?/i
+title/darla[- ]?[ck]rane/i
+title/deauxma/i
+title/degenerate[sz]?/i
+title/dick[sz]?[- ]?(?:head|wa(?:a|ed)?|su(?:ck|q))/i
+title/dild[0o][sz]?/i
+title/dirt[- ]?bag[sz]?/i
+title/dominatri(?:x|ks)/i
+title/donga/i
+title/double[- ]?d[sz]?/i
+title/drka(?:ju|m(?:o)?|nj[aeu]|t[ei])/i
+title/dumb[- ]?ass(?:e[sz])?/i
+title/dumbo[sz]?/i
+title/dung/i
+
+# E
+title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
+title/ea[sz]y[- ]?lay?/i 
+title/ea[sz]y[- ]?slut[sz]?/i 
+title/eat[- ]?(?:a|m[ey])?/i
+title/eja[ck]ulat(?:e[dsz]?|i(?:ng|on))/i
+title/engorge(?:d)?/i
+title/ere[ck]t(?:i[0o]n[sz]?)?/i
+title/eroti[ck][aeiou]?/i
+title/erotici[sz]m/i
+title/erotsk[aeiou]/i
+title/es[ck]ort[- ]?agency/i
+title/eunuch[sz]?/i
+title/ex[ck]rement/i
+...
+eat shit
+
+
+# F
+title/fagg?ot(?:[sz]?|ry)?/i
+title/fapp(?:ed|ing)/i
+title/fappen?(?:ed|ing)?[sz]?/i
+title/fatso[sz]?/i
+title/fell?at(?:e[ds]?|io)/i
+title/fetish(?:e[sz]|iz(?:e|ing))?/i
+title/fikus/i
+title/flesh[- ]light[sz]?/i
+title/foreskin[sz]?/i
+title/fu(?:ck|q)[- ]?face/i
+title/fu(?:ck|q)[- ]?mate[sz]?/i
+title/fu(?:ck|q)[- ]toy[sz]?/i
+title/fu(?:ck|q)[sz]?*
+title/fu(?:ck|q)able/i
+
+fuck[sz]/ed/er[sz]/ing[sz]/fuck-face/fucktard[sz]/fuckable
+
+# G
+title/gangsta[sz]?/i
+title/glory[- ]?h[0o]le[sz]?/i
+title/gayness/i
+title/gay[- ]?lord[sz]?/i
+title/gay[- ]?bar[sz]?/i
+title/gilipter[aeiu]/i
+title/gilf[szy]?/i
+title/get[- ]?laid/i
+title/gang[- ]?bang(?:er[sz]?|ed|ing[sz]?)?*
+title/govn(?a|ar[aeiu]?|o)/i*
+title/gnjid[aeiou]/i
+title/gang-rape[sz]?/i
+title/goved[ao]/i
+title/gigolo[sz]?/i
+
+# H
+title/harem/i
+title/hentai/i
+title/herpe[sz]/i
+title/hooter[sz]?/i
+title/horn(?:ie(?:r|st)|[- ]?dog[sz]?|y)/i
+title/horse[- ]?shit/i
+title/hooker[sz]?/i
+title/hymen/i
+title/home[- ]?b[0o]y[sz]?/i 
+title/hard[- ]?on[sz]?/i
+title/happy[- ]?ending[sz]?/i
+title/hunk[syz]?/i
+title/hobo[sz]?/i
+...
+title/hill[- ]bill(?:)
+
+# I
+title/idiot[sz]?/i
+title/in[cs]est(?:ual)?/i
+title/inbred[sz]?/i
+title/interracial[- ]se(?:ks|x)/i
+title/intercourse/i
+title/india[- ]?summer[sz]?/i
+
+# J
+title/jerk(?:[sz]?|ed|ing)?[- ]?off/i
+title/jerk[- ]?mate[sz]?/i
+title/jack[- ]?ass(?:e[sz])
+title/jack[- ]?off(?:ed|s)
+title/jack[- ]?shit/i
+title/jag[- ]?off[sz]?/i
+title/jizz(?:e[ds]|ing)?/i
+
+title/jebe(?:m|)
+jebac[ae], jebanja/e/u, jebada, jebac[aeiu]?
+
+> šđčćž
+
+# K
+title/kendra[- ]?lust[sz]?/i
+title/kama[- ]?sutra/i
+title/kurac/i
+title/kur[cč]in[aeou]/i
+title/kur[cč]i(?:t[ei]|o)/i
+title/kur[cć]enj[aeu]/i
+title/kopil(?:a[dn]?|e|u)/i*
+title/kink(?:s|y)
+title/kid(?:die)[sz]?[- ]?porn/i
+title/kurvetin[aeiou]/i
+title/karanj[aeu]/i
+title/kresanj[aeu]/i
+title/keiran[- ]?lee/i
+title/kuronj[aeou]/i
+...
+kresnuti, kunt, kaki(?:m|č), kenja/kenjac/kenjati
+kobila, etina, etine, etini, etinu
+kenjator
+kurcozderka
+krava, kravetina, kravetinu
+
+# L
+title/lgbqt/i
+title/literoti[ck]a/i
+title/lecher[sz]?/i 
+title/lesbian[sz]?/i
+title/lube/i
+title/lezbej(?:k[aeou]|ci)/i
+title/lust(?:ful|ing|y)?/i
+title/labia/i
+title/li[sz]a[- ]?ann/i
+title/libido/i
+title/libtard[sz]?/i
+
+# M
+title/mudonj[aei]/i
+title/milf[szy]?/i
+title/majmun[aeiu]/i
+title/mrcin[aeiou]/i
+title/money[- ]?sh[0o]t[sz]?/
+title/masturbat(?:e(sz)?|ed|i(?:on|ng)|or(?:y))/i
+title/maggot[sz]?/i
 ..
+mudafuka[sz], mudafuqa[sz]
+m[0ou]ther[- ]?fu(?ck|q)
+
+mother fucks/er/ers/z/ing/ed/e
+menageatrois
+
+# N
+title/nutsa(?:ck|q)[sz]?/i
+title/nasty/i
+title/nigga(?:er)?[sz]?/i*
+title/netflix[- ](?:&|and)[- ]chill/i
+title/nudi(?:s(?:m|t)|ty)/i
+title/nympho/i
+title/nympho[- ]?mania[ck]?[sz]?/i*
+title/naked/i
+
+# O
+title/only[- ]fan[sz]?/i
+title/orgasm[sz]?/ic
+title/orgij[aeiu]/i
 ...
+orgazam, orgazmi, orgies, orgasmic, onanism, orgy
+orgie-porgie
+
+# P
+title/pearl[- ]?necklace[sz]?/i 
+title/pendej[oa](?:s)?/i
+title/penis/i
+title/pimp(?:ed|[sz]?|in(?:g)?)/i
+title/piss[- ]?off/i
+title/pizd[aeiou]/i
+title/play[- ]?boy[sz]?/i
+title/play[- ]?mate[sz]?/i
+title/poop(?:e[dr]|[sz]?|in(?:g))/i
+title/porn(?:o[sz]?|ograph(?:))
+title/porn[-]?flick[sz]?/i
+title/potty/i
+title/premature[- ]?ejaculation/i
+title/puss(?:i(?:es|fy)|y)/i
 ...
+panties, panty
+paedophilia
+pornhub, porno, pornos, porno, pornographer, pornography, pornographic, pornografia, pronici, pornicu, pornstar, ponstars
+
+# Q
+queer[sz]
+quickie[sz]
+
+# R
+title/rap(?:e[sz]?|ed|ing[sz]?|ist[sz]?)/i = title/rap(?:(e|ing|ist)[sz]?|ed)/i
+title/red[- ]?tube/i
+title/retrard[sz]?/i
+title/rim[- ]?job[sz]?/i
+
+# S
+title/sa(?:dis(?:m|t[sz]?))/i
+title/scrot(?:ie|um)/i
+title/se(?:ks|x)
+title/se(?:ks|x)(?:ie(?:r|st)|y)
+title/se(?:ks|x)[- ]?(addiction[sz]?|appeal)/i
+title/se(?:ks|x)[- ]?(tape[sz]?|ting)?/i
+title/se(?:ks|x)[- ]?[ck]ult[sz]?/i
+title/se(?:ks|x)[- ]?game[sz]?/i
+title/se(?:ks|x)[- ]?kitten[sz]?/i
+title/se(?:ks|x)[- ]?mania[ck][sz]?/i
+title/se(?:ks|x)[- ]?offender[sz]?/i
+title/se(?:ks|x)[- ]?predator[sz]?/i
+title/se(?:ks|x)[- ]?s[ck]andal[sz]?/i
+title/se(?:ks|x)[- ]?toy[sz]?/i
+title/se(?:ks|x)[- ]?video[sz]?/i
+title/se(?:ks|x)/i
+title/se(?:ks|x)aholi[ck][sz]?/i 
+title/semen/i
+title/sperm[au]?/i
+title/short[- ]?skirt[sz]?/i
+title/sleaz(?:e|ie(?:r|st)|bag[sz]?|y)/i
+title/slut(?:ie(?:r|st)|[sz]?|y)
+title/smegma/i
+title/sodom(?i(?:te[sz]?|z(?:e[sz]?|ing)))/i*
+title/starlet[aeisu]/i
+title/strip[- ]?[ck]lub[sz]?/9
+title/strip[- ]?bar[sz]?/i
+title/strip[- ]?tea[sz]e/i
+title/swinger[sz]?[- ](?:[ck]lub|party)/i
+title/sinner[sz]?/i
+title/sweet[- ]?sinner[sz]?/i
+title/sugar[- ]?dad(?:d(?:))
+title/sugar[- ]?mom
+title/smrad(?:[eu]|ovi)?/i
 ...
+shits, shithead, shitted, shitty, shithole, shit-eater/ing
+
+# T
+title/trans[- ]?gender[sz]?/i
+title/twat[sz]?/i
+title/three[- ]?some[sz]?/i
+title/turd[sz]?/i
+title/tank[- ]top[sz]?/i
+title/top[- ]?less[- ]?(?:bar[sz])?/i
+title/tanga[sz]?/i
+title/titt(?:ie[sz]|y)/i
+title/trann(?:ie[sz]?|y)/i
+title/testic(?:le[sz]|ular)/i
+title/teste[sz]?/i
+title/transvestite[sz]?/i
+
+# U
+title/undie[sz]?/i
+title/undress(?:e[ds]|ing)?/i
+
+# V
+title/vagina[sz]?/i
+title/vulva[sz]?/i
+title/vibr[ae]tor[sz]?/i
+title/veroni[ck]a[- ]?avluv/i
+
+# W
+title/wimp[szy]?/i
+title/whore[dsz]?[- ](?:bag|dom|ing)?/i
+title/white[- ]?trash/i
+title/wet[- ]?dream[sz]?i
+title/weenie[sz]?/i
+title/wang/i
+
+
+
+wank
+wanker
+wanking
+wankjob
+wanky
+waysted
+wazoo
+weenie
+weewee
+weiner
+welcher
+wench
+wetb
+wetback
+wetbacks
+wetdream
+wetspot
+whacker
+whash
+whigger
+whiggers
+whiskeydick
+whiskydick
+whit
+whitenigger
+whitepower
+whites
+whitetrash
+whitey
+whiteys
+whities
+whoar
+whop
+
+
+whore
+whorealicious
+whorebag
+whored
+whoreface
+whorefucker
+whorehopper
+whorehouse
+whores
+whoring
+wichser
+wigga
+wiggas
+wigger
+wiggers
+willie
+willies
+williewanker
+willy
+wog
+wogs
+woose
+wop
+words
+worldsex
+wtf
+wuss
+wuzzie
 ...
-...
-...
-...
-*://*.$alltheinternet.com/*
-*://*.10.com.au/*
-*://*.100searchengines.com/*
-*://*.10play.com/*
-*://*.123people.de/*
-*://*.1movies.tv/*
-*://*.4kfilmdb.com/*
-*://*.7plus.com.au/*
-*://*.9ifly.cn/*
-*://*.9now.com.au/*
-*://*.abc.com/*
-*://*.abc.net.au/*
-*://*.abema-global.com/*
-*://*.abema.tv/*
-*://*.accessonline.com/*
-*://*.aceshowbiz.com/*
-*://*.acorn.tv/*
-*://*.acxiomsearch.com/*
-*://*.adultswim.com/*
-*://*.aenetworks.tv/*
-*://*.aetv.com/*
-*://*.afdah.info/*
-*://*.affairpost.com/*
-*://*.aha.video/*
-*://*.ahctv.com/*
-*://*.ahctv.net/*
-*://*.ais.co.th/*
-*://*.allaboutthetea.com/*
-*://*.allblk.tv/*
-*://*.allente.dk/*
-*://*.allente.no/*
-*://*.allente.se/*
-*://*.allure.com/*
-*://*.allwomenstalk.com/*
+wank
+wankers/ing/z
+
+# X
+title/xxx/i
+xhamster
+
+# Y
+yank
+yellowman
+yellowshowers
+yobbo
+yourboobs
+yourpenis
+yourtits
+youporn
+
+# Z
+title/zadrug[aeu]/i
+
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [2] ASTROLOGY
+
+## Domain
+
+/^https?:\/\/[^\/?#]*astr(?:al|o)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*birth[-.]*(?:chart|sign)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*ganesha[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*horoscop[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*moon[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:name[-.]*meaning|natal[-.]*chart|numerology)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*psychic[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*rising[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:star[-.]*sign|sun[-.]*sign)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*tarot[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*zodia[^\/?#]*(?:[\/?#]|$)/i
+
+## Path
+
+/^https?:\/\/[^\/?#]+\/[^?#]*astr(?:al|o)[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*birth(?:[-_+.\/]|%20)*(?:chart|sign)[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*ganesha[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*horoscop[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*moon(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*(?:name(?:[-_+.\/]|%20)*meaning|natal(?:[-_+.\/]|%20)*chart|numerology)[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*psychic[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*rising(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*(?:star(?:[-_+.\/]|%20)*sign|sun(?:[-_+.\/]|%20)*sign)[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*tarot[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*vedic[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*zodiac[^?#]*(?:[?#]|$)/i
+
+aquarius, aries, askmyoracle, birthsign
+birthstone
+cancer*, capricorn, chani, chinesefortunecalendar, compatibility
+fortune calendar
+ganeshaspeaks, gemini, gemselect
+karma
+labyrinthos, leo, libra, linda-goodman, lovecompatibility
+moonly, mylovecal, mysign, mysticapp
+name analysis, name analyzer
+onthisday
+pisces
+sagittarius, sanctuaryworld, scorpio, seeroracle
+taurus, thebirthchart
+vedicfolks
+virgo
+whatismysign
+zodist
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [3] BLOGS
+
+*://*.cobratate.com/*
+/^https?:\/\/[^\/?#]*high-?life[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*hustl(?:e|ing)[^\/?#]*(?:[\/?#]|$)/i
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [4] CHAT
+
+## Domain
+
+/^https?:\/\/[^\/?#]*chat[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*join[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*meet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*omegle[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*ome-?tv[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*stranger[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*talk[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*webcam[^\/?#]*(?:[\/?#]|$)/i
+
+## Path
+
+/^https?:\/\/[^\/?#]+\/[^?#]*omegle[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*ome-?tv[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*stranger[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*webcam[^?#]*(?:[?#]|$)/i
+
+badoo
+bazoocam
+freecam
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [5] COMMERCE
+
+# 5.1 Food Delivery
+
+/^https?:\/\/[^\/?#]*bolt-?food[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*delivery-?hero[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*door-?dash[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*food(?:ora|panda)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*wolt[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*uber-?eats[^\/?#]*(?:[\/?#]|$)/i
+
+*://*.food.bolt.eu/*
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [6] DATING
+
+title/casanova/i
+
+adating, ashleymadison, askmen, attraction
+
+backpage, badboy, badgirl, badgirl, bbw, bdsm, be2, bestmatch
+bride, brides, casual, charisma, charm, chatdate, cheater, cheating, christiandating, christiandate, christianmatch
+brides, cheater, cheating, clickmatch, companion, contactos, cougar, crush
+crush, cupid, cutie, date , datefinder, datehere, dating, dirtymatch, dreamgf, edarling, eharmony, eliteescort, elitepartner, elitesingle, escort
+fans, female, fling, flingster, flirt, forevercompanion, foxgirl, freedating, friend, friendfind, friendfinder
+girlfriend, guy, harem, hook, hookup, hotmatch, interracial, intimate, kiss, kupid, latina, localflirt, localgirl, love
+lovegpt, lovelink, loverboy, mailorder bride, manosphere, marriage, match, matchmaker, mate, maxim, meetic, meetup ,mingle, ofan, ofans
+ofleak, ofprofile, parship, partner, peoplemeet, personals, pickup, pickup artist, playbook, pua, realdoll, romance, shaadi, singles, soul
+soulmate, sugardaddy, tawk, waifu, wife, winggirl, wingman, wives, brobible, chatdate, cheatingwife, cheatingwives, companion, coffeemeetsbagel, date, 
+cutedate, chatgirl, eurodate, girlfind, girllove, gofish, elitepartner, fling, passion, dirtymatch, drcasual, mindfulattraction, justmatch, sugardate, sugardaddy, 
+sugardaddie, lovin, luv, mingle, savage, grindr, tinder, gofish, innerconfidence, lovepanky, loverz, match, matchmake, uglyschmuck, innerconfidence, jdate, meetlocal, 
+realhotdate, singleparent, lovinga, lovoo, meether, menprovement, yourfling, mensjournal, masculinedevelopment, simplepickup
+peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjournal, lovepanky, lonelygirl, girlsnearby, hotdate, lovebird, swipe, sugardate
+luvfree, masculinedevelopment, meether, meethim, meetme, meetyour, mensjournal, mensxp, singles, withlove, match, passion, privatecompanion, popularfan
+pof, polyamory, secretbenefits, friendswithbenefits, seniordate, seniordating, attraction, artofcharm, datingplaybook, attractiongame, winggirl, winggman
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [7] DRUGS & TOBACCO
+
+# A
+title/afri[cč]ka[- ]?[sš]ljiva/i
+/afri[cč]ka[- ]?[sš]ljiva/i
+
+# B
+title/bong[sz]?/i
+/bong[sz]?/i
+
+# C
+title/cann?abi[sz]/i
+title/cig[sz]/i
+title/cocaine/i
+title/cohiba/i
+title/crack[- ]?addict[sz]?/i
+/cann?abi[sz]/i
+/cig[sz]/i
+/cocaine/i
+/cohiba/i
+/crack[- ]?addict[sz]?/i
+
+# D
+title/dope[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
+title/drog(?:iranj)?[aeu]/i
+title/drug[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
+/dope[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
+/drog(?:iranj)?[aeu]/i
+/drug[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
+
+# E
+title/ecstasy/i
+/ecstasy/i
+
+# G
+title/ganja/i
+title/green-?leaf/i
+/ganja/i
+/green-?leaf/i
+
+# H
+title/he(?:mp|roin)/i
+title/hookah/i
+/he(?:mp|roin)/i
+/hookah/i
+
+# J
+title/junkie[sz]?/i
+/junkie[sz]?/i
+
+# K
+title/kush/i
+/kush/i
+
+# M
+title/marijuana/i
+title/mary[- ]?jane/i
+title/modafinil/i
+/marijuana/i
+/mary[- ]?jane/i
+/modafinil/i
+
+# N
+title/narkoman(?:[aeiu]|ij[aeu])?/i
+title/noo-?tropic/i
+/noo-?tropic/i
+/narkoman(?:[aeiu]|ij[aeu])?/i
+
+# P
+title/pill[- ]?popper[sz]?/
+/pill[- ]?popper[sz]?/
+
+# S
+title/shisha/i
+title/smok(?:e(?:r[sz]?)?|ing)/i
+/shisha/i
+/smoke/i
+
+# T
+title/tobacco/i
+/tobacco/i
+
+# V
+title/vap(?:e(?:r[sz]?|[sz]?)|ing|or)/i
+title/viagra/i
+/viagra/i
+/vap(?:e(?:r[sz]?|[sz]?)|ing|or)/i
+
+# W
+title/weed/i
+/weed/i
+
+# X
+title/xanax/i
+/xanax/i
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [8] GAMBLING
+
+# 123
+# /^https?:\/\/[^\/?#]*1x(?:bet|bit)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*[0-9]+bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*1-?win[^\/?#]*(?:[\/?#]|$)/i
+# A
+/^https?:\/\/[^\/?#]*ace(?:poker|s(?:high|palace)?)?[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*admiral(?:bet|spot)[^\/?#]*(?:[\/?#]|$)/i
+# B
+/^https?:\/\/[^\/?#]*(?:baccarat|backgammon|balkanbet)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*best-?bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet(?:1|2|365)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet(?:and-?win|ano)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet(?:cash|central|clic|coin)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?expert[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*betedesjeux[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet(?:fair|first)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?king[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet(?:land|live)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?mgm[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet(on(?:line)?|oto)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet(?:partner|play|poker|prime)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?quick[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bets[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet(?:ting|tor)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?usa[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bet-?way[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bi(?:d|gbet|ngo)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*black-?jack[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*book(?:ie|maker)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bovada[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bwin[^\/?#]*(?:[\/?#]|$)/i
+# C
+/^https?:\/\/[^\/?#]*card(?:bet|deal|game|play|room|s|z)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:casino|cashsweep)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*(?:chance|cheat)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*csgo[^\/?#]*(?:[\/?#]|$)/i
+# D
+/^https?:\/\/[^\/?#]*dice[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*draft-?king[^\/?#]*(?:[\/?#]|$)/i
+# E
+/^https?:\/\/[^\/?#]*elite-?bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*emerald-?bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*euro(?:jack-?pot|lotto|slot)[^\/?#]*(?:[\/?#]|$)/i
+# F
+/^https?:\/\/[^\/?#]*free(?:bie|slot)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*fortun(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
+# G
+/^https?:\/\/[^\/?#]*gambl(?:e|ed|er(?:s)?|es|ing)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*game(?:book|sweb|time)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*get-?lucky[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*goal-?win[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*gold(?:bet|run|strike)[^\/?#]*(?:[\/?#]|$)/i
+# H
+/^https?:\/\/[^\/?#]*high-?roll(er(?:s)?)?:[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*hold-?em[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*horse-?bet[^\/?#]*(?:[\/?#]|$)/i
+# J
+/^https?:\/\/[^\/?#]*jack-pot[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*jeaux[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*jeu(?:de|x)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*joker[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*jouer[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*juega[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*just-?bet[^\/?#]*(?:[\/?#]|$)/i
+# K
+/^https?:\/\/[^\/?#]*kasino[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kladit(?:e|i)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kladjenj(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kladionic(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kazino[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kladjenj(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kock(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*kvot(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
+# L
+/^https?:\/\/[^\/?#]*lad-?broke[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*las-?vegas[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*live(?:bet|score)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*loteri(?:a|e|j)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*lot(?:o|to)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*lotter(?:ie|y)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*luck[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*lutrij(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
+# M
+/^https?:\/\/[^\/?#]*max-?bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*meridian-?bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*mozzart[^\/?#]*(?:[\/?#]|$)/i
+# N 
+/^https?:\/\/[^\/?#]*net-?bet[^\/?#]*(?:[\/?#]|$)/i
+# O
+/^https?:\/\/[^\/?#]*odds[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*opklad(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*online-?slot[^\/?#]*(?:[\/?#]|$)/i
+# P
+/^https?:\/\/[^\/?#]*pari-?match[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*party-?bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*play[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*points-?bet[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*poker[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*predict[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*premier(?:bet|casino)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*prime(?:bet|dice|slot)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*prize[^\/?#]*(?:[\/?#]|$)/i
+# R
+^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
+racebet, raffle, rizik, rulet, roulette
+# S
+shuffle, slot aparati, slot-?machine, slotaparati, slotova, slotovi, slots, soccerbet, solitaire, spins
+sport365, sportingbet, sportingindex, sportsbet, sportsbetting, sportsbook
+sportscast, sportskekladionice, sportsmonitor, sportsspread, sportzbookz, stake, stakes, superbet, superslot
+sweepstake, sweepstakes
+# T
+texasholdem, tip, tipovanje, tipp, transfermarkt, triplewin
+unibet
+vegas
+# W
+wager, wagering, williamhill, winbets, winner, winners, winning, winorama, won, wwin, zynga
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [9] GAMING
+
+# A
+abandonware, achievement, activision, addon, adventure, ageofempire, animeskin, apk, apkcombo
+apkdownload, apkfile, apkmirror , apkmod, apkmonk, apkpure, apks, apksmod, apkstore
+appapk, appapks, appsapk, appsapks, aptoide, arcade, arknights, arqade, atari
+# B
+bandai, battle, battlefield, battlestar, bethesda, blizzard, boardgame, borderlands, bossfight, bounty, builds
+# C
+callofduty, candy-crush, candycrush, capcom, challenge, challenger, champ, champion, characterdesign
+cheat, cheatdb, cheater, cheatmenu, cheats, checkmate, chess, clashofclans, codhack, codhacks
+console, cosplay, counterstrike, crack, csgo
+# D
+deathmatch, destructoid, devmod, devmodapk, devs, diablo, dlc, dragonball, dragonquest, droid
+droidapk, droidgame, droidgames, droidmod, droids, dualshock, dungeon
+# E
+eagame, eaorigin, eldenring, elderscroll, epicnpc, esport
+# F
+fallout, fanboy, fandom, fandomwire, fanpop, fantasy, fantasyesport, farming-simulator, ffx
+finalfantasy, fortbuilds, fortnite, fps
+# G
+game, gameapk, gamebattle, gamebiz, gameboost, gamedb, gamedeals, gamedev, gamefaq, gamegear
+gamehack, gameinformer, gameloft, gamemap, gamemaps, gamemod, gamenews, gamepass, gamepedia
+gamepress, gamer, gamer-mods, gamereactor, gamerpedia, gamerz, games, gamesnexus, gamesnexus
+gamespace, gamespot, gamesradar, gamestrategy, gamewatch, gameworkshop
+gamex, gaming, gamingear, gamingforum, gamingleague, gamingnews, gearsofwar, geek
+genshin, gmodstore, godmode, grandtheftauto, gta, gta4, gta5, gta6, gtaforum, gtav, gtavicecity, guildwar
+# H
+hacker, hackers, hackerz, hacks, hackthegame, halo, heroesofnewerth, hitman, howlongtobeat
+# I
+ign,ignguides, indie, indiegame
+# J
+jeux, joystick, juego, juegos
+# K
+konami, kotaku
+# L
+launch, launcher, leagueoflegends, left4dead, levelup, livegame, livegaming, livestream
+# M
+mahjong, mastermod, metacritic, minecraft, mini-clip, miniclip, minijuego, mmo, mmorpg
+mobilegame, mod, modapk, modapkdl, modd, moddb, modder, modders, modding, moddroid
+modgame, mods, modsapk, modsgame, modshost, modslab, modstore, modworkshop
+modx, modz, modzapk, monsterhunter
+# N
+n4g, nerd, nerdreactor, nexusmods, nintendo
+# O
+openapk, overwatch
+# P
+paidmods, patches, patchmypc, pcgamemod, pcgamer, pcgaming, pcmod, pcmods, pcmodz, play
+playerauction, playgame, playground, playstation, playthrough, pokemon, polygon, ps1
+ps2, ps3, ps4, ps5
+# Q
+quiz
+# R
+realm,replay, residentevil, riotgames, rockpapershotgun, rockstar, rockstargame, rockstargames
+rockstarintel, rockstarnexus, rpg, rpg, rune, runescape
+# S
+sega, sims, simulator, solitaire, spele, spiel, spiele, spoof, spoofer, stadia, steam
+steamcommunity, steamdb, steampowered, steamunlock, stream, streaming, streamz, sudoku
+# T
+titanfall, trophies, trophy, twitch, twitchcon
+# U
+ubisoft, unlock
+# V
+valve, valvecommunity, vg247, videogame, vmodcheat
+# W
+walkthrough, warcraft, warframe, warframe, warhammer, warhammer, wii, winmods
+# X
+x360, xbox, xmod
+# Z
+zelda, zeldadungeon
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [10] NEWS
+
+# 🇷🇸 🇲🇪 🇧🇦
+
+# News
+
+# Tabloids
+
 *://*.alo.rs/*
-*://*.amc.com/*
-*://*.amcplus.com/*
-*://*.amctv.com/*
-*://*.americantv.com/*
 *://*.ana.rs/*
-*://*.andisearch.com/*
-*://*.angel.com/*
-*://*.animalplanet.com/*
-*://*.anime-on-demand.de/*
-*://*.animedigitalnetwork.fr/*
-*://*.anonfiles.com/*
-*://*.antenna.live/*
-*://*.antennatv.tv/*
-*://*.antenne.at/*
-*://*.apollo.tv/*
-*://*.appbrain.com/*
-*://*.apps.apple.com/*
-*://*.aptoide.com/*
-*://*.arc.net
-*://*.ardmediathek.de/*
-*://*.arenacloudtv.com/*
-*://*.arte.tv/*
-*://*.ask.co.uk/*
-*://*.ask.com/*
 *://*.aska.rs/*
 *://*.atastars.rs/*
-*://*.athome.fandango.com/*
 *://*.atraktivnoonline.com/*
-*://*.atresplayer.com/*
-*://*.att.tv/*
-*://*.atttv.com/*
-*://*.atttvnow.com/*
-*://*.attwatchtv.com/*
-*://*.auone.jp/*
-*://*.auvio.rtbf.be/*
-*://*.avantbrowser.com
-*://*.avast.com/secure-browser
-*://*.avg.com/en-ww/secure-browser
-*://*.azm.to/*
-*://*.azm.to/*
-*://*.azmovies.live/*
-*://*.azmovies.net/*
-*://*.azmoviestv.it.com/*
-*://*.baidu.com/*
-*://*.bayfiles.com/*
-*://*.bckonline.com/*
-*://*.beagle.io/*
-*://*.beakerbrowser.com
-*://*.becovi.com/*
 *://*.beep.rs/*
-*://*.bek.tv/*
 *://*.belami.rs/*
-*://*.bet.com/*
-*://*.bet.plus/*
-*://*.bflix.to/*
-*://*.bibix.cc/*
-*://*.biglobe.ne.jp/*
-*://*.bing.com/*
-*://*.binge.buzz/*
-*://*.binge.com.au/*
-*://*.binge.com/*
-*://*.bitbucket.io/*
-*://*.blekko.com/*
 *://*.blic.rs/*
-*://*.blinde-kuh.de/*
 *://*.blogosfera.rs/*
-*://*.blue.ch/*
-*://*.blueplus.ch/*
-*://*.bnt.bg/*
-*://*.boardreader.com/*
-*://*.bollynewz.com/*
-*://*.bollywoodhappening.com/*
-*://*.bollywoodhungama.com/*
-*://*.bollywoodlife.com/*
-*://*.boltbrowser.app
-*://*.bossip.com/*
-*://*.bravotv.co.nz/*
-*://*.bravotv.com/*
-*://*.britbox.com/*
-*://*.browser.qq.com
-*://*.browser.yandex.com
-*://*.bunnycdn.ru/*
-*://*.bunse.xyz/*
 *://*.burek.com/*
-*://*.busca.uol.com.br/*
-*://*.buzzcanadalive.com/*
-*://*.buzzfeed.com/*
-*://*.buzzfeednews.com/*
-*://*.buzzpatrol.com/*
-*://*.buzzvee.com/*
-*://*.c1ne.co/*
-*://*.canalplus.com/*
-*://*.canlitv.com/*
-*://*.canlitv.me/*
-*://*.canlitv.vin/*
-*://*.canlitvizle.com/*
-*://*.cartoonnetwork-id.com/*
-*://*.cartoonnetwork.ca/*
-*://*.cc.com/*
-*://*.celebmafia.com/*
 *://*.cenzurisano.info/*
-*://*.chameleonbrowser.com
-*://*.channel4.com/*
-*://*.channel5.com/*
-*://*.channelstore.roku.com/*
-*://*.cheatsheet.com/*
-*://*.chromium.org
-*://*.cineb.net/*
-*://*.cinehub.to/*
-*://*.cinematvmovies.com/*
-*://*.cinemax.com/*
-*://*.cineplex.to/*
-*://*.cineverse.com/*
-*://*.citrio.com
-*://*.citytv.com/*
-*://*.citytvplus.ca/*
-*://*.claro.com.co/*
-*://*.claro.com.pe/*
-*://*.clarovideo.com/*
-*://*.clarovideo.net/*
-*://*.classic-tv.com/*
-*://*.classiccinemaonline.com.au/*
-*://*.classiccinemaonline.com/*
-*://*.classiccinemaonline.org/*
-*://*.clicknupload.cc/*
 *://*.clip.rs/*
-*://*.closeronline.co.uk/*
-*://*.closerweekly.com/*
-*://*.clusty.com/*
-*://*.cobratate.com/*
-*://*.coccoc.com/search/*
-*://*.cocoperez.com/*
-*://*.comet.perplexity.ai
-*://*.contactvip.com/*
-*://*.contv.com/*
-*://*.cosmopolitan.com/*
-*://*.cosmotetv.gr/*
-*://*.cosmotetvott.gr/*
-*://*.courthousenews.com/*
-*://*.crack-streams.net/*
-*://*.cracked.com/
-*://*.crackle.com.in/*
-*://*.crackle.com/*
-*://*.crackle.mobi/*
-*://*.crackstream-tv.com/*
-*://*.crackstreamsus.com/*
-*://*.crave.ca/*
-*://*.crazyrumors.com/*
-*://*.criterion.com/*
-*://*.criterionchannel.com/*
 *://*.crna-hronika.info/*
 *://*.crnopile.com/*
-*://*.crunchyroll.com/*
-*://*.ctv.ca/*
-*://*.ctv.caplex/*
-*://*.cuevana.pro/*
-*://*.cuevana.se/*
-*://*.cuevana2.io/*
-*://*.cuevana3.io/*
-*://*.cultureunplugged.com/*
-*://*.curiositystream.com/*
-*://*.cwtv.com/*
-*://*.d23.com/*
-*://*.dacast.com/*
-*://*.dafilms.com/*
-*://*.dailymail.co.uk/*
-*://*.dailymotion.com/*
-*://*.dailystar.co.uk/*
-*://*.daosearch.com/*
-*://*.daum.net/*
-*://*.dazn.com/*
-*://*.deadline.com/*
-*://*.defamer.com.au/*
-*://*.defamer.com/*
-*://*.desktop-documentaries.com/*
-*://*.diabrowser.com
-*://*.dimsumtv.com/*
-*://*.directv.cl/*
-*://*.directv.com.co/*
-*://*.directv.com/*
-*://*.directvchilepagos.cl/*
-*://*.directvgo.com/*
-*://*.directvla.com/*
-*://*.dirt.com/*
-*://*.dirtywood.com/*
-*://*.disconnect.me/search/*
-*://*.discoverrybrasil.com/*
-*://*.discovery.com/*
-*://*.discoverybrasil.com/*
-*://*.discoveryplus.com/*
-*://*.discoveryuk.com/*
-*://*.disneylatino.com/*
-*://*.disneynow.com/*
-*://*.disneyplus.com/*
-*://*.disneyplus.disney.co.jp/*
-*://*.disneyplusoriginals.disney.com/*
-*://*.disneyplusoriginals.disney/*
 *://*.divamagazin.rs/*
-*://*.dlisted.com/*
-*://*.docplay.com/*
-*://*.docsonline.tv/*
-*://*.documentary24.com
-*://*.documentary24.com/*
-*://*.documentaryaddict.com/*
-*://*.documentaryheaven.com/*
-*://*.documentarylovers.com/*
-*://*.documentarymania.com/*
-*://*.documentarystorm.com/*
-*://*.documentarytube.com/*
-*://*.dogpile.com/*
-*://*.dolphin-browser-app.com
-*://*.dolphin.com$document,important
-*://*.dolphinbrowserfree.com
-*://*.dood.cx/*
-*://*.dood.re/*
-*://*.dood.so/*
-*://*.dood.to/*
-*://*.dood.watch/*
-*://*.dood.wf/*
-*://*.dood.work/*
-*://*.doodstream.com/*
-*://*.dosmovies.com/*
-*://*.download.cnet.com/*
-*://*.dr.dk/*
-*://*.dramapanda.com/*
-*://*.drop.download/*
-*://*.dropapk.to/*
-*://*.dropload.io/*
-*://*.ds2play.com/*
-*://*.dstv.com/*
-*://*.duckduckgo.com/app
-*://*.ebony.com/*
-*://*.ecorazzi.com/*
-*://*.efeitopop.com/*
-*://*.efilm.online/*
 *://*.ekskluziv.rs/*
 *://*.ekskluziva.ba/*
 *://*.ekspanzija.com/*
 *://*.eksplozija.com/*
 *://*.ekstremno.net/*
-*://*.elitedaily.com/*
-*://*.elle.com/*
 *://*.elle.rs/*
-*://*.embedwish.com/*
-*://*.emovies.io/*
-*://*.entertainmentdaily.com/*
-*://*.entertainmentgazette.co.uk/*
-*://*.entertainmentnow.com/*
-*://*.entireweb.com/*
-*://*.eon.tv/*
-*://*.eonline.com/*
-*://*.epicbrowser.com
-*://*.espinof.com/*
-*://*.espnplayer.com/*
-*://*.espreso.co.rs/*
 *://*.espreso.co/*
+*://*.espreso.co.rs/*
 *://*.espreso.rs/*
-*://*.esquire.com/*
-*://*.essence.com/*
 *://*.estradnevesti.com/*
 *://*.estradni.com/*
 *://*.estradnje.com/*
+*://*.expresstabloid.ba/*
+*://*.fenserka.com/*
+*://*.gloria.rs/*
+*://*.grand.online/*
+*://*.grazia.rs/*
+*://*.harpersbazaar.rs/*
+*://*.hellomagazin.rs/*
+*://*.hypetv.rs/*
+*://*.idjtv.com/*
+*://*.infolo.rs/*
+*://*.informer.rs/*
+*://*.jakazena.com/*
+*://*.karakter.rs/*
+*://*.kurir.rs/*
+*://*.lepotaizdravlje.rs/*
+*://*.lepotica.rs/*
+*://*.lovesensa.rs/*
+*://*.ludujemo.info/*
+*://*.magazin.novosti.rs/*
+*://*.magazin-tabloid.com/*
+*://*.magazinbalkan.eu/*
+*://*.marieclaire.rs/*
+*://*.minutzamene.com/*
+*://*.mojamodrica.info/*
+*://*.mondo.me/*
+*://*.mondo.rs/*
+*://*.mudrolije.org/*
+*://*.muskimagazin.rs/*
+*://*.najzena.rs/*
+*://*.nedeljnikafera.net/*
+*://*.nemazabranjenih.rs/*
+*://*.neodoljiva.com/*
+*://*.noizz.rs/*
+*://*.opusteno.rs/*
+*://*.paparazzo.ba/*
+*://*.paparazzo.rs/*
+*://*.pink-rs.com/*
+*://*.pink.rs/*
+*://*.pinkradio.rs/*
+*://*.pipl.com/*
+*://*.piplmetar.rs/*
+*://*.pobjeda.me/*
+*://*.pocniponovo.com/*
+*://*.poznati.info/*
+*://*.pudlica.com/*
+*://*.pulsonline.rs/*
+*://*.redportal.rs/*
+*://*.radaronline.com/*
+*://*.skandal.in.rs
+*://*.skandalozno.net
+*://*.smuti.info/*
+*://*.starmagazin.rs/*
+*://*.story.rs/*
+*://*.svemirac.com/*
+*://*.sveopoznatima.com/*
+*://*.svet-scandal.rs/*
+*://*.svetskiradio.com/*
+*://*.tamodaleko.co.rs/*
+*://*.tarzanija.com/*
+*://*.teenstar.rs/*
+*://*.toxictv.rs/*
+*://*.tracara.com/*
+*://*.tracarenje.com/*
+*://*.tracevi.com/*
+*://*.trendy.rs/*
+*://*.udarno.co/*
+*://*.vidisliku.com/*
+*://*.vipscena.com/*
+*://*.vukajlija.com/*
+*://*.wanted.rs/*
+*://*.zabavne-strane.com/*
+*://*.zadruga-uzivo.com/*
+*://*.zadrugavesti.com/*
+*://*.zbrka.com/*
+*://*.zenaportal.info/*
+*://*.zenskikutak.rs/*
+*://*.zenskimagazin.net/*
+*://*.zenskimagazin.rs/*
+
+# 🇺🇸 🇨🇦 🇬🇧
+
+# News
+
+*://*.vice.com/*
+
+# Tabloids 
+
+*://*.accessonline.com/*
+*://*.aceshowbiz.com/*
+*://*.affairpost.com/*
+*://*.allaboutthetea.com/*
+*://*.allure.com/*
+*://*.allwomenstalk.com/*
+*://*.bckonline.com/*
+*://*.bet.com/*
+*://*.bollynewz.com/*
+*://*.bollywoodhappening.com/*
+*://*.bollywoodhungama.com/*
+*://*.bollywoodlife.com/*
+*://*.bossip.com/*
+*://*.buzzcanadalive.com/*
+*://*.buzzfeed.com/*
+*://*.buzzfeednews.com/*
+*://*.buzzpatrol.com/*
+*://*.buzzvee.com/*
+*://*.celebmafia.com/*
+*://*.cheatsheet.com/*
+*://*.closeronline.co.uk/*
+*://*.closerweekly.com/*
+*://*.cocoperez.com/*
+*://*.contactvip.com/*
+*://*.cosmopolitan.com/*
+*://*.courthousenews.com/*
+*://*.cracked.com/
+*://*.crazyrumors.com/*
+*://*.dailymail.co.uk/*
+*://*.dailystar.co.uk/*
+*://*.deadline.com/*
+*://*.defamer.com.au/*
+*://*.defamer.com/*
+*://*.dirt.com/*
+*://*.dirtywood.com/*
+*://*.dlisted.com/*
+*://*.dramapanda.com/*
+*://*.ebony.com/*
+*://*.ecorazzi.com/*
+*://*.efeitopop.com/*
+*://*.elitedaily.com/*
+*://*.elle.com/*
+*://*.entertainmentdaily.com/*
+*://*.entertainmentgazette.co.uk/*
+*://*.entertainmentnow.com/*
+*://*.eonline.com/*
+*://*.esquire.com/*
+*://*.essence.com/*
 *://*.etcanada.com/*
 *://*.etonline.com/*
-*://*.etools.ch/*
-*://*.eurekster.com/*
-*://*.euroPixHD.io/*
 *://*.ew.com/*
-*://*.exalead.com/*
-*://*.excite.com/*
 *://*.express.co.uk/*
-*://*.expresstabloid.ba/*
 *://*.extratv.com/*
-*://*.eztv.re/*
-*://*.f2movies.to/*
-*://*.factbites.com/*
-*://*.faganfinder.com/*
-*://*.falkon.org
-*://*.fandor.com/*
 *://*.fanforum.com/*
 *://*.fanpop.com/*
-*://*.faroo.com/*
-*://*.fastream.cc/*
-*://*.fasttv.am/*
-*://*.fenserka.com/*
-*://*.ffmovies.ru/*
-*://*.file.io/*
-*://*.filehippo.com/*
-*://*.filehippo.com/*
-*://*.filehorse.com/*
-*://*.filehorse.com/*
-*://*.filelions.live/*
-*://*.filelions.to/*
-*://*.filemoon.sx/*
-*://*.filepress.click/*
-*://*.filepress.store/*
-*://*.filepress.xyz/*
-*://*.files.im/*
-*://*.filevip.cc/*
-*://*.filmclub.tv/*
-*://*.filmdoo.com/*
-*://*.filmelier.com/*
-*://*.filmon.com/*
-*://*.filmos.org/*
-*://*.filmotip.com/*
-*://*.filmotip.net/*
-*://*.filmoves.com/*
-*://*.filmovi.co/*
-*://*.filmovi.me/*
-*://*.filmovionline.to/*
-*://*.filmoviplex.com/*
-*://*.filmovisaprevodom.club/*
-*://*.filmovisaprevodom.com/*
-*://*.filmovisaprevodom.eu/*
-*://*.filmovisaprevodom.tv/*
-*://*.filmovisaprevodom.xyz/*
-*://*.filmovita.com/*
-*://*.filmovix.net/*
-*://*.filmxy.tv/*
-*://*.filsrol.com/*
-*://*.findability.com/*
-*://*.findit.com/*
-*://*.findx.com/*
-*://*.flashpeak.com
 *://*.flaunt.com/*
-*://*.flicks.co.uk/*
-*://*.flicks.com.au/*
-*://*.flixeon.me/*
-*://*.flixgo.sx/*
-*://*.flixhdtv.it.com/*
-*://*.flixhq.ru/*
-*://*.flixhq.to/*
-*://*.flixpatrol.com/*
-*://*.flixster.com/*
-*://*.flixtor.to/*
-*://*.floorp.app
-*://*.fluidbrowser.com
-*://*.fmovies.net.pk/*
-*://*.fmovies.to/*
-*://*.fmovies.wtf/*
-*://*.fmoviesz.to/*
-*://*.food.bolt.eu/*
-*://*.fox.com/*
-*://*.foxtel.com.au/*
-*://*.foxtel.com/*
-*://*.france.tv/*
-*://*.freeform.com/*
-*://*.freeintertv.com/*
-*://*.freemoviesfull.cc/*
-*://*.frenzymovies.net/*
-*://*.frndlytv.com/*
-*://*.fromhots.com/*
-*://*.fubo.tv/*
-*://*.fullmoviehd4k.com/*
-*://*.funclip.tv/*
-*://*.funimation.com/*
-*://*.funimation.rest/*
 *://*.gawker.com/*
-*://*.getdot.js.org
-*://*.ghostery.com/private-browser
-*://*.gibiru.com/*
-*://*.gigablast.com/*
 *://*.glamour.co.za/*
 *://*.glamour.com/*
 *://*.glamourmagazine.co.uk/*
 *://*.glamourparis.com/*
 *://*.glamourvanity.com/*
-*://*.gledaj.online/*
-*://*.gledajcrtace.rs/*
-*://*.gledajonline.net/*
-*://*.gledajsaprevodom.online/*
-*://*.gledajseriju.com/*
-*://*.gledalica.co/*
-*://*.gledalica.com/*
-*://*.gledalica.me/*
-*://*.gledalica.me/*
-*://*.gledalica.me/*
-*://*.gledalica.net/*
-*://*.gledalica.online/*
-*://*.globaltv.com/*
+*://*.goodmorningamerica.com/*
+*://*.goodstarvibes.com/*
+*://*.gq.com/*
+*://*.graziamagazine.com/*
+*://*.guyism.com
+*://*.harpersbazaar.com/*
+*://*.hawtcelebs.com/*
+*://*.heatworld.com/*
+*://*.hellomagazine.com/*
+*://*.heraldsun.com.au/*
+*://*.hispavista.com
+*://*.hola.com/*
+*://*.hollywire.com/*
+*://*.hollywood.com/*
+*://*.hollywoodlife.com/*
+*://*.hollywoodreporter.com/*
+*://*.hollywoodunlocked.com/*
+*://*.holymoly.co.uk/*
+*://*.hotlifestylenews.com/*
+*://*.huffingtonpost.es/*
+*://*.huffpost.com/*
+*://*.inquirer.net/*
+*://*.inquisitr.com/*
+*://*.instyle.co.uk/*
+*://*.instyle.com/*
+*://*.internewscast.com/*
+*://*.intouchweekly.com/*
+*://*.irishmirror.ie/*
+*://*.janetcharltonshollywood.com/*
+*://*.jaynestars.com/*
+*://*.jcpost.com/*
+*://*.jimmyshowbiz.com/*
+*://*.justjared.com/*
+*://*.justjaredjr.com/*
+*://*.lacelebs.co/*
+*://*.laineygossip.com/*
+*://*.lawebdelasfamosas.com/*
+*://*.le-show-biz.org/*
+*://*.lespipoles.com/*
+*://*.lifeandstylemag.com/*
+*://*.lipstickalley.com/*
+*://*.marieclaire.co.uk/*
+*://*.marieclaire.com/*
+*://*.metro.co.uk/*
+*://*.mirror.co.uk/*
+*://*.misdivas.com/*
+*://*.mrpaparazzi.com/*
+*://*.net-a-porter.com/*
+*://*.nickiswift.com/*
+*://*.nicolebitchy.com/*
+*://*.nypost.com/*
+*://*.ok.co.uk/*
+*://*.okmagazine.com/*
+*://*.oprahdaily.com/*
+*://*.pagesix.com/*
+*://*.parade.com/*
+*://*.parismatch.com/*
+*://*.people.com/*
+*://*.perezhilton.com/*
+*://*.personaglia.com/*
+*://*.popcrush.com/*
+*://*.popsugar.com/*
+*://*.pulse.com.gh/*
+*://*.purepeople.com/*
+*://*.purseblog.com/*
+*://*.radaronline.com/*
+*://*.realityblurb.com/*
+*://*.realitytea.com/*
+*://*.revistavanityfair.es/*
+*://*.rihannadaily.com/*
+*://*.rsvplive.ie/*
+*://*.scandalplanet.com/*
+*://*.scandalspy.com/*
+*://*.screenrant.com/*
+*://*.sheknows.com/*
+*://*.showbizjunkies.com/*
+*://*.showcelnews.com/*
+*://*.skyrock.com/*
+*://*.slaylebrity.com/*
+*://*.socialitelife.com/*
+*://*.soompi.com/*
+*://*.spike.com/*
+*://*.spreadit.org/*
+*://*.starcasm.net/*
+*://*.starmagazine.com/*
+*://*.starstyle.com/*
+*://*.stylecaster.com/*
+*://*.teenvogue.com/*
+*://*.the-express.com/*
+*://*.the-sun.com/*
+*://*.theblast.com/*
+*://*.thecelebpost.com/*
+*://*.thecut.com/*
+*://*.thedailygoss.com/*
+*://*.thedefensepost.com/*
+*://*.thederrtytruth.com/*
+*://*.thefrisky.com/*
+*://*.thehollywoodgossip.com/*
+*://*.theinsider.com/*
+*://*.thelondonpaper.com
+*://*.theluxuryspot.com
+*://*.themirror.com/*
+*://*.thepoptales.com/*
+*://*.theshaderoom.com/*
+*://*.thestar.co.uk/*
+*://*.thesun.co.uk/*
+*://*.thesun.ie/*
+*://*.thesundaily.my/*
+*://*.thezoereport.com/*
+*://*.tmz.com/*
+*://*.today.com/*
+*://*.toofab.com/*
+*://*.urbanbellemag.com/*
+*://*.uscelebstimes.com/*
+*://*.usmagazine.com/*
+*://*.vanityfair.com/*
+*://*.variety.com/*
+*://*.viciousrumors.com/*
+*://*.vipflux.com/*
+*://*.wealthypeeps.com/*
+*://*.whosdatedwho.com/*
+*://*.whowhatwear.com/*
+*://*.wonderwall.com/*
+*://*.woofactor.com/*
+*://*.worldhotnews.net/*
+*://*.worldpoliticsreview.com/*
+*://*.x17online.com/*
+*://*.zalebs.com/*
+*://*.zoomtventertainment.com/*
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [11] SEARCH ENGINES
+# Source(s): https://github.com/searxng/searx-instances
+
+askjeeves
+bndkt
+ecosia
+presearch
+searx
+startpage
+yandex
+
+*://*.$alltheinternet.com/*
+*://*.100searchengines.com/*
+*://*.123people.de/*
+*://*.9ifly.cn/*
+*://*.acxiomsearch.com/*
+*://*.andisearch.com/*
+*://*.ask.co.uk/*
+*://*.ask.com/*
+*://*.auone.jp/*
+*://*.baidu.com/*
+*://*.beagle.io/*
+*://*.becovi.com/*
+*://*.biglobe.ne.jp/*
+*://*.bing.com/*
+*://*.blekko.com/*
+*://*.blinde-kuh.de/*
+*://*.boardreader.com/*
+*://*.bunse.xyz/*
+*://*.busca.uol.com.br/*
+*://*.clusty.com/*
+*://*.coccoc.com/search/*
+*://*.daosearch.com/*
+*://*.daum.net/*
+*://*.disconnect.me/search/*
+*://*.dogpile.com/*
+*://*.entireweb.com/*
+*://*.etools.ch/*
+*://*.eurekster.com/*
+*://*.exalead.com/*
+*://*.excite.com/*
+*://*.factbites.com/*
+*://*.faganfinder.com/*
+*://*.faroo.com/*
+*://*.findability.com/*
+*://*.findit.com/*
+*://*.findx.com/*
+*://*.gibiru.com/*
+*://*.gigablast.com/*
 *://*.globo.com/busca/*
-*://*.globoplay.com/*
-*://*.globoplay.globo.com/*
-*://*.gloria.rs/*
 *://*.gmx.net/web/search/*
 *://*.gogglesearch.net/*
-*://*.gomovies-online.cam/*
-*://*.gomovies.sx/*
-*://*.gonet.tv/*
 *://*.goo.ne.jp/*
-*://*.goodmorningamerica.com/*
 *://*.goodsearch.com/*
-*://*.goodstarvibes.com/*
-*://*.goodstream.uno/*
 *://*.google.*/*
 *://*.google.ac/*
 *://*.google.ad/*
@@ -693,10 +1441,6 @@
 *://*.google.com.vc/*
 *://*.google.com.vn/*
 *://*.google.com/*
-*://*.google.com/chrome
-*://*.google.com/chrome/beta
-*://*.google.com/chrome/canary
-*://*.google.com/chrome/dev 
 *://*.google.cv/*
 *://*.google.cz/*
 *://*.google.de/*
@@ -781,23 +1525,381 @@
 *://*.google.vg/*
 *://*.google.vu/*
 *://*.google.ws/*
-*://*.goojara.to/*
-*://*.gostream.site/*
+*://*.hotbot.com/*
+*://*.info.com/*
+*://*.infospace.com/*
+*://*.interia.pl/*
+*://*.isearchfrom.com/*
+*://*.ixquick.com/*
+*://*.ixquick.eu/*
+*://*.joshuab.xyz/*
+*://*.jtateossian.xyz/*
+*://*.kagi.com
+*://*.kagi.com/*
+*://*.kiddle.co/*
+*://*.ksearch.com/*
+*://*.lukol.com/*
+*://*.lycos.com/*
+*://*.mail.ru/*
+*://*.metacrawler.com/*
+*://*.metacrawler.us/*
+*://*.metager.de/*
+*://*.metager.org/*
+*://*.mojeek.co.uk/*
+*://*.mojeek.com/*
+*://*.naver.com/*
+*://*.neeva.com/*
+*://*.nigma.ru/*
+*://*.nobigtech.es/*
+*://*.nona.to/*
+*://*.nortonsafe.search.com/*
+*://*.onesearch.com/*
+*://*.onet.pl/*
+*://*.oscobo.com/*
+*://*.ozzu.com/*
+*://*.peekier.com/*
+*://*.peekyou.com/*
+*://*.qrobe.it/*
+*://*.qwant.com/*
+*://*.qwant.net/*
+*://*.rambler.ru/*
+*://*.recherche.aol.fr/*
+*://*.runnaroo.com/*
+*://*.search-results.com/*
+*://*.search.aol.ca/*
+*://*.search.aol.co.uk/*
+*://*.search.aol.com/*
+*://*.search.brave.com/*
+*://*.search.com/*
+*://*.search.yahoo.com/*
+*://*.searchalot.com/*
+*://*.searchencrypt.com/*
+*://*.searchengine.party/*
+*://*.searchonlinenow.net/*
+*://*.searchzillions.com/*
+*://*.seznam.cz/*
+*://*.slickvpnsearch.com/*
+*://*.sm.cn/*
+*://*.so.com/*
+*://*.sogou.com/*
+*://*.st8.at/*
+*://*.startpage.com/*
+*://*.startpage.eu/*
+*://*.teoma.com/*
+*://*.terra.com/*
+*://*.thefloatinglab.world/*
+*://*.tiscali.it/*
+*://*.trovit.com/*
+*://*.uol.com.br/busca/*
+*://*.veromi.com/*
+*://*.viendex.com/*
+*://*.virgilio.it/*
+*://*.webcrawler.com/*
+*://*.wiby.me/*
+*://*.wiby.org/*
+*://*.wow.com/*
+*://*.wp.pl/*
+*://*.xayn.com/*
+*://*.ya.ru/*
+*://*.yep.com/*
+*://*.yioop.com/*
+*://*.you.com/*
+*://*.zapmeta.com/*
+
+*://*.ya.ru/*
+yandex
+
+metasearx
+searxng
+
+/^https?:\/\/[^\/?#]*searx[^\/?#]*(?:[\/?#]|$)/i
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [12] SOCIAL
+
+influencer
+
+*://*.myspace.com/*
+*://*.tumblr.com/*
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [13] SPAM
+
+/^https?:\/\/[^\/?#]*bio(?:graphy|graf(?:ia|ija)?)?[^\/?#]*(?:[\/?#]|$)/i
+
+/^https?:\/\/[^\/?#]*celeb(?:rit)?[^\/?#]*(?:[\/?#]|$)/i
+
+# Celebs
+celebcelebs, celebz, celebrity, celebrities, celebritiez, celebrite, celibrity
+celebrites, celebritez, celebsurgery, richcelebs, celebriot
+dirtylaundry, heightwiki, xelebrity
+
+# Fame
+fame, famous, famoso, famouspeople, famousbirthday, famousbio, birthsdeaths, fanpop, poznat, poznat
+fandango, glam, glamour
+
+# Fact
+factmandu, factrider, factsnippet, facts, factsbeyond, meme, knowsize
+
+/^https?:\/\/[^\/?#]*gossip[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*g0ssip[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*holly-?wood[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*bolly-?wood[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*rumor[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*jet-?set[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*lyrics[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*net-?worth[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*wealth[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*worth[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*quote[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*star(?:s|z)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*wiki[^\/?#]*(?:[\/?#]|$)/i
+
+# Ppl & Pop Culture
+people, ppl, peep, peeps, popbytes, popsci, popsugar, popularheight
+popularbio, popnable, popdust, popculture
+
+# Software Mirror & Download Sites
+
+*://*.filehippo.com/*
+*://*.filehorse.com/*
+*://*.softpedia-download.com/*
+*://*.softonic.com/*
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [14] SPORTS
+
+/^https?:\/\/[^\/?#]*[0-9]+sport[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*sport[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
+
+premierleague
+bleacherreport
+espn
+eurosport
+eurosportplayer
+fubosport
+golf
+livesoccer
+livesport
+olympics
+soccer
+sport
+sportnow
+sports, sportsonline, sportsstream, sportsstreaming
+sportz, streamable, streamsport
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+# [15] STREAMING A/V
+
+# Legit Streaming Sites
+
+*://*.10.com.au/*
+*://*.10play.com/*
+*://*.4kfilmdb.com/*
+*://*.7plus.com.au/*
+*://*.9now.com.au/*
+*://*.abc.com/*
+*://*.abc.net.au/*
+*://*.abema-global.com/*
+*://*.abema.tv/*
+*://*.acorn.tv/*
+*://*.adultswim.com/*
+*://*.aenetworks.tv/*
+*://*.aetv.com/*
+*://*.aha.video/*
+*://*.ahctv.com/*
+*://*.ahctv.net/*
+*://*.ais.co.th/*
+*://*.allblk.tv/*
+*://*.allente.dk/*
+*://*.allente.no/*
+*://*.allente.se/*
+*://*.amc.com/*
+*://*.amcplus.com/*
+*://*.amctv.com/*
+*://*.americantv.com/*
+*://*.angel.com/*
+*://*.animalplanet.com/*
+*://*.anime-on-demand.de/*
+*://*.animedigitalnetwork.fr/*
+*://*.antenna.live/*
+*://*.antennatv.tv/*
+*://*.antenne.at/*
+*://*.apollo.tv/*
+*://*.ardmediathek.de/*
+*://*.arenacloudtv.com/*
+*://*.arte.tv/*
+*://*.athome.fandango.com/*
+*://*.atresplayer.com/*
+*://*.att.tv/*
+*://*.atttv.com/*
+*://*.atttvnow.com/*
+*://*.attwatchtv.com/*
+*://*.auvio.rtbf.be/*
+*://*.azm.to/*
+*://*.azmovies.live/*
+*://*.azmovies.net/*
+*://*.azmoviestv.it.com/*
+*://*.bek.tv/*
+*://*.bet.plus/*
+*://*.binge.buzz/*
+*://*.binge.com.au/*
+*://*.binge.com/*
+*://*.blue.ch/*
+*://*.blueplus.ch/*
+*://*.bnt.bg/*
+*://*.bravotv.co.nz/*
+*://*.bravotv.com/*
+*://*.britbox.com/*
+*://*.canalplus.com/*
+*://*.canlitv.com/*
+*://*.canlitv.me/*
+*://*.canlitv.vin/*
+*://*.canlitvizle.com/*
+*://*.cartoonnetwork-id.com/*
+*://*.cartoonnetwork.ca/*
+*://*.cc.com/*
+*://*.channel4.com/*
+*://*.channel5.com/*
+*://*.channelstore.roku.com/*
+*://*.cinematvmovies.com/*
+*://*.cinemax.com/*
+*://*.cineverse.com/*
+*://*.citytv.com/*
+*://*.citytvplus.ca/*
+*://*.claro.com.co/*
+*://*.claro.com.pe/*
+*://*.clarovideo.com/*
+*://*.clarovideo.net/*
+*://*.classiccinemaonline.com.au/*
+*://*.classiccinemaonline.com/*
+*://*.classiccinemaonline.org/*
+*://*.contv.com/*
+*://*.cosmotetv.gr/*
+*://*.cosmotetvott.gr/*
+*://*.crack-streams.net/*
+*://*.crackle.com.in/*
+*://*.crackle.com/*
+*://*.crackle.mobi/*
+*://*.crackstream-tv.com/*
+*://*.crackstreamsus.com/*
+*://*.crave.ca/*
+*://*.criterion.com/*
+*://*.criterionchannel.com/*
+*://*.crunchyroll.com/*
+*://*.ctv.ca/*
+*://*.ctv.caplex/*
+*://*.cuevana.pro/*
+*://*.cuevana.se/*
+*://*.cuevana2.io/*
+*://*.cuevana3.io/*
+*://*.cultureunplugged.com/*
+*://*.curiositystream.com/*
+*://*.cwtv.com/*
+*://*.d23.com/*
+*://*.dacast.com/*
+*://*.dafilms.com/*
+*://*.dailymotion.com/*
+*://*.dazn.com/*
+*://*.desktop-documentaries.com/*
+*://*.dimsumtv.com/*
+*://*.directv.cl/*
+*://*.directv.com.co/*
+*://*.directv.com/*
+*://*.directvchilepagos.cl/*
+*://*.directvgo.com/*
+*://*.directvla.com/*
+*://*.discoverrybrasil.com/*
+*://*.discovery.com/*
+*://*.discoverybrasil.com/*
+*://*.discoveryplus.com/*
+*://*.discoveryuk.com/*
+*://*.disneylatino.com/*
+*://*.disneynow.com/*
+*://*.disneyplus.com/*
+*://*.disneyplus.disney.co.jp/*
+*://*.disneyplusoriginals.disney.com/*
+*://*.disneyplusoriginals.disney/*
+*://*.docplay.com/*
+*://*.docsonline.tv/*
+*://*.documentary24.com
+*://*.documentary24.com/*
+*://*.documentaryaddict.com/*
+*://*.documentaryheaven.com/*
+*://*.documentarylovers.com/*
+*://*.documentarymania.com/*
+*://*.documentarystorm.com/*
+*://*.documentarytube.com/*
+*://*.dr.dk/*
+*://*.dstv.com/*
+*://*.efilm.online/*
+*://*.eon.tv/*
+*://*.espinof.com/*
+*://*.espnplayer.com/*
+*://*.fandor.com/*
+*://*.fasttv.am/*
+*://*.filmclub.tv/*
+*://*.filmdoo.com/*
+*://*.filmelier.com/*
+*://*.filmon.com/*
+*://*.filmos.org/*
+*://*.filmotip.com/*
+*://*.filmotip.net/*
+*://*.filmoves.com/*
+*://*.filmovi.co/*
+*://*.filmovi.me/*
+*://*.filmovionline.to/*
+*://*.filmoviplex.com/*
+*://*.filmovisaprevodom.club/*
+*://*.filmovisaprevodom.com/*
+*://*.filmovisaprevodom.eu/*
+*://*.filmovisaprevodom.tv/*
+*://*.filmovisaprevodom.xyz/*
+*://*.filmovita.com/*
+*://*.filmovix.net/*
+*://*.flicks.co.uk/*
+*://*.flicks.com.au/*
+*://*.flixeon.me/*
+*://*.flixhdtv.it.com/*
+*://*.flixpatrol.com/*
+*://*.flixster.com/*
+*://*.fmovies.net.pk/*
+*://*.fox.com/*
+*://*.foxtel.com.au/*
+*://*.foxtel.com/*
+*://*.france.tv/*
+*://*.freeform.com/*
+*://*.freeintertv.com/*
+*://*.frenzymovies.net/*
+*://*.frndlytv.com/*
+*://*.fromhots.com/*
+*://*.fubo.tv/*
+*://*.fullmoviehd4k.com/*
+*://*.funclip.tv/*
+*://*.funimation.com/*
+*://*.funimation.rest/*
+*://*.gledaj.online/*
+*://*.gledajcrtace.rs/*
+*://*.gledajonline.net/*
+*://*.gledajsaprevodom.online/*
+*://*.gledajseriju.com/*
+*://*.gledalica.co/*
+*://*.gledalica.com/*
+*://*.gledalica.me/*
+*://*.gledalica.me/*
+*://*.gledalica.me/*
+*://*.gledalica.net/*
+*://*.gledalica.online/*
+*://*.globaltv.com/*
+*://*.globoplay.com/*
+*://*.globoplay.globo.com/*
+*://*.gonet.tv/*
 *://*.gostream.to/*
-*://*.gounlimited.to/*
-*://*.gq.com/*
-*://*.grand.online/*
-*://*.grazia.rs/*
-*://*.graziamagazine.com/*
-*://*.guyism.com
 *://*.hallmarkchannel.com/*
 *://*.hallmarkdrama.com/*
 *://*.hallmarkmoviesandmysteries.com/*
 *://*.hallmarkplus.com/*
 *://*.halobing.net/*
-*://*.harpersbazaar.com/*
-*://*.harpersbazaar.rs/*
-*://*.hawtcelebs.com/*
 *://*.hbo.com/*
 *://*.hbomax.com/*
 *://*.hbomax.tv/*
@@ -805,232 +1907,107 @@
 *://*.hbowatch.com/*
 *://*.hdfilmovi.net/*
 *://*.hdsaprevodom.com/*
-*://*.hdtoday.tv/*
-*://*.heatworld.com/*
-*://*.hellomagazin.rs/*
-*://*.hellomagazine.com/*
-*://*.heraldsun.com.au/*
 *://*.hidive.com/*
 *://*.hinet.net/*
-*://*.hispavista.com
 *://*.history.com/*
 *://*.hmnow.com/*
 *://*.hoichoi.tv/*
-*://*.hola.com/*
-*://*.hollywire.com/*
-*://*.hollywood.com/*
-*://*.hollywoodlife.com/*
-*://*.hollywoodreporter.com/*
-*://*.hollywoodunlocked.com/*
-*://*.holymoly.co.uk/*
 *://*.hoopladigital.com/*
 *://*.horizon.tv/*
-*://*.hotbot.com/*
-*://*.hotlifestylenews.com/*
 *://*.hotstar.com/*
 *://*.howdy.tv/*
 *://*.hoy.tv/*
 *://*.hrt.hr/*
-*://*.huffingtonpost.es/*
-*://*.huffpost.com/*
 *://*.hulu.com/*
-*://*.hurawatch.at/*
-*://*.hurawatch.cc/*
-*://*.hxfile.co/*
-*://*.hydrax.net/*
-*://*.hypetv.rs/*
 *://*.ib3.org/*
-*://*.icab.de
-*://*.idjtv.com/*
 *://*.iflix.com/*
-*://*.ilvruan.com
 *://*.indieflix.com/*
-*://*.indusappstore.com/*
-*://*.info.com/*
-*://*.infolo.rs/*
-*://*.informer.rs/*
-*://*.infospace.com/*
 *://*.inkapelis.me/*
-*://*.inquirer.net/*
-*://*.inquisitr.com/*
-*://*.instyle.co.uk/*
-*://*.instyle.com/*
-*://*.interia.pl/*
-*://*.internewscast.com/*
-*://*.intouchweekly.com/*
 *://*.iq.com/*
-*://*.irishmirror.ie/*
-*://*.isearchfrom.com/*
 *://*.itv.com/*
 *://*.iwanttfc.com/*
 *://*.iwonder.com/*
-*://*.ixquick.com/*
-*://*.ixquick.eu/*
 *://*.izzi.mx/*
 *://*.izzigo.tv/*
-*://*.jakazena.com/*
-*://*.janetcharltonshollywood.com/*
-*://*.jaynestars.com/*
-*://*.jcpost.com/*
-*://*.jimmyshowbiz.com/*
 *://*.jiocinema.com/*
 *://*.jiotv.com/*
-*://*.joshuab.xyz/*
 *://*.joyn.at/*
 *://*.joyn.de/*
-*://*.jtateossian.xyz/*
 *://*.just2watch.com/*
-*://*.justjared.com/*
-*://*.justjaredjr.com/*
 *://*.justwatch.cc/*
 *://*.justwatch.com/*
-*://*.kagi.com
-*://*.kagi.com/*
 *://*.kanopy.com/*
 *://*.kapang.com/*
-*://*.karakter.rs/*
 *://*.kast.gg/*
-*://*.kiddle.co/*
 *://*.kijikmultimedia.com/*
 *://*.kinopoisk.ru/*
 *://*.kissanime-ws.com/*
 *://*.klikfilm.org/*
 *://*.kocowa.com/*
 *://*.kontekst.io/*
-*://*.krakenfiles.com/*
-*://*.ksearch.com/*
-*://*.kurir.rs/*
 *://*.l-tv.de/*
-*://*.lacelebs.co/*
-*://*.laineygossip.com/*
 *://*.lasestrellas.tv/*
-*://*.lawebdelasfamosas.com/*
-*://*.le-show-biz.org/*
-*://*.lepotaizdravlje.rs/*
-*://*.lepotica.rs/*
-*://*.lespipoles.com/*
-*://*.letsupload.io/*
-*://*.lifeandstylemag.com/*
 *://*.lionsgate.com/*
-*://*.lipstickalley.com/*
 *://*.livenettv.mn/*
 *://*.livenowfox.com/*
 *://*.livestream.com/*
 *://*.livestreamde.com/*
 *://*.livetotal.net/*
 *://*.localnow.com/*
-*://*.lookmovie.foundation/*
-*://*.lookmovie.io/*
 *://*.looxtv.net/*
 *://*.looxtv.tv/*
-*://*.losmovies.sx/*
-*://*.lovesensa.rs/*
 *://*.lrt.lt/*
-*://*.ludujemo.info/*
-*://*.lukol.com/*
-*://*.luluvdoo.com/*
-*://*.lycos.com/*
-*://*.m4ufree.tv/*
-*://*.m4uhd.tv/*
 *://*.m6.fr/*
-*://*.magazin-tabloid.com/*
-*://*.magazin.novosti.rs/*
-*://*.magazinbalkan.eu/*
-*://*.mail.ru/*
 *://*.manyvids.com/*
-*://*.marieclaire.co.uk/*
-*://*.marieclaire.com/*
-*://*.marieclaire.rs/*
 *://*.matchpremier.ru/*
 *://*.matchtv.ru/*
 *://*.max.com/*
 *://*.mbc.net/*
-*://*.mcloud.to/*
 *://*.mediaklikk.hu/*
 *://*.mediaset.it/*
 *://*.mediasetinfinity.es/*
 *://*.megacartoons.net/*
-*://*.megadl.link/*
-*://*.megashare9.to/*
-*://*.megaupload.nz/*
 *://*.megogo.net/*
 *://*.metacafe.com/*
-*://*.metacrawler.com/*
-*://*.metacrawler.us/*
-*://*.metager.de/*
-*://*.metager.org/*
-*://*.metro.co.uk/*
 *://*.mewatch.sg/*
-*://*.minutzamene.com/*
 *://*.mirari.tv/*
-*://*.mirror.co.uk/*
-*://*.misdivas.com/*
 *://*.mitelefe.com/*
-*://*.mixdrop.co/*
-*://*.mixdrop.sn/*
-*://*.mojamodrica.info/*
-*://*.mojeek.co.uk/*
-*://*.mojeek.com/*
 *://*.mola.tv/*
 *://*.molotov.tv/*
 *://*.mometu.com/*
-*://*.mondo.me/*
-*://*.mondo.rs/*
 *://*.move.tv/*
-*://*.movie-web.app/*
-*://*.movie2k.ch/*
 *://*.moviefone.com/*
 *://*.moviepass.com/*
-*://*.movierulz.vc/*
-*://*.movies.disney/*
-*://*.movies2watch.cc/*
 *://*.moviesanywhere.com/*
-*://*.moviesjoy.to/*
-*://*.moviestowatch.tv/*
 *://*.moviestvnetwork.com/*
 *://*.moviesyify.online/*
 *://*.movistar.cl/*
 *://*.movistar.com.co/*
 *://*.movistar.es/*
 *://*.movistarplus.es/*
-*://*.mp4upload.com/*
-*://*.mrpaparazzi.com/*
 *://*.mtelesat.com/*
 *://*.mtv.com/*
 *://*.mtvasia.com/*
 *://*.mtvla.com/*
 *://*.mubi.com/*
-*://*.mudrolije.org/*
-*://*.muskimagazin.rs/*
 *://*.musor.tv/*
 *://*.mxplayer.in/*
 *://*.my.lifetime.life/*
 *://*.my.lifetime/*
 *://*.my5.today/*
 *://*.mybundle.tv/*
-*://*.myflixer.to/*
-*://*.myflixerz.to/*
 *://*.mylifetime.com/*
 *://*.mylifetimetv.ca/*
 *://*.myosn.osn.com/*
 *://*.myosn.osn/*
-*://*.myspace.com/*
-*://*.mystore.to/*
 *://*.mytfc.com/*
 *://*.mytvsuper.com/*
 *://*.myvideo.ge/*
 *://*.myvideo.net.tw/*
 *://*.mzaalo.com/*
-*://*.najzena.rs/*
 *://*.natgeotv.com/*
 *://*.nation.foxnews.com/*
-*://*.naver.com/*
 *://*.nbc.com/*
-*://*.nedeljnikafera.net/*
-*://*.neeva.com/*
-*://*.nemazabranjenih.rs/*
-*://*.neodoljiva.com/*
-*://*.net-a-porter.com/*
 *://*.netflix.com/*
 *://*.netflixjunkie.com/*
 *://*.netflixlife.com/*
@@ -1046,21 +2023,13 @@
 *://*.nickelodeon.la/*
 *://*.nickelodeon.no/*
 *://*.nickindia.com/*
-*://*.nickiswift.com/*
 *://*.nickjr.com/*
 *://*.nickjr.tv/*
 *://*.nickplus.ca/*
 *://*.nicktv.it/*
-*://*.nicolebitchy.com/*
-*://*.nigma.ru/*
-*://*.nitro.download/*
 *://*.nlziet.nl/*
-*://*.nobigtech.es/*
-*://*.noizz.rs/*
-*://*.nona.to/*
 *://*.nordiskfilm.com/*
 *://*.nordiskfilmplus.com/*
-*://*.nortonsafe.search.com/*
 *://*.nosey.com/*
 *://*.novaplus.dnevnik.hr/*
 *://*.now.com/*
@@ -1072,50 +2041,32 @@
 *://*.nowtv.now.com/*
 *://*.npo.nl/*
 *://*.nrk.no/*
-*://*.nypost.com/*
 *://*.odysee.com/*
-*://*.ok.co.uk/*
-*://*.ok.ru/*
 *://*.okko.tv/*
-*://*.okmagazine.com/*
 *://*.olweb.tv/*
 *://*.ome.tv/*
-*://*.onesearch.com/*
-*://*.onet.pl/*
 *://*.onionflix.org/*
 *://*.onlinefilmovi.net/*
-*://*.onlinemovieshindi.com/*
 *://*.onlinesaprevodom.co/*
 *://*.onlinestream.live/*
 *://*.onlinetvplayer.com/*
 *://*.ontvtonight.com/*
-*://*.oprahdaily.com/*
-*://*.opusteno.rs/*
 *://*.orange.es/*
 *://*.orange.fr/*
 *://*.orange.ro/*
 *://*.orangetvgo.be/*
 *://*.orf.at/*
-*://*.oscobo.com/*
 *://*.osn.com/*
 *://*.osnplus.com/*
 *://*.ottplay.com/*
-*://*.ozzu.com/*
-*://*.pagesix.com/*
 *://*.pantaya.com/*
-*://*.paparazzo.ba/*
-*://*.paparazzo.rs/*
-*://*.parade.com/*
 *://*.paramountnetwork.es/*
 *://*.paramountplus.com/*
 *://*.paramountpluswithshowtime.com/*
-*://*.parismatch.com/*
 *://*.pbs.org/*
 *://*.pbskids.org/*
 *://*.pdc.tv/*
 *://*.peacocktv.com/*
-*://*.peekier.com/*
-*://*.peekyou.com/*
 *://*.peliculaslatino.com/*
 *://*.pelis-online.tv/*
 *://*.pelisgratis.nu/*
@@ -1127,21 +2078,10 @@
 *://*.pelisplanet.com/*
 *://*.pelisplus2.io/*
 *://*.pelisplushd.net/*
-*://*.people.com/*
-*://*.perezhilton.com/*
-*://*.personaglia.com/*
 *://*.philo.com/*
-*://*.photopea.com/*
 *://*.pickbox.hr/*
 *://*.pickboxnow.com/*
 *://*.pickx.be/*
-*://*.pink-rs.com/*
-*://*.pink.rs/*
-*://*.pinkradio.rs/*
-*://*.pipl.com/*
-*://*.piplmetar.rs/*
-*://*.pixeldrain.com/*
-*://*.pixlr.com/*
 *://*.play.hbonow.com/*
 *://*.play.hbonow/*
 *://*.play.maxgo.com/*
@@ -1153,57 +2093,32 @@
 *://*.plex.tv/*
 *://*.plus.rtl.de/*
 *://*.pluto.tv/*
-*://*.pobjeda.me/*
 *://*.pocetna.net/*
-*://*.pocniponovo.com/*
 *://*.popcornfilmovi.com/*
 *://*.popcornflix.com/*
-*://*.popcrush.com/*
 *://*.popkorntajm.com/*
 *://*.popkorntajm.cu.ma/*
-*://*.popsugar.com/*
-*://*.poznati.info/*
 *://*.primatv.ro/*
 *://*.primevideo.com/*
 *://*.projectfreetv.fun/*
 *://*.projectfreetv.online/*
 *://*.projectfreetv.stream/*
-*://*.prostream.to/*
 *://*.proximus.be/*
 *://*.prvobitno.com/*
-*://*.pudlica.com/*
 *://*.puhutv.com/*
-*://*.pulse.com.gh/*
-*://*.pulsonline.rs/*
-*://*.purepeople.com/*
-*://*.purseblog.com/*
-*://*.qrobe.it/*
 *://*.qubit.tv/*
-*://*.qwant.com/*
-*://*.qwant.net/*
-*://*.radaronline.com/*
-*://*.radaronline.com/*
 *://*.raiplay.it/*
 *://*.rakuten.tv/*
-*://*.rambler.ru/*
-*://*.rapidgator.net/*
-*://*.realityblurb.com/*
-*://*.realitytea.com/*
-*://*.recherche.aol.fr/*
-*://*.redportal.rs/*
 *://*.reelgood.com/*
 *://*.repelis24.co/*
 *://*.repelishd.me/*
 *://*.retrocrush.tv/*
 *://*.reveel.net/*
-*://*.revistavanityfair.es/*
-*://*.rihannadaily.com/*
 *://*.rocumentaries.com/*
 *://*.rogers.com/*
 *://*.rogersxfinitystream.rogers.com/*
 *://*.roku.com/*
 *://*.rsi.ch/*
-*://*.rsvplive.ie/*
 *://*.rtd.rt.com/*
 *://*.rtd.rt/*
 *://*.rte.ie/*
@@ -1214,42 +2129,16 @@
 *://*.rtr.ch/*
 *://*.rtsplaneta.rs/*
 *://*.rtve.es/*
-*://*.runnaroo.com/*
 *://*.russianfilmhub.com/*
-*://*.savefiles.com/*
-*://*.sbembed.com/*
 *://*.sbs.com.au/*
-*://*.scandalplanet.com/*
-*://*.scandalspy.com/*
 *://*.scener.com/*
-*://*.screenrant.com/*
-*://*.search-results.com/*
-*://*.search.aol.ca/*
-*://*.search.aol.co.uk/*
-*://*.search.aol.com/*
-*://*.search.brave.com/*
-*://*.search.com/*
-*://*.search.yahoo.com/*
-*://*.searchalot.com/*
-*://*.searchencrypt.com/*
-*://*.searchengine.party/*
-*://*.searchonlinenow.net/*
-*://*.searchzillions.com/*
-*://*.seehd.nl/*
-*://*.send.cm/*
-*://*.series9.la/*
 *://*.seriestowatch.com/*
 *://*.serijebalkan.com/*
 *://*.serijeonline.net/*
 *://*.servustv.com/*
-*://*.seznam.cz/*
-*://*.sflix.to/*
-*://*.sheknows.com/*
 *://*.shemaroome.com/*
 *://*.sho.com/*
-*://*.showbizjunkies.com/*
 *://*.showbox.media/*
-*://*.showcelnews.com/*
 *://*.showmax.com/*
 *://*.showtime.com/*
 *://*.showtimes.com/*
@@ -1258,108 +2147,55 @@
 *://*.sidereel.com/*
 *://*.singtel.com/*
 *://*.siteindices.com/*
-*://*.skandal.in.rs
-*://*.skandalozno.net
 *://*.skymais.com.br/*
 *://*.skyperfectv.co.jp/*
-*://*.skyrock.com/*
 *://*.skyshowtime.com/*
 *://*.skystreamx.com/*
-*://*.slaylebrity.com/*
-*://*.slickvpnsearch.com/*
 *://*.sling.com/*
-*://*.sm.cn/*
 *://*.smotreshka.tv/*
-*://*.smuti.info/*
-*://*.so.com/*
-*://*.soap2day.sh/*
-*://*.soap2day.to/*
-*://*.soapgate.org/*
-*://*.socialitelife.com/*
-*://*.softonic.com/*
-*://*.softpedia-download.com/*
-*://*.softpedia.com/*
-*://*.sogou.com/*
-*://*.solarmovie.pe/*
-*://*.solarmoviez.ru/*
-*://*.solidfiles.com/*
 *://*.sonyliv.com/*
 *://*.sonymoviechannel.com/*
 *://*.sonymovies.co.uk/*
 *://*.sonymovies.co/*
 *://*.sonymovies.com/*
 *://*.sooka.my/*
-*://*.soompi.com/*
 *://*.southpark.cc/*
 *://*.spectrum.com/*
 *://*.spectrum.net/*
-*://*.spike.com/*
-*://*.spreadit.org/*
 *://*.srf.ch/*
-*://*.st8.at/*
 *://*.stan.com.au/*
 *://*.stan.com/*
-*://*.starcasm.net/*
 *://*.starhub.com/*
 *://*.starhubgee.com.sg/*
 *://*.starhubtvplus.com/*
-*://*.starmagazin.rs/*
-*://*.starmagazine.com/*
-*://*.starstyle.com/*
-*://*.startpage.com/*
-*://*.startpage.eu/*
 *://*.starz.ca/*
 *://*.starz.com/*
 *://*.starzpasha.com/*
 *://*.starzplay.com/*
 *://*.starzplay.pk/*
 *://*.stirr.com/*
-*://*.story.rs/*
 *://*.stream-planet.com/*
-*://*.stream.io/*
 *://*.stream.osn.com/*
 *://*.stream.osn/*
 *://*.streamdor.com/*
-*://*.streamdreams.org/*
-*://*.streamhide.com/*
 *://*.streamisrael.tv/*
-*://*.streamlare.com/*
-*://*.streamplay.to/*
 *://*.streamsafely.com/*
-*://*.streamsb.net/*
-*://*.streamta.site/*
-*://*.streamtape.com/*
-*://*.streamtape.to/*
-*://*.streamwish.com/*
-*://*.streamwish.to/*
 *://*.stremio.com/*
 *://*.striv.tv/*
 *://*.stv.tv/*
-*://*.stylecaster.com/*
 *://*.sundancenow.com/*
 *://*.sundancetv.com/*
 *://*.sundancetvglobal.com/*
 *://*.sunnxt.com/*
-*://*.supervideo.cc/*
-*://*.supervideo.tv/*
-*://*.svemirac.com/*
-*://*.sveopoznatima.com/*
-*://*.svet-scandal.rs/*
-*://*.svetskiradio.com/*
 *://*.svevid.net/*
 *://*.svtplay.se/*
 *://*.talk.tv/*
-*://*.tamodaleko.co.rs/*
-*://*.tarzanija.com/*
 *://*.tataplay.com/*
 *://*.tataplaybinge.com/*
-*://*.taylorplayer.com/*
 *://*.tbs.com/*
 *://*.tcm.com/*
 *://*.tcmuk.tv/*
 *://*.teaser-trailer.com/*
-*://*.teenstar.rs/*
-*://*.teenvogue.com/*
 *://*.tele2.se/*
 *://*.teleboy.ch/*
 *://*.telenet.tv/*
@@ -1374,72 +2210,31 @@
 *://*.telmore.dk/*
 *://*.telus.com/*
 *://*.telustvplus.com/*
-*://*.teoma.com/*
-*://*.terra.com/*
 *://*.tf1.fr/*
 *://*.tg4.ie/*
-*://*.the-express.com/*
-*://*.the-sun.com/*
-*://*.theblast.com/*
-*://*.thecelebpost.com/*
-*://*.thecut.com/*
-*://*.thedailygoss.com/*
-*://*.thedefensepost.com/*
-*://*.thederrtytruth.com/*
-*://*.thefloatinglab.world/*
-*://*.thefrisky.com/*
-*://*.thehollywoodgossip.com/*
-*://*.theinsider.com/*
-*://*.thelondonpaper.com
-*://*.theluxuryspot.com
-*://*.themirror.com/*
 *://*.themovienetwork.ca/*
-*://*.thepiratebay.org/*
-*://*.thepoptales.com/*
 *://*.therokuchannel.roku.com/*
-*://*.theshaderoom.com/*
-*://*.thestar.co.uk/*
 *://*.thestreamable.com/*
-*://*.thesun.co.uk/*
-*://*.thesun.ie/*
-*://*.thesundaily.my/*
-*://*.thevideo.me/*
-*://*.thezoereport.com/*
 *://*.thistv.com/*
 *://*.threenow.co.nz/*
 *://*.timvision.it/*
-*://*.tinyzonetv.to/*
-*://*.tiscali.it/*
 *://*.tivify.es/*
 *://*.tivify.tv/*
 *://*.tlc.com/*
-*://*.tmz.com/*
 *://*.tntdrama.com/*
 *://*.tntgo.tv/*
 *://*.tod.tv/*
-*://*.today.com/*
 *://*.todtv.com.tr/*
 *://*.toggo.de/*
-*://*.toofab.com/*
 *://*.topdocumentaryfilms.com/*
 *://*.torrentmovie.fun/*
 *://*.torrents-proxy.com/*
-*://*.toxictv.rs/*
-*://*.tracara.com/*
-*://*.tracarenje.com/*
-*://*.tracevi.com/*
 *://*.trailersfromhell.com/*
-*://*.trendy.rs/*
 *://*.tribute.ca/*
-*://*.trovit.com/*
 *://*.trt1.com.tr/*
 *://*.trueid.net/*
-*://*.tubeload.co/*
-*://*.tubitv-unblocked.com/*
 *://*.tubitv.com/*
 *://*.tudiscovery.com/*
-*://*.tumblr.com/*
-*://*.tusfiles.com/*
 *://*.tuxplay.com/*
 *://*.tv-streaming.at/*
 *://*.tv-vlaanderen.be/*
@@ -1471,52 +2266,261 @@
 *://*.twitchcon.com/*
 *://*.twitchrivals.com/*
 *://*.u.co.uk/*
-*://*.udarno.co/*
 *://*.ultrapeliculashd.com/*
 *://*.unifi.com.my/*
 *://*.unified-streaming.com/*
-*://*.uol.com.br/busca/*
-*://*.upload.ee/*
-*://*.uploadhaven.com/*
-*://*.uploadhub.to/*
-*://*.uploadrar.com/*
-*://*.uptobox.com/*
-*://*.uptodown.com/*
 *://*.uptv.com/*
-*://*.urbanbellemag.com/*
 *://*.usanetwork.com/*
-*://*.uscelebstimes.com/*
-*://*.userload.co/*
-*://*.usmagazine.com/*
-*://*.vanityfair.com/*
-*://*.variety.com/*
-*://*.veev.to/*
 *://*.veoh.com/*
 *://*.ver-peliculas.co/*
 *://*.ver.acceder/*
 *://*.verepeliculas.com/*
-*://*.veromi.com/*
 *://*.verpeliculasultra.com/*
-*://*.verystream.com/*
 *://*.vg.no/*
 *://*.viaplay.com/*
 *://*.viaplay.dk/*
 *://*.viaplay.se/*
 *://*.viaplaygroup.com/*
-*://*.vice.com/*
 *://*.vicetv.com/*
-*://*.viciousrumors.com/*
+*://*.videoland.com/*
+*://*.vidio.com/*
+*://*.viki.com/*
+*://*.vimeo.com/*
+*://*.vipbox1.com/*
+*://*.vipserije.com/*
+*://*.virgintvgo.virginmedia.com/*
+*://*.viu.com/*
+*://*.viu.tv/*
+*://*.vivamax.net/*
+*://*.vix.com/*
+*://*.vixdigitalott.com/*
+*://*.vlive.tv/*
+*://*.voo.be/*
+*://*.voot.com/*
+*://*.vrt.be/*
+*://*.vtm.be/*
+*://*.vtmgo.be/*
+*://*.vtvcab.vn/*
+*://*.vudu.com/*
+*://*.wakanim.tv/*
+*://*.watchcharge.com/*
+*://*.watchdocumentaries.com/*
+*://*.watchhallmarktv.com/*
+*://*.watchmojo.com/*
+*://*.watchparty.me/*
+*://*.watchvudu.com/*
+*://*.werstreamt.es/*
+*://*.whattowatch.com/*
+*://*.willow.tv/*
+*://*.wink.ru/*
+*://*.wowtv.de/*
+*://*.wp.pl/*
+*://*.wsn.live/*
+*://*.wuaki.tv/*
+*://*.ww2.movistar.cl/*
+*://*.xfinity.com/*
+*://*.xfinityoncampus.com/*
+*://*.xumo.com/*
+*://*.xumo.tv/*
+*://*.yallo.ch/*
+*://*.yallo.tv/*
+*://*.yidio.com/*
+*://*.yle.fi/*
+*://*.yousee.at/*
+*://*.yousee.dk/*
+*://*.yupptv.com/*
+*://*.zappn.tv/*
+*://*.zattoo.com/*
+*://*.zdf.de/*
+*://*.zee5.com/*
+*://*.ziggo.nl/*
+*://*.ziggogo.tv/*
+*://*.zillionfilm.com/*
+
+# Piracy Streaming Sites
+
+
+123movie
+1234movie
+movies123
+1mvovie
+fmovie
+azmovie
+flixhd
+flixhq
+gomovie
+movie4k
+movie8k
+primewire
+putlocker
+yify
+yts
+
+Rotating TLDs for Above Domains
+
+*://*.1movies.tv/*
+*://*.afdah.info/*
+*://*.azm.to/*
+*://*.bflix.to/*
+*://*.c1ne.co/*
+*://*.cineb.net/*
+*://*.cinehub.to/*
+*://*.cineplex.to/*
+*://*.classic-tv.com/*
+*://*.dosmovies.com/*
+*://*.emovies.io/*
+*://*.euroPixHD.io/*
+*://*.eztv.re/*
+*://*.f2movies.to/*
+*://*.ffmovies.ru/*
+*://*.filmxy.tv/*
+*://*.flixgo.sx/*
+*://*.flixhq.ru/*
+*://*.flixhq.to/*
+*://*.flixtor.to/*
+*://*.fmovies.to/*
+*://*.fmovies.wtf/*
+*://*.fmoviesz.to/*
+*://*.freemoviesfull.cc/*
+*://*.gomovies-online.cam/*
+*://*.gomovies.sx/*
+*://*.goojara.to/*
+*://*.gostream.site/*
+*://*.hdtoday.tv/*
+*://*.hurawatch.at/*
+*://*.hurawatch.cc/*
+*://*.lookmovie.foundation/*
+*://*.lookmovie.io/*
+*://*.losmovies.sx/*
+*://*.m4ufree.tv/*
+*://*.m4uhd.tv/*
+*://*.movie-web.app/*
+*://*.movierulz.vc/*
+*://*.movies.disney/*
+*://*.movies2watch.cc/*
+*://*.moviesjoy.to/*
+*://*.moviestowatch.tv/*
+*://*.myflixer.to/*
+*://*.myflixerz.to/*
+*://*.onlinemovieshindi.com/*
+*://*.seehd.nl/*
+*://*.series9.la/*
+*://*.sflix.to/*
+*://*.soap2day.sh/*
+*://*.soap2day.to/*
+*://*.soapgate.org/*
+*://*.solarmovie.pe/*
+*://*.solarmoviez.ru/*
+*://*.streamdreams.org/*
+*://*.thepiratebay.org/*
+*://*.tinyzonetv.to/*
+*://*.tubitv-unblocked.com/*
+*://*.vumoo.to/*
+*://*.w-123movies.com/*
+*://*.watchfree.at/*
+*://*.watchseries.is/*
+*://*.watchserieshd.tv/*
+*://*.watchtvseries.io/*
+*://*.yesmovies.ag/*
+*://*.yesmovies.vc/*
+*://*.ymovies.se/*
+*://*.ymovies.vip/*
+*://*.yomovies.bid/*
+*://*.yrsprts.stream/*
+*://*.ytshd.top/*
+*://*.ytsmx.com/*
+*://*.ytstv.me/*
+*://*.zmovies.cc/*
+
+# Video Hosting Sites
+
+*://*.anonfiles.com/*
+*://*.bayfiles.com/*
+*://*.bibix.cc/*
+*://*.bitbucket.io/*
+*://*.bunnycdn.ru/*
+*://*.clicknupload.cc/*
+*://*.dood.cx/*
+*://*.dood.re/*
+*://*.dood.so/*
+*://*.dood.to/*
+*://*.dood.watch/*
+*://*.dood.wf/*
+*://*.dood.work/*
+*://*.doodstream.com/*
+*://*.drop.download/*
+*://*.dropapk.to/*
+*://*.dropload.io/*
+*://*.ds2play.com/*
+*://*.embedwish.com/*
+*://*.fastream.cc/*
+*://*.file.io/*
+*://*.filelions.live/*
+*://*.filelions.to/*
+*://*.filemoon.sx/*
+*://*.filepress.click/*
+*://*.filepress.store/*
+*://*.filepress.xyz/*
+*://*.files.im/*
+*://*.filevip.cc/*
+*://*.filsrol.com/*
+*://*.goodstream.uno/*
+*://*.gounlimited.to/*
+*://*.hxfile.co/*
+*://*.hydrax.net/*
+*://*.krakenfiles.com/*
+*://*.letsupload.io/*
+*://*.luluvdoo.com/*
+*://*.mcloud.to/*
+*://*.megadl.link/*
+*://*.megashare9.to/*
+*://*.megaupload.nz/*
+*://*.mixdrop.co/*
+*://*.mixdrop.sn/*
+*://*.movie2k.ch/*
+*://*.mp4upload.com/*
+*://*.mystore.to/*
+*://*.nitro.download/*
+*://*.ok.ru/*
+*://*.pixeldrain.com/*
+*://*.prostream.to/*
+*://*.rapidgator.net/*
+*://*.savefiles.com/*
+*://*.sbembed.com/*
+*://*.send.cm/*
+*://*.solidfiles.com/*
+*://*.stream.io/*
+*://*.streamhide.com/*
+*://*.streamlare.com/*
+*://*.streamplay.to/*
+*://*.streamsb.net/*
+*://*.streamta.site/*
+*://*.streamtape.com/*
+*://*.streamtape.to/*
+*://*.streamwish.com/*
+*://*.streamwish.to/*
+*://*.supervideo.cc/*
+*://*.supervideo.tv/*
+*://*.taylorplayer.com/*
+*://*.thevideo.me/*
+*://*.tubeload.co/*
+*://*.tusfiles.com/*
+*://*.upload.ee/*
+*://*.uploadhaven.com/*
+*://*.uploadhub.to/*
+*://*.uploadrar.com/*
+*://*.uptobox.com/*
+*://*.userload.co/*
+*://*.veev.to/*
+*://*.verystream.com/*
 *://*.vidbom.com/*
 *://*.vidcloud9.com/*
 *://*.videa.hu/*
 *://*.vidembed.cc/*
 *://*.videobin.org/*
-*://*.videoland.com/*
 *://*.videomega.tv/*
 *://*.videovard.sx/*
 *://*.vidhidehub.com/*
-*://*.vidio.com/*
-*://*.vidisliku.com/*
 *://*.vidlox.me/*
 *://*.vidmoly.me/*
 *://*.vidmoly.to/*
@@ -1525,1106 +2529,99 @@
 *://*.vidplay.to/*
 *://*.vidsrc.me/*
 *://*.vidsrc.xyz/*
-*://*.viendex.com/*
-*://*.viki.com/*
-*://*.vimeo.com/*
 *://*.vimeo.com/*
 *://*.vinovo.to/*
-*://*.vipbox1.com/*
-*://*.vipflux.com/*
-*://*.vipscena.com/*
-*://*.vipserije.com/*
-*://*.virgilio.it/*
-*://*.virgintvgo.virginmedia.com/*
-*://*.viu.com/*
-*://*.viu.tv/*
-*://*.vivamax.net/*
-*://*.vix.com/*
-*://*.vixdigitalott.com/*
-*://*.vlive.tv/*
 *://*.voe.sx/*
 *://*.voeunbl0cked.com/*
-*://*.voo.be/*
-*://*.voot.com/*
-*://*.vrt.be/*
 *://*.vshare.is/*
-*://*.vtm.be/*
-*://*.vtmgo.be/*
-*://*.vtvcab.vn/*
 *://*.vudeo.net/*
-*://*.vudu.com/*
-*://*.vukajlija.com/*
-*://*.vumoo.to/*
 *://*.vup.to/*
-*://*.w-123movies.com/*
 *://*.waaw.to/*
-*://*.wakanim.tv/*
-*://*.wanted.rs/*
-*://*.watchcharge.com/*
-*://*.watchdocumentaries.com/*
-*://*.watchfree.at/*
-*://*.watchhallmarktv.com/*
-*://*.watchmojo.com/*
-*://*.watchparty.me/*
-*://*.watchseries.is/*
-*://*.watchserieshd.tv/*
-*://*.watchtvseries.io/*
-*://*.watchvudu.com/*
 *://*.wavehd.com/*
-*://*.wealthypeeps.com/*
-*://*.webcrawler.com/*
-*://*.werstreamt.es/*
-*://*.whattowatch.com/*
-*://*.whosdatedwho.com/*
-*://*.whowhatwear.com/*
-*://*.wiby.me/*
-*://*.wiby.org/*
-*://*.willow.tv/*
-*://*.wink.ru/*
 *://*.wolfstream.tv/*
-*://*.wonderwall.com/*
-*://*.woofactor.com/*
-*://*.worldhotnews.net/*
-*://*.worldpoliticsreview.com/*
-*://*.wow.com/*
-*://*.wowtv.de/*
-*://*.wp.pl/*
-*://*.wp.pl/*
-*://*.wsn.live/*
-*://*.wuaki.tv/*
-*://*.ww2.movistar.cl/*
-*://*.x17online.com/*
-*://*.xayn.com/*
-*://*.xfinity.com/*
-*://*.xfinityoncampus.com/*
-*://*.xumo.com/*
-*://*.xumo.tv/*
-*://*.ya.ru/*
-*://*.ya.ru/*
-*://*.yallo.ch/*
-*://*.yallo.tv/*
-*://*.yep.com/*
-*://*.yesmovies.ag/*
-*://*.yesmovies.vc/*
-*://*.yidio.com/*
-*://*.yioop.com/*
-*://*.yle.fi/*
-*://*.ymovies.se/*
-*://*.ymovies.vip/*
-*://*.yomovies.bid/*
-*://*.you.com/*
-*://*.yousee.at/*
-*://*.yousee.dk/*
-*://*.yrsprts.stream/*
-*://*.ytshd.top/*
-*://*.ytsmx.com/*
-*://*.ytstv.me/*
-*://*.yupptv.com/*
-*://*.zabavne-strane.com/*
-*://*.zadruga-uzivo.com/*
-*://*.zadrugavesti.com/*
-*://*.zalebs.com/*
-*://*.zapmeta.com/*
-*://*.zappn.tv/*
-*://*.zattoo.com/*
-*://*.zbrka.com/*
-*://*.zdf.de/*
-*://*.zee5.com/*
-*://*.zenaportal.info/*
-*://*.zenskikutak.rs/*
-*://*.zenskimagazin.net/*
-*://*.zenskimagazin.rs/*
-*://*.ziggo.nl/*
-*://*.ziggogo.tv/*
-*://*.zillionfilm.com/*
-*://*.zmovies.cc/*
-*://*.zoomtventertainment.com/*
-/^https?:\/\/[^\/?#]*(?:baccarat|backgammon|balkanbet)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*(?:casino|cashsweep)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*(?:chance|cheat)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*(?:name[-.]*meaning|natal[-.]*chart|numerology)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*(?:star[-.]*sign|sun[-.]*sign)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*[0-9]+bet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*[0-9]+sport[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*1-?win[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*ace(?:poker|s(?:high|palace)?)?[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*admiral(?:bet|spot)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*adult[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*astr(?:al|o)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*best-?bet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet-?expert[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet-?king[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet-?mgm[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet-?quick[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet-?usa[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet-?way[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(?:1|2|365)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(?:and-?win|ano)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(?:cash|central|clic|coin)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(?:fair|first)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(?:land|live)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(?:partner|play|poker|prime)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(?:ting|tor)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet(on(?:line)?|oto)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bet[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*betedesjeux[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bets[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bi(?:d|gbet|ngo)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bio(?:graphy|graf(?:ia|ija)?)?[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*birth[-.]*(?:chart|sign)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*black-?jack[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bolly-?wood[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bolt-?food[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*book(?:ie|maker)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bovada[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*bwin[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*card(?:bet|deal|game|play|room|s|z)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*celeb(?:rit)?[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*chat[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*csgo[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*delivery-?hero[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*dice[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*door-?dash[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*draft-?king[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*elite-?bet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*emerald-?bet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*euro(?:jack-?pot|lotto|slot)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*food(?:ora|panda)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*fortun(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*free(?:bie|slot)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*g0ssip[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*gambl(?:e|ed|er(?:s)?|es|ing)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*game(?:book|sweb|time)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*ganesha[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*get-?lucky[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*goal-?win[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*gold(?:bet|run|strike)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*gossip[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*high-?life[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*high-?roll(er(?:s)?)?:[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*hold-?em[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*holly-?wood[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*horoscop[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*horse-?bet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*hustl(?:e|ing)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*jack-pot[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*jeaux[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*jet-?set[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*jeu(?:de|x)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*join[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*joker[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*jouer[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*juega[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*just-?bet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kasino[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kazino[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kladionic(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kladit(?:e|i)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kladjenj(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kladjenj(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kock(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kvot(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*lad-?broke[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*las-?vegas[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*live(?:bet|score)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*lot(?:o|to)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*loteri(?:a|e|j)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*lotter(?:ie|y)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*luck[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*lutrij(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*lyrics[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*max-?bet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*meet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*meridian-?bet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*model[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*moon[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*mozzart[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*net-?bet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*net-?worth[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*odds[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*ome-?tv[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*omegle[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*online-?slot[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*opklad(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*pari-?match[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*party-?bet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*play[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*points-?bet[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*poker[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*predict[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*premier(?:bet|casino)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*prime(?:bet|dice|slot)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*prize[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*psychic[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*quote[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*rising[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*rumor[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*searx[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*sport[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*star(?:s|z)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*stranger[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*talk[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*tarot[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*uber-?eats[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*urban[- ]?dictionary[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*wealth[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*webcam[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*wiki[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*wolt[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*worth[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*zodia[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*(?:name(?:[-_+.\/]|%20)*meaning|natal(?:[-_+.\/]|%20)*chart|numerology)[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*(?:star(?:[-_+.\/]|%20)*sign|sun(?:[-_+.\/]|%20)*sign)[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*adult[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*astr(?:al|o)[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*birth(?:[-_+.\/]|%20)*(?:chart|sign)[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*ganesha[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*horoscop[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*model[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*moon(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*ome-?tv[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*omegle[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*psychic[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*rising(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*stranger[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*tarot[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*vedic[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*webcam[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*zodiac[^?#]*(?:[?#]|$)/i
-/afri[cč]ka[- ]?[sš]ljiva/i
-/bong[sz]?/i
-/cann?abi[sz]/i
-/cig[sz]/i
-/cocaine/i
-/cohiba/i
-/crack[- ]?addict[sz]?/i
-/dope[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
-/drog(?:iranj)?[aeu]/i
-/drug[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
-/ecstasy/i
-/ganja/i
-/green-?leaf/i
-/he(?:mp|roin)/i
-/hookah/i
-/junkie[sz]?/i
-/kush/i
-/marijuana/i
-/mary[- ]?jane/i
-/modafinil/i
-/narkoman(?:[aeiu]|ij[aeu])?/i
-/noo-?tropic/i
-/pill[- ]?popper[sz]?/
-/shisha/i
-/smoke/i
-/tobacco/i
-/vap(?:e(?:r[sz]?|[sz]?)|ing|or)/i
-/viagra/i
-/weed/i
-/xanax/i
-#    17.1        BROWSERS
-#    17.3        SEARCH ENGINES
-# [1]        18+
-# [1] 18+
-# [10]       NEWS
-# [10] NEWS
-# [11]       SOCIAL
-# [11]       SPORTS
-# [11] SEARCH ENGINES
-# [12]       STREAMING AV
-# [12] SOCIAL
-# [13] SPAM
-# [14] SPORTS
-# [15] STREAMING A/V
-# [16]       UNSAFE
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [16] UNSAFE
-# [17]       UTILITIES
+
+*://*.appbrain.com/*
+*://*.apps.apple.com/*
+*://*.aptoide.com/*
+*://*.download.cnet.com/*
+*://*.filehippo.com/*
+*://*.filehorse.com/*
+*://*.indusappstore.com/*
+*://*.softpedia.com/*
+*://*.uptodown.com/*
+
+# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [17] UTILITIES
-# [2]        ASTROLOGY
-# [2] ASTROLOGY
-# [3]        BLOGS
-# [3] BLOGS
-# [4]        CHAT
-# [4] CHAT
-# [5]        COMMERCE
-# [5] COMMERCE
-# [6]        DATING
-# [6] DATING
-# [7]        DRUGS & TOBACCO
-# [7] DRUGS & TOBACCO
-# [8]        GAMBLING
-# [8] GAMBLING
-# [9]        GAMING
-# [9] GAMING
-# /^https?:\/\/[^\/?#]*1x(?:bet|bit)[^\/?#]*(?:[\/?#]|$)/i
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# 🇷🇸 🇲🇪 🇧🇦
-# 🇺🇸 🇨🇦 🇬🇧
-# 123
-# 123
-# 5.1 Food Delivery
-# A
-# A
-# A
-# A
-# B
-# B
-# B
-# B
-# C
-# C
-# C
-# C
-# Celebs
-# D
-# D
-# D
-# D
-# E
-# E
-# E
-# E
-# F
-# F
-# F
-# Fact
-# Fame
-# G
-# G
-# G
-# G
-# H
-# H
-# H
-# H
-# https://github.com/J0xi/PbConfig/blob/main/uBL/J0xi-Blocklist.txt
-# https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBL/J0xi-Blocklist.txt
-# I
-# I
-# Info: Hides Select Domains & Subdomains
-# J
-# J
-# J
-# J
-# K
-# K
-# K
-# K
-# L
-# L
-# L
-# Legit Streaming Sites
-# M
-# M
-# M
-# M
-# N
-# N
-# N
-# N 
-# News
-# News
-# O
-# O
-# O
-# P
-# P
-# P
-# P
-# Piracy Streaming Sites
-# Ppl & Pop Culture
-# Q
-# Q
-# R
-# R
-# R
-# S
-# S
-# S
-# S
-# Software Mirror & Download Sites
-# Source(s): https://github.com/searxng/searx-instances
-# T
-# T
-# T
-# T
-# Tabloids
-# Tabloids 
-# Title: J0xi's Blocklist
-# U
-# U
-# V
-# V
-# V
-# Video Hosting Sites
-# W
-# W
-# W
-# W
-# X
-# X
-# X
-# Y
-# Z
-# Z
-## Domain
-## Domain
-## Domain
-## Keywords
-## Path
-## Path
-## Path
-^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
-> šđčćž
-1234movie
-123movie
-1mvovie
-abandonware, achievement, activision, addon, adventure, ageofempire, animeskin, apk, apkcombo
-adating, ashleymadison, askmen, attraction
-apkdownload, apkfile, apkmirror , apkmod, apkmonk, apkpure, apks, apksmod, apkstore
-appapk, appapks, appsapk, appsapks, aptoide, arcade, arknights, arqade, atari
-aquarius, aries, askmyoracle, birthsign
-askjeeves
-azmovie
-backpage, badboy, badgirl, badgirl, bbw, bdsm, be2, bestmatch
-badoo
-bandai, battle, battlefield, battlestar, bethesda, blizzard, boardgame, borderlands, bossfight, bounty, builds
-bazoocam
-birthstone
-bleacherreport
-bndkt
-bride, brides, casual, charisma, charm, chatdate, cheater, cheating, christiandating, christiandate, christianmatch
-brides, cheater, cheating, clickmatch, companion, contactos, cougar, crush
-callofduty, candy-crush, candycrush, capcom, challenge, challenger, champ, champion, characterdesign
-cancer*, capricorn, chani, chinesefortunecalendar, compatibility
-celebcelebs, celebz, celebrity, celebrities, celebritiez, celebrite, celibrity
-celebrites, celebritez, celebsurgery, richcelebs, celebriot
-cheat, cheatdb, cheater, cheatmenu, cheats, checkmate, chess, clashofclans, codhack, codhacks
-console, cosplay, counterstrike, crack, csgo
-crush, cupid, cutie, date , datefinder, datehere, dating, dirtymatch, dreamgf, edarling, eharmony, eliteescort, elitepartner, elitesingle, escort
-cutedate, chatgirl, eurodate, girlfind, girllove, gofish, elitepartner, fling, passion, dirtymatch, drcasual, mindfulattraction, justmatch, sugardate, sugardaddy, 
-deathmatch, destructoid, devmod, devmodapk, devs, diablo, dlc, dragonball, dragonquest, droid
-dirtylaundry, heightwiki, xelebrity
-droidapk, droidgame, droidgames, droidmod, droids, dualshock, dungeon
-eagame, eaorigin, eldenring, elderscroll, epicnpc, esport
-eat shit
-ecosia
-espn
-eurosport
-eurosportplayer
-factmandu, factrider, factsnippet, facts, factsbeyond, meme, knowsize
-fallout, fanboy, fandom, fandomwire, fanpop, fantasy, fantasyesport, farming-simulator, ffx
-fame, famous, famoso, famouspeople, famousbirthday, famousbio, birthsdeaths, fanpop, poznat, poznat
-fandango, glam, glamour
-fans, female, fling, flingster, flirt, forevercompanion, foxgirl, freedating, friend, friendfind, friendfinder
-finalfantasy, fortbuilds, fortnite, fps
-flixhd
-flixhq
-fmovie
-fortune calendar
-freecam
-fubosport
-fuck[sz]/ed/er[sz]/ing[sz]/fuck-face/fucktard[sz]/fuckable
-game, gameapk, gamebattle, gamebiz, gameboost, gamedb, gamedeals, gamedev, gamefaq, gamegear
-gamehack, gameinformer, gameloft, gamemap, gamemaps, gamemod, gamenews, gamepass, gamepedia
-gamepress, gamer, gamer-mods, gamereactor, gamerpedia, gamerz, games, gamesnexus, gamesnexus
-gamespace, gamespot, gamesradar, gamestrategy, gamewatch, gameworkshop
-gamex, gaming, gamingear, gamingforum, gamingleague, gamingnews, gearsofwar, geek
-ganeshaspeaks, gemini, gemselect
-genshin, gmodstore, godmode, grandtheftauto, gta, gta4, gta5, gta6, gtaforum, gtav, gtavicecity, guildwar
-girlfriend, guy, harem, hook, hookup, hotmatch, interracial, intimate, kiss, kupid, latina, localflirt, localgirl, love
-golf
-gomovie
-hacker, hackers, hackerz, hacks, hackthegame, halo, heroesofnewerth, hitman, howlongtobeat
-ign,ignguides, indie, indiegame
-influencer
+
+*://*.photopea.com/*
+*://*.pixlr.com/*
+
+*://*.arc.net
+*://*.avantbrowser.com
+*://*.avast.com/secure-browser
+*://*.avg.com/en-ww/secure-browser
+*://*.beakerbrowser.com
+*://*.boltbrowser.app
+*://*.browser.qq.com
+*://*.browser.yandex.com
+*://*.chameleonbrowser.com
+*://*.chromium.org
+*://*.citrio.com
+*://*.comet.perplexity.ai
+*://*.diabrowser.com
+*://*.dolphin-browser-app.com
+*://*.dolphin.com$document,important
+*://*.dolphinbrowserfree.com
+*://*.duckduckgo.com/app
+*://*.epicbrowser.com
+*://*.falkon.org
+*://*.flashpeak.com
+*://*.floorp.app
+*://*.fluidbrowser.com
+*://*.getdot.js.org
+*://*.ghostery.com/private-browser
+*://*.google.com/chrome/beta
+*://*.google.com/chrome/canary
+*://*.google.com/chrome/dev 
+*://*.google.com/chrome
+*://*.icab.de
+*://*.ilvruan.com
+
 iridiumbrowser.de
-jebac[ae], jebanja/e/u, jebada, jebac[aeiu]?
-jeux, joystick, juego, juegos
-karma
-kenjator
 kingpinbrowser.com
 kmeleonbrowser.org
-kobila, etina, etine, etini, etinu
-konami, kotaku
-krava, kravetina, kravetinu
-kresnuti, kunt, kaki(?:m|č), kenja/kenjac/kenjati
-kurcozderka
-labyrinthos, leo, libra, linda-goodman, lovecompatibility
-launch, launcher, leagueoflegends, left4dead, levelup, livegame, livegaming, livestream
 librewolf.net
-livesoccer
-livesport
-lovegpt, lovelink, loverboy, mailorder bride, manosphere, marriage, match, matchmaker, mate, maxim, meetic, meetup ,mingle, ofan, ofans
 lunascape.org
 lunascape.tv
-luvfree, masculinedevelopment, meether, meethim, meetme, meetyour, mensjournal, mensxp, singles, withlove, match, passion, privatecompanion, popularfan
-m[0ou]ther[- ]?fu(?ck|q)
-mahjong, mastermod, metacritic, minecraft, mini-clip, miniclip, minijuego, mmo, mmorpg
 maxthon.com
-menageatrois
-metasearx
 microsoft.com/edge
 microsoft.com/en-us/edge
-mobilegame, mod, modapk, modapkdl, modd, moddb, modder, modders, modding, moddroid
-modgame, mods, modsapk, modsgame, modshost, modslab, modstore, modworkshop
-modx, modz, modzapk, monsterhunter
-moonly, mylovecal, mysign, mysticapp
 morequick.com
-mother fucks/er/ers/z/ing/ed/e
-movie4k
-movie8k
-movies123
-mudafuka[sz], mudafuqa[sz]
-n4g, nerd, nerdreactor, nexusmods, nintendo
-name analysis, name analyzer
-ofleak, ofprofile, parship, partner, peoplemeet, personals, pickup, pickup artist, playbook, pua, realdoll, romance, shaadi, singles, soul
-olympics
 omnigroup.com/more
-onthisday
-openapk, overwatch
 opera.com/download
-orgazam, orgazmi, orgies, orgasmic, onanism, orgy
-orgie-porgie
-paedophilia
-paidmods, patches, patchmypc, pcgamemod, pcgamer, pcgaming, pcmod, pcmods, pcmodz, play
 palemoon.org
-panties, panty
-people, ppl, peep, peeps, popbytes, popsci, popsugar, popularheight
-peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjournal, lovepanky, lonelygirl, girlsnearby, hotdate, lovebird, swipe, sugardate
-pisces
-playerauction, playgame, playground, playstation, playthrough, pokemon, polygon, ps1
-pof, polyamory, secretbenefits, friendswithbenefits, seniordate, seniordating, attraction, artofcharm, datingplaybook, attractiongame, winggirl, winggman
 polaritybrowser.netlify.app
-popularbio, popnable, popdust, popculture
-pornhub, porno, pornos, porno, pornographer, pornography, pornographic, pornografia, pronici, pornicu, pornstar, ponstars
-premierleague
-presearch
-primewire
-ps2, ps3, ps4, ps5
 puffin.com
-putlocker
-queer[sz]
-quickie[sz]
-quiz
-racebet, raffle, rizik, rulet, roulette
-realhotdate, singleparent, lovinga, lovoo, meether, menprovement, yourfling, mensjournal, masculinedevelopment, simplepickup
-realm,replay, residentevil, riotgames, rockpapershotgun, rockstar, rockstargame, rockstargames
-rockstarintel, rockstarnexus, rpg, rpg, rune, runescape
-Rotating TLDs for Above Domains
 runecats.com
-sagittarius, sanctuaryworld, scorpio, seeroracle
 salamweb.com
 seamonkey-project.org
-searx
-searxng
 secure-browser.com
-sega, sims, simulator, solitaire, spele, spiel, spiele, spoof, spoofer, stadia, steam
-serator
-seronja
 seznam.cz
-shits, shithead, shitted, shitty, shithole, shit-eater/ing
-shuffle, slot aparati, slot-?machine, slotaparati, slotova, slotovi, slots, soccerbet, solitaire, spins
 slimbrowser.net
 slimjet.com
-soccer
 soliton.co.jp
-soulmate, sugardaddy, tawk, waifu, wife, winggirl, wingman, wives, brobible, chatdate, cheatingwife, cheatingwives, companion, coffeemeetsbagel, date, 
-sport
-sport365, sportingbet, sportingindex, sportsbet, sportsbetting, sportsbook
-sportnow
-sports, sportsonline, sportsstream, sportsstreaming
-sportscast, sportskekladionice, sportsmonitor, sportsspread, sportzbookz, stake, stakes, superbet, superslot
-sportz, streamable, streamsport
 srware.net
-startpage
-steamcommunity, steamdb, steampowered, steamunlock, stream, streaming, streamz, sudoku
-sugardaddie, lovin, luv, mingle, savage, grindr, tinder, gofish, innerconfidence, lovepanky, loverz, match, matchmake, uglyschmuck, innerconfidence, jdate, meetlocal, 
-sweepstake, sweepstakes
-taurus, thebirthchart
-texasholdem, tip, tipovanje, tipp, transfermarkt, triplewin
-tiitle/bung[- ]?h[0o]le[sz]?/i
-titanfall, trophies, trophy, twitch, twitchcon
-title/[ck][0o]pulat(?:)*
-title/[ck]luster[- ]?fu(?:ck|q)[sz]?/i
-title/[ck]ondom[sz]?/i
-title/[ck]rapp?(?:er[sz]?|iest|ing|y)?/i
-title/[ck]u[ck][0o]ld(?:[sz]|ry)?/i
-title/[ck]um[- ]?shot[sz]?/i
-title/[ck]unn?ilingu[sz]/i
-title/[ck]unt(?:[sz]?|i(?:er|st)?|y)?/i
-title/1[- ]?night[- ]?stand[sz]?/i
-title/1[- ]?on[- ]?1/i
-title/2[- ]?girls[- ]?1cup/i
-title/3[- ]?some[sz]?/i
-title/a[- ]?hole[sz]?/i
-title/adult[- ]?act(?:or|resse)[sz]?/i
-title/adult[- ]?chat[sz]?/i 
-title/adult[- ]?hook[- ]?up[sz]?/i
-title/adult[- ]?industry/i
-title/adult[- ]?meet[sz]?/i
-title/adult[- ]?se(?:ks|x)/i
-title/adult[- ]?star[sz]?/i
-title/adult[- ]?video[sz]?/i
-title/afri[cč]ka[- ]?[sš]ljiva/i
-title/afri[ck]oon[sz]?/i
-title/alpha[- ]?male[sz]?/i
-title/an[ai]lingus/i
-title/anal[- ]?(?:sex)/i
-title/anal[- ]?annie/i
-title/anal[- ]?bead[sz]?/i
-title/anal[- ]?plug[sz]?/i
-title/anal[- ]?probe[sz]?/i
-title/anus/i
-title/ape[- ]?shit/i
-title/arabush/i
-title/arr?se[- ]?h[0o]le[sz]?/i
-title/ase(?:ks|s)ual(?:s|ity)/i
-title/ass[- ]?[ck]lown[sz]?/i
-title/ass[- ]?face[sz]?/i
-title/ass[- ]?fu(?:ck(?:er)?|kka?|q?)[sz]?/i
-title/ass[- ]?grab(?:bed|ber[sz]?|bing[sz]?)?/i
-title/ass[- ]?h[0o]le[sz]?/i
-title/ass[- ]?wipe[sz]?/i
-title/auto[- ]?eroti[ck]/i
-title/ava[- ]?add?am[sz]?/i
-title/avn[- ]?award[sz]?/i
-title/b[ea]stial(?:it(?:ies|y))?/i
-title/b[ei]atch(?:e[sz])?/i
-title/babe[sz]?/i
-title/bad[- ]?fu(?:ck|q)/i
-title/ball[- ]?bag[sz]?/i
-title/ball[- ]?sa(?:ck|q)[sz]?/i
-title/baller[sz]?/i 
-title/bang[- ]?bro[sz]/i
-title/bang[- ]?bus/i
-title/barely[- ]?legal/i
-title/bass?t(:?[ae]rd[osz])/i
-title/bat[- ]?shit/i
-title/bawdy/i
-title/bdsm/i
-title/bean[- ]?fli(?:ck|q)(?:er|ing|[sz])?*
-title/bearded[- ]?[ck]lam[sz]?/i
-title/beat[- ]?off/i
-title/beat[- ]?your[- ]?meat/i
-title/beef[- ]?cake[sz]?/i
-title/beeyotch/i
-title/bellend[sz]?/i
-title/beotch/i
-title/beta[- ]?male[sz]?/i
-title/bi[- ]?curious/i
-title/big[- ]?ass/i
-title/big[- ]?black[- ]?c[0o]ck[sz]?/i
-title/big[- ]?butt[sz]?/i
-title/big[- ]?tit[sz]/i
-title/bilmez[aeiu]?/i
-title/bimbo[sz]?/i
-title/bitang[aeiu]/i
-title/bitch(?:e[dsz]|er[sz]?|in[g]?|[- ]?(?:slap|tit)[sz]?|y)?/i
-title/bite[- ]?m(?:e|y)/i
-title/black[- ]?[ck]ock[sz]?/i
-title/black[- ]?c[0o]ck[sz]?/i
-title/blackie[sz]?/i
-title/blood[- ]?claat/i
-title/blow[- ]?job[sz]?/i
-title/blumpkin[sz]?/i
-title/boink(?:ed|[sz])?/i
-title/bollo(?ck|q)[sz]?/i
-title/bondage/i
-title/boner[sz]?/i
-title/bong[sz]?/i
-title/bonn?ie[- ]?blue/i
-title/boob(?:ie)?[sz]?/i
-title/boob[- ]?job[sz]?/i
-title/booger[sz]?/i
-title/boonie[sz]?/i
-title/boot(?:ie[sz]|lip[sz]?|y)/i
-title/booz(?:er|y)/i
-title/bordel(?:lo)?[sz]?/i
-title/bosom/i
-title/bradavic[aeu]/i
-title/brandi[- ]?l(?:ove|uv)[sz]?/i
-title/brazzer[sz]/i
-title/breast[sz]?/i 
-title/brothel[sz]?/i
-title/buceta/i
-title/budal[aeiou]/i
-title/bugger(?:ed|[sz]|y)?/i
-title/bukkake/i
-title/bull[- ]?crap/i
-title/bull[- ]?shit(?:ter|ing)?[sz]?/i
-title/bull[- ]?turd[sz]/i 
-title/bum[- ]?fu(?:ck|q)[sz]?/i
-title/bunga[- ]?bunga/i
-title/burazer[aeiu]?/i
-title/bust(?:ie(?:r|st)?|y)/i
-title/butt[- ]?(?:cheek|crack)[sz]?(?)/i
-title/butt[- ]?bang(?:ed|er[sz]?|ing)?/i
-title/butt[- ]?face[sz]?/i
-title/butt[- ]?fuck(?:a[sz]?|er[sz]?|ed|ing[sz]?)?/i*
-title/butt[- ]?h(?:ead|[0o]le)[sz]?/i
-title/butt[- ]?munch/i
-title/butt[- ]?plug[sz]?/i
-title/butt[- ]?stain[sz]?/i
-title/butt[- ]?wipe[sz]?/i
-title/c[0o]ck[- ]?tea[sz](?:e(?:r[sz]?|[sz])?|ing)/i
-title/cann?abi[sz]/i
-title/casanova/i
-title/castrat(?:e)/i
-title/casual[- ]?se(?:ks|x)/i
-title/chaturbate/i
-title/cherr?y[- ]?kiss/i
-title/child[- ]?porn/i
-title/cig[sz]/i
-title/clitor(?:al|i[sz])/i
-title/cocaine/i
-title/cohiba/i
-title/coit(?:al|us)/i
-title/copulat(?:e[sz]?|i(?:ng|on))?
-title/cougar[sz]?/i
-title/cow[- ]?fart[sz]?/i
-title/crack[- ]?addict[sz]?/i
-title/cream[- ]?pie[sz]?/i
-title/cum[- ]?guzzle(?:r[sz]?)?/i
-title/d[iy]ke[sz]?/i
-title/darla[- ]?[ck]rane/i
-title/deauxma/i
-title/degenerate[sz]?/i
-title/dick[sz]?[- ]?(?:head|wa(?:a|ed)?|su(?:ck|q))/i
-title/dild[0o][sz]?/i
-title/dirt[- ]?bag[sz]?/i
-title/dominatri(?:x|ks)/i
-title/donga/i
-title/dope[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
-title/double[- ]?d[sz]?/i
-title/drka(?:ju|m(?:o)?|nj[aeu]|t[ei])/i
-title/drog(?:iranj)?[aeu]/i
-title/drug[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
-title/dumb[- ]?ass(?:e[sz])?/i
-title/dumbo[sz]?/i
-title/dung/i
-title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
-title/ea[sz]y[- ]?lay?/i 
-title/ea[sz]y[- ]?slut[sz]?/i 
-title/eat[- ]?(?:a|m[ey])?/i
-title/ecstasy/i
-title/eja[ck]ulat(?:e[dsz]?|i(?:ng|on))/i
-title/engorge(?:d)?/i
-title/ere[ck]t(?:i[0o]n[sz]?)?/i
-title/eroti[ck][aeiou]?/i
-title/erotici[sz]m/i
-title/erotsk[aeiou]/i
-title/es[ck]ort[- ]?agency/i
-title/eunuch[sz]?/i
-title/ex[ck]rement/i
-title/fagg?ot(?:[sz]?|ry)?/i
-title/fapp(?:ed|ing)/i
-title/fappen?(?:ed|ing)?[sz]?/i
-title/fatso[sz]?/i
-title/fell?at(?:e[ds]?|io)/i
-title/fetish(?:e[sz]|iz(?:e|ing))?/i
-title/fikus/i
-title/flesh[- ]light[sz]?/i
-title/foreskin[sz]?/i
-title/fu(?:ck|q)[- ]?face/i
-title/fu(?:ck|q)[- ]?mate[sz]?/i
-title/fu(?:ck|q)[- ]toy[sz]?/i
-title/fu(?:ck|q)[sz]?*
-title/fu(?:ck|q)able/i
-title/gang-rape[sz]?/i
-title/gang[- ]?bang(?:er[sz]?|ed|ing[sz]?)?*
-title/gangsta[sz]?/i
-title/ganja/i
-title/gay[- ]?bar[sz]?/i
-title/gay[- ]?lord[sz]?/i
-title/gayness/i
-title/get[- ]?laid/i
-title/gigolo[sz]?/i
-title/gilf[szy]?/i
-title/gilipter[aeiu]/i
-title/glory[- ]?h[0o]le[sz]?/i
-title/gnjid[aeiou]/i
-title/goved[ao]/i
-title/govn(?a|ar[aeiu]?|o)/i*
-title/green-?leaf/i
-title/happy[- ]?ending[sz]?/i
-title/hard[- ]?on[sz]?/i
-title/harem/i
-title/he(?:mp|roin)/i
-title/hentai/i
-title/herpe[sz]/i
-title/hill[- ]bill(?:)
-title/hobo[sz]?/i
-title/home[- ]?b[0o]y[sz]?/i 
-title/hookah/i
-title/hooker[sz]?/i
-title/hooter[sz]?/i
-title/horn(?:ie(?:r|st)|[- ]?dog[sz]?|y)/i
-title/horse[- ]?shit/i
-title/hunk[syz]?/i
-title/hymen/i
-title/idiot[sz]?/i
-title/in[cs]est(?:ual)?/i
-title/inbred[sz]?/i
-title/india[- ]?summer[sz]?/i
-title/intercourse/i
-title/interracial[- ]se(?:ks|x)/i
-title/jack[- ]?ass(?:e[sz])
-title/jack[- ]?off(?:ed|s)
-title/jack[- ]?shit/i
-title/jag[- ]?off[sz]?/i
-title/jebe(?:m|)
-title/jerk(?:[sz]?|ed|ing)?[- ]?off/i
-title/jerk[- ]?mate[sz]?/i
-title/jizz(?:e[ds]|ing)?/i
-title/junkie[sz]?/i
-title/kama[- ]?sutra/i
-title/karanj[aeu]/i
-title/keiran[- ]?lee/i
-title/kendra[- ]?lust[sz]?/i
-title/kid(?:die)[sz]?[- ]?porn/i
-title/kink(?:s|y)
-title/kopil(?:a[dn]?|e|u)/i*
-title/kresanj[aeu]/i
-title/kur[cć]enj[aeu]/i
-title/kur[cč]i(?:t[ei]|o)/i
-title/kur[cč]in[aeou]/i
-title/kurac/i
-title/kuronj[aeou]/i
-title/kurvetin[aeiou]/i
-title/kush/i
-title/labia/i
-title/lecher[sz]?/i 
-title/lesbian[sz]?/i
-title/lezbej(?:k[aeou]|ci)/i
-title/lgbqt/i
-title/li[sz]a[- ]?ann/i
-title/libido/i
-title/libtard[sz]?/i
-title/literoti[ck]a/i
-title/lube/i
-title/lust(?:ful|ing|y)?/i
-title/maggot[sz]?/i
-title/majmun[aeiu]/i
-title/marijuana/i
-title/mary[- ]?jane/i
-title/masturbat(?:e(sz)?|ed|i(?:on|ng)|or(?:y))/i
-title/milf[szy]?/i
-title/modafinil/i
-title/money[- ]?sh[0o]t[sz]?/
-title/mrcin[aeiou]/i
-title/mudonj[aei]/i
-title/naked/i
-title/narkoman(?:[aeiu]|ij[aeu])?/i
-title/nasty/i
-title/netflix[- ](?:&|and)[- ]chill/i
-title/nigga(?:er)?[sz]?/i*
-title/noo-?tropic/i
-title/nudi(?:s(?:m|t)|ty)/i
-title/nutsa(?:ck|q)[sz]?/i
-title/nympho[- ]?mania[ck]?[sz]?/i*
-title/nympho/i
-title/only[- ]fan[sz]?/i
-title/orgasm[sz]?/ic
-title/orgij[aeiu]/i
-title/pearl[- ]?necklace[sz]?/i 
-title/pendej[oa](?:s)?/i
-title/penis/i
-title/pill[- ]?popper[sz]?/
-title/pimp(?:ed|[sz]?|in(?:g)?)/i
-title/piss[- ]?off/i
-title/pizd[aeiou]/i
-title/play[- ]?boy[sz]?/i
-title/play[- ]?mate[sz]?/i
-title/poop(?:e[dr]|[sz]?|in(?:g))/i
-title/porn(?:o[sz]?|ograph(?:))
-title/porn[-]?flick[sz]?/i
-title/potty/i
-title/premature[- ]?ejaculation/i
-title/puss(?:i(?:es|fy)|y)/i
-title/rap(?:e[sz]?|ed|ing[sz]?|ist[sz]?)/i = title/rap(?:(e|ing|ist)[sz]?|ed)/i
-title/red[- ]?tube/i
-title/retrard[sz]?/i
-title/rim[- ]?job[sz]?/i
-title/sa(?:dis(?:m|t[sz]?))/i
-title/scrot(?:ie|um)/i
-title/se(?:ks|x)
-title/se(?:ks|x)(?:ie(?:r|st)|y)
-title/se(?:ks|x)[- ]?(addiction[sz]?|appeal)/i
-title/se(?:ks|x)[- ]?(tape[sz]?|ting)?/i
-title/se(?:ks|x)[- ]?[ck]ult[sz]?/i
-title/se(?:ks|x)[- ]?game[sz]?/i
-title/se(?:ks|x)[- ]?kitten[sz]?/i
-title/se(?:ks|x)[- ]?mania[ck][sz]?/i
-title/se(?:ks|x)[- ]?offender[sz]?/i
-title/se(?:ks|x)[- ]?predator[sz]?/i
-title/se(?:ks|x)[- ]?s[ck]andal[sz]?/i
-title/se(?:ks|x)[- ]?toy[sz]?/i
-title/se(?:ks|x)[- ]?video[sz]?/i
-title/se(?:ks|x)/i
-title/se(?:ks|x)aholi[ck][sz]?/i 
-title/semen/i
-title/shisha/i
-title/short[- ]?skirt[sz]?/i
-title/sinner[sz]?/i
-title/sleaz(?:e|ie(?:r|st)|bag[sz]?|y)/i
-title/slut(?:ie(?:r|st)|[sz]?|y)
-title/smegma/i
-title/smok(?:e(?:r[sz]?)?|ing)/i
-title/smrad(?:[eu]|ovi)?/i
-title/sodom(?i(?:te[sz]?|z(?:e[sz]?|ing)))/i*
-title/sperm[au]?/i
-title/starlet[aeisu]/i
-title/strip[- ]?[ck]lub[sz]?/9
-title/strip[- ]?bar[sz]?/i
-title/strip[- ]?tea[sz]e/i
-title/sugar[- ]?dad(?:d(?:))
-title/sugar[- ]?mom
-title/sweet[- ]?sinner[sz]?/i
-title/swinger[sz]?[- ](?:[ck]lub|party)/i
-title/tanga[sz]?/i
-title/tank[- ]top[sz]?/i
-title/teste[sz]?/i
-title/testic(?:le[sz]|ular)/i
-title/three[- ]?some[sz]?/i
-title/titt(?:ie[sz]|y)/i
-title/tobacco/i
-title/top[- ]?less[- ]?(?:bar[sz])?/i
-title/trann(?:ie[sz]?|y)/i
-title/trans[- ]?gender[sz]?/i
-title/transvestite[sz]?/i
-title/turd[sz]?/i
-title/twat[sz]?/i
-title/undie[sz]?/i
-title/undress(?:e[ds]|ing)?/i
-title/vagina[sz]?/i
-title/vap(?:e(?:r[sz]?|[sz]?)|ing|or)/i
-title/veroni[ck]a[- ]?avluv/i
-title/viagra/i
-title/vibr[ae]tor[sz]?/i
-title/vulva[sz]?/i
-title/wang/i
-title/weed/i
-title/weenie[sz]?/i
-title/wet[- ]?dream[sz]?i
-title/white[- ]?trash/i
-title/whore[dsz]?[- ](?:bag|dom|ing)?/i
-title/wimp[szy]?/i
-title/xanax/i
-title/xxx/i
-title/zadrug[aeu]/i
 torchbrowser.com
 torproject.org
-ubisoft, unlock
 ucweb.com
 ungoogled-software.github.io/ungoogled-chromium
-unibet
-valve, valvecommunity, vg247, videogame, vmodcheat
-vedicfolks
-vegas
-virgo
 vivaldi.com/download
 vivaldi.com$document,redirect=blocked.html,important
-wager, wagering, williamhill, winbets, winner, winners, winning, winorama, won, wwin, zynga
-walkthrough, warcraft, warframe, warframe, warhammer, warhammer, wii, winmods
-wank
-wank
-wanker
-wankers/ing/z
-wanking
-wankjob
-wanky
 waterfox.net
-waysted
-wazoo
 webkit.org
-weenie
-weewee
-weiner
-welcher
-wench
-wetb
-wetback
-wetbacks
-wetdream
-wetspot
-whacker
 whale.naver.com
-whash
-whatismysign
-whigger
-whiggers
-whiskeydick
-whiskydick
-whit
-whitenigger
-whitepower
-whites
-whitetrash
-whitey
-whiteys
-whities
-whoar
-whop
-whore
-whorealicious
-whorebag
-whored
-whoreface
-whorefucker
-whorehopper
-whorehouse
-whores
-whoring
-wichser
-wigga
-wiggas
-wigger
-wiggers
-willie
-willies
-williewanker
-willy
-wog
-wogs
-woose
-wop
-words
-worldsex
-wtf
-wuss
-wuzzie
 wwwdotbrowser.webs.com
-x360, xbox, xmod
-xhamster
-yandex
-yandex
 yandex.com/browser
-yank
-yellowman
-yellowshowers
-yify
-yobbo
-youporn
-yourboobs
-yourpenis
-yourtits
-yts
-zelda, zeldadungeon
-zodist
