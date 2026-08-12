@@ -34,8 +34,8 @@
 ! [P]
 
 ! d
-||photopea.*^
-||pixlr.*^
+@||photopea.*^
+@||pixlr.*^
 ||priv.au^
 ||putlocker.*^
 
