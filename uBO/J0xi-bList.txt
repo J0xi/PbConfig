@@ -761,7 +761,7 @@ wikistar
 ! [13] OTHER
 
 ! ====================================================================================
-! 13.1 BROWSERS
+! 13.1 Browsers
 
 ! A
 ||arc.net^
@@ -964,35 +964,3 @@ swisscows.com##.widget-news.widget
 ! Images Carousel
 www.qwant.com##.EBqum
 
-SYNTAX
-⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-
-||word*^ = matched word must start of the hostname
-||*word*^ = matched word can be anywhere in the hostname before the boundary
-||*word* = matched word can be anywhere in the hostname
-
-||ass*^$document
-||tit*^$document
-
-Matches: ass.com, asses.com, asshole.net, ass123.xyz, ass-pics.site, tits.com, tit-pics.net, tit123.xyz
-Avoids: assessmarket.net, assetmanagement.co.uk, title.com, entity.com
-ass,cum,tit = Risky, form parts of neutral words, best to apply 
-
-! ||*chat*^$document
-! ||*apricot*$document
-
-Matches: luxchat.net, virtual-chat-1.com, chat-room3.org
-Matches: apricot-style.com, clothing-old.uk/apricot-shirt, apricot.groceryonline.net
-
-^ = boundary match
-
-||*tank*^$document =
-
-Matches
-Singular: tank
-Plural: tanks
-Hyphenated: tank-site, mega-tank-hub
-Prefixed: bestank, freetank
-Suffixed: tanking, tanker
-Compounds: tank-prank, bank--tank
-Subdomains: cdn.tankvideos.com
