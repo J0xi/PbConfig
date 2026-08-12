@@ -1,7 +1,7 @@
 ! Title: J0xi's Allowlist
 ! Info: Allowed Domains, Subdomains, APIs & CDNs 
-! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-Trusted.txt
-! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-Trusted.txt
+! https://github.com/J0xi/PbConfig/blob/main/uBO/J0xi-aList.txt
+! https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBO/J0xi-aList.txt
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! .........................................................................................
 ! [A]
