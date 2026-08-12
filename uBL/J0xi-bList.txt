@@ -324,11 +324,14 @@ title/kresanj[aeu]/i
 title/keiran[- ]?lee/i
 title/kuronj[aeou]/i
 ...
-kresnuti, kunt, kaki(?:m|č), kenja/kenjac/kenjati
+kresnuti, 
+kunt, 
+kaki(?:m|č), kenja/kenjac/kenjati
 kobila, etina, etine, etini, etinu
 kenjator
-kurcozderka
-krava, kravetina, kravetinu
+kreten, kretenka, kretenu, kretenizam, kretencina
+kurcozderka/u/i
+krava, kravetina, kravetinu, krave
 
 # L
 title/lgbqt/i
@@ -368,6 +371,7 @@ title/nudi(?:s(?:m|t)|ty)/i
 title/nympho/i
 title/nympho[- ]?mania[ck]?[sz]?/i*
 title/naked/i
+title/nudie[- ]?mag[sz]?/i
 
 # O
 title/only[- ]fan[sz]?/i
@@ -390,10 +394,10 @@ title/poop(?:e[dr]|[sz]?|in(?:g))/i
 title/porn(?:o[sz]?|ograph(?:))
 title/porn[-]?flick[sz]?/i
 title/porn[-]?star[sz]?i
-title/potty/i
+title/pott(?:ies|y)/i
 title/premature[- ]?ejaculation/i
 title/puss(?:i(?:es|fy)|y)/i
-title/pimpek/i
+title/pimpek[au]?/i
 ...
 panties, panty
 paedophilia
@@ -408,6 +412,7 @@ title/rap(?:e[sz]?|ed|ing[sz]?|ist[sz]?)/i = title/rap(?:(e|ing|ist)[sz]?|ed)/i
 title/red[- ]?tube/i
 title/retrard[sz]?/i
 title/rim[- ]?job[sz]?/i
+title/raw[- ]?dog/i
 
 # S
 title/sa(?:dis(?:m|t[sz]?))/i
@@ -437,18 +442,19 @@ title/slut(?:ie(?:r|st)|[sz]?|y)
 title/smegma/i
 title/smrad(?:[eu]|ovi)?/i
 title/sodom(?i(?:te[sz]?|z(?:e[sz]?|ing)))/i*
-title/sperm[au]?/i
+title/sperm[aeu]?/i
 title/starlet[aeisu]/i
 title/strip[- ]?[ck]lub[sz]?/9
 title/strip[- ]?bar[sz]?/i
 title/strip[- ]?tea[sz]e/i
 title/sugar[- ]?dad(?:d(?:))
 title/sugar[- ]?mom
+title/swag(?:ger)?/i
 title/sweet[- ]?sinner[sz]?/i
 title/swinger[sz]?[- ](?:[ck]lub|party)/i
 ...
 shits, shithead, shitted, shitty, shithole, shit-eater/ing
-sise, sisetine, sikice, sisurdace,
+sise, sisetine, sikice, sisurdace, sisata, sisanje, sisati kurac
 
 # T
 title/trans[- ]?gender[sz]?/i
