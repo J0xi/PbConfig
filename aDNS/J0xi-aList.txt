@@ -31,6 +31,9 @@
 @@||britannica.com^
 @@||buymeacoffee.com^
 
+! 🇭🇺
+@@||bejelentkezes.hu^
+
 ! sd
 @@||safebrowsing.brave.com^
 
