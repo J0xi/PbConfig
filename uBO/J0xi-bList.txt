@@ -185,7 +185,6 @@ scorpio
 ||*kanabis*$document
 ||*kannabis*$document
 ||*kohib*$document
-||*leaf*$document
 ||*marijuana*$document
 ||*modafinil*$document
 ||*organic*$document
@@ -199,7 +198,6 @@ scorpio
 ||*tobako*$document
 ||*vape*$document
 ||*vaping*$document
-||*vapor*$document
 ||*weed*$document
 ||*xanax*$document
 
