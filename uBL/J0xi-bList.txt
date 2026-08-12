@@ -206,6 +206,9 @@ title/drka(?:ju|m(?:o)?|nj[aeu]|t[ei])/i
 title/dumb[- ]?ass(?:e[sz])?/i
 title/dumbo[sz]?/i
 title/dung/i
+...
+dripac/cki,dripci
+drtina/e/i/u
 
 # E
 title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
@@ -286,6 +289,8 @@ title/horse[- ]?shit/i
 title/hung[- ]?like[- ]?a[- ]?horse/i
 title/hunk[syz]?/i
 title/hymen/i
+...
+holy-shit
 
 # I
 title/idiot[sz]?/i
@@ -354,11 +359,10 @@ title/mrcin[aeiou]/i
 title/money[- ]?sh[0o]t[sz]?/
 title/masturbat(?:e(sz)?|ed|i(?:on|ng)|or(?:y)?)/i
 title/maggot[sz]?/i
-title/missionary/i
+title/missionary[- ]?(?:position)?/i
 ..
 mudafuka[sz], mudafuqa[sz]
 m[0ou]ther[- ]?fu(?ck|q)
-
 mother fucks/er/ers/z/ing/ed/e
 menageatrois
 
@@ -402,6 +406,7 @@ title/pimpek[au]?/i
 panties, panty
 paedophilia
 pornhub, porno, pornos, porno, pornographer, pornography, pornographic, pornografia, pronici, pornicu, pornstar, ponstars
+pedercina/u/i/e/o
 
 # Q
 queer[sz]
@@ -489,9 +494,7 @@ title/white[- ]?trash/i
 title/wet[- ]?dream[sz]?i
 title/weenie[sz]?/i
 title/wang/i
-
-
-
+...
 wank, wanker, wanking, wankjob, wanky, waysted, wazoo, weenie, weewee, weiner
 welcher, wench,wetback, wetbacks, wetdream, wetspot
 whacker
@@ -2138,8 +2141,6 @@ sportz, streamable, streamsport
 *://*.paramountnetwork.es/*
 *://*.paramountplus.com/*
 *://*.paramountpluswithshowtime.com/*
-*://*.pbs.org/*
-*://*.pbskids.org/*
 *://*.pdc.tv/*
 *://*.peacocktv.com/*
 *://*.peliculaslatino.com/*
