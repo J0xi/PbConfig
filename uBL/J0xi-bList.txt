@@ -63,7 +63,7 @@ title/anal[- ]?bead[sz]?/i
 title/anal[- ]?plug[sz]?/i
 title/anal[- ]?probe[sz]?/i
 title/an[ai]lingus/i
-title/anus/i
+title/anus(?:e[sz])?/i
 title/ape[- ]?shit/i
 title/arabush/i
 title/arr?se[- ]?h[0o]le[sz]?/i
@@ -110,7 +110,7 @@ title/big[- ]?tit[sz]/i
 title/bilmez[aeiu]?/i
 title/bimbo[sz]?/i
 title/bitang[aeiu]/i
-title/bitch(?:e[dsz]|er[sz]?|in[g]?|[- ]?(?:slap|tit)[sz]?|y)?/i
+title/bitch(?:e[dsz]|er[sz]?|in[g]?|[- ]?(?:slap|tit)[sz]?|wax|y)?/i
 title/bite[- ]?m(?:e|y)/i
 title/black[- ]?[ck]ock[sz]?/i
 title/black[- ]?c[0o]ck[sz]?/i
@@ -158,6 +158,7 @@ title/baller[sz]?/i
 title/bordel(?:lo)?[sz]?/i
 title/bradavic[aeu]/i
 title/blackie[sz]?/i
+title/bi[- ]?sexual(?:ity|ly|[sz])?/i
 
 # C
 title/[ck][0o]pulat(?:)*
@@ -179,6 +180,7 @@ title/coit(?:al|us)/i
 title/copulat(?:e[sz]?|i(?:ng|on))?
 title/cougar[sz]?/i
 title/cow[- ]?fart[sz]?/i
+title/cow[- ]?girl/i
 title/cream[- ]?pie[sz]?/i
 title/cum[- ]?guzzle(?:r[sz]?)?/i
 
@@ -261,15 +263,14 @@ title/herpe[sz]/i
 title/hill[- ]bill(?:ie[sz]?|y)/i
 title/hobo[sz]?/i
 title/home[- ]?b[0o]y[sz]?/i 
+title/homo[- ]?eroti[ck]/i
 title/hooker[sz]?/i
 title/hooter[sz]?/i
-title/horn(?:ie(?:r|st)|[- ]?dog[sz]?|y)/i
+title/horn(?:ie(?:r|st))/i
 title/horse[- ]?shit/i
 title/hung[- ]?like[- ]?a[- ]?horse/i
 title/hunk[syz]?/i
 title/hymen/i
-
-homo erotic
 
 # I
 title/idiot[sz]?/i
@@ -287,7 +288,6 @@ title/jack[- ]?off(?:ed|s)
 title/jack[- ]?shit/i
 title/jag[- ]?off[sz]?/i
 title/jizz(?:e[ds]|ing)?/i
-
 title/jebe(?:m|)
 jebac[ae], jebanja/e/u, jebada, jebac[aeiu]?
 
@@ -336,6 +336,7 @@ title/mrcin[aeiou]/i
 title/money[- ]?sh[0o]t[sz]?/
 title/masturbat(?:e(sz)?|ed|i(?:on|ng)|or(?:y))/i
 title/maggot[sz]?/i
+title/missionary/i
 ..
 mudafuka[sz], mudafuqa[sz]
 m[0ou]ther[- ]?fu(?ck|q)
@@ -376,6 +377,7 @@ title/porn[-]?flick[sz]?/i
 title/potty/i
 title/premature[- ]?ejaculation/i
 title/puss(?:i(?:es|fy)|y)/i
+title/pimpek/i
 ...
 panties, panty
 paedophilia
@@ -395,7 +397,7 @@ title/rim[- ]?job[sz]?/i
 title/sa(?:dis(?:m|t[sz]?))/i
 title/scrot(?:ie|um)/i
 title/se(?:ks|x)
-title/se(?:ks|x)(?:ie(?:r|st)|y)
+title/se(?:ks|x)(?:ie(?:r|st)|uality|y)/i
 title/se(?:ks|x)[- ]?(addiction[sz]?|appeal)/i
 title/se(?:ks|x)[- ]?(tape[sz]?|ting)?/i
 title/se(?:ks|x)[- ]?[ck]ult[sz]?/i
@@ -403,11 +405,11 @@ title/se(?:ks|x)[- ]?game[sz]?/i
 title/se(?:ks|x)[- ]?kitten[sz]?/i
 title/se(?:ks|x)[- ]?mania[ck][sz]?/i
 title/se(?:ks|x)[- ]?offender[sz]?/i
+title/se(?:ks|x)[- ]?position[sz]?/i
 title/se(?:ks|x)[- ]?predator[sz]?/i
 title/se(?:ks|x)[- ]?s[ck]andal[sz]?/i
 title/se(?:ks|x)[- ]?toy[sz]?/i
 title/se(?:ks|x)[- ]?video[sz]?/i
-title/se(?:ks|x)/i
 title/se(?:ks|x)aholi[ck][sz]?/i 
 title/semen/i
 title/sperm[au]?/i
@@ -426,6 +428,7 @@ title/sweet[- ]?sinner[sz]?/i
 title/sugar[- ]?dad(?:d(?:))
 title/sugar[- ]?mom
 title/smrad(?:[eu]|ovi)?/i
+title/shut[- ]?the[- ]?f/i 
 ...
 shits, shithead, shitted, shitty, shithole, shit-eater/ing
 
@@ -721,12 +724,14 @@ title/junkie[sz]?/i
 
 # K
 title/kush/i
+
 /kush/i
 
 # M
 title/marijuana/i
-title/mary[- ]?jane/i
+title/mary[- ]?j/i
 title/modafinil/i
+
 /marijuana/i
 /mary[- ]?jane/i
 /modafinil/i
@@ -734,21 +739,26 @@ title/modafinil/i
 # N
 title/narkoman(?:[aeiu]|ij[aeu])?/i
 title/noo-?tropic/i
+
 /noo-?tropic/i
 /narkoman(?:[aeiu]|ij[aeu])?/i
 
 # P
-title/pill[- ]?popper[sz]?/
+title/pill[- ]?popper[sz]?/i
+title/pure[- ]?kana/i
+
 /pill[- ]?popper[sz]?/
 
 # S
 title/shisha/i
 title/smok(?:e(?:r[sz]?)?|ing)/i
+
 /shisha/i
 /smoke/i
 
 # T
 title/tobacco/i
+
 /tobacco/i
 
 # V
