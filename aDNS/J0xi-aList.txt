@@ -49,6 +49,7 @@
 
 ! sd
 @@||dictionary.cambridge.org^
+@@||family.cloudflare-dns.com^
 
 ! cdns
 @@||cdn.consentmanager.net^
