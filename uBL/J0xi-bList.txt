@@ -15,7 +15,8 @@
 # [8]        GAMBLING
 # [9]        GAMING
 # [10]       NEWS
-# [11]       SOCIAL
+# [12]       SOCIAL
+# [13]       SPAM     
 # [11]       SPORTS
 # [12]       STREAMING AV
 # [16]       UNSAFE
@@ -540,13 +541,9 @@ title/xxx/i
 xhamster
 
 # Y
-yank
+title/yank[sz]/i
 title/yellow[- ]?m[ae]n/i
 yellowshowers
-yobbo
-yourboobs
-yourpenis
-yourtits
 youporn
 
 # Z
