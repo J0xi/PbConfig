@@ -8,9 +8,12 @@
 
 ! d
 @@||accuweather.com^
+@@||acleddata.com^
 @@||adtidy.org^
 @@||alternativeto.net^
 @@||amazon.*^
+@@||appcenter.ms^
+@@||arcgis.com^
 @@||archive.org^$important
 
 ! 🇭🇺
