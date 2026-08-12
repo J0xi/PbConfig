@@ -187,7 +187,6 @@ scorpio
 ||*kohib*$document
 ||*marijuana*$document
 ||*modafinil*$document
-||*organic*$document
 ||*pure*kana*$document
 ||*queen*seed*$document
 ||*seed*$document
