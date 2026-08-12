@@ -190,12 +190,13 @@ title/dick[sz]?[- ]?(?:head|wa(?:a|ed)?|su(?:ck|q))/i
 title/dild[0o][sz]?/i
 title/dirt[- ]?bag[sz]?/i
 title/dominatri(?:x|ks)/i
-title/donga/i
+title/donga[sz]/?i
 title/double[- ]?d[sz]?/i
 title/drka(?:ju|m(?:o)?|nj[aeu]|t[ei])/i
 title/dumb[- ]?ass(?:e[sz])?/i
 title/dumbo[sz]?/i
 title/dung/i
+title/dork[syz]?/i
 
 # E
 title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
@@ -248,6 +249,7 @@ title/gnjid[aeiou]/i
 title/gang-rape[sz]?/i
 title/goved[ao]/i
 title/gigolo[sz]?/i
+title/grudi/i
 
 # H
 title/harem/i
