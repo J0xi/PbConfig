@@ -189,21 +189,22 @@ title/cum[- ]?guzzle(?:r[sz]?)?/i
 
 # D
 title/d[iy]ke[sz]?/i
+title/dafuq/i
 title/darla[- ]?[ck]rane/i
 title/deauxma/i
+title/deep[- ]?fake[sz]?/i
 title/degenerate[sz]?/i
 title/dick[sz]?[- ]?(?:head|wa(?:a|ed)?|su(?:ck|q))/i
 title/dild[0o][sz]?/i
 title/dirt[- ]?bag[sz]?/i
 title/dominatri(?:x|ks)/i
 title/donga[sz]/?i
+title/dork[syz]?/i
 title/double[- ]?d[sz]?/i
 title/drka(?:ju|m(?:o)?|nj[aeu]|t[ei])/i
 title/dumb[- ]?ass(?:e[sz])?/i
 title/dumbo[sz]?/i
 title/dung/i
-title/dork[syz]?/i
-title/dafuq/i
 
 # E
 title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
@@ -387,6 +388,7 @@ title/play[- ]?mate[sz]?/i
 title/poop(?:e[dr]|[sz]?|in(?:g))/i
 title/porn(?:o[sz]?|ograph(?:))
 title/porn[-]?flick[sz]?/i
+title/porn[-]?star[sz]?i
 title/potty/i
 title/premature[- ]?ejaculation/i
 title/puss(?:i(?:es|fy)|y)/i
@@ -539,7 +541,7 @@ xhamster
 
 # Y
 yank
-yellowman
+title/yellow[- ]?m[ae]n/i
 yellowshowers
 yobbo
 yourboobs
@@ -582,28 +584,23 @@ title/zadrug[aeu]/i
 /^https?:\/\/[^\/?#]*psychic[^\/?#]*(?:[\/?#]|$)/
 /^https?:\/\/[^\/?#]+\/[^?#]*psychic[^?#]*(?:[?#]|$)/i
 
-
 # R
 /^https?:\/\/[^\/?#]*rising[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*rising(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
 
 # S
 /^https?:\/\/[^\/?#]*(?:star[-.]*sign|sun[-.]*sign)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*(?:star(?:[-_+.\/]|%20)*sign|sun(?:[-_+.\/]|%20)*sign)[^?#]*(?:[?#]|$)/i
 
 # T
 /^https?:\/\/[^\/?#]*tarot[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*tarot[^?#]*(?:[?#]|$)/i
+
+# V
+/^https?:\/\/[^\/?#]+\/[^?#]*vedic[^?#]*(?:[?#]|$)/i
 
 # Z
-/^https?:\/\/[^\/?#]*zodia[^\/?#]*(?:[\/?#]|$)/i
-
-## Path
-
-
-
-/^https?:\/\/[^\/?#]+\/[^?#]*psychic[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*rising(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*(?:star(?:[-_+.\/]|%20)*sign|sun(?:[-_+.\/]|%20)*sign)[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*tarot[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*vedic[^?#]*(?:[?#]|$)/i
+/^https?:\/\/[^\/?#]*zodiac[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*zodiac[^?#]*(?:[?#]|$)/i
 
 aquarius, aries, askmyoracle, birthsign
