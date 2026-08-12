@@ -7,7 +7,6 @@
 ! [A]
 
 ! cdns
-
 @@||akcdn.net^
 @@||assetsconfigcdn.org
 
@@ -20,13 +19,11 @@
 ! [C]
 
 ! d
-
 @@||chatplayground.ai^
 @@||clawhub.ai^
 @@||codeberg.org^
 
 ! cdns
-
 @@||cdn.consentmanager.net^
 @@||delivery.consentmanager.net^
 @@||cdn.cookielaw.org^
@@ -46,11 +43,9 @@
 ! [F]
 
 ! d
-
 @@||freedom.to^$all
 
 ! cdns
-
 @@||cdn.filen.io^
 
 ! ........................................................................................
@@ -63,11 +58,9 @@
 ! [M]
 
 ! d
-
 @@||moneymanagerex.org^
 
 ! sd
-
 @@||manualslib.com^$all
 @@||static-data2.manualslib.com^
 @@||static2.manualslib.com^
@@ -81,18 +74,17 @@
 ! [O]
 
 ! d
-
 @@||oisd.nl^
 @@||openclaw.ai^
 
 ! cdns
-
 @@||cdn.optimizely.com^
 
 ! ........................................................................................
 ! [P]
 
 ! d
+@@||paypal.com^$all
 
 ! 🇨🇭
 @@||proton.me^$all
@@ -100,8 +92,6 @@
 
 ! 🇷🇸
 @@||payten.com.tr
-
-@@||paypal.com^$all
 
 ! ........................................................................................
 ! [R]
@@ -112,26 +102,22 @@
 @@||raiffeisen.hu^$all
 
 ! cdns
-
 @@||cdn.riastatic.com^
 
 ! ........................................................................................
 ! [S]
 
 ! d
-
 @@||simplelogin.com^$all
 @@||simplelogin.io^$all
 
 ! cdns
-
 @@||cdn.snigelweb.com^
 
 ! ........................................................................................
 ! [U]
 
 ! d
-
 @@||uniclipboard.app^
 
 ! sd
@@ -151,11 +137,10 @@
 ! [W]
 
 ! d
+@@||whatsapp.com^
 
 ! 🇬🇧
 @@||wise.com^$all
-
-@@||whatsapp.com^
 
 ! ........................................................................................
 ! [Z]
