@@ -399,6 +399,7 @@ title/se(?:ks|x)[- ]?kitten[sz]?/i
 title/se(?:ks|x)[- ]?mania[ck][sz]?/i
 title/se(?:ks|x)[- ]?offender[sz]?/i
 title/se(?:ks|x)[- ]?predator[sz]?/i
+title/se(?:ks|x)[- ]?s[ck]andal[sz]?/i
 title/se(?:ks|x)[- ]?toy[sz]?/i
 title/se(?:ks|x)[- ]?video[sz]?/i
 title/se(?:ks|x)/i
