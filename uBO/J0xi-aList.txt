@@ -74,6 +74,7 @@
 ! [O]
 
 ! d
+@@||obsidian.md^
 @@||oisd.nl^
 @@||openclaw.ai^
 

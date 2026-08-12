@@ -77,6 +77,7 @@ title/ass[- ]?wipe[sz]?/i
 title/auto[- ]?eroti[ck]/i
 title/ava[- ]?add?am[sz]?/i
 title/avn[- ]?award[sz]?/i
+title/animal[- ]?porn/i
 
 # B
 tiitle/bung[- ]?h[0o]le[sz]?/i
@@ -211,6 +212,8 @@ title/erotsk[aeiou]/i
 title/es[ck]ort[- ]?agency/i
 title/eunuch[sz]?/i
 title/ex[ck]rement/i
+title/eat[-]?my/i
+title/eat[-]?(?:h(:?(er|im)|me))[- ]?out/i
 ...
 eat shit
 
@@ -250,21 +253,23 @@ title/gigolo[sz]?/i
 title/grudi/i
 
 # H
+title/happy[- ]?ending[sz]?/i
+title/hard[- ]?on[sz]?/i
 title/harem/i
 title/hentai/i
 title/herpe[sz]/i
+title/hill[- ]bill(?:ie[sz]?|y)/i
+title/hobo[sz]?/i
+title/home[- ]?b[0o]y[sz]?/i 
+title/hooker[sz]?/i
 title/hooter[sz]?/i
 title/horn(?:ie(?:r|st)|[- ]?dog[sz]?|y)/i
 title/horse[- ]?shit/i
-title/hooker[sz]?/i
-title/hymen/i
-title/home[- ]?b[0o]y[sz]?/i 
-title/hard[- ]?on[sz]?/i
-title/happy[- ]?ending[sz]?/i
+title/hung[- ]?like[- ]?a[- ]?horse/i
 title/hunk[syz]?/i
-title/hobo[sz]?/i
-...
-title/hill[- ]bill(?:)
+title/hymen/i
+
+homo erotic
 
 # I
 title/idiot[sz]?/i
@@ -436,7 +441,8 @@ title/titt(?:ie[sz]|y)/i
 title/trann(?:ie[sz]?|y)/i
 title/testic(?:le[sz]|ular)/i
 title/teste[sz]?/i
-title/transvestite[sz]?/i
+title/transvestit(?:e[sz]?|ism)/i
+title/tortue[- ]?porn/i
 
 # U
 title/undie[sz]?/i
