@@ -9,7 +9,7 @@
 # [3]        BLOGS
 # [4]        CHAT
 # [5]        COMMERCE
-  # 5.1        FOOD DELIVERY  
+  # 5.1        Food Delivery  
 # [6]        DATING
 # [7]        DRUGS & TOBACCO
 # [8]        GAMBLING
@@ -20,8 +20,8 @@
 # [12]       STREAMING AV
 # [16]       UNSAFE
 # [17]       UTILITIES
-#    17.1        BROWSERS
-#    17.3        SEARCH ENGINES
+#    17.1        Browsers
+#    17.3        Search Engines
   
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [1] 18+
@@ -78,15 +78,19 @@ title/auto[- ]?eroti[ck]/i
 title/ava[- ]?add?am[sz]?/i
 title/avn[- ]?award[sz]?/i
 title/animal[- ]?porn/i
+title/anime[- ]?porn/i
 
 # B
 tiitle/bung[- ]?h[0o]le[sz]?/i
 title/b[ea]stial(?:it(?:ies|y))?/i
 title/b[ei]atch(?:e[sz])?/i
 title/babe[sz]?/i
+title/bad[- ]?boy[sz]?/i
+title/bad[- ]?girl[sz]/i
 title/bad[- ]?fu(?:ck|q)/i
 title/ball[- ]?bag[sz]?/i
 title/ball[- ]?sa(?:ck|q)[sz]?/i
+title/baller[sz]?/i 
 title/bang[- ]?bro[sz]/i
 title/bang[- ]?bus/i
 title/barely[- ]?legal/i
@@ -102,7 +106,9 @@ title/beef[- ]?cake[sz]?/i
 title/beeyotch/i
 title/bellend[sz]?/i
 title/beotch/i
+title/beta[- ]?male[sz]?/i
 title/bi[- ]?curious/i
+title/bi[- ]?sexual(?:ity|ly|[sz])?/i
 title/big[- ]?ass/i
 title/big[- ]?black[- ]?c[0o]ck[sz]?/i
 title/big[- ]?butt[sz]?/i
@@ -112,10 +118,10 @@ title/bimbo[sz]?/i
 title/bitang[aeiu]/i
 title/bitch(?:e[dsz]|er[sz]?|in[g]?|[- ]?(?:slap|tit)[sz]?|wax|y)?/i
 title/bite[- ]?m(?:e|y)/i
-title/black[- ]?[ck]ock[sz]?/i
-title/black[- ]?c[0o]ck[sz]?/i
+title/black[- ]?[ck][0o]ck[sz]?/i
+title/blackie[sz]?/i
 title/blood[- ]?claat/i
-title/blow[- ]?job[sz]?/i
+title/blow[- ]?j[0o]b[sz]?/i
 title/blumpkin[sz]?/i
 title/boink(?:ed|[sz])?/i
 title/bollo(?ck|q)[sz]?/i
@@ -128,15 +134,18 @@ title/booger[sz]?/i
 title/boonie[sz]?/i
 title/boot(?:ie[sz]|lip[sz]?|y)/i
 title/booz(?:er|y)/i
+title/bordel(?:lo)?[sz]?/i
 title/bosom/i
+title/bradavic[aeiu]/i
 title/brandi[- ]?l(?:ove|uv)[sz]?/i
+title/brazzer[sz]/i
 title/breast[sz]?/i 
 title/brothel[sz]?/i
 title/buceta/i
 title/budal[aeiou]/i
 title/bugger(?:ed|[sz]|y)?/i
 title/bukkake/i
-title/bull[- ]?crap/i
+title/bull[- ]?[ck]rap/i
 title/bull[- ]?shit(?:ter|ing)?[sz]?/i
 title/bull[- ]?turd[sz]/i 
 title/bum[- ]?fu(?:ck|q)[sz]?/i
@@ -152,13 +161,6 @@ title/butt[- ]?munch/i
 title/butt[- ]?plug[sz]?/i
 title/butt[- ]?stain[sz]?/i
 title/butt[- ]?wipe[sz]?/i
-title/beta[- ]?male[sz]?/i
-title/brazzer[sz]/i
-title/baller[sz]?/i 
-title/bordel(?:lo)?[sz]?/i
-title/bradavic[aeu]/i
-title/blackie[sz]?/i
-title/bi[- ]?sexual(?:ity|ly|[sz])?/i
 
 # C
 title/[ck][0o]pulat(?:)*
@@ -181,6 +183,7 @@ title/copulat(?:e[sz]?|i(?:ng|on))?
 title/cougar[sz]?/i
 title/cow[- ]?fart[sz]?/i
 title/cow[- ]?girl/i
+title/crazy[- ]?bitch[esz]?/i
 title/cream[- ]?pie[sz]?/i
 title/cum[- ]?guzzle(?:r[sz]?)?/i
 
@@ -200,6 +203,7 @@ title/dumb[- ]?ass(?:e[sz])?/i
 title/dumbo[sz]?/i
 title/dung/i
 title/dork[syz]?/i
+title/dafuq/i
 
 # E
 title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
@@ -213,11 +217,10 @@ title/erotici[sz]m/i
 title/erotsk[aeiou]/i
 title/es[ck]ort[- ]?agency/i
 title/eunuch[sz]?/i
-title/ex[ck]rement/i
+title/ex[ck]rement[sz]?/i
 title/eat[-]?my/i
 title/eat[-]?(?:h(:?(er|im)|me))[- ]?out/i
-...
-eat shit
+title/eat[- ]?shit/i
 
 # F
 title/fagg?ot(?:[sz]?|ry)?/i
@@ -232,10 +235,16 @@ title/foreskin[sz]?/i
 title/fu(?:ck|q)[- ]?face/i
 title/fu(?:ck|q)[- ]?mate[sz]?/i
 title/fu(?:ck|q)[- ]toy[sz]?/i
-title/fu(?:ck|q)[sz]?*
-title/fu(?:ck|q)able/i
 
-fuck[sz]/ed/er[sz]/ing[sz]/fuck-face/fucktard[sz]/fuckable
+title/fu(?:(?:ck|q)[sz]
+
+title/fu(?:ck|q)[- ]?off/i
+title/fu(?:ck|q)able/i
+title/fondl(?:e[dsz]|ing)/i
+title/fuck[- ]?tard[sz]?/i
+title/fornicat(?:e[dsz]|i(ng|on)?)/i
+
+fuck[sz]/ed/er[sz]/ing[sz]fuckt
 
 # G
 title/gangsta[sz]?/i
@@ -243,16 +252,20 @@ title/glory[- ]?h[0o]le[sz]?/i
 title/gayness/i
 title/gay[- ]?lord[sz]?/i
 title/gay[- ]?bar[sz]?/i
-title/gilipter[aeiu]/i
+title/gilipter[aeiu]?/i
 title/gilf[szy]?/i
-title/get[- ]?laid/i
+title/get(?:ing)?[- ]?laid/i
 title/gang[- ]?bang(?:er[sz]?|ed|ing[sz]?)?*
 title/govn(?a|ar[aeiu]?|o)/i*
 title/gnjid[aeiou]/i
 title/gang-rape[sz]?/i
 title/goved[ao]/i
 title/gigolo[sz]?/i
+title/gran(?:dma|nie)[- ]?porn/i
 title/grudi/i
+title/go[- ]?down[- ]?on/i
+title/go[- ]?down[- ]?town/i
+title/g[- ]?spot[sz]?/i
 
 # H
 title/happy[- ]?ending[sz]?/i
@@ -334,7 +347,7 @@ title/milf[szy]?/i
 title/majmun[aeiu]/i
 title/mrcin[aeiou]/i
 title/money[- ]?sh[0o]t[sz]?/
-title/masturbat(?:e(sz)?|ed|i(?:on|ng)|or(?:y))/i
+title/masturbat(?:e(sz)?|ed|i(?:on|ng)|or(?:y)?)/i
 title/maggot[sz]?/i
 title/missionary/i
 ..
@@ -398,39 +411,41 @@ title/sa(?:dis(?:m|t[sz]?))/i
 title/scrot(?:ie|um)/i
 title/se(?:ks|x)
 title/se(?:ks|x)(?:ie(?:r|st)|uality|y)/i
+title/se(?:ks|x)[- ]?(?:position|predator)[sz]?/i
 title/se(?:ks|x)[- ]?(addiction[sz]?|appeal)/i
 title/se(?:ks|x)[- ]?(tape[sz]?|ting)?/i
 title/se(?:ks|x)[- ]?[ck]ult[sz]?/i
+title/se(?:ks|x)[- ]?doll[sz]?/i
+title/se(?:ks|x)[- ]?freak[sz]?/i
 title/se(?:ks|x)[- ]?game[sz]?/i
 title/se(?:ks|x)[- ]?kitten[sz]?/i
 title/se(?:ks|x)[- ]?mania[ck][sz]?/i
 title/se(?:ks|x)[- ]?offender[sz]?/i
-title/se(?:ks|x)[- ]?position[sz]?/i
-title/se(?:ks|x)[- ]?predator[sz]?/i
 title/se(?:ks|x)[- ]?s[ck]andal[sz]?/i
 title/se(?:ks|x)[- ]?toy[sz]?/i
 title/se(?:ks|x)[- ]?video[sz]?/i
 title/se(?:ks|x)aholi[ck][sz]?/i 
 title/semen/i
-title/sperm[au]?/i
 title/short[- ]?skirt[sz]?/i
+title/shut[- ]?the[- ]?f/i 
+title/sinner[sz]?/i
 title/sleaz(?:e|ie(?:r|st)|bag[sz]?|y)/i
 title/slut(?:ie(?:r|st)|[sz]?|y)
 title/smegma/i
+title/smrad(?:[eu]|ovi)?/i
 title/sodom(?i(?:te[sz]?|z(?:e[sz]?|ing)))/i*
+title/sperm[au]?/i
 title/starlet[aeisu]/i
 title/strip[- ]?[ck]lub[sz]?/9
 title/strip[- ]?bar[sz]?/i
 title/strip[- ]?tea[sz]e/i
-title/swinger[sz]?[- ](?:[ck]lub|party)/i
-title/sinner[sz]?/i
-title/sweet[- ]?sinner[sz]?/i
 title/sugar[- ]?dad(?:d(?:))
 title/sugar[- ]?mom
-title/smrad(?:[eu]|ovi)?/i
-title/shut[- ]?the[- ]?f/i 
+title/sweet[- ]?sinner[sz]?/i
+title/swinger[sz]?[- ](?:[ck]lub|party)/i
 ...
 shits, shithead, shitted, shitty, shithole, shit-eater/ing
+sise, sisetine, sikice, sisurdace,
 
 # T
 title/trans[- ]?gender[sz]?/i
@@ -459,7 +474,8 @@ title/veroni[ck]a[- ]?avluv/i
 
 # W
 title/wimp[szy]?/i
-title/whore[dsz]?[- ](?:bag|dom|ing)?/i
+title/wh[0o]re[dsz]?[- ](?:bag|dom|ing)?/i
+title/wh[0o]re[-]house/i
 title/white[- ]?trash/i
 title/wet[- ]?dream[sz]?i
 title/weenie[sz]?/i
@@ -467,23 +483,8 @@ title/wang/i
 
 
 
-wank
-wanker
-wanking
-wankjob
-wanky
-waysted
-wazoo
-weenie
-weewee
-weiner
-welcher
-wench
-wetb
-wetback
-wetbacks
-wetdream
-wetspot
+wank, wanker, wanking, wankjob, wanky, waysted, wazoo, weenie, weewee, weiner
+welcher, wench,wetback, wetbacks, wetdream, wetspot
 whacker
 whash
 whigger
@@ -500,8 +501,6 @@ whiteys
 whities
 whoar
 whop
-
-
 whore
 whorealicious
 whorebag
@@ -555,28 +554,51 @@ title/zadrug[aeu]/i
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [2] ASTROLOGY
 
-## Domain
-
+# A
 /^https?:\/\/[^\/?#]*astr(?:al|o)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*astr(?:al|o)[^?#]*(?:[?#]|$)/i
+
+# B
 /^https?:\/\/[^\/?#]*birth[-.]*(?:chart|sign)[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*birth(?:[-_+.\/]|%20)*(?:chart|sign)[^?#]*(?:[?#]|$)/i
+
+# G
 /^https?:\/\/[^\/?#]*ganesha[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*ganesha[^?#]*(?:[?#]|$)/i
+
+# H
 /^https?:\/\/[^\/?#]*horoscop[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*horoscop[^?#]*(?:[?#]|$)/i
+
+# M
 /^https?:\/\/[^\/?#]*moon[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*moon(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
+
+# N
 /^https?:\/\/[^\/?#]*(?:name[-.]*meaning|natal[-.]*chart|numerology)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*psychic[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*(?:name(?:[-_+.\/]|%20)*meaning|natal(?:[-_+.\/]|%20)*chart|numerology)[^?#]*(?:[?#]|$)/i
+
+# P
+/^https?:\/\/[^\/?#]*psychic[^\/?#]*(?:[\/?#]|$)/
+/^https?:\/\/[^\/?#]+\/[^?#]*psychic[^?#]*(?:[?#]|$)/i
+
+
+# R
 /^https?:\/\/[^\/?#]*rising[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
+
+# S
 /^https?:\/\/[^\/?#]*(?:star[-.]*sign|sun[-.]*sign)[^\/?#]*(?:[\/?#]|$)/i
+
+# T
 /^https?:\/\/[^\/?#]*tarot[^\/?#]*(?:[\/?#]|$)/i
+
+# Z
 /^https?:\/\/[^\/?#]*zodia[^\/?#]*(?:[\/?#]|$)/i
 
 ## Path
 
-/^https?:\/\/[^\/?#]+\/[^?#]*astr(?:al|o)[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*birth(?:[-_+.\/]|%20)*(?:chart|sign)[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*ganesha[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*horoscop[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*moon(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*(?:name(?:[-_+.\/]|%20)*meaning|natal(?:[-_+.\/]|%20)*chart|numerology)[^?#]*(?:[?#]|$)/i
+
+
 /^https?:\/\/[^\/?#]+\/[^?#]*psychic[^?#]*(?:[?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*rising(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*(?:star(?:[-_+.\/]|%20)*sign|sun(?:[-_+.\/]|%20)*sign)[^?#]*(?:[?#]|$)/i
@@ -605,65 +627,127 @@ zodist
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [3] BLOGS
 
+# C
 *://*.cobratate.com/*
+
+# H
 /^https?:\/\/[^\/?#]*high-?life[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*hustl(?:e|ing)[^\/?#]*(?:[\/?#]|$)/i
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [4] CHAT
 
-## Domain
+# B
+badoo, bazoocam
 
+# C
 /^https?:\/\/[^\/?#]*chat[^\/?#]*(?:[\/?#]|$)/i
+
+# F
+freecam
+
+# J
 /^https?:\/\/[^\/?#]*join[^\/?#]*(?:[\/?#]|$)/i
+
+# M
 /^https?:\/\/[^\/?#]*meet[^\/?#]*(?:[\/?#]|$)/i
+
+# O
 /^https?:\/\/[^\/?#]*omegle[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*ome-?tv[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*stranger[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*talk[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*webcam[^\/?#]*(?:[\/?#]|$)/i
-
-## Path
-
 /^https?:\/\/[^\/?#]+\/[^?#]*omegle[^?#]*(?:[?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*ome-?tv[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*stranger[^?#]*(?:[?#]|$)/i
-/^https?:\/\/[^\/?#]+\/[^?#]*webcam[^?#]*(?:[?#]|$)/i
 
-badoo
-bazoocam
-freecam
+# S
+/^https?:\/\/[^\/?#]*stranger[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*stranger[^?#]*(?:[?#]|$)/i
+
+# T
+/^https?:\/\/[^\/?#]*talk[^\/?#]*(?:[\/?#]|$)/i
+
+# W
+/^https?:\/\/[^\/?#]*webcam[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]+\/[^?#]*webcam[^?#]*(?:[?#]|$)/i
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [5] COMMERCE
 
-# 5.1 Food Delivery
+## 5.1 Food Delivery
 
+# B
 /^https?:\/\/[^\/?#]*bolt-?food[^\/?#]*(?:[\/?#]|$)/i
+
+# D
 /^https?:\/\/[^\/?#]*delivery-?hero[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*door-?dash[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*food(?:ora|panda)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*wolt[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*uber-?eats[^\/?#]*(?:[\/?#]|$)/i
 
+# F
+/^https?:\/\/[^\/?#]*food(?:ora|panda)[^\/?#]*(?:[\/?#]|$)/i
 *://*.food.bolt.eu/*
+
+# W
+/^https?:\/\/[^\/?#]*wolt[^\/?#]*(?:[\/?#]|$)/i
+
+# U
+/^https?:\/\/[^\/?#]*uber-?eats[^\/?#]*(?:[\/?#]|$)/i
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [6] DATING
 
-title/casanova/i
-
+# A
 adating, ashleymadison, askmen, attraction
 
+# B
 backpage, badboy, badgirl, badgirl, bbw, bdsm, be2, bestmatch
-bride, brides, casual, charisma, charm, chatdate, cheater, cheating, christiandating, christiandate, christianmatch
-brides, cheater, cheating, clickmatch, companion, contactos, cougar, crush
-crush, cupid, cutie, date , datefinder, datehere, dating, dirtymatch, dreamgf, edarling, eharmony, eliteescort, elitepartner, elitesingle, escort
+bride, brides,
+
+# C
+title/casanova/i
+casual, charisma, charm, chatdate, cheater, cheating, christiandating, christiandate, christianmatch, cheater, cheating, clickmatch, companion, contactos, cougar, crush
+crush, cupid, cutie, 
+
+# D
+date , datefinder, datehere, dating, dirtymatch, dreamgf, 
+
+# E
+edarling, eharmony, eliteescort, elitepartner, elitesingle, escort
+
+# F
 fans, female, fling, flingster, flirt, forevercompanion, foxgirl, freedating, friend, friendfind, friendfinder
-girlfriend, guy, harem, hook, hookup, hotmatch, interracial, intimate, kiss, kupid, latina, localflirt, localgirl, love
-lovegpt, lovelink, loverboy, mailorder bride, manosphere, marriage, match, matchmaker, mate, maxim, meetic, meetup ,mingle, ofan, ofans
-ofleak, ofprofile, parship, partner, peoplemeet, personals, pickup, pickup artist, playbook, pua, realdoll, romance, shaadi, singles, soul
-soulmate, sugardaddy, tawk, waifu, wife, winggirl, wingman, wives, brobible, chatdate, cheatingwife, cheatingwives, companion, coffeemeetsbagel, date, 
+
+# G
+girlfriend, guy, 
+
+# H
+harem, hook, hookup, hotmatch, 
+
+# I
+interracial, intimate, 
+
+# K
+kiss, kupid, 
+
+# L
+latina, localflirt, localgirl, love
+lovegpt, lovelink, loverboy, 
+
+# M 
+mailorder bride, manosphere, marriage, match, matchmaker, mate, maxim, meetic, meetup ,mingle, 
+
+# O 
+ofan, ofans, ofleak, ofprofile, 
+
+# P
+parship, partner, peoplemeet, personals, pickup, pickup artist, playbook, pua, 
+
+# R
+realdoll, romance, 
+
+# S
+shaadi, singles, soul, soulmate, sugardaddy, 
+
+# T
+tawk, waifu, wife, winggirl, wingman, wives, brobible, chatdate, cheatingwife, cheatingwives, companion, coffeemeetsbagel, date, 
 cutedate, chatgirl, eurodate, girlfind, girllove, gofish, elitepartner, fling, passion, dirtymatch, drcasual, mindfulattraction, justmatch, sugardate, sugardaddy, 
 sugardaddie, lovin, luv, mingle, savage, grindr, tinder, gofish, innerconfidence, lovepanky, loverz, match, matchmake, uglyschmuck, innerconfidence, jdate, meetlocal, 
 realhotdate, singleparent, lovinga, lovoo, meether, menprovement, yourfling, mensjournal, masculinedevelopment, simplepickup
@@ -676,11 +760,9 @@ pof, polyamory, secretbenefits, friendswithbenefits, seniordate, seniordating, a
 
 # A
 title/afri[cč]ka[- ]?[sš]ljiva/i
-/afri[cč]ka[- ]?[sš]ljiva/i
 
 # B
 title/bong[sz]?/i
-/bong[sz]?/i
 
 # C
 title/cann?abi[sz]/i
@@ -688,60 +770,37 @@ title/cig[sz]/i
 title/cocaine/i
 title/cohiba/i
 title/crack[- ]?addict[sz]?/i
-/cann?abi[sz]/i
-/cig[sz]/i
-/cocaine/i
-/cohiba/i
-/crack[- ]?addict[sz]?/i
 
 # D
 title/dope[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
 title/drog(?:iranj)?[aeu]/i
 title/drug[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
-/dope[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
-/drog(?:iranj)?[aeu]/i
-/drug[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
 
 # E
 title/ecstasy/i
-/ecstasy/i
 
 # G
 title/ganja/i
 title/green-?leaf/i
-/ganja/i
-/green-?leaf/i
 
 # H
 title/he(?:mp|roin)/i
 title/hookah/i
-/he(?:mp|roin)/i
-/hookah/i
 
 # J
 title/junkie[sz]?/i
-/junkie[sz]?/i
 
 # K
 title/kush/i
-
-/kush/i
 
 # M
 title/marijuana/i
 title/mary[- ]?j/i
 title/modafinil/i
 
-/marijuana/i
-/mary[- ]?jane/i
-/modafinil/i
-
 # N
 title/narkoman(?:[aeiu]|ij[aeu])?/i
 title/noo-?tropic/i
-
-/noo-?tropic/i
-/narkoman(?:[aeiu]|ij[aeu])?/i
 
 # P
 title/pill[- ]?popper[sz]?/i
