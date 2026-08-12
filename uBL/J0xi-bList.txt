@@ -202,7 +202,6 @@ title/dork[syz]?/i
 title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
 title/ea[sz]y[- ]?lay?/i 
 title/ea[sz]y[- ]?slut[sz]?/i 
-title/eat[- ]?(?:a|m[ey])?/i
 title/eja[ck]ulat(?:e[dsz]?|i(?:ng|on))/i
 title/engorge(?:d)?/i
 title/ere[ck]t(?:i[0o]n[sz]?)?/i
@@ -214,7 +213,6 @@ title/eunuch[sz]?/i
 title/ex[ck]rement/i
 ...
 eat shit
-
 
 # F
 title/fagg?ot(?:[sz]?|ry)?/i
