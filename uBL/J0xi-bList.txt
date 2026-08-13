@@ -566,30 +566,51 @@ title/zadrug[aeu]/i
 # A
 /^https?:\/\/[^\/?#]*astr(?:al|o)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*astr(?:al|o)[^?#]*(?:[?#]|$)/i
+aquarius, aries, askmyoracle
 
 # B
 /^https?:\/\/[^\/?#]*birth[-.]*(?:chart|sign)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*birth(?:[-_+.\/]|%20)*(?:chart|sign)[^?#]*(?:[?#]|$)/i
+birthsign, birthstone
+
+# C
+cancer*, capricorn, chani, chinesefortunecalendar, compatibility
+
+# F
+fortune calendar
 
 # G
 /^https?:\/\/[^\/?#]*ganesha[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*ganesha[^?#]*(?:[?#]|$)/i
+ganeshaspeaks, gemini, gemselect
 
 # H
 /^https?:\/\/[^\/?#]*horoscop[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*horoscop[^?#]*(?:[?#]|$)/i
 
+# K
+karma
+
+# L
+labyrinthos, leo, libra, linda-goodman, lovecompatibility
+
 # M
 /^https?:\/\/[^\/?#]*moon[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*moon(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
+moonly, mylovecal, mysign, mysticapp
 
 # N
 /^https?:\/\/[^\/?#]*(?:name[-.]*meaning|natal[-.]*chart|numerology)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*(?:name(?:[-_+.\/]|%20)*meaning|natal(?:[-_+.\/]|%20)*chart|numerology)[^?#]*(?:[?#]|$)/i
+name analysis, name analyzer
+
+# O
+onthisda
 
 # P
 /^https?:\/\/[^\/?#]*psychic[^\/?#]*(?:[\/?#]|$)/
 /^https?:\/\/[^\/?#]+\/[^?#]*psychic[^?#]*(?:[?#]|$)/i
+pisces
 
 # R
 /^https?:\/\/[^\/?#]*rising[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
@@ -598,34 +619,23 @@ title/zadrug[aeu]/i
 # S
 /^https?:\/\/[^\/?#]*(?:star[-.]*sign|sun[-.]*sign)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*(?:star(?:[-_+.\/]|%20)*sign|sun(?:[-_+.\/]|%20)*sign)[^?#]*(?:[?#]|$)/i
+sagittarius, sanctuaryworld, scorpio, seeroracle
 
 # T
 /^https?:\/\/[^\/?#]*tarot[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*tarot[^?#]*(?:[?#]|$)/i
+taurus, thebirthchart
 
 # V
 /^https?:\/\/[^\/?#]+\/[^?#]*vedic[^?#]*(?:[?#]|$)/i
+vedicfolks, virgo
+
+# W
+whatismysign
 
 # Z
 /^https?:\/\/[^\/?#]*zodiac[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*zodiac[^?#]*(?:[?#]|$)/i
-
-aquarius, aries, askmyoracle, birthsign
-birthstone
-cancer*, capricorn, chani, chinesefortunecalendar, compatibility
-fortune calendar
-ganeshaspeaks, gemini, gemselect
-karma
-labyrinthos, leo, libra, linda-goodman, lovecompatibility
-moonly, mylovecal, mysign, mysticapp
-name analysis, name analyzer
-onthisday
-pisces
-sagittarius, sanctuaryworld, scorpio, seeroracle
-taurus, thebirthchart
-vedicfolks
-virgo
-whatismysign
 zodist
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
@@ -703,12 +713,12 @@ adating, ashleymadison, askmen, attraction
 
 # B
 backpage, badboy, badgirl, badgirl, bbw, bdsm, be2, bestmatch
-bride, brides,
+bride, brides,brobible, 
 
 # C
 title/casanova/i
 casual, charisma, charm, chatdate, cheater, cheating, christiandating, christiandate, christianmatch, cheater, cheating, clickmatch, companion, contactos, cougar, crush
-crush, cupid, cutie, 
+crush, cupid, cutie, chatdate, cheatingwife, cheatingwives, companion, coffeemeetsbagel,
 
 # D
 date , datefinder, datehere, dating, dirtymatch, dreamgf, 
@@ -732,11 +742,11 @@ interracial, intimate,
 kiss, kupid, 
 
 # L
-latina, localflirt, localgirl, love
-lovegpt, lovelink, loverboy, 
+latina, localflirt, localgirl, love, lovegpt, lovelink, loverboy, 
 
 # M 
-mailorder bride, manosphere, marriage, match, matchmaker, mate, maxim, meetic, meetup ,mingle, 
+mailorder bride, manosphere, marriage, match, matchmaker, mate, maxim, meetic, meetup ,mingle, mensxp, meether, menprovement, mensjournal
+masculinedevelopment, mensxp, mensjournal, meethim, meetme, meetyour, mensjournal, match, amtchmake, mindfulattraction, mingle, meetlocal
 
 # O 
 ofan, ofans, ofleak, ofprofile, 
@@ -751,12 +761,16 @@ realdoll, romance,
 shaadi, singles, soul, soulmate, sugardaddy, 
 
 # T
-tawk, waifu, wife, winggirl, wingman, wives, brobible, chatdate, cheatingwife, cheatingwives, companion, coffeemeetsbagel, date, 
-cutedate, chatgirl, eurodate, girlfind, girllove, gofish, elitepartner, fling, passion, dirtymatch, drcasual, mindfulattraction, justmatch, sugardate, sugardaddy, 
-sugardaddie, lovin, luv, mingle, savage, grindr, tinder, gofish, innerconfidence, lovepanky, loverz, match, matchmake, uglyschmuck, innerconfidence, jdate, meetlocal, 
-realhotdate, singleparent, lovinga, lovoo, meether, menprovement, yourfling, mensjournal, masculinedevelopment, simplepickup
-peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, mensxp, mensjournal, lovepanky, lonelygirl, girlsnearby, hotdate, lovebird, swipe, sugardate
-luvfree, masculinedevelopment, meether, meethim, meetme, meetyour, mensjournal, mensxp, singles, withlove, match, passion, privatecompanion, popularfan
+tawk, 
+
+# W
+waifu, wife, winggirl, wingman, wives, 
+
+cutedate, chatgirl, eurodate, girlfind, girllove, gofish, elitepartner, fling, passion, dirtymatch, drcasual, justmatch, sugardate, sugardaddy, 
+sugardaddie, lovin, luv, savage, grindr, tinder, gofish, innerconfidence, lovepanky, loverz, uglyschmuck, innerconfidence, jdate,
+realhotdate, singleparent, lovinga, lovoo, meether, yourfling, simplepickup
+peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, lovepanky, lonelygirl, girlsnearby, hotdate, lovebird, swipe, sugardate
+luvfree, singles, withlove, passion, privatecompanion, popularfan
 pof, polyamory, secretbenefits, friendswithbenefits, seniordate, seniordating, attraction, artofcharm, datingplaybook, attractiongame, winggirl, winggman
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
@@ -1037,7 +1051,6 @@ zelda, zeldadungeon
 # 🇷🇸 🇲🇪 🇧🇦
 
 # News
-
 # Tabloids
 
 *://*.alo.rs/*
@@ -1356,10 +1369,10 @@ askjeeves
 bndkt
 ecosia
 presearch
-searx
 startpage
 yandex
 metasearx
+searx
 searxng
       /^https?:\/\/[^\/?#]*searx[^\/?#]*(?:[\/?#]|$)/i
 
@@ -1736,8 +1749,7 @@ people, ppl, peep, peeps, popbytes, popsci, popsugar, popularheight
 popularbio, popnable, popdust, popculture
 
 
-UNSAFE 
-
+UNSAFE ☠️
 
 *://*.appbrain.com/*
 *://*.apps.apple.com/*
@@ -1752,7 +1764,7 @@ UNSAFE
 *://*.softonic.com/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# [14] SPORTS
+# [14] SPORTS ⚽
 
 /^https?:\/\/[^\/?#]*[0-9]+sport[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*sport[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
@@ -1774,7 +1786,7 @@ sports, sportsonline, sportsstream, sportsstreaming
 sportz, streamable, streamsport
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# [15] STREAMING A/V
+# [15] STREAMING 
 
 # Legit Streaming Sites
 
@@ -2626,7 +2638,7 @@ Rotating TLDs for Above Domains
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [17] UTILITIES 🛠️
 
-BROWSERS
+BROWSERS 🌐
 
 *://*.arc.net
 *://*.avantbrowser.com
