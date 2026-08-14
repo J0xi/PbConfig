@@ -440,7 +440,7 @@ title/se(?:ks|x)[- ]?afer[aeiu]/i
 title/se(?:ks|x)(?:ie(?:r|st)|uality|y)/i
 title/se(?:ks|x)[- ]?(?:position|predator)[sz]?/i
 title/se(?:ks|x)[- ]?(addiction[sz]?|appeal)/i
-title/se(?:ks|x)[- ]?(tape[sz]?|ting)?/i
+title/se(?:ks|x)[- ]?(tape[sz]?|ting)/i
 title/se(?:ks|x)[- ]?[ck]ult[sz]?/i
 title/se(?:ks|x)[- ]?doll[sz]?/i
 title/se(?:ks|x)[- ]?freak[sz]?/i
