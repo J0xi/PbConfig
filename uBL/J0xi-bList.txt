@@ -12,17 +12,18 @@
 # [5]        COMMERCE
 #   5.1          Food Delivery  
 # [6]        DRUGS & TOBACCO
+# [7]        FUN
 # [8]        GAMBLING
 # [9]        GAMING
-# [10]       NEWS
-# [12]       SOCIAL
-# [13]       SPAM
-#    13.1        Unsafe     
-# [11]       SPORTS
-# [12]       STREAMING
-# [17]       UTILITIES
-#    17.1        Browsers
-#    17.2        Search Engines
+# [10]       NEWS & TABLOIDS
+# [11]       SOCIAL MEDIA
+# [12]       SPAM
+#    12.1        Unsafe     
+# [13]       SPORTS
+# [14]       STREAMING
+# [15]       UTILITIES
+#    15.1        Browsers
+#    15.2        Search Engines
   
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [1] ADULT 🔞
@@ -273,6 +274,7 @@ title/glory[- ]?h[0o]le[sz]?/i
 title/gnjid[aeiou]/i
 title/go[- ]?down[- ]?on/i
 title/go[- ]?down[- ]?town/i
+title/gonad[sz]?/i
 title/goved[ao]/i
 title/govn(?a|ar[aeiu]?|o)/i*
 title/gran(?:dma|nie)[- ]?porn/i
@@ -314,9 +316,9 @@ title/jack[- ]?off(?:ed|s)
 title/jack[- ]?shit/i
 title/jag[- ]?off[sz]?/i
 title/jizz(?:e[ds]|ing)?/i
-title/jebe(?:m|)
 ...
 jebac[ae], jebanja/e/u, jebada, jebac[aeiu]?
+title/jebe(?:m|)
 
 > šđčćž
 
@@ -416,7 +418,7 @@ title/pimpek[au]?/i
 panties, panty
 paedophilia, pedofil
 pornhub, porno, pornos, porno, pornographer, pornography, pornographic, pornografia, pronici, pornicu, pornstar, ponstars
-pedercina/u/i/e/o
+pedercina/u/i/e/o / pederluk
 prdim, prdeti, prdeza/e/i/u
 pervert, perverts, perversion
 
@@ -512,41 +514,13 @@ title/wang[sz]?/i
 title/white[- ]?power/i
 title/whacker/i
 title/wet[- ]?spot/i
+...
 title/wank(?:er[sz]?i
-...
 wank, wanker, wanking, wankjob, wanky, waysted, wazoo, weenie, weewee, weiner
-welcher, wench,wetback, wetbacks,
-whash, whigger, whiggers, whiskeydick, whiskydick, whit, whitenigger
-whitepower, whitey, whiteys, whities, whoar, whop, whore, whorealicious
-whorebag
-whored
-whoreface
-whorefucker
-whorehopper
-whorehouse
-whores
-whoring
-wichser
-wigga
-wiggas
-wigger
-wiggers
-willie
-willies
-williewanker
-willy
-wog
-wogs
-woose
-wop
-words
-worldsex
-wtf
-wuss
-wuzzie
-...
-wank
-wankers/ing/z
+welcher, wench,wetback, wetbacks,, whash, whigger, whiggers, whiskeydick, whiskydick, whit, whitenigger, whitepower, whitey, whiteys, whities, 
+whoar, whop, whore, whorealicious
+whorebag, whored, whoreface, whorefucker, whorehopper, whorehouse, whores, whoring, wichser, wigga, wiggas, wigger, wiggers, willie
+willies, williewanker, willy, wog, wogs, woose, wop, words, worldsex, wtf, wuss, wuzzie, wank, wankers/ing/z
 
 # X
 title/xxx/i
@@ -575,60 +549,60 @@ aquarius, aries, askmyoracle
 /^https?:\/\/[^\/?#]+\/[^?#]*birth(?:[-_+.\/]|%20)*(?:chart|sign)[^?#]*(?:[?#]|$)/i
 birthsign, birthstone
 
-# C
+## C
 cancer*, capricorn, chani, chinesefortunecalendar, compatibility
 
-# F
+## F
 fortune calendar
 
-# G
+## G
 /^https?:\/\/[^\/?#]*ganesha[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*ganesha[^?#]*(?:[?#]|$)/i
 ganeshaspeaks, gemini, gemselect
 
-# H
+## H
 /^https?:\/\/[^\/?#]*horoscop[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*horoscop[^?#]*(?:[?#]|$)/i
 
-# K
+## K
 karma
 
-# L
+## L
 labyrinthos, leo, libra, linda-goodman, lovecompatibility
 
-# M
+## M
 /^https?:\/\/[^\/?#]*moon[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*moon(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
 moonly, mylovecal, mysign, mysticapp
 
-# N
+## N
 /^https?:\/\/[^\/?#]*(?:name[-.]*meaning|natal[-.]*chart|numerology)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*(?:name(?:[-_+.\/]|%20)*meaning|natal(?:[-_+.\/]|%20)*chart|numerology)[^?#]*(?:[?#]|$)/i
 name analysis, name analyzer
 
-# O
+## O
 onthisda
 
-# P
+## P
 /^https?:\/\/[^\/?#]*psychic[^\/?#]*(?:[\/?#]|$)/
 /^https?:\/\/[^\/?#]+\/[^?#]*psychic[^?#]*(?:[?#]|$)/i
 pisces
 
-# R
+## R
 /^https?:\/\/[^\/?#]*rising[-.]*sign?[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*rising(?:[-_+.\/]|%20)*sign?[^?#]*(?:[?#]|$)/i
 
-# S
+## S
 /^https?:\/\/[^\/?#]*(?:star[-.]*sign|sun[-.]*sign)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*(?:star(?:[-_+.\/]|%20)*sign|sun(?:[-_+.\/]|%20)*sign)[^?#]*(?:[?#]|$)/i
 sagittarius, sanctuaryworld, scorpio, seeroracle
 
-# T
+## T
 /^https?:\/\/[^\/?#]*tarot[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*tarot[^?#]*(?:[?#]|$)/i
 taurus, thebirthchart
 
-# V
+## V
 /^https?:\/\/[^\/?#]+\/[^?#]*vedic[^?#]*(?:[?#]|$)/i
 vedicfolks, virgo
 
@@ -688,187 +662,181 @@ freecam
 ## ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ## [5] COMMERCE 🛒
 
+# 5.1 FOOD DELIVERY
 
-## 5.1 FOOD DELIVERY
-
-# B
+## B
 /^https?:\/\/[^\/?#]*bolt-?food[^\/?#]*(?:[\/?#]|$)/i
 
-# D
+## D
 /^https?:\/\/[^\/?#]*delivery-?hero[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*door-?dash[^\/?#]*(?:[\/?#]|$)/i
 
-# F
+## F
 /^https?:\/\/[^\/?#]*food(?:ora|panda)[^\/?#]*(?:[\/?#]|$)/i
 *://*.food.bolt.eu/*
 
-# W
+## W
 /^https?:\/\/[^\/?#]*wolt[^\/?#]*(?:[\/?#]|$)/i
 
-# U
+## U
 /^https?:\/\/[^\/?#]*uber-?eats[^\/?#]*(?:[\/?#]|$)/i
 
 ## ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-## [6] DATING 💗
+# [6] DATING 💗
 
-# A
-adating, ashleymadison, askmen, attraction
+## A
+adating, ashleymadison, askmen, attraction, attractiongame, artofcharm
 
-# B
-backpage, badboy, badgirl, badgirl, bbw, bdsm, be2, bestmatch
-bride, brides,brobible, 
+## B
+backpage, badboy, badgirl, badgirl, bbw, bdsm, be2, bestmatch, bride, brides,brobible, 
 
-# C
+## C
 title/casanova/i
-casual, charisma, charm, chatdate, cheater, cheating, christiandating, christiandate, christianmatch, cheater, cheating, clickmatch, companion, contactos, cougar, crush
-crush, cupid, cutie, chatdate, cheatingwife, cheatingwives, companion, coffeemeetsbagel,
+casual, charisma, charm, chatdate, cheater, cheating, christiandating, christiandate, christianmatch, cheater, cheating, clickmatch, 
+companion, contactos, cougar, crush, crush, cupid, cutie, chatdate, cheatingwife, cheatingwives, companion, coffeemeetsbagel,
+cutedate, chatgirl
 
-# D
-date , datefinder, datehere, dating, dirtymatch, dreamgf, 
+## D
+date , datefinder, datehere, dating, dirtymatch, dreamgf, datingplaybook
 
-# E
-edarling, eharmony, eliteescort, elitepartner, elitesingle, escort
+## E
+edarling, eharmony, eliteescort, elitepartner, elitesingle, escort, eurodate
 
-# F
-fans, female, fling, flingster, flirt, forevercompanion, foxgirl, freedating, friend, friendfind, friendfinder
+## F
+fans, female, fling, flingster, flirt, forevercompanion, foxgirl, freedating, friend, friendfind, friendfinder, friendswithbenefits
 
-# G
-girlfriend, guy, girlfind
+## G
+girlfriend, guy, girlfind, gofish, grindr, girlove, girlfind, girlsnearby
 
-# H
-harem, hook, hookup, hotmatch, 
+## H
+harem, hook, hookup, hotmatch, hotdate
 
-# I
-interracial, intimate, 
+## I
+interracial, intimate, innerconfidence, 
 
-# K
+## J
+jdate, justmatch
+
+## K
 kiss, kupid, 
 
-# L
-latina, localflirt, localgirl, love, lovegpt, lovelink, loverboy, 
+## L
+latina, localflirt, localgirl, love, lovegpt, lovelink, loverboy, lovinga, lovoo, luv, lovin, lovepanky, localmatches, lonelygirl, lovebird, luvfree
+loverz
 
-# M 
+## M 
 mailorder bride, manosphere, marriage, match, matchmaker, mate, maxim, meetic, meetup ,mingle, mensxp, meether, menprovement, mensjournal
 masculinedevelopment, mensxp, mensjournal, meethim, meetme, meetyour, mensjournal, match, amtchmake, mindfulattraction, mingle, meetlocal
+meether
 
-# O 
-ofan, ofans, ofleak, ofprofile, 
+## O 
+ofan, ofans, ofleak, ofprofile, ofstar, onlymodel, 
 
-# P
-parship, partner, peoplemeet, personals, pickup, pickup artist, playbook, pua, 
+## P
+parship, partner, peoplemeet, personals, pickup, pickup artist, playbook, pua, passion, privatecompanion, popularfan, pof, polyamory,
+passion
 
-# R
-realdoll, romance, 
+## R
+realdoll, romance, realhotdate
 
-# S
-shaadi, singles, soul, soulmate, sugardaddy, 
+## S
+shaadi, singles, soul, soulmate, sugardaddy, singleparent, sugardaddie, savage, sugardate, swipe, seniordating, sugardate, sugardaddy
+seniordating, seniordate, secretbenefits, singles, simplepickup, 
 
-# T
-tawk, 
+## T
+tawk, tinder,
 
-# W
-waifu, wife, winggirl, wingman, wives, 
+## U
+uglyschmuck
 
-cutedate, chatgirl, eurodate, girlfind, girllove, gofish, elitepartner, fling, passion, dirtymatch, drcasual, justmatch, sugardate, sugardaddy, 
-sugardaddie, lovin, luv, savage, grindr, tinder, gofish, innerconfidence, lovepanky, loverz, uglyschmuck, innerconfidence, jdate,
-realhotdate, singleparent, lovinga, lovoo, meether, yourfling, simplepickup
-peoplemeet, localmatches, ofprofile, ofleak, ofstar, onlymodel, lovepanky, lonelygirl, girlsnearby, hotdate, lovebird, swipe, sugardate
-luvfree, singles, withlove, passion, privatecompanion, popularfan
-pof, polyamory, secretbenefits, friendswithbenefits, seniordate, seniordating, attraction, artofcharm, datingplaybook, attractiongame, winggirl, winggman
+## W
+waifu, wife, winggirl, wingman, wives, withlove,
+
+## Y
+yourfling
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [7] DRUGS & TOBACCO 🚬
 
-# A
+## A
 title/afri[cč]ka[- ]?[sš]ljiva/i
 
-# B
+## B
 title/bong[sz]?/i
 
-# C
+## C
 title/cann?abi[sz]/i
 title/cig[sz]/i
 title/cocaine/i
 title/cohiba/i
 title/crack[- ]?addict[sz]?/i
 
-# D
+## D
 title/dope[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
 title/drog(?:iranj)?[aeu]/i
 title/drug[- ]?deal(?:[sz]|(?:er|ing)[sz]?)?/i
 
-# E
+## E
 title/ecstasy/i
 
-# G
+## G
 title/ganja/i
 title/green-?leaf/i
 
-# H
+## H
 title/he(?:mp|roin)/i
 title/hookah/i
 
-# J
+## J
 title/junkie[sz]?/i
 
-# K
+## K
 title/kush/i
 
-# M
+## M
 title/marijuana/i
 title/mary[- ]?j/i
 title/modafinil/i
 
-# N
+## N
 title/narkoman(?:[aeiu]|ij[aeu])?/i
 title/noo-?tropic/i
 
-# P
+## P
 title/pill[- ]?popper[sz]?/i
 title/pure[- ]?kana/i
 
-/pill[- ]?popper[sz]?/
-
-# S
+## S
 title/shisha/i
 title/smok(?:e(?:r[sz]?)?|ing)/i
 
-/shisha/i
-/smoke/i
-
-# T
+## T
 title/tobacco/i
 
-/tobacco/i
-
-# V
+## V
 title/vap(?:e(?:r[sz]?|[sz]?)|ing|or)/i
 title/viagra/i
-/viagra/i
-/vap(?:e(?:r[sz]?|[sz]?)|ing|or)/i
 
-# W
+## W
 title/weed/i
-/weed/i
 
-# X
+## X
 title/xanax/i
-/xanax/i
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [8] GAMBLING 🎲
 
-# 123
-# /^https?:\/\/[^\/?#]*1x(?:bet|bit)[^\/?#]*(?:[\/?#]|$)/i
+## 123
+/^https?:\/\/[^\/?#]*1x(?:bet|bit)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*[0-9]+bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*1-?win[^\/?#]*(?:[\/?#]|$)/i
 
-# A
+## A
 /^https?:\/\/[^\/?#]*ace(?:poker|s(?:high|palace)?)?[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*admiral(?:bet|spot)[^\/?#]*(?:[\/?#]|$)/i
 
-# B
+## B
 /^https?:\/\/[^\/?#]*(?:baccarat|backgammon|balkanbet)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*best-?bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bet(?:1|2|365)[^\/?#]*(?:[\/?#]|$)/i
@@ -893,32 +861,38 @@ title/xanax/i
 /^https?:\/\/[^\/?#]*bovada[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bwin[^\/?#]*(?:[\/?#]|$)/i
 
-# C
+## C
 /^https?:\/\/[^\/?#]*card(?:bet|deal|game|play|room|s|z)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*(?:casino|cashsweep)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*(?:chance|cheat)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*csgo[^\/?#]*(?:[\/?#]|$)/i
-# D
+
+## D
 /^https?:\/\/[^\/?#]*dice[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*draft-?king[^\/?#]*(?:[\/?#]|$)/i
-# E
+
+## E
 /^https?:\/\/[^\/?#]*elite-?bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*emerald-?bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*euro(?:jack-?pot|lotto|slot)[^\/?#]*(?:[\/?#]|$)/i
-# F
+
+## F
 /^https?:\/\/[^\/?#]*free(?:bie|slot)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*fortun(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
-# G
+
+## G
 /^https?:\/\/[^\/?#]*gambl(?:e|ed|er(?:s)?|es|ing)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*game(?:book|sweb|time)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*get-?lucky[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*goal-?win[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*gold(?:bet|run|strike)[^\/?#]*(?:[\/?#]|$)/i
-# H
+
+## H
 /^https?:\/\/[^\/?#]*high-?roll(er(?:s)?)?:[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*hold-?em[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*horse-?bet[^\/?#]*(?:[\/?#]|$)/i
-# J
+
+## J
 /^https?:\/\/[^\/?#]*jack-pot[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*jeaux[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*jeu(?:de|x)[^\/?#]*(?:[\/?#]|$)/i
@@ -926,7 +900,8 @@ title/xanax/i
 /^https?:\/\/[^\/?#]*jouer[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*juega[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*just-?bet[^\/?#]*(?:[\/?#]|$)/i
-# K
+
+## K
 /^https?:\/\/[^\/?#]*kasino[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kladit(?:e|i)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kladjenj(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
@@ -935,7 +910,8 @@ title/xanax/i
 /^https?:\/\/[^\/?#]*kladjenj(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kock(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kvot(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
-# L
+
+## L
 /^https?:\/\/[^\/?#]*lad-?broke[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*las-?vegas[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*live(?:bet|score)[^\/?#]*(?:[\/?#]|$)/i
@@ -944,17 +920,21 @@ title/xanax/i
 /^https?:\/\/[^\/?#]*lotter(?:ie|y)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*luck[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*lutrij(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
-# M
+
+## M
 /^https?:\/\/[^\/?#]*max-?bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*meridian-?bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*mozzart[^\/?#]*(?:[\/?#]|$)/i
-# N 
+
+## N 
 /^https?:\/\/[^\/?#]*net-?bet[^\/?#]*(?:[\/?#]|$)/i
-# O
+
+## O
 /^https?:\/\/[^\/?#]*odds[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*opklad(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*online-?slot[^\/?#]*(?:[\/?#]|$)/i
-# P
+
+## P
 /^https?:\/\/[^\/?#]*pari-?match[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*party-?bet[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*play[-.]?[0-9]+[^\/?#]*(?:[\/?#]|$)/i
@@ -964,73 +944,92 @@ title/xanax/i
 /^https?:\/\/[^\/?#]*premier(?:bet|casino)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*prime(?:bet|dice|slot)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*prize[^\/?#]*(?:[\/?#]|$)/i
-# R
+
+## R
 ^https?:\/\/[^\/?#]*(?:roulette|ruletka)[^\/?#]*(?:[\/?#]|$)/i
 racebet, raffle, rizik, rulet, roulette
-# S
+
+## S
 shuffle, slot aparati, slot-?machine, slotaparati, slotova, slotovi, slots, soccerbet, solitaire, spins
 sport365, sportingbet, sportingindex, sportsbet, sportsbetting, sportsbook
 sportscast, sportskekladionice, sportsmonitor, sportsspread, sportzbookz, stake, stakes, superbet, superslot
 sweepstake, sweepstakes
-# T
+
+## T
 texasholdem, tip, tipovanje, tipp, transfermarkt, triplewin
+
+## U
 unibet
+
+## V
 vegas
-# W
+
+## W
 wager, wagering, williamhill, winbets, winner, winners, winning, winorama, won, wwin, zynga
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [9] GAMING 🎮
 
-# A
+## A
 abandonware, achievement, activision, addon, adventure, ageofempire, animeskin, apk, apkcombo
 apkdownload, apkfile, apkmirror , apkmod, apkmonk, apkpure, apks, apksmod, apkstore
 appapk, appapks, appsapk, appsapks, aptoide, arcade, arknights, arqade, atari
 
-# B
+## B
 bandai, battle, battlefield, battlestar, bethesda, blizzard, boardgame, borderlands, bossfight, bounty, builds
 
-# C
+## C
 callofduty, candy-crush, candycrush, capcom, challenge, challenger, champ, champion, characterdesign
 cheat, cheatdb, cheater, cheatmenu, cheats, checkmate, chess, clashofclans, codhack, codhacks
 console, cosplay, counterstrike, crack, csgo
 
-# D
+## D
 deathmatch, destructoid, devmod, devmodapk, devs, diablo, dlc, dragonball, dragonquest, droid
 droidapk, droidgame, droidgames, droidmod, droids, dualshock, dungeon
 
-# E
+## E
 eagame, eaorigin, eldenring, elderscroll, epicnpc, esport
-# F
+
+## F
 fallout, fanboy, fandom, fandomwire, fanpop, fantasy, fantasyesport, farming-simulator, ffx
 finalfantasy, fortbuilds, fortnite, fps
-# G
+
+## G
 game, gameapk, gamebattle, gamebiz, gameboost, gamedb, gamedeals, gamedev, gamefaq, gamegear
 gamehack, gameinformer, gameloft, gamemap, gamemaps, gamemod, gamenews, gamepass, gamepedia
 gamepress, gamer, gamer-mods, gamereactor, gamerpedia, gamerz, games, gamesnexus, gamesnexus
 gamespace, gamespot, gamesradar, gamestrategy, gamewatch, gameworkshop
 gamex, gaming, gamingear, gamingforum, gamingleague, gamingnews, gearsofwar, geek
 genshin, gmodstore, godmode, grandtheftauto, gta, gta4, gta5, gta6, gtaforum, gtav, gtavicecity, guildwar
-# H
+
+## H
 hacker, hackers, hackerz, hacks, hackthegame, halo, heroesofnewerth, hitman, howlongtobeat
-# I
+
+## I
 ign,ignguides, indie, indiegame
-# J
+
+## J
 jeux, joystick, juego, juegos
-# K
+
+## K
 konami, kotaku
-# L
+
+## L
 launch, launcher, leagueoflegends, left4dead, levelup, livegame, livegaming, livestream
-# M
+
+## M
 mahjong, mastermod, metacritic, minecraft, mini-clip, miniclip, minijuego, mmo, mmorpg
 mobilegame, mod, modapk, modapkdl, modd, moddb, modder, modders, modding, moddroid
 modgame, mods, modsapk, modsgame, modshost, modslab, modstore, modworkshop
 modx, modz, modzapk, monsterhunter
-# N
+
+## N
 n4g, nerd, nerdreactor, nexusmods, nintendo
-# O
+
+## O
 openapk, overwatch
-# P
+
+## P
 paidmods, patches, patchmypc, pcgamemod, pcgamer, pcgaming, pcmod, pcmods, pcmodz, play
 playerauction, playgame, playground, playstation, playthrough, pokemon, polygon, ps1
 ps2, ps3, ps4, ps5
@@ -1068,25 +1067,34 @@ zelda, zeldadungeon
 # [10] NEWS 🗞️
 
 # 🇷🇸 🇲🇪 🇧🇦
-
 # News
+
 # Tabloids
 
+## A
 *://*.alo.rs/*
 *://*.ana.rs/*
 *://*.aska.rs/*
 *://*.atastars.rs/*
 *://*.atraktivnoonline.com/*
+
+## B
 *://*.beep.rs/*
 *://*.belami.rs/*
 *://*.blic.rs/*
 *://*.blogosfera.rs/*
 *://*.burek.com/*
+
+## C
 *://*.cenzurisano.info/*
 *://*.clip.rs/*
 *://*.crna-hronika.info/*
 *://*.crnopile.com/*
+
+## D
 *://*.divamagazin.rs/*
+
+## E
 *://*.ekskluziv.rs/*
 *://*.ekskluziva.ba/*
 *://*.ekspanzija.com/*
@@ -1100,23 +1108,39 @@ zelda, zeldadungeon
 *://*.estradni.com/*
 *://*.estradnje.com/*
 *://*.expresstabloid.ba/*
+
+## F
 *://*.fenserka.com/*
+
+## G 
 *://*.gloria.rs/*
 *://*.grand.online/*
 *://*.grazia.rs/*
+
+## H
 *://*.harpersbazaar.rs/*
 *://*.hellomagazin.rs/*
 *://*.hypetv.rs/*
+
+## I
 *://*.idjtv.com/*
 *://*.infolo.rs/*
 *://*.informer.rs/*
+
+## J 
 *://*.jakazena.com/*
+
+## K
 *://*.karakter.rs/*
 *://*.kurir.rs/*
+
+## L
 *://*.lepotaizdravlje.rs/*
 *://*.lepotica.rs/*
 *://*.lovesensa.rs/*
 *://*.ludujemo.info/*
+
+## M
 *://*.magazin.novosti.rs/*
 *://*.magazin-tabloid.com/*
 *://*.magazinbalkan.eu/*
@@ -1127,12 +1151,18 @@ zelda, zeldadungeon
 *://*.mondo.rs/*
 *://*.mudrolije.org/*
 *://*.muskimagazin.rs/*
+
+## N
 *://*.najzena.rs/*
 *://*.nedeljnikafera.net/*
 *://*.nemazabranjenih.rs/*
 *://*.neodoljiva.com/*
 *://*.noizz.rs/*
+
+## O
 *://*.opusteno.rs/*
+
+## P
 *://*.paparazzo.ba/*
 *://*.paparazzo.rs/*
 *://*.pink-rs.com/*
@@ -1145,8 +1175,12 @@ zelda, zeldadungeon
 *://*.poznati.info/*
 *://*.pudlica.com/*
 *://*.pulsonline.rs/*
+
+## R
 *://*.redportal.rs/*
 *://*.radaronline.com/*
+
+## S
 *://*.skandal.in.rs
 *://*.skandalozno.net
 *://*.smuti.info/*
@@ -1156,6 +1190,8 @@ zelda, zeldadungeon
 *://*.sveopoznatima.com/*
 *://*.svet-scandal.rs/*
 *://*.svetskiradio.com/*
+
+## T
 *://*.tamodaleko.co.rs/*
 *://*.tarzanija.com/*
 *://*.teenstar.rs/*
@@ -1164,11 +1200,19 @@ zelda, zeldadungeon
 *://*.tracarenje.com/*
 *://*.tracevi.com/*
 *://*.trendy.rs/*
+
+## U
 *://*.udarno.co/*
+
+## V
 *://*.vidisliku.com/*
 *://*.vipscena.com/*
 *://*.vukajlija.com/*
+
+## W
 *://*.wanted.rs/*
+
+## Z
 *://*.zabavne-strane.com/*
 *://*.zadruga-uzivo.com/*
 *://*.zadrugavesti.com/*
@@ -1179,19 +1223,22 @@ zelda, zeldadungeon
 *://*.zenskimagazin.rs/*
 
 # 🇺🇸 🇨🇦 🇬🇧
-
 # News
 
+## V
 *://*.vice.com/*
 
-# Tabloids 
+# Tabloids
 
+## A
 *://*.accessonline.com/*
 *://*.aceshowbiz.com/*
 *://*.affairpost.com/*
 *://*.allaboutthetea.com/*
 *://*.allure.com/*
 *://*.allwomenstalk.com/*
+
+## B 
 *://*.bckonline.com/*
 *://*.bet.com/*
 *://*.bollynewz.com/*
@@ -1204,6 +1251,8 @@ zelda, zeldadungeon
 *://*.buzzfeednews.com/*
 *://*.buzzpatrol.com/*
 *://*.buzzvee.com/*
+
+## C
 *://*.celebmafia.com/*
 *://*.cheatsheet.com/*
 *://*.closeronline.co.uk/*
@@ -1214,6 +1263,8 @@ zelda, zeldadungeon
 *://*.courthousenews.com/*
 *://*.cracked.com/
 *://*.crazyrumors.com/*
+
+## D
 *://*.dailymail.co.uk/*
 *://*.dailystar.co.uk/*
 *://*.deadline.com/*
@@ -1223,6 +1274,8 @@ zelda, zeldadungeon
 *://*.dirtywood.com/*
 *://*.dlisted.com/*
 *://*.dramapanda.com/*
+
+## E
 *://*.ebony.com/*
 *://*.ecorazzi.com/*
 *://*.efeitopop.com/*
@@ -1239,9 +1292,13 @@ zelda, zeldadungeon
 *://*.ew.com/*
 *://*.express.co.uk/*
 *://*.extratv.com/*
+
+## F
 *://*.fanforum.com/*
 *://*.fanpop.com/*
 *://*.flaunt.com/*
+
+## G
 *://*.gawker.com/*
 *://*.glamour.co.za/*
 *://*.glamour.com/*
@@ -1253,6 +1310,8 @@ zelda, zeldadungeon
 *://*.gq.com/*
 *://*.graziamagazine.com/*
 *://*.guyism.com
+
+## H
 *://*.harpersbazaar.com/*
 *://*.hawtcelebs.com/*
 *://*.heatworld.com/*
@@ -1269,6 +1328,8 @@ zelda, zeldadungeon
 *://*.hotlifestylenews.com/*
 *://*.huffingtonpost.es/*
 *://*.huffpost.com/*
+
+## I
 *://*.inquirer.net/*
 *://*.inquisitr.com/*
 *://*.instyle.co.uk/*
@@ -1276,12 +1337,16 @@ zelda, zeldadungeon
 *://*.internewscast.com/*
 *://*.intouchweekly.com/*
 *://*.irishmirror.ie/*
+
+## J
 *://*.janetcharltonshollywood.com/*
 *://*.jaynestars.com/*
 *://*.jcpost.com/*
 *://*.jimmyshowbiz.com/*
 *://*.justjared.com/*
 *://*.justjaredjr.com/*
+
+## L 
 *://*.lacelebs.co/*
 *://*.laineygossip.com/*
 *://*.lawebdelasfamosas.com/*
@@ -1289,19 +1354,27 @@ zelda, zeldadungeon
 *://*.lespipoles.com/*
 *://*.lifeandstylemag.com/*
 *://*.lipstickalley.com/*
+
+## M 
 *://*.marieclaire.co.uk/*
 *://*.marieclaire.com/*
 *://*.metro.co.uk/*
 *://*.mirror.co.uk/*
 *://*.misdivas.com/*
 *://*.mrpaparazzi.com/*
+
+## N
 *://*.net-a-porter.com/*
 *://*.nickiswift.com/*
 *://*.nicolebitchy.com/*
 *://*.nypost.com/*
+
+## O
 *://*.ok.co.uk/*
 *://*.okmagazine.com/*
 *://*.oprahdaily.com/*
+
+## P
 *://*.pagesix.com/*
 *://*.parade.com/*
 *://*.parismatch.com/*
@@ -1313,12 +1386,16 @@ zelda, zeldadungeon
 *://*.pulse.com.gh/*
 *://*.purepeople.com/*
 *://*.purseblog.com/*
+
+## R
 *://*.radaronline.com/*
 *://*.realityblurb.com/*
 *://*.realitytea.com/*
 *://*.revistavanityfair.es/*
 *://*.rihannadaily.com/*
 *://*.rsvplive.ie/*
+
+## S
 *://*.scandalplanet.com/*
 *://*.scandalspy.com/*
 *://*.screenrant.com/*
@@ -1335,6 +1412,8 @@ zelda, zeldadungeon
 *://*.starmagazine.com/*
 *://*.starstyle.com/*
 *://*.stylecaster.com/*
+
+## T
 *://*.teenvogue.com/*
 *://*.the-express.com/*
 *://*.the-sun.com/*
@@ -1360,13 +1439,19 @@ zelda, zeldadungeon
 *://*.tmz.com/*
 *://*.today.com/*
 *://*.toofab.com/*
+
+## U 
 *://*.urbanbellemag.com/*
 *://*.uscelebstimes.com/*
 *://*.usmagazine.com/*
+
+## V
 *://*.vanityfair.com/*
 *://*.variety.com/*
 *://*.viciousrumors.com/*
 *://*.vipflux.com/*
+
+## W
 *://*.wealthypeeps.com/*
 *://*.whosdatedwho.com/*
 *://*.whowhatwear.com/*
@@ -1374,7 +1459,11 @@ zelda, zeldadungeon
 *://*.woofactor.com/*
 *://*.worldhotnews.net/*
 *://*.worldpoliticsreview.com/*
+
+## X
 *://*.x17online.com/*
+
+## Z 
 *://*.zalebs.com/*
 *://*.zoomtventertainment.com/*
 
@@ -1382,25 +1471,10 @@ zelda, zeldadungeon
 # [11] SEARCH ENGINES 🔍
 # Source(s): https://github.com/searxng/searx-instances
 
-# Domain
-
-askjeeves
-bndkt
-ecosia
-presearch
-startpage
-yandex
-metasearx
-searx
-searxng
-      /^https?:\/\/[^\/?#]*searx[^\/?#]*(?:[\/?#]|$)/i
-
 ## $%&
-
 *://*.$alltheinternet.com/*
 
 ## 123
-
 *://*.100searchengines.com/*
 *://*.123people.de/*
 *://*.9ifly.cn/*
@@ -1411,6 +1485,8 @@ searxng
 *://*.ask.co.uk/*
 *://*.ask.com/*
 *://*.auone.jp/*
+...
+askjeeves
 
 ## B
 *://*.baidu.com/*
@@ -1423,6 +1499,8 @@ searxng
 *://*.boardreader.com/*
 *://*.bunse.xyz/*
 *://*.busca.uol.com.br/*
+...
+bndkt
 
 ## C
 *://*.clusty.com/*
@@ -1440,12 +1518,18 @@ searxng
 *://*.eurekster.com/*
 *://*.exalead.com/*
 *://*.excite.com/*
+...
+ecosia
+
+## F
 *://*.factbites.com/*
 *://*.faganfinder.com/*
 *://*.faroo.com/*
 *://*.findability.com/*
 *://*.findit.com/*
 *://*.findx.com/*
+
+## G
 *://*.gibiru.com/*
 *://*.gigablast.com/*
 *://*.globo.com/busca/*
@@ -1656,21 +1740,32 @@ searxng
 *://*.google.vg/*
 *://*.google.vu/*
 *://*.google.ws/*
+
+## H
 *://*.hotbot.com/*
+
+## I
 *://*.info.com/*
 *://*.infospace.com/*
 *://*.interia.pl/*
 *://*.isearchfrom.com/*
 *://*.ixquick.com/*
 *://*.ixquick.eu/*
+
+## J
 *://*.joshuab.xyz/*
 *://*.jtateossian.xyz/*
-*://*.kagi.com
+
+## K
 *://*.kagi.com/*
 *://*.kiddle.co/*
 *://*.ksearch.com/*
+
+## L
 *://*.lukol.com/*
 *://*.lycos.com/*
+
+## M
 *://*.mail.ru/*
 *://*.metacrawler.com/*
 *://*.metacrawler.us/*
@@ -1678,24 +1773,38 @@ searxng
 *://*.metager.org/*
 *://*.mojeek.co.uk/*
 *://*.mojeek.com/*
+
+## N
 *://*.naver.com/*
 *://*.neeva.com/*
 *://*.nigma.ru/*
 *://*.nobigtech.es/*
 *://*.nona.to/*
 *://*.nortonsafe.search.com/*
+
+## O
 *://*.onesearch.com/*
 *://*.onet.pl/*
 *://*.oscobo.com/*
 *://*.ozzu.com/*
+
+## P
 *://*.peekier.com/*
 *://*.peekyou.com/*
+...
+presearch
+
+## Q
 *://*.qrobe.it/*
 *://*.qwant.com/*
 *://*.qwant.net/*
+
+## R
 *://*.rambler.ru/*
 *://*.recherche.aol.fr/*
 *://*.runnaroo.com/*
+
+## S
 *://*.search-results.com/*
 *://*.search.aol.ca/*
 *://*.search.aol.co.uk/*
@@ -1714,27 +1823,48 @@ searxng
 *://*.so.com/*
 *://*.sogou.com/*
 *://*.st8.at/*
+...
 *://*.startpage.com/*
 *://*.startpage.eu/*
+...
+searx
+searxng
+/^https?:\/\/[^\/?#]*searx[^\/?#]*(?:[\/?#]|$)/i
+
+## T
 *://*.teoma.com/*
 *://*.terra.com/*
 *://*.thefloatinglab.world/*
 *://*.tiscali.it/*
 *://*.trovit.com/*
+
+## U
 *://*.uol.com.br/busca/*
+
+## V
 *://*.veromi.com/*
 *://*.viendex.com/*
+
+## W
 *://*.virgilio.it/*
 *://*.webcrawler.com/*
 *://*.wiby.me/*
 *://*.wiby.org/*
 *://*.wow.com/*
 *://*.wp.pl/*
+
+## X
 *://*.xayn.com/*
+
+## Y
 *://*.ya.ru/*
 *://*.yep.com/*
 *://*.yioop.com/*
 *://*.you.com/*
+...
+yandex
+
+## Z
 *://*.zapmeta.com/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
@@ -1772,19 +1902,24 @@ factmandu, factrider, factsnippet, facts, factsbeyond,
 ## G 
 /^https?:\/\/[^\/?#]*gossip[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*g0ssip[^\/?#]*(?:[\/?#]|$)/i
+...
 glam, glamour
 
 ## H
 /^https?:\/\/[^\/?#]*holly-?wood[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*bolly-?wood[^\/?#]*(?:[\/?#]|$)/i
 
-meme, knowsize
-
 ## J
 /^https?:\/\/[^\/?#]*jet-?set[^\/?#]*(?:[\/?#]|$)/i
 
+## K
+knowsize
+
 ## L
 /^https?:\/\/[^\/?#]*lyrics[^\/?#]*(?:[\/?#]|$)/i
+
+## M
+meme
 
 ## N
 /^https?:\/\/[^\/?#]*net-?worth[^\/?#]*(?:[\/?#]|$)/i
@@ -1807,17 +1942,27 @@ popularbio, popnable, popdust, popculture
 /^https?:\/\/[^\/?#]*worth[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*wiki[^\/?#]*(?:[\/?#]|$)/i
 
+# [13.1] UNSAFE ☠️
 
-UNSAFE ☠️
-
+## A
 *://*.appbrain.com/*
 *://*.apps.apple.com/*
 *://*.aptoide.com/*
+
+## C
 *://*.download.cnet.com/*
+
+## F
 *://*.filehippo.com/*
 *://*.filehorse.com/*
+
+## I
 *://*.indusappstore.com/*
+
+## S
 *://*.softpedia.com/*
+
+## U
 *://*.uptodown.com/*
 *://*.softpedia-download.com/*
 *://*.softonic.com/*
@@ -1833,9 +1978,7 @@ UNSAFE ☠️
 bleacherreport
 
 ## E
-espn
-eurosport
-eurosportplayer
+espn, eurosport, eurosportplayer
 
 ## F
 fubosport
@@ -1843,9 +1986,11 @@ fubosport
 ## G
 golf
 
+## H
+hockey
+
 ## L
-livesoccer
-livesport
+livesoccer, livesport, lacrosse
 
 ## O
 olympics
@@ -1857,15 +2002,18 @@ premierleague
 soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, streamable, streamsport
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# [15] STREAMING 
+# [15] STREAMING 🎬
 
-# Legit Streaming Sites
+# Legit Streaming Sites 
 
+## 123
 *://*.10.com.au/*
 *://*.10play.com/*
 *://*.4kfilmdb.com/*
 *://*.7plus.com.au/*
 *://*.9now.com.au/*
+
+## A
 *://*.abc.com/*
 *://*.abc.net.au/*
 *://*.abema-global.com/*
@@ -1908,6 +2056,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.azmovies.live/*
 *://*.azmovies.net/*
 *://*.azmoviestv.it.com/*
+
+## B
 *://*.bek.tv/*
 *://*.bet.plus/*
 *://*.binge.buzz/*
@@ -1919,6 +2069,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.bravotv.co.nz/*
 *://*.bravotv.com/*
 *://*.britbox.com/*
+
+## C
 *://*.canalplus.com/*
 *://*.canlitv.com/*
 *://*.canlitv.me/*
@@ -1964,6 +2116,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.cultureunplugged.com/*
 *://*.curiositystream.com/*
 *://*.cwtv.com/*
+
+## D
 *://*.d23.com/*
 *://*.dacast.com/*
 *://*.dafilms.com/*
@@ -2000,10 +2154,14 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.documentarytube.com/*
 *://*.dr.dk/*
 *://*.dstv.com/*
+
+## E
 *://*.efilm.online/*
 *://*.eon.tv/*
 *://*.espinof.com/*
 *://*.espnplayer.com/*
+
+## F
 *://*.fandor.com/*
 *://*.fasttv.am/*
 *://*.filmclub.tv/*
@@ -2046,6 +2204,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.funclip.tv/*
 *://*.funimation.com/*
 *://*.funimation.rest/*
+
+## G
 *://*.gledaj.online/*
 *://*.gledajcrtace.rs/*
 *://*.gledajonline.net/*
@@ -2063,6 +2223,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.globoplay.globo.com/*
 *://*.gonet.tv/*
 *://*.gostream.to/*
+
+## H
 *://*.hallmarkchannel.com/*
 *://*.hallmarkdrama.com/*
 *://*.hallmarkmoviesandmysteries.com/*
@@ -2087,6 +2249,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.hoy.tv/*
 *://*.hrt.hr/*
 *://*.hulu.com/*
+
+## I
 *://*.ib3.org/*
 *://*.iflix.com/*
 *://*.indieflix.com/*
@@ -2097,6 +2261,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.iwonder.com/*
 *://*.izzi.mx/*
 *://*.izzigo.tv/*
+
+## J
 *://*.jiocinema.com/*
 *://*.jiotv.com/*
 *://*.joyn.at/*
@@ -2104,6 +2270,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.just2watch.com/*
 *://*.justwatch.cc/*
 *://*.justwatch.com/*
+
+## K
 *://*.kanopy.com/*
 *://*.kapang.com/*
 *://*.kast.gg/*
@@ -2113,6 +2281,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.klikfilm.org/*
 *://*.kocowa.com/*
 *://*.kontekst.io/*
+
+## L
 *://*.l-tv.de/*
 *://*.lasestrellas.tv/*
 *://*.lionsgate.com/*
@@ -2125,6 +2295,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.looxtv.net/*
 *://*.looxtv.tv/*
 *://*.lrt.lt/*
+
+## M
 *://*.m6.fr/*
 *://*.manyvids.com/*
 *://*.matchpremier.ru/*
@@ -2173,6 +2345,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.myvideo.ge/*
 *://*.myvideo.net.tw/*
 *://*.mzaalo.com/*
+
+## N
 *://*.natgeotv.com/*
 *://*.nation.foxnews.com/*
 *://*.nbc.com/*
@@ -2209,6 +2383,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.nowtv.now.com/*
 *://*.npo.nl/*
 *://*.nrk.no/*
+
+## O
 *://*.odysee.com/*
 *://*.okko.tv/*
 *://*.olweb.tv/*
@@ -2227,6 +2403,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.osn.com/*
 *://*.osnplus.com/*
 *://*.ottplay.com/*
+
+## P
 *://*.pantaya.com/*
 *://*.paramountnetwork.es/*
 *://*.paramountplus.com/*
@@ -2272,6 +2450,8 @@ soccer, sports, sportnow, sportsonline, sportstream, sportstreaming, sportz, str
 *://*.proximus.be/*
 *://*.prvobitno.com/*
 *://*.puhutv.com/*
+
+## Q
 *://*.qubit.tv/*
 *://*.raiplay.it/*
 *://*.rakuten.tv/*
@@ -2651,6 +2831,8 @@ Rotating TLDs for Above Domains
 *://*.pixeldrain.com/*
 *://*.prostream.to/*
 *://*.rapidgator.net/*
+
+## S
 *://*.savefiles.com/*
 *://*.sbembed.com/*
 *://*.send.cm/*
@@ -2667,6 +2849,8 @@ Rotating TLDs for Above Domains
 *://*.streamwish.to/*
 *://*.supervideo.cc/*
 *://*.supervideo.tv/*
+
+## T
 *://*.taylorplayer.com/*
 *://*.thevideo.me/*
 *://*.tubeload.co/*
@@ -2677,6 +2861,8 @@ Rotating TLDs for Above Domains
 *://*.uploadrar.com/*
 *://*.uptobox.com/*
 *://*.userload.co/*
+
+## V
 *://*.veev.to/*
 *://*.verystream.com/*
 *://*.vidbom.com/*
@@ -2711,14 +2897,19 @@ Rotating TLDs for Above Domains
 
 BROWSERS 🌐
 
+## A
 *://*.arc.net
 *://*.avantbrowser.com
 *://*.avast.com/secure-browser
 *://*.avg.com/en-ww/secure-browser
+
+## B
 *://*.beakerbrowser.com
 *://*.boltbrowser.app
 *://*.browser.qq.com
 *://*.browser.yandex.com
+
+## C
 *://*.chameleonbrowser.com
 *://*.chromium.org
 *://*.citrio.com
@@ -2742,22 +2933,37 @@ BROWSERS 🌐
 *://*.icab.de
 *://*.ilvruan.com
 
+## I
 iridiumbrowser.de
+
+## K
 kingpinbrowser.com
 kmeleonbrowser.org
+
+## L
 librewolf.net
 lunascape.org
 lunascape.tv
+
+## M
 maxthon.com
 microsoft.com/edge
 microsoft.com/en-us/edge
 morequick.com
+
+## O
 omnigroup.com/more
 opera.com/download
+
+## P
 palemoon.org
 polaritybrowser.netlify.app
 puffin.com
+
+## R
 runecats.com
+
+## S
 salamweb.com
 seamonkey-project.org
 secure-browser.com
@@ -2766,14 +2972,24 @@ slimbrowser.net
 slimjet.com
 soliton.co.jp
 srware.net
+
+## T
 torchbrowser.com
 torproject.org
+
+## U
 ucweb.com
 ungoogled-software.github.io/ungoogled-chromium
+
+## V
 vivaldi.com/download
 vivaldi.com$document,redirect=blocked.html,important
+
+## W
 waterfox.net
 webkit.org
 whale.naver.com
 wwwdotbrowser.webs.com
+
+## Y
 yandex.com/browser
