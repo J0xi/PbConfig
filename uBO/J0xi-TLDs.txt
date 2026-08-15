@@ -12,7 +12,7 @@
 !   1.5         EUROPE
 !   1.6         OCEANIA
 !   1.7         MISC
-! [2-4]   GTLDs
+! [2]     GTLDs
 !   2.1         A
 !   2.2         B
 !   2.3         C
