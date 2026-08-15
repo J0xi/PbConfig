@@ -13,11 +13,11 @@
 # [6]        DATING                 💗
 # [7]        DRUGS & TOBACCO        🚬       
 # [8]        GAMBLING               🎲
-# [9]        GAMING                 🎮                 
+# [9]        GAMING                 🕹️                 
 # [10]       NEWS & TABLOIDS        🗞️
 # [11]       SOCIAL MEDIA           👥
 # [12]       SPAM                   🗑️
-#    12.1        Unsafe             
+#    12.1        Unsafe             ☠️
 # [13]       SPORTS                 ⚽                 
 # [14]       STREAMING              🎬           
 # [15]       TRIVIA                 🎉
@@ -212,7 +212,7 @@ title/dung/i
 title/dirty[- ]?pervert[sz]?/i
 title/drtin[aeiou]/i
 ...
-dripac/cki,dripci, dripcina
+dripac/cki,dripci, dripac dripcin[aeiou]
 
 # E
 title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
@@ -779,6 +779,7 @@ title/ecstasy/i
 ## G
 title/ganja/i
 title/green-?leaf/i
+title/gudr[au]/i
 
 ## H
 title/he(?:mp|roin)/i
@@ -808,7 +809,7 @@ title/shisha/i
 title/smok(?:e(?:r[sz]?)?|ing)/i
 
 ## T
-title/tobacco/i
+title/tobacc?o/i
 
 ## V
 title/vap(?:e(?:r[sz]?|[sz]?)|ing|or)/i
