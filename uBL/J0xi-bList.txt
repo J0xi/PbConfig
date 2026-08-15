@@ -4,26 +4,27 @@
 # https://raw.githubusercontent.com/J0xi/PbConfig/refs/heads/main/uBL/J0xi-bList.txt
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 
-# [1]        ADULT
-#   1.1          Dating 
-# [2]        ASTROLOGY
-# [3]        BLOGS
-# [4]        CHAT
-# [5]        COMMERCE
-#   5.1          Food Delivery  
-# [6]        DRUGS & TOBACCO
-# [7]        FUN
-# [8]        GAMBLING
-# [9]        GAMING
-# [10]       NEWS & TABLOIDS
-# [11]       SOCIAL MEDIA
-# [12]       SPAM
-#    12.1        Unsafe     
-# [13]       SPORTS
-# [14]       STREAMING
-# [15]       UTILITIES
-#    15.1        Browsers
-#    15.2        Search Engines
+# [1]        ADULT                  🔞
+# [2]        ASTROLOGY              ♊                  
+# [3]        BLOGS                  ✍️                  
+# [4]        CHAT                   💬
+# [5]        COMMERCE               🛒
+#   5.1          Food Delivery      🍔
+# [6]        DATING                 💗
+# [7]        DRUGS & TOBACCO        🚬       
+# [8]        GAMBLING               🎲
+# [9]        GAMING                 🎮                 
+# [10]       NEWS & TABLOIDS        🗞️
+# [11]       SOCIAL MEDIA           👥
+# [12]       SPAM                   🗑️
+#    12.1        Unsafe             
+# [13]       SPORTS                 ⚽                 
+# [14]       STREAMING              🎬           
+# [15]       TRIVIA                 🎉
+# [16]       UTILITIES              🛠️         
+#    16.1        AI                 🤖 
+#    16.2        Browsers           🌐
+#    16.3        Search Engines     🔍
   
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [1] ADULT 🔞
@@ -213,8 +214,6 @@ title/drtin[aeiou]/i
 ...
 dripac/cki,dripci, dripcina
 
-
-
 # E
 title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
 title/ea[sz]y[- ]?lay?/i 
@@ -251,9 +250,8 @@ title/fu(?:ck|q)[- ]?off/i
 title/fu(?:ck|q)[- ]toy[sz]?/i
 title/fu(?:ck|q)able/i
 title/fuck[- ]?tard[sz]?/i
-
+...
 # title/fu(?:(?:ck|q)[sz]
-
 # fuck[sz]/ed/er[sz]/ing[sz]fuckt
 # fuckin
 
@@ -319,8 +317,6 @@ title/jizz(?:e[ds]|ing)?/i
 ...
 jebac[ae], jebanja/e/u, jebada, jebac[aeiu]?
 title/jebe(?:m|)
-
-> šđčćž
 
 # K
 title/kendra[- ]?lust[sz]?/i
@@ -662,7 +658,8 @@ freecam
 ## ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ## [5] COMMERCE 🛒
 
-# 5.1 FOOD DELIVERY
+
+# 5.1 Food Delivery
 
 ## B
 /^https?:\/\/[^\/?#]*bolt-?food[^\/?#]*(?:[\/?#]|$)/i
@@ -1466,406 +1463,6 @@ zelda, zeldadungeon
 ## Z 
 *://*.zalebs.com/*
 *://*.zoomtventertainment.com/*
-
-# ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# [11] SEARCH ENGINES 🔍
-# Source(s): https://github.com/searxng/searx-instances
-
-## $%&
-*://*.$alltheinternet.com/*
-
-## 123
-*://*.100searchengines.com/*
-*://*.123people.de/*
-*://*.9ifly.cn/*
-
-## A
-*://*.acxiomsearch.com/*
-*://*.andisearch.com/*
-*://*.ask.co.uk/*
-*://*.ask.com/*
-*://*.auone.jp/*
-...
-askjeeves
-
-## B
-*://*.baidu.com/*
-*://*.beagle.io/*
-*://*.becovi.com/*
-*://*.biglobe.ne.jp/*
-*://*.bing.com/*
-*://*.blekko.com/*
-*://*.blinde-kuh.de/*
-*://*.boardreader.com/*
-*://*.bunse.xyz/*
-*://*.busca.uol.com.br/*
-...
-bndkt
-
-## C
-*://*.clusty.com/*
-*://*.coccoc.com/search/*
-
-## D
-*://*.daosearch.com/*
-*://*.daum.net/*
-*://*.disconnect.me/search/*
-*://*.dogpile.com/*
-
-## E
-*://*.entireweb.com/*
-*://*.etools.ch/*
-*://*.eurekster.com/*
-*://*.exalead.com/*
-*://*.excite.com/*
-...
-ecosia
-
-## F
-*://*.factbites.com/*
-*://*.faganfinder.com/*
-*://*.faroo.com/*
-*://*.findability.com/*
-*://*.findit.com/*
-*://*.findx.com/*
-
-## G
-*://*.gibiru.com/*
-*://*.gigablast.com/*
-*://*.globo.com/busca/*
-*://*.gmx.net/web/search/*
-*://*.gogglesearch.net/*
-*://*.goo.ne.jp/*
-*://*.goodsearch.com/*
-*://*.google.*/*
-*://*.google.ac/*
-*://*.google.ad/*
-*://*.google.ae/*
-*://*.google.af/*
-*://*.google.ag/*
-*://*.google.ai/*
-*://*.google.al/*
-*://*.google.am/*
-*://*.google.ao/*
-*://*.google.ar/*
-*://*.google.as/*
-*://*.google.at/*
-*://*.google.au/*
-*://*.google.az/*
-*://*.google.ba/*
-*://*.google.bd/*
-*://*.google.be/*
-*://*.google.bf/*
-*://*.google.bg/*
-*://*.google.bh/*
-*://*.google.bi/*
-*://*.google.bj/*
-*://*.google.bs/*
-*://*.google.bt/*
-*://*.google.by/*
-*://*.google.ca/*
-*://*.google.cat/*
-*://*.google.cd/*
-*://*.google.cf/*
-*://*.google.cg/*
-*://*.google.ch/*
-*://*.google.ci/*
-*://*.google.cl/*
-*://*.google.cm/*
-*://*.google.cn/*
-*://*.google.co.ao/*
-*://*.google.co.bw/*
-*://*.google.co.ck/*
-*://*.google.co.cr/*
-*://*.google.co.id/*
-*://*.google.co.il/*
-*://*.google.co.in/*
-*://*.google.co.jp/*
-*://*.google.co.ke/*
-*://*.google.co.kr/*
-*://*.google.co.ls/*
-*://*.google.co.ma/*
-*://*.google.co.mz/*
-*://*.google.co.nz/*
-*://*.google.co.th/*
-*://*.google.co.tz/*
-*://*.google.co.ug/*
-*://*.google.co.uk/*
-*://*.google.co.uz/*
-*://*.google.co.ve/*
-*://*.google.co.vi/*
-*://*.google.co.za/*
-*://*.google.co.zm/*
-*://*.google.co.zw/*
-*://*.google.co/*
-*://*.google.com.af/*
-*://*.google.com.ag/*
-*://*.google.com.ai/*
-*://*.google.com.ar/*
-*://*.google.com.au/*
-*://*.google.com.bd/*
-*://*.google.com.bh/*
-*://*.google.com.bo/*
-*://*.google.com.br/*
-*://*.google.com.by/*
-*://*.google.com.bz/*
-*://*.google.com.co/*
-*://*.google.com.cu/*
-*://*.google.com.cy/*
-*://*.google.com.do/*
-*://*.google.com.ec/*
-*://*.google.com.eg/*
-*://*.google.com.et/*
-*://*.google.com.fj/*
-*://*.google.com.gh/*
-*://*.google.com.gi/*
-*://*.google.com.gt/*
-*://*.google.com.hk/*
-*://*.google.com.jm/*
-*://*.google.com.kh/*
-*://*.google.com.kw/*
-*://*.google.com.lb/*
-*://*.google.com.ly/*
-*://*.google.com.mm/*
-*://*.google.com.mt/*
-*://*.google.com.mx/*
-*://*.google.com.my/*
-*://*.google.com.na/*
-*://*.google.com.ng/*
-*://*.google.com.ni/*
-*://*.google.com.np/*
-*://*.google.com.om/*
-*://*.google.com.pa/*
-*://*.google.com.pe/*
-*://*.google.com.pg/*
-*://*.google.com.ph/*
-*://*.google.com.pk/*
-*://*.google.com.pr/*
-*://*.google.com.py/*
-*://*.google.com.qa/*
-*://*.google.com.sa/*
-*://*.google.com.sb/*
-*://*.google.com.sg/*
-*://*.google.com.sl/*
-*://*.google.com.sv/*
-*://*.google.com.tj/*
-*://*.google.com.tr/*
-*://*.google.com.tw/*
-*://*.google.com.ua/*
-*://*.google.com.uy/*
-*://*.google.com.vc/*
-*://*.google.com.vn/*
-*://*.google.com/*
-*://*.google.cv/*
-*://*.google.cz/*
-*://*.google.de/*
-*://*.google.dj/*
-*://*.google.dk/*
-*://*.google.dm/*
-*://*.google.dz/*
-*://*.google.ee/*
-*://*.google.es/*
-*://*.google.fi/*
-*://*.google.fm/*
-*://*.google.fr/*
-*://*.google.ga/*
-*://*.google.ge/*
-*://*.google.gg/*
-*://*.google.gl/*
-*://*.google.gm/*
-*://*.google.gp/*
-*://*.google.gr/*
-*://*.google.gy/*
-*://*.google.hn/*
-*://*.google.hr/*
-*://*.google.ht/*
-*://*.google.hu/*
-*://*.google.ie/*
-*://*.google.im/*
-*://*.google.iq/*
-*://*.google.is/*
-*://*.google.it/*
-*://*.google.je/*
-*://*.google.jo/*
-*://*.google.kg/*
-*://*.google.ki/*
-*://*.google.kz/*
-*://*.google.la/*
-*://*.google.li/*
-*://*.google.lk/*
-*://*.google.lt/*
-*://*.google.lu/*
-*://*.google.lv/*
-*://*.google.md/*
-*://*.google.me/*
-*://*.google.mg/*
-*://*.google.mk/*
-*://*.google.ml/*
-*://*.google.mn/*
-*://*.google.ms/*
-*://*.google.mu/*
-*://*.google.mv/*
-*://*.google.mw/*
-*://*.google.ne/*
-*://*.google.nl/*
-*://*.google.no/*
-*://*.google.nr/*
-*://*.google.nu/*
-*://*.google.pl/*
-*://*.google.pn/*
-*://*.google.ps/*
-*://*.google.pt/*
-*://*.google.ro/*
-*://*.google.rs/*
-*://*.google.ru/*
-*://*.google.rw/*
-*://*.google.sc/*
-*://*.google.se/*
-*://*.google.sh/*
-*://*.google.si/*
-*://*.google.sk/*
-*://*.google.sm/*
-*://*.google.sn/*
-*://*.google.so/*
-*://*.google.sr/*
-*://*.google.st/*
-*://*.google.td/*
-*://*.google.tg/*
-*://*.google.tl/*
-*://*.google.tm/*
-*://*.google.tn/*
-*://*.google.to/*
-*://*.google.tt/*
-*://*.google.us/*
-*://*.google.vg/*
-*://*.google.vu/*
-*://*.google.ws/*
-
-## H
-*://*.hotbot.com/*
-
-## I
-*://*.info.com/*
-*://*.infospace.com/*
-*://*.interia.pl/*
-*://*.isearchfrom.com/*
-*://*.ixquick.com/*
-*://*.ixquick.eu/*
-
-## J
-*://*.joshuab.xyz/*
-*://*.jtateossian.xyz/*
-
-## K
-*://*.kagi.com/*
-*://*.kiddle.co/*
-*://*.ksearch.com/*
-
-## L
-*://*.lukol.com/*
-*://*.lycos.com/*
-
-## M
-*://*.mail.ru/*
-*://*.metacrawler.com/*
-*://*.metacrawler.us/*
-*://*.metager.de/*
-*://*.metager.org/*
-*://*.mojeek.co.uk/*
-*://*.mojeek.com/*
-
-## N
-*://*.naver.com/*
-*://*.neeva.com/*
-*://*.nigma.ru/*
-*://*.nobigtech.es/*
-*://*.nona.to/*
-*://*.nortonsafe.search.com/*
-
-## O
-*://*.onesearch.com/*
-*://*.onet.pl/*
-*://*.oscobo.com/*
-*://*.ozzu.com/*
-
-## P
-*://*.peekier.com/*
-*://*.peekyou.com/*
-...
-presearch
-
-## Q
-*://*.qrobe.it/*
-*://*.qwant.com/*
-*://*.qwant.net/*
-
-## R
-*://*.rambler.ru/*
-*://*.recherche.aol.fr/*
-*://*.runnaroo.com/*
-
-## S
-*://*.search-results.com/*
-*://*.search.aol.ca/*
-*://*.search.aol.co.uk/*
-*://*.search.aol.com/*
-*://*.search.brave.com/*
-*://*.search.com/*
-*://*.search.yahoo.com/*
-*://*.searchalot.com/*
-*://*.searchencrypt.com/*
-*://*.searchengine.party/*
-*://*.searchonlinenow.net/*
-*://*.searchzillions.com/*
-*://*.seznam.cz/*
-*://*.slickvpnsearch.com/*
-*://*.sm.cn/*
-*://*.so.com/*
-*://*.sogou.com/*
-*://*.st8.at/*
-...
-*://*.startpage.com/*
-*://*.startpage.eu/*
-...
-searx
-searxng
-/^https?:\/\/[^\/?#]*searx[^\/?#]*(?:[\/?#]|$)/i
-
-## T
-*://*.teoma.com/*
-*://*.terra.com/*
-*://*.thefloatinglab.world/*
-*://*.tiscali.it/*
-*://*.trovit.com/*
-
-## U
-*://*.uol.com.br/busca/*
-
-## V
-*://*.veromi.com/*
-*://*.viendex.com/*
-
-## W
-*://*.virgilio.it/*
-*://*.webcrawler.com/*
-*://*.wiby.me/*
-*://*.wiby.org/*
-*://*.wow.com/*
-*://*.wp.pl/*
-
-## X
-*://*.xayn.com/*
-
-## Y
-*://*.ya.ru/*
-*://*.yep.com/*
-*://*.yioop.com/*
-*://*.you.com/*
-...
-yandex
-
-## Z
-*://*.zapmeta.com/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [12] SOCIAL MEDIA 👥
@@ -2893,9 +2490,11 @@ Rotating TLDs for Above Domains
 *://*.wolfstream.tv/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-# [17] UTILITIES 🛠️
+# [16] UTILITIES 🛠️
 
-BROWSERS 🌐
+# [16.1] AI
+
+# [16.2] Browsers 🌐
 
 ## A
 *://*.arc.net
@@ -2993,3 +2592,402 @@ wwwdotbrowser.webs.com
 
 ## Y
 yandex.com/browser
+
+# [16.3] Search Engines 🔍
+# Source(s): https://github.com/searxng/searx-instances
+
+## $%&
+*://*.$alltheinternet.com/*
+
+## 123
+*://*.100searchengines.com/*
+*://*.123people.de/*
+*://*.9ifly.cn/*
+
+## A
+*://*.acxiomsearch.com/*
+*://*.andisearch.com/*
+*://*.ask.co.uk/*
+*://*.ask.com/*
+*://*.auone.jp/*
+...
+askjeeves
+
+## B
+*://*.baidu.com/*
+*://*.beagle.io/*
+*://*.becovi.com/*
+*://*.biglobe.ne.jp/*
+*://*.bing.com/*
+*://*.blekko.com/*
+*://*.blinde-kuh.de/*
+*://*.boardreader.com/*
+*://*.bunse.xyz/*
+*://*.busca.uol.com.br/*
+...
+bndkt
+
+## C
+*://*.clusty.com/*
+*://*.coccoc.com/search/*
+
+## D
+*://*.daosearch.com/*
+*://*.daum.net/*
+*://*.disconnect.me/search/*
+*://*.dogpile.com/*
+
+## E
+*://*.entireweb.com/*
+*://*.etools.ch/*
+*://*.eurekster.com/*
+*://*.exalead.com/*
+*://*.excite.com/*
+...
+ecosia
+
+## F
+*://*.factbites.com/*
+*://*.faganfinder.com/*
+*://*.faroo.com/*
+*://*.findability.com/*
+*://*.findit.com/*
+*://*.findx.com/*
+
+## G
+*://*.gibiru.com/*
+*://*.gigablast.com/*
+*://*.globo.com/busca/*
+*://*.gmx.net/web/search/*
+*://*.gogglesearch.net/*
+*://*.goo.ne.jp/*
+*://*.goodsearch.com/*
+*://*.google.*/*
+*://*.google.ac/*
+*://*.google.ad/*
+*://*.google.ae/*
+*://*.google.af/*
+*://*.google.ag/*
+*://*.google.ai/*
+*://*.google.al/*
+*://*.google.am/*
+*://*.google.ao/*
+*://*.google.ar/*
+*://*.google.as/*
+*://*.google.at/*
+*://*.google.au/*
+*://*.google.az/*
+*://*.google.ba/*
+*://*.google.bd/*
+*://*.google.be/*
+*://*.google.bf/*
+*://*.google.bg/*
+*://*.google.bh/*
+*://*.google.bi/*
+*://*.google.bj/*
+*://*.google.bs/*
+*://*.google.bt/*
+*://*.google.by/*
+*://*.google.ca/*
+*://*.google.cat/*
+*://*.google.cd/*
+*://*.google.cf/*
+*://*.google.cg/*
+*://*.google.ch/*
+*://*.google.ci/*
+*://*.google.cl/*
+*://*.google.cm/*
+*://*.google.cn/*
+*://*.google.co.ao/*
+*://*.google.co.bw/*
+*://*.google.co.ck/*
+*://*.google.co.cr/*
+*://*.google.co.id/*
+*://*.google.co.il/*
+*://*.google.co.in/*
+*://*.google.co.jp/*
+*://*.google.co.ke/*
+*://*.google.co.kr/*
+*://*.google.co.ls/*
+*://*.google.co.ma/*
+*://*.google.co.mz/*
+*://*.google.co.nz/*
+*://*.google.co.th/*
+*://*.google.co.tz/*
+*://*.google.co.ug/*
+*://*.google.co.uk/*
+*://*.google.co.uz/*
+*://*.google.co.ve/*
+*://*.google.co.vi/*
+*://*.google.co.za/*
+*://*.google.co.zm/*
+*://*.google.co.zw/*
+*://*.google.co/*
+*://*.google.com.af/*
+*://*.google.com.ag/*
+*://*.google.com.ai/*
+*://*.google.com.ar/*
+*://*.google.com.au/*
+*://*.google.com.bd/*
+*://*.google.com.bh/*
+*://*.google.com.bo/*
+*://*.google.com.br/*
+*://*.google.com.by/*
+*://*.google.com.bz/*
+*://*.google.com.co/*
+*://*.google.com.cu/*
+*://*.google.com.cy/*
+*://*.google.com.do/*
+*://*.google.com.ec/*
+*://*.google.com.eg/*
+*://*.google.com.et/*
+*://*.google.com.fj/*
+*://*.google.com.gh/*
+*://*.google.com.gi/*
+*://*.google.com.gt/*
+*://*.google.com.hk/*
+*://*.google.com.jm/*
+*://*.google.com.kh/*
+*://*.google.com.kw/*
+*://*.google.com.lb/*
+*://*.google.com.ly/*
+*://*.google.com.mm/*
+*://*.google.com.mt/*
+*://*.google.com.mx/*
+*://*.google.com.my/*
+*://*.google.com.na/*
+*://*.google.com.ng/*
+*://*.google.com.ni/*
+*://*.google.com.np/*
+*://*.google.com.om/*
+*://*.google.com.pa/*
+*://*.google.com.pe/*
+*://*.google.com.pg/*
+*://*.google.com.ph/*
+*://*.google.com.pk/*
+*://*.google.com.pr/*
+*://*.google.com.py/*
+*://*.google.com.qa/*
+*://*.google.com.sa/*
+*://*.google.com.sb/*
+*://*.google.com.sg/*
+*://*.google.com.sl/*
+*://*.google.com.sv/*
+*://*.google.com.tj/*
+*://*.google.com.tr/*
+*://*.google.com.tw/*
+*://*.google.com.ua/*
+*://*.google.com.uy/*
+*://*.google.com.vc/*
+*://*.google.com.vn/*
+*://*.google.com/*
+*://*.google.cv/*
+*://*.google.cz/*
+*://*.google.de/*
+*://*.google.dj/*
+*://*.google.dk/*
+*://*.google.dm/*
+*://*.google.dz/*
+*://*.google.ee/*
+*://*.google.es/*
+*://*.google.fi/*
+*://*.google.fm/*
+*://*.google.fr/*
+*://*.google.ga/*
+*://*.google.ge/*
+*://*.google.gg/*
+*://*.google.gl/*
+*://*.google.gm/*
+*://*.google.gp/*
+*://*.google.gr/*
+*://*.google.gy/*
+*://*.google.hn/*
+*://*.google.hr/*
+*://*.google.ht/*
+*://*.google.hu/*
+*://*.google.ie/*
+*://*.google.im/*
+*://*.google.iq/*
+*://*.google.is/*
+*://*.google.it/*
+*://*.google.je/*
+*://*.google.jo/*
+*://*.google.kg/*
+*://*.google.ki/*
+*://*.google.kz/*
+*://*.google.la/*
+*://*.google.li/*
+*://*.google.lk/*
+*://*.google.lt/*
+*://*.google.lu/*
+*://*.google.lv/*
+*://*.google.md/*
+*://*.google.me/*
+*://*.google.mg/*
+*://*.google.mk/*
+*://*.google.ml/*
+*://*.google.mn/*
+*://*.google.ms/*
+*://*.google.mu/*
+*://*.google.mv/*
+*://*.google.mw/*
+*://*.google.ne/*
+*://*.google.nl/*
+*://*.google.no/*
+*://*.google.nr/*
+*://*.google.nu/*
+*://*.google.pl/*
+*://*.google.pn/*
+*://*.google.ps/*
+*://*.google.pt/*
+*://*.google.ro/*
+*://*.google.rs/*
+*://*.google.ru/*
+*://*.google.rw/*
+*://*.google.sc/*
+*://*.google.se/*
+*://*.google.sh/*
+*://*.google.si/*
+*://*.google.sk/*
+*://*.google.sm/*
+*://*.google.sn/*
+*://*.google.so/*
+*://*.google.sr/*
+*://*.google.st/*
+*://*.google.td/*
+*://*.google.tg/*
+*://*.google.tl/*
+*://*.google.tm/*
+*://*.google.tn/*
+*://*.google.to/*
+*://*.google.tt/*
+*://*.google.us/*
+*://*.google.vg/*
+*://*.google.vu/*
+*://*.google.ws/*
+
+## H
+*://*.hotbot.com/*
+
+## I
+*://*.info.com/*
+*://*.infospace.com/*
+*://*.interia.pl/*
+*://*.isearchfrom.com/*
+*://*.ixquick.com/*
+*://*.ixquick.eu/*
+
+## J
+*://*.joshuab.xyz/*
+*://*.jtateossian.xyz/*
+
+## K
+*://*.kagi.com/*
+*://*.kiddle.co/*
+*://*.ksearch.com/*
+
+## L
+*://*.lukol.com/*
+*://*.lycos.com/*
+
+## M
+*://*.mail.ru/*
+*://*.metacrawler.com/*
+*://*.metacrawler.us/*
+*://*.metager.de/*
+*://*.metager.org/*
+*://*.mojeek.co.uk/*
+*://*.mojeek.com/*
+
+## N
+*://*.naver.com/*
+*://*.neeva.com/*
+*://*.nigma.ru/*
+*://*.nobigtech.es/*
+*://*.nona.to/*
+*://*.nortonsafe.search.com/*
+
+## O
+*://*.onesearch.com/*
+*://*.onet.pl/*
+*://*.oscobo.com/*
+*://*.ozzu.com/*
+
+## P
+*://*.peekier.com/*
+*://*.peekyou.com/*
+...
+presearch
+
+## Q
+*://*.qrobe.it/*
+*://*.qwant.com/*
+*://*.qwant.net/*
+
+## R
+*://*.rambler.ru/*
+*://*.recherche.aol.fr/*
+*://*.runnaroo.com/*
+
+## S
+*://*.search-results.com/*
+*://*.search.aol.ca/*
+*://*.search.aol.co.uk/*
+*://*.search.aol.com/*
+*://*.search.brave.com/*
+*://*.search.com/*
+*://*.search.yahoo.com/*
+*://*.searchalot.com/*
+*://*.searchencrypt.com/*
+*://*.searchengine.party/*
+*://*.searchonlinenow.net/*
+*://*.searchzillions.com/*
+*://*.seznam.cz/*
+*://*.slickvpnsearch.com/*
+*://*.sm.cn/*
+*://*.so.com/*
+*://*.sogou.com/*
+*://*.st8.at/*
+...
+*://*.startpage.com/*
+*://*.startpage.eu/*
+...
+searx
+searxng
+/^https?:\/\/[^\/?#]*searx[^\/?#]*(?:[\/?#]|$)/i
+
+## T
+*://*.teoma.com/*
+*://*.terra.com/*
+*://*.thefloatinglab.world/*
+*://*.tiscali.it/*
+*://*.trovit.com/*
+
+## U
+*://*.uol.com.br/busca/*
+
+## V
+*://*.veromi.com/*
+*://*.viendex.com/*
+
+## W
+*://*.virgilio.it/*
+*://*.webcrawler.com/*
+*://*.wiby.me/*
+*://*.wiby.org/*
+*://*.wow.com/*
+*://*.wp.pl/*
+
+## X
+*://*.xayn.com/*
+
+## Y
+*://*.ya.ru/*
+*://*.yep.com/*
+*://*.yioop.com/*
+*://*.you.com/*
+...
+yandex
+
+## Z
+*://*.zapmeta.com/*

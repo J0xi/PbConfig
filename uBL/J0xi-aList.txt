@@ -19,7 +19,7 @@
 # [G]
 
 ## d
-@*://*.gettyimages.()/*
+@*://*.gettyimages./*
 @1/(github)\.(com|io)/
 @1/(gitlab)\.com/
 
