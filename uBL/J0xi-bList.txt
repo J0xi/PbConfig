@@ -250,6 +250,7 @@ title/fu(?:ck|q)[- ]?off/i
 title/fu(?:ck|q)[- ]toy[sz]?/i
 title/fu(?:ck|q)able/i
 title/fuck[- ]?tard[sz]?/i
+title/fckn/i
 ...
 # title/fu(?:(?:ck|q)[sz]
 # fuck[sz]/ed/er[sz]/ing[sz]fuckt
