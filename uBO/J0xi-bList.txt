@@ -63,7 +63,6 @@
 ! T
 ||t8cdn.com^
 ||tnastatic.com^
-||tumblr.com^
 
 ! X
 ||xhcdn.com^
@@ -76,10 +75,21 @@
 
 ! A
 ||*astro*$document
+||*aquarius*$document
+||*aries*$document
+
+! C
+||*capricorn*$document
+
+! G
+||*gemini*$document
 
 ! H
 ||*horoscop*$document
 ||*horoskop*$document
+
+! L
+||*libra*$document
 
 ! N
 ||*name*meaning*$document
@@ -90,11 +100,15 @@
 ||*psychic*$document
 
 ! S
+||*scorpio*$document
 ||*star*sign*$document
 
 ! T
-||*tarot*document
-! taurus
+||*tarot*$document
+||*taurus*$document
+
+! V
+||*virgo*document
 
 ! Y
 ||*yogi*$document
@@ -102,13 +116,6 @@
 ! Z
 ||*zodiac*$document
 ||*zodiak*$document
-
-libra
-capricorn
-aquarius
-virgo
-scorpio
-
 
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ! [3] BLOGS
@@ -177,8 +184,11 @@ scorpio
 ||-cbd*^$document
 ||*cbd*^$document
 
+! B
 ||*bc*seed*$document
 ||*bong*$document
+
+! C
 ||*canabis*$document
 ||*canabiz*$document
 ||*cannabis*$document
@@ -191,31 +201,55 @@ scorpio
 ||*cigz*$document
 ||*cocain*$document
 ||*cohiba*$document
+
+! D
 ||*droga*$document
 ||*droge*$document
 ||*drogu*$document
 ||*drugs*$document
 ||*drugz*$document
+
+! G
 ||*ganja*$document
+
+! H
 ||*hemp*cbd*$document
 ||*herb*$document
 ||*hookah*$document
+
+! K
 ||*kanabis*$document
 ||*kannabis*$document
 ||*kohib*$document
+
+! M
 ||*marijuana*$document
 ||*modafinil*$document
+
+! P
 ||*pure*kana*$document
+
+! Q
 ||*queen*seed*$document
+
+! S
 ||*seed*$document
 ||*shisha*$document
 ||*smoke*$document
+
+! T
 ||*tobacco*$document
 ||*tobaco*$document
 ||*tobako*$document
+
+! V
 ||*vape*$document
 ||*vaping*$document
+
+! W
 ||*weed*$document
+
+! X
 ||*xanax*$document
 
 ! ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮

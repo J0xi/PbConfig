@@ -11,7 +11,7 @@
 !   1.4         ASIA                                            🍜
 !   1.5         EUROPE                                          🇪🇺
 !   1.6         OCEANIA                                         🏝️
-!   1.7         MISC
+!   1.7         MISC                                            ...
 ! [2]     GTLDs
 !   2.1         A
 !   2.2         B

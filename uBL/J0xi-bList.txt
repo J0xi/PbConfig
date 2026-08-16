@@ -337,7 +337,7 @@ title/kurvetin[aeiou]/i
 title/karanj[aeu]/i
 title/kresanj[aeu]/i
 title/keiran[- ]?lee/i
-title/kuronj[aeou]/i
+title/kuronj[aeiou]/i
 title/kiss[- ]?ass/i
 title/kenjator[aieu]?/i*
 ...
