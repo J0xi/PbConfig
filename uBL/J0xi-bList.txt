@@ -29,11 +29,9 @@
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [1] ADULT 🔞
 
-## Domain
 
-/^https?:\/\/[^\/?#]*adult[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*model[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*urban[- ]?dictionary[^\/?#]*(?:[\/?#]|$)/i
+title/model[sz]/i
+title/urban[- ]?dictionary/i
 
 ## Path
 
@@ -50,6 +48,7 @@ title/3[- ]?some[sz]?/i
 
 # A
 title/a[- ]?hole[sz]?/i
+title/adult/i
 title/adult[- ]?act(?:or|resse)[sz]?/i
 title/adult[- ]?chat[sz]?/i 
 title/adult[- ]?hook[- ]?up[sz]?/i
@@ -368,6 +367,7 @@ title/money[- ]?sh[0o]t[sz]?/
 title/masturbat(?:e(sz)?|ed|i(?:on|ng)|or(?:y)?)/i
 title/maggot[sz]?/i
 title/missionary[- ]?(?:position)?/i
+title/mamlaz[aeui]/i
 ..
 mudafuka[sz], mudafuqa[sz]
 m[0ou]ther[- ]?fu(?ck|q)
@@ -435,16 +435,18 @@ title/reverse[- ]?cow[- ]?girl/i
 title/sa(?:dis(?:m|t[sz]?))/i
 title/scrot(?:ie|um)/i
 title/se(?:ks|x)
-title/se(?:ks|x)[- ]?afer[aeiu]/i
 title/se(?:ks|x)(?:ie(?:r|st)|uality|y)/i
 title/se(?:ks|x)[- ]?(?:position|predator)[sz]?/i
 title/se(?:ks|x)[- ]?(addiction[sz]?|appeal)/i
 title/se(?:ks|x)[- ]?(tape[sz]?|ting)/i
 title/se(?:ks|x)[- ]?[ck]ult[sz]?/i
+title/se(?:ks|x)[- ]?afer[aeiu]/i
 title/se(?:ks|x)[- ]?doll[sz]?/i
+title/se(?:ks|x)[- ]?drive/i
 title/se(?:ks|x)[- ]?freak[sz]?/i
 title/se(?:ks|x)[- ]?game[sz]?/i
 title/se(?:ks|x)[- ]?kitten[sz]?/i
+title/se(?:ks|x)[- ]?life/i
 title/se(?:ks|x)[- ]?mania[ck][sz]?/i
 title/se(?:ks|x)[- ]?offender[sz]?/i
 title/se(?:ks|x)[- ]?s[ck]andal[sz]?/i
@@ -474,6 +476,8 @@ title/swinger[sz]?[- ](?:[ck]lub|party)/i
 shits, shit-head, shitted, shitty, shi-thole, shit-eater/ing
 sise, sisetine, sikice, sisurdace, sisata, sisanje, sisati kurac
 seljak, seljacina, seljacine, seljacinu, seljanka
+seljober
+seljanka
 
 # T
 title/trans[- ]?gender[sz]?/i
@@ -658,7 +662,6 @@ freecam
 
 ## ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 ## [5] COMMERCE 🛒
-
 
 # 5.1 Food Delivery
 
@@ -901,11 +904,10 @@ title/xanax/i
 /^https?:\/\/[^\/?#]*just-?bet[^\/?#]*(?:[\/?#]|$)/i
 
 ## K
-/^https?:\/\/[^\/?#]*kasino[^\/?#]*(?:[\/?#]|$)/i
+/^https?:\/\/[^\/?#]*ka[sz]ino[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kladit(?:e|i)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kladjenj(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kladionic(?:a|e|i|u)[^\/?#]*(?:[\/?#]|$)/i
-/^https?:\/\/[^\/?#]*kazino[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kladjenj(?:a|e)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kock(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
 /^https?:\/\/[^\/?#]*kvot(?:a|e|u)[^\/?#]*(?:[\/?#]|$)/i
@@ -1470,12 +1472,14 @@ zelda, zeldadungeon
 # [12] SOCIAL MEDIA 👥
 
 ## I
+*://*.instagram.com/*
 influencer
 
 ## M
 *://*.myspace.com/*
 
 ## T
+*://*.tiktok.com/*
 *://*.tumblr.com/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
