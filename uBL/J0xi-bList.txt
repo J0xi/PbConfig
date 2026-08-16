@@ -189,6 +189,7 @@ title/cow[- ]?girl/i
 title/crazy[- ]?bitch[esz]?/i
 title/cream[- ]?pie[sz]?/i
 title/cum[- ]?guzzle(?:r[sz]?)?/i
+title/cuck[sz]?/i
 
 # D
 title/d[iy]ke[sz]?/i
@@ -211,7 +212,7 @@ title/dung/i
 title/dirty[- ]?pervert[sz]?/i
 title/drtin[aeiou]/i
 ...
-dripac/cki,dripci, dripac dripcin[aeiou]
+dripac/cki,dripci,dripcin[aeiou]
 
 # E
 title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
@@ -335,13 +336,14 @@ title/keiran[- ]?lee/i
 title/kuronj[aeou]/i
 title/kiss[- ]?ass/i
 title/kenjator[ieu]?/i*
+title/kreten(?:[aeiu]?|izam|cina
 ...
 kresnuti, kresnem, kresnemo, kresamo, 
 kunt 
 kaki(?:m|č)
 kenja/kenjac/kenjati
 kobila/e/i/o/u/ ... kobiletina/e/i/o/u
-kreten, kretenka, kretenu, kretenizam, kretencina
+kreten, kretenka, kr
 kurcozderka/u/i
 krava, kravetina, kravetinu, krave
 
@@ -411,13 +413,13 @@ title/pott(?:ies|y)/i
 title/premature[- ]?ejaculation/i
 title/puss(?:i(?:es|fy)|y)/i
 title/pimpek[au]?/i
+title/pervert[sz]?/i
 ...
 panties, panty
 paedophilia, pedofil
 pornhub, porno, pornos, porno, pornographer, pornography, pornographic, pornografia, pronici, pornicu, pornstar, ponstars
 pedercina/u/i/e/o / pederluk
 prdim, prdeti, prdeza/e/i/u
-pervert, perverts, perversion
 
 # Q
 queer[sz]
@@ -478,6 +480,8 @@ sise, sisetine, sikice, sisurdace, sisata, sisanje, sisati kurac
 seljak, seljacina, seljacine, seljacinu, seljanka
 seljober
 seljanka
+shitless, shitbag
+sexfactor
 
 # T
 title/trans[- ]?gender[sz]?/i
@@ -551,10 +555,10 @@ aquarius, aries, askmyoracle
 birthsign, birthstone
 
 ## C
-cancer*, capricorn, chani, chinesefortunecalendar, compatibility
+cancer*, capricorn, chani,compatibility
 
 ## F
-fortune calendar
+title/fortune[- ]?calendar/i
 
 ## G
 /^https?:\/\/[^\/?#]*ganesha[^\/?#]*(?:[\/?#]|$)/i
@@ -566,7 +570,7 @@ ganeshaspeaks, gemini, gemselect
 /^https?:\/\/[^\/?#]+\/[^?#]*horoscop[^?#]*(?:[?#]|$)/i
 
 ## K
-karma
+title/karma/i
 
 ## L
 labyrinthos, leo, libra, linda-goodman, lovecompatibility
@@ -1281,12 +1285,10 @@ zelda, zeldadungeon
 *://*.ecorazzi.com/*
 *://*.efeitopop.com/*
 *://*.elitedaily.com/*
-*://*.elle.com/*
 *://*.entertainmentdaily.com/*
 *://*.entertainmentgazette.co.uk/*
 *://*.entertainmentnow.com/*
 *://*.eonline.com/*
-*://*.esquire.com/*
 *://*.essence.com/*
 *://*.etcanada.com/*
 *://*.etonline.com/*
@@ -1365,10 +1367,8 @@ zelda, zeldadungeon
 *://*.mrpaparazzi.com/*
 
 ## N
-*://*.net-a-porter.com/*
 *://*.nickiswift.com/*
 *://*.nicolebitchy.com/*
-*://*.nypost.com/*
 
 ## O
 *://*.ok.co.uk/*
@@ -1447,8 +1447,6 @@ zelda, zeldadungeon
 *://*.usmagazine.com/*
 
 ## V
-*://*.vanityfair.com/*
-*://*.variety.com/*
 *://*.viciousrumors.com/*
 *://*.vipflux.com/*
 
@@ -1561,6 +1559,13 @@ popularbio, popnable, popdust, popculture
 
 ## I
 *://*.indusappstore.com/*
+
+## R
+*://*.taterealworld.com/*
+*://*.therealworldportal.com/*
+*://*.therealworld.org/*
+*://*.therealworld.net/*
+*://*.therealworld.co/*
 
 ## S
 *://*.softpedia.com/*
