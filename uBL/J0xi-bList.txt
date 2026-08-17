@@ -31,14 +31,11 @@
 
 
 title/model[sz]/i
-title/urban[- ]?dictionary/i
 
 ## Path
 
 /^https?:\/\/[^\/?#]+\/[^?#]*adult[^?#]*(?:[?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*model[^?#]*(?:[?#]|$)/i
-
-## Keywords
 
 # 123
 title/1[- ]?on[- ]?1/i
@@ -164,8 +161,7 @@ title/butt[- ]?plug[sz]?/i
 title/butt[- ]?stain[sz]?/i
 title/butt[- ]?wipe[sz]?/i
 title/ball[sz][- ]?deep/i
-...
-bolid, bolidu, bolide
+title/bolid[aeiu]/i
 
 # C
 title/[ck][0o]pulat(?:e[dsz]|ing)/i
@@ -188,7 +184,7 @@ title/copulat(?:e[sz]?|i(?:ng|on))?
 title/cougar[sz]?/i
 title/cow[- ]?fart[sz]?/i
 title/cow[- ]?girl/i
-title/crazy[- ]?bitch[esz]?/i
+title/crazy[- ]?bitch(?:e[sz])?/i
 title/cream[- ]?pie[sz]?/i
 title/cum[- ]?guzzle(?:r[sz]?)?/i
 title/cuck[sz]?/i
@@ -213,8 +209,7 @@ title/dumbo[sz]?/i
 title/dung/i
 title/dirty[- ]?pervert[sz]?/i
 title/drtin[aeiou]/i
-...
-dripac/cki,dripci,dripcin[aeiou]
+title/drip(?:ac|c[iu]|cin[aeiou])/i
 
 # E
 title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
@@ -327,9 +322,11 @@ title/jebe(?:m|)
 title/kendra[- ]?lust[sz]?/i
 title/kama[- ]?sutra/i
 title/kurac/i
+
 title/kur[cč]in[aeou]/i
 title/kur[cč]i(?:t[ei]|o)/i
-title/kur[cć]enj[aeu]/i
+title/kur[cč]enj[aeu]/i
+
 title/kopil(?:a[dn]?|e|u)/i*
 title/kink(?:s|y)
 title/kid(?:die)[sz]?[- ]?porn/i
@@ -339,18 +336,17 @@ title/kresanj[aeu]/i
 title/keiran[- ]?lee/i
 title/kuronj[aeiou]/i
 title/kiss[- ]?ass/i
-title/kenjator[aieu]?/i*
+title/krav(?:[aeiou]|etin[aeiou])/i
+title/kreten[čc]in[aeiou]/i
+title/kurco[- ]?[žz]derk[aeiou]/i
+title/kreten(?:[aeiu]|izam|k[aeiou])?/i
+title/
 ...
 kresnuti, kresnem, kresnemo, kresamo, 
 kunt[sz], kunty, kuntiest, kuntier
 kakim/s/ti/mo
 kenjac, kenjati, kenjaza, kenjam/o
 kobila/e/i/o/u/ ... kobiletina/e/i/o/u
-kreten/a/e/i/u, kretenka/e/i/o/u, kretenizam
-kurco[- ]?zderka/e/i/u/o
-krava/e/o/u/i
-kravetina/e/o/u/i
-kretenčina/e/i/o/u
 
 # L
 title/lgbqt/i
@@ -393,6 +389,7 @@ title/nym[fp]ho[- ]?mania[ck]?[sz]?/i*
 title/naked[- ]?(?:bodie[sz])?/i
 title/nudie[- ]?mag[sz]?/i
 title/nut[- ]?[ck]ase/i
+title/nikk?i[- ]?benz/i
 
 # O
 title/onani[sz]m/i
@@ -424,10 +421,11 @@ title/premature[- ]?eja[ck]ulati[0o]n/i
 title/puss(?:i(?:es|fy)|y)/i
 title/pimpek[au]?/i
 title/pervert[sz]?/i
+title/peder(?:čin[aeiou]|luk)/i
+title/
 ...
 paedophilia, pedofil
-pornhub, porno, pornos, porno, pornographer, pornography, pornographic, pornografia, pronici, pornicu,
-pedercina/u/i/e/o / pederluk, prdim, prdeti, prdeza/e/i/u
+pornhub, porno, pornos, porno, pornographer, pornography, pornographic, pornografia, pronici, pornicu,prdim, prdeti, prdeza/e/i/u
 
 # Q
 queer[sz]
@@ -436,10 +434,13 @@ quickie[sz]
 # R
 title/rap(?:e[sz]?|ed|ing[sz]?|ist[sz]?)/i = title/rap(?:(e|ing|ist)[sz]?|ed)/i
 title/red[- ]?tube/i
-title/retrard[sz]?/i
+title/retrard(?:[sz]|ed)?/i
 title/rim[- ]?job[sz]?/i
 title/raw[- ]?dog/i
 title/reverse[- ]?cow[- ]?girl/i
+title/re[ck]tum/i
+...
+ribica/e/i/u, ribetina/e/i/o/u
 
 # S
 title/sa(?:dis(?:m|t[sz]?))/i
@@ -483,8 +484,7 @@ title/sugar[- ]?mom
 title/swag(?:ger)?/i
 title/sweet[- ]?sinner[sz]?/i
 title/swinger[sz]?[- ](?:[ck]lub|part(?:ies|y))?/i
-
-
+...
 title/sis(?:[aeiu]|)
 shits, shit-head, shitted, shitty, shi-thole, shit-eater/ing
 sisetine, sikice, sisurdace, sisata, sisanje, sisati kurac
@@ -512,6 +512,7 @@ title/twat[sz]?/i
 # U
 title/undie[sz]?/i
 title/undress(?:e[ds]|ing)?/i
+title/urban[- ]?dictionary/i
 
 # V
 title/vagina[sz]?/i
