@@ -10,7 +10,7 @@
 @@||apata.io^
 
 ! sd
-@@||dns.adguard.io^ 
+@@||dns.adguard.io^$all
 
 ! cdns
 @@||akcdn.net^
