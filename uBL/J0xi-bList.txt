@@ -439,8 +439,7 @@ title/rim[- ]?job[sz]?/i
 title/raw[- ]?dog/i
 title/reverse[- ]?cow[- ]?girl/i
 title/re[ck]tum/i
-...
-ribica/e/i/u, ribetina/e/i/o/u
+title/rib(?:ic[aeiu]|etin[aeiou])/i
 
 # S
 title/sa(?:dis(?:m|t[sz]?))/i
@@ -484,12 +483,12 @@ title/sugar[- ]?mom
 title/swag(?:ger)?/i
 title/sweet[- ]?sinner[sz]?/i
 title/swinger[sz]?[- ](?:[ck]lub|part(?:ies|y))?/i
+title/seljober[aeiu]?/i
 ...
 title/sis(?:[aeiu]|)
 shits, shit-head, shitted, shitty, shi-thole, shit-eater/ing
 sisetine, sikice, sisurdace, sisata, sisanje, sisati kurac
 seljak, seljacina, seljacine, seljacinu, seljanka
-seljober
 seljanka
 shitless, shitbag
 sexfactor
@@ -552,7 +551,6 @@ youporn
 
 # Z
 title/zadrug[aeu]/i
-
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [2] ASTROLOGY ♊
