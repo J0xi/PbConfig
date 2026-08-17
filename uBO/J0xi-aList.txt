@@ -7,10 +7,8 @@
 ! [A]
 
 ! d
+@@||adguard-dns.io^$all
 @@||apata.io^
-
-! sd
-@@||dns-adguard.io^$all
 
 ! cdns
 @@||akcdn.net^$all
