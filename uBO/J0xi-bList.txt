@@ -412,7 +412,7 @@
 ||insta-editor.com^
 ||insta-follow-checker.com^
 ||insta-login.com^
-||insta-navigator.com^
+||insta-navigator.com^$all
 ||insta-recovery.com^
 ||insta-security-check.com^
 ||insta-spy.net^
