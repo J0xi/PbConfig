@@ -15,7 +15,6 @@
 @@||appcenter.ms^
 @@||arcgis.com^
 @@||archive.org^$important
-
 ! 🇭🇺
 @@||arukereso.hu^ 
 
@@ -33,11 +32,11 @@
 @@||baidu.com^
 @@||britannica.com^
 @@||buymeacoffee.com^
-
 ! 🇭🇺
 @@||bejelentkezes.hu^
 
 ! sd
+@@||bat.bing.com^
 @@||safebrowsing.brave.com^
 
 ! .................................................................................................................................................................................. 
@@ -49,22 +48,22 @@
 @@||cloudflare.com^
 @@||cloudfront.net^
 @@||codeberg.org^
+@@||cstatic.com^
 
 ! sd
+@@||delivery.consentmanager.net^
 @@||dictionary.cambridge.org^
 @@||family.cloudflare-dns.com^
 
 ! cdns
 @@||cdn.consentmanager.net^
 @@||cdn.cookielaw.org^
-@@||delivery.consentmanager.net^
 
 ! .................................................................................................................................................................................. 
 ! [D]
 
 ! d
 @@||deepl.com^
-
 ! 🇭🇺
 @@||dijnet.hu^
 
@@ -109,15 +108,12 @@
 @@||googletagmanager.com^
 @@||gravatar.com^
 @@||gutenberg.org^
-
 ! 🇺🇦
 @@||gov.ua^$important
 
 ! sd
-
 ! 🇭🇺
 @@||enterhungary.gov.hu
-
 ! 🇷🇸
 @@||img.goglasi.com^
 @@||lpa.gov.rs^
@@ -141,12 +137,16 @@
 ! d
 @@||joinhoney.com^
 
+! sd
+@@||sis.jpush.io^
+
 ! .................................................................................................................................................................................. 
 ! [L]
 
 ! d
 @@||lenovo.com^
 @@||lenovomm.com^
+@@||liveuamap.com^
 
 ! .................................................................................................................................................................................. 
 ! [M]
@@ -171,7 +171,6 @@
 ! [O]
 
 ! d
-
 ! 🇭🇺
 @@||one.hu^
 
@@ -184,13 +183,11 @@
 ! d
 @@||paypal.com^
 @@||python.org^
-
 ! 🇨🇭
 @@||proton.me^
 @@||protonvpn.com^
 
 ! cdns
-
 ! 🇨🇭
 @@||vpncdn.protonweb.com^
 
@@ -199,7 +196,6 @@
 
 ! d
 @@||researchgate.net^
-
 ! 🇭🇺
 @@||raiffeisen.hu^
 
@@ -231,7 +227,6 @@
 
 ! sd
 @@||csp.uber.com^
-
 ! 🇨🇭 
 @@||ebanking-ch1.ubs.com^
 @@||ebanking-ch2.ubs.com^
@@ -245,7 +240,6 @@
 @@||viber.com^
 @@||vinted.com^
 @@||visualping.io^
-
 ! 🇭🇺
 @@||vinted.hu^
  
@@ -260,7 +254,6 @@
 @@||whatsapp.com^
 @@||whatsapp.net^
 @@||wondershare.*
-
 ! 🇬🇧
 @@||wise.com^
 

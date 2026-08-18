@@ -103,11 +103,9 @@
 ! d
 @@||paypal.com^$all
 @@||portapps.io^$all
-
 ! 🇨🇭
 @@||proton.me^$all
 @@||protonvpn.com^$all
-
 ! 🇷🇸
 @@||payten.com.tr^$all
 
@@ -118,7 +116,6 @@
 ! [R]
 
 ! d
-
 ! 🇭🇺
 @@||raiffeisen.hu^$all
 
@@ -142,7 +139,6 @@
 @@||uniclipboard.app^$all
 
 ! sd
-
 ! 🇨🇭
 @@||ebanking-ch1.ubs.com^$all
 @@||ebanking-ch2.ubs.com^$all
@@ -159,7 +155,6 @@
 
 ! d
 @@||whatsapp.com^
-
 ! 🇬🇧
 @@||wise.com^$all
 
