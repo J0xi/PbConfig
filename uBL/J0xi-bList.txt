@@ -37,16 +37,22 @@ title/model[sz]/i
 /^https?:\/\/[^\/?#]+\/[^?#]*adult[^?#]*(?:[?#]|$)/i
 /^https?:\/\/[^\/?#]+\/[^?#]*model[^?#]*(?:[?#]|$)/i
 
-# 123
+## 123
 title/1[- ]?on[- ]?1/i
 title/1[- ]?night[- ]?stand[sz]?/i
 title/2[- ]?girls[- ]?1cup/i
 title/3[- ]?some[sz]?/i
 
-# A
+# ...
+# 1on1, 1 on 1, 1-on-1
+# 1nightstand(s/z), 1 night stand(s/z), 1-night-stand(s/z)
+# 2girls1cup, 2 girls 1 cup, 2-girls-1-cup
+# # 3some, 3 some, 3-some
+
+## A
 title/a[- ]?hole[sz]?/i
 title/adult/i
-title/adult[- ]?act(?:or|resse)[sz]?/i
+title/adult[- ]?act(?:or[sz]?|ress(?:e[sz])?)/i
 title/adult[- ]?chat[sz]?/i 
 title/adult[- ]?hook[- ]?up[sz]?/i
 title/adult[- ]?meet[sz]?/i
@@ -56,7 +62,7 @@ title/adult[- ]?video[sz]?/i
 title/adult[- ]?industry/i
 title/afri[ck]oon[sz]?/i
 title/alpha[- ]?male[sz]?/i
-title/anal[- ]?(?:sex)/i
+title/anal[- ]?se(?:ks|x)/i/i
 title/anal[- ]?annie/i
 title/anal[- ]?bead[sz]?/i
 title/anal[- ]?plug[sz]?/i
@@ -66,7 +72,7 @@ title/anus(?:e[sz])?/i
 title/ape[- ]?shit/i
 title/arabush/i
 title/arr?se[- ]?h[0o]le[sz]?/i
-title/ase(?:ks|s)ual(?:s|ity)/i
+title/ase(?:ks|s)ual(?:[sz]|ity)/i
 title/ass[- ]?[ck]lown[sz]?/i
 title/ass[- ]?face[sz]?/i
 title/ass[- ]?fu(?:ck(?:er)?|kka?|q?)[sz]?/i
@@ -78,8 +84,43 @@ title/ava[- ]?add?am[sz]?/i
 title/avn[- ]?award[sz]?/i
 title/animal[- ]?porn/i
 title/anime[- ]?porn/i
+# ...
+# ahole(s/z), a hole(s/z), a-hole(s/z)
+# adult
+# adultactor(s/z), adult actor(s/z), adult-actor(s/z), adultactress(es/ez), adult actress(es/ez), adult-actress(es/ez)
+# adultchat(s/z), adult chat(s/z), adult-chat(s/z)
+# adulthookup(s/z), adult hook up(s/z), adult-hook-up(s/z)
+# adultmeet(s/z), adult meet(s/z), adult-meet(s/z)
+# adultse(ks/x), adult se(ks/x), adult-se(ks/z)
+# adultstar(s/z), adult star(s/z), adult-star(s/z)
+# adultvideo(s/z), adult video(s/z), adult-video(s/z)
+# adultindustry, adult industry, adult-industry
+# africoon(s/z), afrikoon(s/z)
+# alphamale(s/z), alpha male(s/z), alpha-male(s/z)
+# analse(ks/x), anal se(ks/x), anal-se(ks/x)
+# analannie, anal annie, anal-annie
+# analbead(s/z), anal bead(s/z), anal-bead(s/z)
+# analplug(s/z), anal plug(s/z), anal-plug(s/z)
+# analprobe(s/z), anal probe(s/z), anal-probe(s/z)
+# analingus, anilingus
+# anus, anuses, anusez
+# apeshit, ape shit, ape-shit
+# arabush
+# a(r/rr)seh(0/o)le(s/z), a(r/rr)se h(0/o)le(s/z), a(r/rr)se-h(0/o)le(s/z)
+# ase(ks/x)ual(s/z), ase(ks/x)uality
+# assclown(s/z), ass clown(s/z), ass-clown(s/z), assklown(s/z), ass klown(s/z), ass-klown(s/z)
+# assface(s/z), ass face(s/z), ass-face(s/z)
+# assfuck(s/z), ass fuck(s/z), ass-fuck(s/z), assfucker(s/z), ass fucker(s/z), ass-fucker(s/z), assfukka(s/z), ass fukka(s/z), ass-fukka(s/z), assfuq(s/z), ass fuq(s/z), ass-fuq(s/z)
+# assgrab, ass grab, ass-grab, assgrabbed, ass grabbed, ass-grabbed, assgrabber(s/z), ass grabber(s/z), ass-grabber(s/z), assgrabbing(s/z), ass grabbing(s/z), ass-grabbing(s/z)
+# assh(0/o)le(s/z), ass h(0/o)le(s/z), ass-h(0/o)le(s/z)
+# asswipe(s/z), ass wipe(s/z), ass-wipe(s/z)
+# autoeroti(c/k), auto eroti(c/k), auto-eroti(c/k)
+# avaa(dd/d)am(s/z), ava a(dd/d)am(s/z), ava-a(dd/d)am(s/z)
+# avnaward(s/z), avn award(s/z), avn-award(s/z)
+# animalporn, animal porn, animal-porn
+# animeporn, anime porn, anime-porn
 
-# B
+## B
 tiitle/bung[- ]?h[0o]le[sz]?/i
 title/b[ea]stial(?:it(?:ies|y))?/i
 title/b[ei]atch(?:e[sz])?/i
@@ -162,6 +203,8 @@ title/butt[- ]?stain[sz]?/i
 title/butt[- ]?wipe[sz]?/i
 title/ball[sz][- ]?deep/i
 title/bolid[aeiu]/i
+# ...
+
 
 # C
 title/[ck][0o]pulat(?:e[dsz]|ing)/i
@@ -189,7 +232,7 @@ title/cream[- ]?pie[sz]?/i
 title/cum[- ]?guzzle(?:r[sz]?)?/i
 title/cuck[sz]?/i
 
-# D
+## D
 title/d[iy]ke[sz]?/i
 title/dafuq/i
 title/darla[- ]?[ck]rane/i
@@ -210,6 +253,11 @@ title/dung/i
 title/dirty[- ]?pervert[sz]?/i
 title/drtin[aeiou]/i
 title/drip(?:ac|c[iu]|cin[aeiou])/i
+# ...
+# dike(s/z), dyke(s/z)
+# dafuq
+# darlacrane, darla crane, darla-crane, darlakrane, darla krane, darla-krane
+# 
 
 # E
 title/ea[sz]y[- ]?fu(?:ck|q)[sz]?/i
@@ -297,6 +345,7 @@ title/hot[- ]?and[- ]?heavy/i
 title/hung[- ]?like[- ]?a[- ]?horse/i
 title/hunk[syz]?/i
 title/hymen/i
+title/hoe[sz]/i
 
 # I
 title/idiot[sz]?/i
@@ -305,6 +354,11 @@ title/inbred[sz]?/i
 title/interracial[- ]se(?:ks|x)/i
 title/intercourse/i
 title/india[- ]?summer[sz]?/i
+
+# ...
+# idiots, idiotz
+# incestual, insestual
+# inbreds, inbredz
 
 # J
 title/jack[- ]?ass(?:e[sz])
@@ -340,13 +394,13 @@ title/krav(?:[aeiou]|etin[aeiou])/i
 title/kreten[čc]in[aeiou]/i
 title/kurco[- ]?[žz]derk[aeiou]/i
 title/kreten(?:[aeiu]|izam|k[aeiou])?/i
+title/kobil(?:[aeiou]|etin[aeiou])/i
 title/
 ...
 kresnuti, kresnem, kresnemo, kresamo, 
 kunt[sz], kunty, kuntiest, kuntier
 kakim/s/ti/mo
 kenjac, kenjati, kenjaza, kenjam/o
-kobila/e/i/o/u/ ... kobiletina/e/i/o/u
 
 # L
 title/lgbqt/i
@@ -393,7 +447,9 @@ title/nikk?i[- ]?benz/i
 
 # O
 title/onani[sz]m/i
+# onanism, onanizm
 title/only[- ]fan[sz]?/i
+# 
 title/orgasm[sz]?/i
 title/orgazam/orgazmi
 title/orgasmic
@@ -405,13 +461,17 @@ orgies,orgy, orgie-porgie
 # P
 title/pant(?:ies|y)?/i
 title/pearl[- ]?necklace[sz]?/i 
+title/peder(?:čin[aeiou]|luk)/i
 title/pendej[oa](?:s)?/i
 title/penis/i
+title/pervert[sz]?/i
 title/pimp(?:ed|[sz]?|in(?:g)?)/i
+title/pimpek[au]?/i
 title/piss[- ]?off/i
 title/pizd[aeiou]/i
 title/play[- ]?boy[sz]?/i
 title/play[- ]?mate[sz]?/i
+title/plej[- ]?boj/i
 title/poop(?:e[dr]|[sz]?|in(?:g))/i
 title/porn(?:o[sz]?|ograph(?:))
 title/porn[-]?flick[sz]?/i
@@ -419,10 +479,6 @@ title/porn[-]?star[sz]?i
 title/pott(?:ies|y)/i
 title/premature[- ]?eja[ck]ulati[0o]n/i
 title/puss(?:i(?:es|fy)|y)/i
-title/pimpek[au]?/i
-title/pervert[sz]?/i
-title/peder(?:čin[aeiou]|luk)/i
-title/
 ...
 paedophilia, pedofil
 pornhub, porno, pornos, porno, pornographer, pornography, pornographic, pornografia, pronici, pornicu,prdim, prdeti, prdeza/e/i/u
@@ -484,13 +540,14 @@ title/swag(?:ger)?/i
 title/sweet[- ]?sinner[sz]?/i
 title/swinger[sz]?[- ](?:[ck]lub|part(?:ies|y))?/i
 title/seljober[aeiu]?/i
+title/sperm[- ]?bank[sz]/i
+title/spermusa/i
+title/seljank[aeiuo]/i
+title/selja[cč]in[aeiou]/i
 ...
 title/sis(?:[aeiu]|)
 shits, shit-head, shitted, shitty, shi-thole, shit-eater/ing
-sisetine, sikice, sisurdace, sisata, sisanje, sisati kurac
-seljak, seljacina, seljacine, seljacinu, seljanka
-seljanka
-shitless, shitbag
+sisetine, sikice, sisurdace, sisata, sisanje, sisati kurac, shitless, shitbag
 sexfactor
 
 # T
@@ -507,6 +564,7 @@ title/trans[- ]?gender[sz]?/i
 title/transvestit(?:e[sz]?|ism)/i
 title/turd[sz]?/i
 title/twat[sz]?/i
+title/tampon/i
 
 # U
 title/undie[sz]?/i
@@ -537,7 +595,7 @@ wank, wanker, wanking, wankjob, wanky, waysted, wazoo, weenie, weewee, weiner
 welcher, wench, whash, whigger, whiggers, whiskeydick, whiskydick, whit, whitenigger, whitepower, 
 whitey, whiteys, whities, whoar, whop, whore, whorealicious, whorebag, whored, whoreface, whorefucker, 
 whorehopper, wichser, wigga, wiggas, wigger, wiggers, willie
-willies, williewanker, willy, wog, wogs, woose, wop, worldsex, wtf, wuss, wuzzie, wank, wankers/ing/z
+willies, williewanker, willy, woose, wop, worldsex, wtf, wuss, wuzzie, wank, wankers/ing/z
 
 # X
 title/xxx/i

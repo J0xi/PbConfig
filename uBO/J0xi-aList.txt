@@ -93,6 +93,7 @@
 @@||obsidian.md^$all
 @@||oisd.nl^$all
 @@||openclaw.ai^$all
+@@||organicmaps.app^$all
 
 ! cdns
 @@||cdn.optimizely.com^
