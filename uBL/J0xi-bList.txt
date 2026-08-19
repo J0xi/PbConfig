@@ -33,7 +33,7 @@
 title/model[sz]/i
 
 test
-/murder(s|z)?/i
+/murder[sz]?/i
 
 
 
@@ -839,6 +839,27 @@ waifu, wife, winggirl, wingman, wives, withlove,
 
 ## Y
 yourfling
+
+*://*.goldenbride.net/*
+*://*.europeanwomen.net/*
+*://*.foreign-women.com/*
+*://*.eurowomen.org/*
+*://*.kingsofrussia.com/*
+*://*.womenfromeurope.com/*
+*://*.serbiandating.com/*
+*://*.mingle2.com/*
+*://*.nomaddates.com/*
+*://*.datingacrosscultures.com/*
+*://*.foreverloveonline.com/*
+*://*.planetofwomen.org/*
+*://*.serbianlove.com/*
+*://*.bridesandlovers.com/*
+*://*.womanate.com/*
+*://*.womenctr.net/*
+*://*.inspirationalwomenseries.com/*
+*://*.dating.com/*
+*://*.internationalcupid.com/*
+*://*.singlemuslim.com/*
 
 # ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
 # [7] DRUGS & TOBACCO 🚬
