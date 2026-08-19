@@ -32,6 +32,12 @@
 
 title/model[sz]/i
 
+test
+/murder(s|z)?/i
+
+
+
+
 ## Path
 
 /^https?:\/\/[^\/?#]+\/[^?#]*adult[^?#]*(?:[?#]|$)/i
