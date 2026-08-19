@@ -204,6 +204,8 @@ title/butt[- ]?wipe[sz]?/i
 title/ball[sz][- ]?deep/i
 title/bolid[aeiu]/i
 # ...
+# bungh(0/o)le(s/z), bung h(0/o)le(s/z), bung-h(0/o)le(s/z)
+# 
 
 
 # C
@@ -296,6 +298,7 @@ title/fu(?:ck|q)[- ]?off/i
 title/fu(?:ck|q)[- ]toy[sz]?/i
 title/fu(?:ck|q)able/i
 title/fuck[- ]?tard[sz]?/i
+title/frajer[aeiu]/i
 ...
 # title/fu(?:(?:ck|q)[sz]
 # fuck[sz]/ed/er[sz]/ing[sz]fuckt
@@ -533,7 +536,7 @@ title/sperm[aeu]?/i
 title/starlet[aeisu]/i
 title/strip[- ]?[ck]lub[sz]?/9
 title/strip[- ]?bar[sz]?/i
-title/strip[- ]?tea[sz]e/i
+title/strip[- ]?(?:tea[sz]e|tizet[aeiou])/i
 title/sugar[- ]?dad(?:d(?:))
 title/sugar[- ]?mom
 title/swag(?:ger)?/i
@@ -541,7 +544,7 @@ title/sweet[- ]?sinner[sz]?/i
 title/swinger[sz]?[- ](?:[ck]lub|part(?:ies|y))?/i
 title/seljober[aeiu]?/i
 title/sperm[- ]?bank[sz]/i
-title/spermusa/i
+title/spermu[šs]a/i
 title/seljank[aeiuo]/i
 title/selja[cč]in[aeiou]/i
 ...
