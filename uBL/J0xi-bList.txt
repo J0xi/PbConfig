@@ -57,11 +57,17 @@ title/3[- ]?some[sz]?/i
 
 ## A
 title/a[- ]?hole[sz]?/i
+/a[- ]?hole[sz]?/i
 title/adult/i
+/adult/i
 title/adult[- ]?act(?:or[sz]?|ress(?:e[sz])?)/i
+/adult[- ]?act(?:or[sz]?|ress(?:e[sz])?)/i
 title/adult[- ]?chat[sz]?/i 
+/adult[- ]?chat[sz]?/i 
 title/adult[- ]?hook[- ]?up[sz]?/i
+/adult[- ]?hook[- ]?up[sz]?/i
 title/adult[- ]?meet[sz]?/i
+/adult[- ]?meet[sz]?/i
 title/adult[- ]?se(?:ks|x)/i
 title/adult[- ]?star[sz]?/i
 title/adult[- ]?video[sz]?/i
@@ -305,9 +311,9 @@ title/fu(?:ck|q)[- ]toy[sz]?/i
 title/fu(?:ck|q)able/i
 title/fuck[- ]?tard[sz]?/i
 
-title/frajer[aeiu]?/i
-/frajer[aeiu]?/i
-...
+#title/frajer[aeiu]?/i
+#/frajer[aeiu]?/i
+# ...
 # title/fu(?:(?:ck|q)[sz]
 # fuck[sz]/ed/er[sz]/ing[sz]fuckt
 # fuckin
@@ -379,9 +385,9 @@ title/jag[- ]?off[sz]?/i
 title/jerk(?:[sz]?|ed|ing)?[- ]?off/i
 title/jerk[- ]?mate[sz]?/i
 title/jizz(?:e[ds]|ing)?/i
-...
-jebac[ae], jebanja/e/u, jebada, jebac[aeiu]?
-title/jebe(?:m|)
+# ...
+# jebac[ae], jebanja/e/u, jebada, jebac[aeiu]?
+# title/jebe(?:m|)
 
 # K
 title/kendra[- ]?lust[sz]?/i
@@ -407,11 +413,11 @@ title/kurco[- ]?[žz]derk[aeiou]/i
 title/kreten(?:[aeiu]|izam|k[aeiou])?/i
 title/kobil(?:[aeiou]|etin[aeiou])/i
 title/
-...
-kresnuti, kresnem, kresnemo, kresamo, 
-kunt[sz], kunty, kuntiest, kuntier
-kakim/s/ti/mo
-kenjac, kenjati, kenjaza, kenjam/o
+# ...
+# kresnuti, kresnem, kresnemo, kresamo, 
+# kunt[sz], kunty, kuntiest, kuntier
+# kakim/s/ti/mo
+# kenjac, kenjati, kenjaza, kenjam/o
 
 # L
 title/lgbqt/i
@@ -438,10 +444,10 @@ title/missionary[- ]?(?:position)?/i
 title/mamlaz[aeui]/i
 title/mojo/i
 title/m[ée]nage[- ]?à[- ]?trois/i
-..
-mudafuka[sz], mudafuqa[sz]
-m[0ou]ther[- ]?fu(?ck|q)
-mother fucks/er/ers/z/ing/ed/e
+# ..
+# mudafuka[sz], mudafuqa[sz]
+# m[0ou]ther[- ]?fu(?ck|q)
+# mother fucks/er/ers/z/ing/ed/e
 
 # N
 title/nutsa(?:ck|q)[sz]?/i
@@ -466,8 +472,8 @@ title/orgazam/orgazmi
 title/orgasmic
 title/orgij[aeiu]/i
 title/one[- ]?night[- ]?stand[sz]?/i
-...
-orgies,orgy, orgie-porgie
+# ...
+# orgies,orgy, orgie-porgie
 
 # P
 title/pant(?:ies|y)?/i
@@ -490,9 +496,9 @@ title/porn[-]?star[sz]?i
 title/pott(?:ies|y)/i
 title/premature[- ]?eja[ck]ulati[0o]n/i
 title/puss(?:i(?:es|fy)|y)/i
-...
-paedophilia, pedofil
-pornhub, porno, pornos, porno, pornographer, pornography, pornographic, pornografia, pronici, pornicu,prdim, prdeti, prdeza/e/i/u
+# ...
+# paedophilia, pedofil
+# pornhub, porno, pornos, porno, pornographer, pornography, pornographic, pornografia, pronici, pornicu,prdim, prdeti, prdeza/e/i/u
 
 # Q
 queer[sz]
@@ -555,11 +561,11 @@ title/sperm[- ]?bank[sz]/i
 title/spermu[šs]a/i
 title/seljank[aeiuo]/i
 title/selja[cč]in[aeiou]/i
-...
-title/sis(?:[aeiu]|)
-shits, shit-head, shitted, shitty, shi-thole, shit-eater/ing
-sisetine, sikice, sisurdace, sisata, sisanje, sisati kurac, shitless, shitbag
-sexfactor
+# ...
+# title/sis(?:[aeiu]|)
+# shits, shit-head, shitted, shitty, shi-thole, shit-eater/ing
+# sisetine, sikice, sisurdace, sisata, sisanje, sisati kurac, shitless, shitbag
+# sexfactor
 
 # T
 title/tanga[sz]?/i
@@ -600,13 +606,13 @@ title/whacker/i
 title/wet[- ]?spot/i
 title/wuss(?:ie[sz]?|y)?/i
 title/wig
-...
-title/wank(?:er[sz]?i
-wank, wanker, wanking, wankjob, wanky, waysted, wazoo, weenie, weewee, weiner
-welcher, wench, whash, whigger, whiggers, whiskeydick, whiskydick, whit, whitenigger, whitepower, 
-whitey, whiteys, whities, whoar, whop, whore, whorealicious, whorebag, whored, whoreface, whorefucker, 
-whorehopper, wichser, wigga, wiggas, wigger, wiggers, willie
-willies, williewanker, willy, woose, wop, worldsex, wtf, wuss, wuzzie, wank, wankers/ing/z
+# ...
+# title/wank(?:er[sz]?i
+# wank, wanker, wanking, wankjob, wanky, waysted, wazoo, weenie, weewee, weiner
+# welcher, wench, whash, whigger, whiggers, whiskeydick, whiskydick, whit, whitenigger, whitepower, 
+# whitey, whiteys, whities, whoar, whop, whore, whorealicious, whorebag, whored, whoreface, whorefucker, 
+# whorehopper, wichser, wigga, wiggas, wigger, wiggers, willie
+# willies, williewanker, willy, woose, wop, worldsex, wtf, wuss, wuzzie, wank, wankers/ing/z
 
 # X
 title/xxx/i
