@@ -112,7 +112,8 @@
 
 ! sd
 ! 🇭🇺
-@@||enterhungary.gov.hu
+@@||chrome.google.com^
+@@||enterhungary.gov.hu^
 ! 🇷🇸
 @@||img.goglasi.com^
 @@||lpa.gov.rs^
