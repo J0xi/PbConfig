@@ -51,6 +51,7 @@
 ! [F]
 
 ! d
+@@||filen.io^$all
 @@||freedom.to^$all
 
 ! cdns
