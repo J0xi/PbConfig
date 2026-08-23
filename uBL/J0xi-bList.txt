@@ -224,11 +224,16 @@ title/crazy[- ]?bitch(?:e[sz])?/i
 title/cream[- ]?pie[sz]?/i
 title/cuck[sz]?/i
 title/cum[- ]?guzzle(?:r[sz]?)?/i
+# ...
+/[ck][0o]pulat(?:e[dsz]|ing)/i
+/[ck]luster[- ]?fu(?:ck|q)[sz]?/i
+/[ck]ondom[sz]?/i
 
 ## D
 title/d[iy]ke[sz]?/i
 title/dafuq/i
 title/darla[- ]?[ck]rane/i
+
 title/deauxma/i
 title/deep[- ]?fake[sz]?/i
 title/degenerate[sz]?/i
