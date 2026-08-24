@@ -913,6 +913,7 @@
 *://*.hitachi/*
 *://*.hiv/*
 *://*.hkt/*
+*://*.hl.cn/*
 *://*.hockey/*
 *://*.holdings/*
 *://*.holiday/*
