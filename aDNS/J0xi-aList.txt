@@ -111,8 +111,8 @@
 @@||gov.ua^$important
 
 ! sd
-! 🇭🇺
 @@||chromewebstore.google.com^
+! 🇭🇺
 @@||enterhungary.gov.hu^
 ! 🇷🇸
 @@||img.goglasi.com^
