@@ -112,7 +112,7 @@
 
 ! sd
 ! 🇭🇺
-@@||chrome.google.com^
+@@||chromewebstore.google.com^
 @@||enterhungary.gov.hu^
 ! 🇷🇸
 @@||img.goglasi.com^
