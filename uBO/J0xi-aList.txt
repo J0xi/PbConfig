@@ -74,6 +74,7 @@
 ! [M]
 
 ! d
+@@||mistral.ai^$all
 @@||moneymanagerex.org^$all
 @@||monolab.dev^$all
 
@@ -120,6 +121,7 @@
 ! [R]
 
 ! d
+@@||releasebot.io^$all
 ! 🇭🇺
 @@||raiffeisen.hu^$all
 
