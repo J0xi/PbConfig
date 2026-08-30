@@ -9,6 +9,7 @@
 ! d
 @@||adguard-dns.io^$all
 @@||apata.io^$all
+@@||apertus.ai^$all
 
 ! cdns
 @@||akcdn.net^$all
