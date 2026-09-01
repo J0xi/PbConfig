@@ -116,6 +116,7 @@
 @@||paypal.com^$all
 @@||portainer.io^$all
 @@||portapps.io^$all
+@@||proxysto.re^$all
 ! 🇨🇭
 @@||proton.me^$all
 @@||protonvpn.com^$all
