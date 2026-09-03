@@ -145,6 +145,7 @@
 ! d
 @@||simplelogin.com^$all
 @@||simplelogin.io^$all
+@@||sure.am^$all
 
 ! cdns
 @@||cdn.snigelweb.com^$all
