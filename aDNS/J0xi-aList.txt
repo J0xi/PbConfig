@@ -113,6 +113,7 @@
 ! sd
 @@||chrome.google.com^
 @@||chromewebstore.google.com^
+@@||mail.google.com^
 @@||play.google.com^
 ! 🇭🇺
 @@||enterhungary.gov.hu^
