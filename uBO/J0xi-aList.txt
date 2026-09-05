@@ -8,6 +8,7 @@
 
 ! d
 @@||adguard-dns.io^$all
+@@||aliexpress.com^$all
 @@||apata.io^$all
 @@||apertus.ai^$all
 
