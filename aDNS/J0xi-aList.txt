@@ -20,6 +20,7 @@
 
 ! sd
 ||adguard-import-test.example.com^
+||maps.apple.com^
 
 ! cdns
 @@||akcdn.net^
