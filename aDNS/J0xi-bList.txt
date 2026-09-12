@@ -151,6 +151,7 @@
 
 ! d
 ||yify.*^
+||yts.*^
 
 ! sd
 ||m.youtube.com^

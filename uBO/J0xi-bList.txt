@@ -182,7 +182,6 @@
 ||cbd*^$document
 ||cbd-*^$document
 ||-cbd*^$document
-||*cbd*^$document
 
 ! B
 ||*bc*seed*$document
