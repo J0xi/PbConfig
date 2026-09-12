@@ -82,6 +82,7 @@
 
 ! d
 ||picuki.*^
+||pixnoy.com^
 ||priv.au^
 ||putlocker.*^
 
