@@ -10,6 +10,7 @@
 @@||accuweather.com^
 @@||acleddata.com^
 @@||adtidy.org^
+@@||aliexpress.com^
 @@||alternativeto.net^
 @@||amazon.*^
 @@||appcenter.ms^
@@ -78,6 +79,8 @@
 
 ! d
 @@||ebay.*^
+@@||ebaydesc.com^
+@@||ebayimg.com^
 
 ! cdns
 @@||elfsightcdn.com^
