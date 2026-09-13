@@ -507,6 +507,8 @@
 *://*.baidu/*
 *://*.banamex/*
 *://*.bananarepublic/*
+*://*.bank/*
+*://*.bar/*
 *://*.barcelona/*
 *://*.barclaycard/*
 *://*.barclays/*
