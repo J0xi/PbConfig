@@ -825,7 +825,7 @@
 ||.eat^
 ||.eco^
 ||.edeka^
-||.edu.eu^
+@@||.edu^
 ||.education^
 ||.email^
 ||.emerck^
@@ -959,6 +959,7 @@
 ||.google^
 ||.gop^
 ||.got^
+@@||.gov^
 ||.grainger^
 ||.graphics^
 ||.gratis^
@@ -1552,7 +1553,6 @@
 ||.studio^
 ||.study^
 ||.style^
-||.su^
 ||.sucks^
 ||.supplies^
 ||.supply^
@@ -1563,7 +1563,6 @@
 ||.swatch^
 ||.swiftcover^
 ||.swiss^
-||.sx^
 ||.sydney^
 ||.symantec^
 ||.systems^

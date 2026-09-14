@@ -721,6 +721,7 @@
 *://*.coach/*
 *://*.codes/*
 *://*.coffee/*
+*://*.co.com/*
 *://*.college/*
 *://*.cologne/*
 *://*.comcast/*
@@ -731,10 +732,10 @@
 *://*.computer/*
 *://*.comsec/*
 *://*.condos/*
+*://*.construction/*
 *://*.consulting/*
 *://*.contact/*
 *://*.contractors/*
-*://*.contruction/*
 *://*.cooking/*
 *://*.cookingchannel/*
 *://*.cool/*
@@ -1518,6 +1519,7 @@
 *://*.smart/*
 *://*.smile/*
 *://*.sncf/*
+*://*.soccer/*
 *://*.social/*
 *://*.softbank/*
 *://*.software/*
