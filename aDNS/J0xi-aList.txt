@@ -116,7 +116,7 @@
 @@||gov.ua^$important
 
 ! sd
-@@||chrome.google.com^
+@@||accounts.google.com^
 @@||chromewebstore.google.com^
 @@||mail.google.com^
 @@||play.google.com^
