@@ -40,6 +40,9 @@
 
 ! d
 ||cineby.*^
+||c-movie.*^
+||cmovie.*^
+||cmovies.*^
 
 ! tlds
 ||.cam^$important
@@ -70,6 +73,7 @@
 ! [E]
 
 ! d
+||earnvids.com^
 ||embdmstrplayer.com^
 ||embedmaster.*^
 ||embos.*^
