@@ -59,7 +59,7 @@
 ! [D]
 
 ! d
-||deliveryhero.net^
+||deliveryhero.*^
 ||doodstream.com^
 ||dsvplay.com^
 
@@ -134,6 +134,7 @@
 
 ! d
 ||peachify.*^
+||photopea.*^
 ||picuki.*^
 ||pixlr.*^
 ||pixnoy.*^
@@ -197,6 +198,7 @@
 ! [V]
 
 ! d
+||vecpea.com^
 ||vidapi.*^
 ||videasy.*^
 ||videm.*^
