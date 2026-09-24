@@ -89,6 +89,8 @@
 ! [F]
 
 ! d
+@@||farfetch.com^
+@@||farfetch.net^
 @@||featureassets.org^
 @@||filen-1.net^
 @@||filen-2.net^
@@ -217,6 +219,7 @@
 
 ! d
 @@||researchgate.net^
+@@||revolut.com^
 ! 🇭🇺
 @@||raiffeisen.hu^
 
