@@ -9,6 +9,8 @@
 ! d
 @@||accuweather.com^
 @@||acleddata.com^
+@@||adobe.com^
+@@||adobe.io^
 @@||adtidy.org^
 @@||aliexpress.com^
 @@||alternativeto.net^
