@@ -121,6 +121,7 @@
 
 ! sd
 @@||accounts.google.com^
+@@||chrome.google.com^
 @@||chromewebstore.google.com^
 @@||mail.google.com^
 @@||play.google.com^
