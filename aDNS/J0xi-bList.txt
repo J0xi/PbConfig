@@ -238,6 +238,7 @@
 ||yify.*^
 ||yify-torrent.*^
 ||yify-yify.*^
+||youtu.be^
 ||yts.*^
 ||yts-official.*^
 
