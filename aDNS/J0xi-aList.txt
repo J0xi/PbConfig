@@ -113,6 +113,7 @@
 @@||garmin.com^
 @@||github.com^
 @@||github.dev^
+@@||githubusercontent.com^
 @@||googletagmanager.com^
 @@||gravatar.com^
 @@||gutenberg.org^
