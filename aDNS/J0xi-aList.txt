@@ -197,7 +197,6 @@
 
 ! d
 @@||paypal.com^
-@@||poshmark.com^
 @@||python.org^
 ! 🇨🇭
 @@||proton.me^
