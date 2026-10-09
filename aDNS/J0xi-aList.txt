@@ -124,6 +124,7 @@
 @@||accounts.google.com^
 @@||chrome.google.com^
 @@||chromewebstore.google.com^
+@@||consent.google.com^
 @@||mail.google.com^
 @@||play.google.com^
 ! 🇷🇸
@@ -151,9 +152,6 @@
 ! d
 @@||jip.com.ua^
 @@||joinhoney.com^
-
-! sd
-@@||sis.jpush.io^
 
 ! .................................................................................................................................................................................. 
 ! [L]
