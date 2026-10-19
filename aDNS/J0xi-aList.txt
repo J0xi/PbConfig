@@ -16,7 +16,6 @@
 @@||alternativeto.net^
 @@||amazon.*^
 @@||arcgis.com^
-@@||archive.org^$important
 ! 🇭🇺
 @@||arukereso.hu^ 
 
@@ -34,7 +33,6 @@
 ! d
 @@||baidu.com^
 @@||britannica.com^
-@@||buymeacoffee.com^
 ! 🇭🇺
 @@||bejelentkezes.hu^
 
@@ -210,7 +208,6 @@
 ! [R]
 
 ! d
-@@||researchgate.net^
 @@||revolut.com^
 ! 🇭🇺
 @@||raiffeisen.hu^
@@ -225,8 +222,6 @@
 ! d
 @@||scribd.com^
 @@||sonetel.com^
-@@||stackoverflow.com^
-@@||superuser.com^
 
 ! cdns
 @@||cdn.snigelweb.com^
@@ -243,7 +238,6 @@
 ! d
 @@||ubuntu.com^
 @@||understandingwar.org^
-@@||unsplash.com^
 
 ! sd
 @@||csp.uber.com^
@@ -258,7 +252,6 @@
 
 ! d
 @@||vinted.com^
-@@||visualping.io^
 ! 🇭🇺
 @@||vinted.hu^
  
