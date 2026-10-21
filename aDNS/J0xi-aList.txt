@@ -31,13 +31,13 @@
 
 ! d
 @@||baidu.com^
+@@||brave.com^
 @@||britannica.com^
 ! 🇭🇺
 @@||bejelentkezes.hu^
 
 ! sd
 @@||bat.bing.com^
-@@||safebrowsing.brave.com^
 
 ! baidu.com = Necessary for holosport goggles to work
 
