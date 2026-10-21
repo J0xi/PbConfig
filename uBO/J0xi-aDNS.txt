@@ -6,15 +6,210 @@
 ! ..................................................................................................................................................................................
 ! [1] Block Popular Services & Websites
 
+! 123
+adguard-dns.io###parental_service_4chan
+adguard-dns.io###parental_service_500px
+adguard-dns.io###parental_service_9gag
+
+! A
+adguard-dns.io###parental_service_activision_blizzard
+adguard-dns.io###parental_service_amazon_streaming
+adguard-dns.io###parental_service_amino
+adguard-dns.io###parental_service_apple_streaming
+
+! B
+adguard-dns.io###parental_service_battle_net
+adguard-dns.io###parental_service_betano
+adguard-dns.io###parental_service_blizzard_entertainment
+adguard-dns.io###parental_service_betfair
+adguard-dns.io###parental_service_betway
+adguard-dns.io###parental_service_bigo_live
+adguard-dns.io###parental_service_bilibili
+adguard-dns.io###parental_service_blaze
+adguard-dns.io###parental_service_bluesky
+adguard-dns.io###parental_service_box
+
+! C
+adguard-dns.io###parental_service_canais_globo
+adguard-dns.io###parental_service_chatgpt
+adguard-dns.io###parental_service_claro
+adguard-dns.io###parental_service_claude
+adguard-dns.io###parental_service_clubhouse
+adguard-dns.io###parental_service_coolapk
+adguard-dns.io###parental_service_copilot
+adguard-dns.io###parental_service_crunchyroll
+
+! D
+adguard-dns.io###parental_service_dailymotion
+adguard-dns.io###parental_service_directvgo
+adguard-dns.io###parental_service_deepseek
+adguard-dns.io###parental_service_deezer
+adguard-dns.io###parental_service_discord
+adguard-dns.io###parental_service_discoveryplus
+adguard-dns.io###parental_service_disneyplus
+adguard-dns.io###parental_service_dola
+adguard-dns.io###parental_service_douban
+adguard-dns.io###parental_service_dropbox
+
+! E
+adguard-dns.io###parental_service_electronic_arts
+adguard-dns.io###parental_service_epic_games
+adguard-dns.io###parental_service_espn
+
+! F
+adguard-dns.io###parental_service_facebook
+adguard-dns.io###parental_service_fdj_united
+adguard-dns.io###parental_service_fifa
+adguard-dns.io###parental_service_flickr
+
+! G
+adguard-dns.io###parental_service_gemini
+adguard-dns.io###parental_service_globoplay
+adguard-dns.io###parental_service_gog
+adguard-dns.io###parental_service_grindr
+adguard-dns.io###parental_service_grok
+
+! H
+adguard-dns.io###parental_service_hbomax
+adguard-dns.io###parental_service_hulu
+
+! I
+adguard-dns.io###parental_service_iheartradio
+adguard-dns.io###parental_service_instagram
+adguard-dns.io###parental_service_io_interactive
+adguard-dns.io###parental_service_imgur
+adguard-dns.io###parental_service_iqiyi
+
+! K
+adguard-dns.io###parental_service_kakaotalk
+adguard-dns.io###parental_service_kik
+adguard-dns.io###parental_service_kook
+
+! L
+adguard-dns.io###parental_service_lazada
+adguard-dns.io###parental_service_leagueoflegends
+adguard-dns.io###parental_service_line
+adguard-dns.io###parental_service_linkedin
+adguard-dns.io###parental_service_lionsgateplus
+adguard-dns.io###parental_service_looke
+
+! M
+adguard-dns.io###parental_service_mail_ru
+adguard-dns.io###parental_service_manus
+adguard-dns.io###parental_service_mastodon
+adguard-dns.io###parental_service_max
+adguard-dns.io###parental_service_mercado_libre
+adguard-dns.io###parental_service_meta_ai
+adguard-dns.io###parental_service_microsoft_teams
+adguard-dns.io###parental_service_minecraft
+
+! N
+adguard-dns.io###parental_service_nebula
+adguard-dns.io###parental_service_netflix
+adguard-dns.io###parental_service_nintendo
+
+! O
+adguard-dns.io###parental_service_odysee
+adguard-dns.io###parental_service_ok
+adguard-dns.io###parental_service_olvid
+adguard-dns.io###parental_service_onlyfans
+adguard-dns.io###parental_service_origin
+
+! P
+adguard-dns.io###parental_service_paramountplus
+adguard-dns.io###parental_service_peacock_tv
+adguard-dns.io###parental_service_perplexity
+adguard-dns.io###parental_service_playstation
+adguard-dns.io###parental_service_plenty_of_fish
+adguard-dns.io###parental_service_plex
+adguard-dns.io###parental_service_pluto_tv
+adguard-dns.io###parental_service_privacy
+
+! Q
+adguard-dns.io###parental_service_qq
+adguard-dns.io###parental_service_questionai
+adguard-dns.io###parental_service_qwen
+
+! R
+adguard-dns.io###parental_service_rakuten_viki
+adguard-dns.io###parental_service_reddit
+adguard-dns.io###parental_service_riot_games
+adguard-dns.io###parental_service_rockstar_games
+adguard-dns.io###parental_service_roblox
+
+! S
+adguard-dns.io###parental_service_samsung_tv_plus
+adguard-dns.io###parental_service_shein
+adguard-dns.io###parental_service_shell_shockers
+adguard-dns.io###parental_service_shopee
+adguard-dns.io###parental_service_signal
+adguard-dns.io###parental_service_skype
+adguard-dns.io###parental_service_slack
+adguard-dns.io###parental_service_snapchat
+adguard-dns.io###parental_service_soundcloud
+adguard-dns.io###parental_service_spotify
+adguard-dns.io###parental_service_spotify_video
+adguard-dns.io###parental_service_steam
+
+! T
+adguard-dns.io###parental_service_telegram
+adguard-dns.io###parental_service_temu
+adguard-dns.io###parental_service_tidal
+adguard-dns.io###parental_service_tiktok
+adguard-dns.io###parental_service_tinder
+adguard-dns.io###parental_service_tumblr
+adguard-dns.io###parental_service_twitch
+adguard-dns.io###parental_service_twitter
+
+! U
+adguard-dns.io###parental_service_ubisoft
+
+! V
+adguard-dns.io###parental_service_valorant
+adguard-dns.io###parental_service_vimeo
+adguard-dns.io###parental_service_vivo_play
+adguard-dns.io###parental_service_vk
+adguard-dns.io###parental_service_voot
+
+! W
+adguard-dns.io###parental_service_wargaming
+adguard-dns.io###parental_service_warnerbrosgames
+adguard-dns.io###parental_service_wechat
+adguard-dns.io###parental_service_weibo
+adguard-dns.io###parental_service_wizz
+
+! X
+adguard-dns.io###parental_service_xboxlive
+adguard-dns.io###parental_service_xiaohongshu
+
+! Y
+adguard-dns.io###parental_service_yy
+
+! Z
+adguard-dns.io###parental_service_zhihu
+
 ! ..................................................................................................................................................................................
 ! [2] Block Websites by Category
 
+! A
 adguard-dns.io###parental-category-adult
+
+! D
 adguard-dns.io###parental-category-dating
 adguard-dns.io###parental-category-drugs
+
+! G
 adguard-dns.io###parental-category-gambling
 adguard-dns.io###parental-category-games
+
+! P
 adguard-dns.io###parental-category-profanity
+
+! R
 adguard-dns.io###parental-category-religion
+
+! V
 adguard-dns.io###parental-category-violence
+
+! W
 adguard-dns.io###parental-category-weapons
