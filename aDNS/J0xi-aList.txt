@@ -235,7 +235,6 @@
 ! [U]
 
 ! d
-@@||ubuntu.com^
 @@||understandingwar.org^
 
 ! sd
