@@ -219,7 +219,6 @@
 ! [S]
 
 ! d
-@@||scribd.com^
 @@||sonetel.com^
 
 ! cdns
