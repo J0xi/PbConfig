@@ -7,7 +7,7 @@
 ! [1] 
 
 ! ..................................................................................................................................................................................
-! [2] Parental Control Categories
+! [2] Block Websites by Category
 
 adguard-dns.io###parental-category-adult
 adguard-dns.io###parental-category-dating
