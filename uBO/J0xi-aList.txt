@@ -103,7 +103,6 @@
 
 ! d
 @@||paypal.com^$all
-@@||portainer.io^$all
 @@||proxysto.re^$all
 ! 🇨🇭
 @@||proton.me^$all
