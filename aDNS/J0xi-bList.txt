@@ -28,6 +28,7 @@
 ||b-movie.*^
 ||bmovie.*^
 ||bmovies.*^
+||burgerking.*^
 
 ! sd
 ||explicit.bing.net^
