@@ -6,7 +6,7 @@
 ! ..................................................................................................................................................................................
 ! [A] Settings
 
-! 
+! Block Adult Websites
 adguard-dns.io###parental_block_adult
 
 ! Safe Search
@@ -53,9 +53,9 @@ adguard-dns.io###parental_service_crunchyroll
 
 ! D
 adguard-dns.io###parental_service_dailymotion
-adguard-dns.io###parental_service_directvgo
 adguard-dns.io###parental_service_deepseek
 adguard-dns.io###parental_service_deezer
+adguard-dns.io###parental_service_directvgo
 adguard-dns.io###parental_service_discord
 adguard-dns.io###parental_service_discoveryplus
 adguard-dns.io###parental_service_disneyplus
