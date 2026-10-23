@@ -194,6 +194,7 @@
 
 ! d
 @@||paypal.com^
+@@||producthunt.com^
 @@||python.org^
 ! 🇨🇭
 @@||proton.me^
